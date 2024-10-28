@@ -82,7 +82,7 @@ if __name__ == '__main__':
 
     # Load Dataset
     print('Load NLG Datasets...')
-    local_datasets = load_local_datasets()
+    local_datasets = load_local_datasets(prompt_lang)
     
     print(f'Loaded {len(local_datasets)} Local datasets')
     for i, dset_subset in enumerate(local_datasets.keys()):
@@ -98,26 +98,27 @@ if __name__ == '__main__':
     metrics = {'dataset': []}
     for i, dset_subset in enumerate(local_datasets.keys()):
         print(f'=====({i+1}/{len(local_datasets.keys())}) {dset_subset} =====')
-        local_dset = local_datasets[dset_subset]
+        data = local_datasets[dset_subset]
+        few_shot_data = local_datasets[dset_subset]
         task_type_local = dset_subset.split('_')[0]
         print(f"{i} {dset_subset}")
         
 
-        if 'test' in local_dset.keys():
-            data = local_dset['test']
-        elif 'validation' in local_dset.keys():
-            data = local_dset['validation']
-        elif 'devtest' in local_dset.keys():
-            data = local_dset['devtest']
-        else:
-            data = local_dset['train']
+        # if 'test' in local_dset.keys():
+        #     data = local_dset['test']
+        # elif 'validation' in local_dset.keys():
+        #     data = local_dset['validation']
+        # elif 'devtest' in local_dset.keys():
+        #     data = local_dset['devtest']
+        # else:
+        #     data = local_dset['train']
 
-        if 'train' in local_dset.keys():
-            few_shot_data = local_dset['train']
-        elif 'devtest' in local_dset.keys():
-            few_shot_data = local_dset['devtest']
-        elif 'test' in local_dset.keys():
-            few_shot_data = local_dset['test']
+        # if 'train' in local_dset.keys():
+        #     few_shot_data = local_dset['train']
+        # elif 'devtest' in local_dset.keys():
+        #     few_shot_data = local_dset['devtest']
+        # elif 'test' in local_dset.keys():
+        #     few_shot_data = local_dset['test']
 
         for prompt_id, prompt_template in enumerate(prompt_templates[dset_subset.split('_')[0]]):
             inputs = []
@@ -126,7 +127,7 @@ if __name__ == '__main__':
             golds = []
             
             print(f"PROMPT ID: {prompt_id}")
-            print(f"SAMPLE PROMPT: {to_prompt(data[0], prompt_template, prompt_lang, dset_subset)}")
+            print(f"SAMPLE PROMPT: {to_prompt(data[0], prompt_template, prompt_lang, dset_subset,task_type_local)}")
             
             few_shot_text_list = []
             if N_SHOT > 0:
@@ -169,6 +170,7 @@ if __name__ == '__main__':
 
                         batch_golds.append(sample['answer'][0] if 'answer' in sample else sample['text_2'])
 
+
                         # Batch inference
                         if len(prompts) == N_BATCH:
                             batch_preds = model_runner.predict_generation(prompts)
@@ -188,6 +190,7 @@ if __name__ == '__main__':
                             count = 0
 
                     # Predict the rest inputs
+
                     if len(prompts) > 0:
                         batch_preds = model_runner.predict_generation(prompts)
                         for (prompt_text, pred, gold) in zip(prompts, batch_preds, batch_golds):
@@ -196,7 +199,7 @@ if __name__ == '__main__':
                             preds_latin.append(anyascii(pred) if pred is not None else '')
                             golds.append(gold)
                         prompts, batch_golds = [], []
-            
+
             # Final save
             inference_df = pd.DataFrame(list(zip(inputs, preds, preds_latin, golds)), columns=['Input', 'Pred', 'Pred_Latin', 'Gold'])
             inference_df.to_csv(f'{out_dir}/{dset_subset}_{prompt_lang}_{prompt_id}_{N_SHOT}_{MODEL.split("/")[-1]}.csv', index=False)

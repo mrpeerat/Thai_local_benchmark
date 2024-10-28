@@ -5,6 +5,7 @@ import datasets
 from enum import Enum
 import datasets
 import nltk
+import pickle
 nltk.download('punkt_tab')
 
 def patch_resolve_trust_remote_code():
@@ -33,32 +34,7 @@ NLG_TASK_LIST = [
     "iapp_squad_seacrowd_qa",
 ]
 
-LOCAL_TASK_LIST = [
-    "mrp/sum_esan",
-    "mrp/sum_north",
-    "mrp/sum_south",
-    "mrp/sum_center",
-    "mrp/translation_esan_eng",
-    "mrp/translation_north_eng",
-    "mrp/translation_south_eng",
-    "mrp/translation_center_eng",
-    "mrp/translation_eng_esan",
-    "mrp/translation_eng_north",
-    "mrp/translation_eng_south",
-    "mrp/translation_eng_center",
-    "mrp/qa_esan",
-    "mrp/qa_north",
-    "mrp/qa_south",
-    "mrp/qa_center",
-    "mrp/food_esan",
-    "mrp/food_north",
-    "mrp/food_south",
-    "mrp/food_center",
-    "mrp/converation_esan",
-    "mrp/converation_north",
-    "mrp/converation_south",
-    "mrp/converation_center",
-]
+LOCAL_TASK_LIST = "datasets/dataset.pkl"
 
 
 
@@ -76,10 +52,14 @@ def load_nlu_datasets():
             cfg_name_to_dset_map[config_name] = (con.load_dataset(), list(con.tasks)[0])
     return cfg_name_to_dset_map
 
-def load_local_datasets():
+def load_local_datasets(prompt_lang):
     data = {}
-    for config_name in LOCAL_TASK_LIST:
-        data[config_name.split('/')[-1]] = datasets.load_dataset(config_name)
+    with open(LOCAL_TASK_LIST, 'rb') as file: 
+        loaded_file = pickle.load(file) 
+
+    loaded_file = loaded_file[prompt_lang]
+    for config_name in loaded_file.keys():
+        data[config_name] = loaded_file[config_name]
     return data
 
 def load_nlg_datasets():
