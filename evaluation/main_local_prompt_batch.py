@@ -19,11 +19,11 @@ from anyascii import anyascii
 
 
 eng2thai_mapping = {
-    'esan' : 'อีสาน',
-    'center' : 'ไทย',
-    'north' : 'เหนือ',
-    'south' : 'ใต้',
-    'eng' : 'อังกฤษ',
+    'east' : 'ภาษาอีสาน',
+    'center' : 'ภาษาไทย',
+    'north' : 'ภาษาเหนือ',
+    'south' : 'ภาษาใต้',
+    'eng' : 'ภาษาอังกฤษ',
 }
 thai2eng_mapping = {v: k for k, v in eng2thai_mapping.items()}
 
@@ -64,10 +64,10 @@ def to_prompt(input, prompt, prompt_lang, task_name, task_type, with_label=False
 
 if __name__ == '__main__':
     if len(sys.argv) != 5:
-        raise ValueError('main_nlg_prompt.py <prompt_lang> <model_path_or_name> <n_shot> <n_batch>')
+        raise ValueError('main_local_prompt.py <prompt_lang> <model_path_or_name> <n_shot> <n_batch>')
 
-    out_dir = './outputs_nlg'
-    metric_dir = './metrics_nlg'
+    out_dir = './outputs_local'
+    metric_dir = './metrics_local'
     os.makedirs(out_dir, exist_ok=True)
     os.makedirs(metric_dir, exist_ok=True)
 
@@ -81,7 +81,7 @@ if __name__ == '__main__':
     prompt_templates = get_prompt(prompt_lang, return_only_one=True)
 
     # Load Dataset
-    print('Load NLG Datasets...')
+    print('Load Local Datasets...')
     local_datasets = load_local_datasets(prompt_lang)
     
     print(f'Loaded {len(local_datasets)} Local datasets')
@@ -228,4 +228,4 @@ if __name__ == '__main__':
                 metrics[k].append(eval_metric[k])
 
 
-    pd.DataFrame.from_dict(metrics).reset_index().to_csv(f'{metric_dir}/nlg_results_{prompt_lang}_{N_SHOT}_{MODEL.split("/")[-1]}.csv', index=False)
+    pd.DataFrame.from_dict(metrics).reset_index().to_csv(f'{metric_dir}/local_results_{prompt_lang}_{N_SHOT}_{MODEL.split("/")[-1]}.csv', index=False)

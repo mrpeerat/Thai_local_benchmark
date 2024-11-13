@@ -1,0 +1,381 @@
+Input,Pred,Pred_Latin,Gold
+ให้เขียนวิธีทำ แก๋งพุงปลา เป็นภาษาใต้,"แกงพุงปลา เป็นอาหารพื้นเมืองภาคใต้ของประเทศไทย โดยมีส่วนผสมหลักคือพุงปลา ซึ่งเป็นอวัยวะภายในของปลา โดยเฉพาะปลากระบอกหรือปลากระพง โดยมีวิธีทำดังนี้
+
+1.  เตรียมพุงปลา โดยนำพุงปลามาล้างให้สะอาด จากนั้นนำไปแช่น้ำเกลือประมาณ 30 นาที เพื่อให้พุงปลาไม่มีกลิ่น
+2.  ใส่พุงปลาลงในน้ำเดือดต้มประมาณ 10 นาที หรือจนพุงปลาเริ่มสุก
+3.  นำพุงปลาออกมาล้างน้ำเย็นให้สะอาด
+4.  ตัดพุงปลาเป็นชิ้นเล็ก ๆ
+5.  ใส่น้ำมันพืชลงในกระทะตั้งไฟกลาง ใส่กระเทียมเจียวและรากผักชีฝรั่งลงไปผัดจนมีกลิ่นหอม
+6.  ใส่พริกแกงลงไปผัดจนมีกลิ่นหอม
+7.  ใส่พุงปลาลงไปผัดให้เข้ากัน
+8.  ใส่น้ำลงไปประมาณ 1 ถ้วยตวง
+9.  ใส่ใบมะกรูด ใบมะนาว และใบมะนาวดองลงไป
+10.  ใส่เกลือและน้ำตาลปี๊บลงไปตามชอบ
+11.  ต้มประมาณ 10 นาที หรือจนพุงปลาและเครื่องแกงสุก
+12.  ใส่ผักชีฝรั่งลงไปตกแต่ง","aekngphungpla epnoaharphuenemueongphakhaitkhongpraethsaithy odymiswnphsmhlakkhueophungpla suengepnowaywaphayainkhongpla odyechphaaplakrabokhrueoplakraphng odymiwithithamdangni
+
+1.  etriymphungpla odynamphungplamalangaihsaoad chaknannamaipaechnameklueopraman 30 nathi ephueoaihphungplaaimmiklin
+2.  aisphungplalngainnamedueodtmpraman 10 nathi hrueochnphungplaerimsuk
+3.  namphungplaookmalangnameynaihsaoad
+4.  tadphungplaepnchinelk -
+5.  aisnammanphuechlngainkrathatangaifklang aiskraethiymechiywaelarakphakchifranglngaipphadchnmiklinhom
+6.  aisphrikaeknglngaipphadchnmiklinhom
+7.  aisphungplalngaipphadaihekhakan
+8.  aisnamlngaippraman 1 thwytwng
+9.  aisaibmakrud aibmanaw aelaaibmanawdonglngaip
+10.  aiseklueoaelanamtalpiblngaiptamchob
+11.  tmpraman 10 nathi hrueochnphungplaaelaekhrueongaekngsuk
+12.  aisphakchifranglngaiptkaetng",.
+ให้เขียนวิธีทำ แกงส้ม เป็นภาษาใต้,"**วิธีทำแกงส้มใต้**
+
+**ส่วนผสม**
+
+*   เนื้อปลา (ปลาดุก, ปลากะพง, หรือปลากระพง) 300 กรัม
+*   น้ำมะนาว 2 ถ้วย
+*   น้ำตาลปี๊บ 2 ช้อนโต๊ะ
+*   น้ำปลา 2 ช้อนโต๊ะ
+*   พริกขี้หนู 5-6 เม็ด
+*   กระเทียม 3 กลีบ
+*   รากผักชี 2 ราก
+*   ตะไคร้ 2 ต้น
+*   ใบมะกรูด 5 ใบ
+*   น้ำ 1 ถ้วย
+*   น้ำมะนาว 1/2 ถ้วย
+*   น้ำปลา 1 ช้อนโต๊ะ
+*   น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+*   พริกขี้หนู 2-3 เม็ด
+*   กระเทียม 2 กลีบ
+*   รากผักชี 1 ราก
+*   ตะไคร้ 1 ต้น
+*   ใบมะกรูด 2 ใบ
+*   น้ำมะนาว 1/2 ถ้วย
+*   น้ำปลา 1 ช้อนโต๊ะ
+*   น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+*   พริกขี้หนู 2-3 เม็ด
+*   กระเทียม 2 กลีบ
+*   รากผักชี 1 ราก
+*   ตะไคร้ 1 ต้น
+*   ใบมะกรูด 2 ใบ
+*   น้ำมะนาว 1/2 ถ้วย
+*   น้ำปลา 1 ช้อนโต๊ะ
+*   น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+*   พริกขี้หนู 2-3 เม็ด
+*   กระเทียม 2 กลีบ
+*   รากผักชี 1 ราก
+*   ตะไคร้ 1 ต้น
+*   ใบมะกรูด 2 ใบ
+*   น้ำมะนาว 1/2 ถ้วย
+*","**withithamaekngsmait**
+
+**swnphsm**
+
+*   enueopla (pladuk, plakaphng, hrueoplakraphng) 300 kram
+*   nammanaw 2 thwy
+*   namtalpib 2 chonota
+*   nampla 2 chonota
+*   phrikkhihnu 5-6 emd
+*   kraethiym 3 klib
+*   rakphakchi 2 rak
+*   taaikhr 2 tn
+*   aibmakrud 5 aib
+*   nam 1 thwy
+*   nammanaw 1/2 thwy
+*   nampla 1 chonota
+*   namtalpib 1 chonota
+*   phrikkhihnu 2-3 emd
+*   kraethiym 2 klib
+*   rakphakchi 1 rak
+*   taaikhr 1 tn
+*   aibmakrud 2 aib
+*   nammanaw 1/2 thwy
+*   nampla 1 chonota
+*   namtalpib 1 chonota
+*   phrikkhihnu 2-3 emd
+*   kraethiym 2 klib
+*   rakphakchi 1 rak
+*   taaikhr 1 tn
+*   aibmakrud 2 aib
+*   nammanaw 1/2 thwy
+*   nampla 1 chonota
+*   namtalpib 1 chonota
+*   phrikkhihnu 2-3 emd
+*   kraethiym 2 klib
+*   rakphakchi 1 rak
+*   taaikhr 1 tn
+*   aibmakrud 2 aib
+*   nammanaw 1/2 thwy
+*",.
+ให้เขียนวิธีทำ ลอกอผัดไข่ เป็นภาษาใต้,"ลอกอผัดไข่ เป็นอาหารที่ทำง่ายและอร่อย มีวิธีทำดังนี้
+
+1. ใส่น้ำมันลงในกระทะ
+2. ตอกไข่ลงในถ้วย
+3. ใส่ลอกอลงในกระทะ
+4. ผัดลอกอจนนุ่ม
+5. เทไข่ลงในกระทะ
+6. ผัดไข่จนสุก
+7. ใส่เครื่องปรุงตามชอบ
+8. ผัดให้เข้ากัน","lokophadaikh epnoaharthithamngayaelaoroy miwithithamdangni
+
+1. aisnammanlngainkratha
+2. tokaikhlngainthwy
+3. aislokolngainkratha
+4. phadlokochnnum
+5. ethaikhlngainkratha
+6. phadaikhchnsuk
+7. aisekhrueongprungtamchob
+8. phadaihekhakan",.
+ให้เขียนวิธีทำ ข้าวผั๊ดเคย เป็นภาษาใต้,"ข้าวผัดเคย เป็นอาหารที่ทำง่ายและรวดเร็ว โดยใช้เคยและข้าวสวยเป็นส่วนประกอบหลัก ต่อไปนี้คือวิธีทำข้าวผัดเคยแบบใต้
+
+**ส่วนผสม**
+
+*   ข้าวสวย 1 ถ้วย
+*   เคย 1 ถ้วย
+*   น้ำมันพืช 2 ช้อนโต๊ะ
+*   กระเทียม 3 กลีบ
+*   พริกไทย 1 เม็ด
+*   ต้นหอมซอย 1 ต้น
+*   น้ำปลา 1 ช้อนโต๊ะ
+*   น้ำตาลปี๊บ 1 ช้อนชา
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   พริกขี้หนู 2-3 เม็ด
+*   ซีอิ๊วขาว 1 ช้อนโต๊ะ
+*   น้ำเปล่า 1 ช้อนโต๊ะ
+
+**วิธีทำ**
+
+1.  ใส่น้ำมันลงในกระทะ ตั้งไฟกลาง ใส่กระเทียมและพริกไทยลงไปผัดจนมีกลิ่นหอม
+2.  ใส่เคยลงไปผัดให้เข้ากัน
+3.  ใส่ข้าวสวยลงไปผัดให้เข้ากัน
+4.  เติมน้ำปลา น้ำตาลปี๊บ น้ำมะนาว พริกขี้หนู ซีอิ๊วขาว และน้ำเปล่าลงไปผัดให้เข้ากัน
+5.  ใส่ต้นหอมซอยลงไปผัดให้เข้ากัน
+6.  ใส่ข้าวผัดเคยออกจาน พร้อมเสิร์ฟ","khawphadekhy epnoaharthithamngayaelarwderw odyaichekhyaelakhawswyepnswnprakobhlak toaipnikhueowithithamkhawphadekhyaebbait
+
+**swnphsm**
+
+*   khawswy 1 thwy
+*   ekhy 1 thwy
+*   nammanphuech 2 chonota
+*   kraethiym 3 klib
+*   phrikaithy 1 emd
+*   tnhomsoy 1 tn
+*   nampla 1 chonota
+*   namtalpib 1 choncha
+*   nammanaw 1 chonota
+*   phrikkhihnu 2-3 emd
+*   sioiwkhaw 1 chonota
+*   namepla 1 chonota
+
+**withitham**
+
+1.  aisnammanlngainkratha tangaifklang aiskraethiymaelaphrikaithylngaipphadchnmiklinhom
+2.  aisekhylngaipphadaihekhakan
+3.  aiskhawswylngaipphadaihekhakan
+4.  etimnampla namtalpib nammanaw phrikkhihnu sioiwkhaw aelanameplalngaipphadaihekhakan
+5.  aistnhomsoylngaipphadaihekhakan
+6.  aiskhawphadekhyookchan phromesirf",.
+ให้เขียนวิธีทำ แกงส้มปล๊าพงยอดพร๊าว เป็นภาษาใต้,"**แกงส้มปล๊าพงยอดพร๊าว**
+
+**ส่วนผสม**
+
+*   ปล๊าพง 1 ตัว
+*   พริกแกงส้ม 5-6 เม็ด
+*   พริกขี้หนู 3-4 เม็ด
+*   กระเทียม 3-4 กลีบ
+*   รากผักชี 2-3 ราก
+*   ตะไคร้ 2-3 ต้น
+*   ใบมะกรูด 2-3 ใบ
+*   น้ำมะนาว 1 ถ้วย
+*   น้ำปลา 1/2 ถ้วย
+*   น้ำตาลปี๊บ 1/2 ถ้วย
+*   น้ำ 1 ถ้วย
+*   น้ำมันพืช 1 ช้อนโต๊ะ
+*   พริกไทยป่น 1 ช้อนชา
+*   ต้นหอมซอย 1 ต้น
+*   ใบมะกรูดซอย 1 ใบ
+*   พริกขี้หนูซอย 1-2 เม็ด
+
+**วิธีทำ**
+
+1.  ตั้งกระทะ ใส่น้ำมันพืช 1 ช้อนโต๊ะ
+2.  ใส่พริกแกงส้ม พริกขี้หนู กระเทียม รากผักชี ตะไคร้ ใบมะกรูด ลงไปผัด
+3.  ใส่ปล๊าพงลงไปผัดให้เข้ากัน
+4.  ใส่น้ำมะนาว น้ำปลา น้ำตาลปี๊บ น้ำ พริกไทยป่น ลงไปผัดให้เข้ากัน
+5.  ใส่ต้นหอมซอย ใบมะกรูดซอย พริกขี้หนูซอย ลงไปผัดให้เข้ากัน
+6.  ตั้งไฟอ่อน 5-10 นาที จนได้รสชาติที่ต้องการ
+7.  ตักเสิร์ฟ","**aekngsmplaphngyodphraw**
+
+**swnphsm**
+
+*   plaphng 1 taw
+*   phrikaekngsm 5-6 emd
+*   phrikkhihnu 3-4 emd
+*   kraethiym 3-4 klib
+*   rakphakchi 2-3 rak
+*   taaikhr 2-3 tn
+*   aibmakrud 2-3 aib
+*   nammanaw 1 thwy
+*   nampla 1/2 thwy
+*   namtalpib 1/2 thwy
+*   nam 1 thwy
+*   nammanphuech 1 chonota
+*   phrikaithypn 1 choncha
+*   tnhomsoy 1 tn
+*   aibmakrudsoy 1 aib
+*   phrikkhihnusoy 1-2 emd
+
+**withitham**
+
+1.  tangkratha aisnammanphuech 1 chonota
+2.  aisphrikaekngsm phrikkhihnu kraethiym rakphakchi taaikhr aibmakrud lngaipphad
+3.  aisplaphnglngaipphadaihekhakan
+4.  aisnammanaw nampla namtalpib nam phrikaithypn lngaipphadaihekhakan
+5.  aistnhomsoy aibmakrudsoy phrikkhihnusoy lngaipphadaihekhakan
+6.  tangaifoon 5-10 nathi chnaidrschatithitongkar
+7.  takesirf",.
+ให้เขียนวิธีทำ ข้าวผั๊ดเคย เป็นภาษาใต้,"ข้าวผัดเคย เป็นอาหารที่ทำง่ายและรวดเร็ว มีวิธีทำดังนี้
+
+1. ใส่น้ำมันลงในกระทะ รอจนน้ำมันร้อน
+2. ใส่กระเทียมเจียวลงไปผัดให้หอม
+3. ใส่เคยลงไปผัดให้เคยสุก
+4. ใส่ข้าวสวยลงไปผัดให้เข้ากัน
+5. ใส่ซอสปรุงรสและน้ำปลา
+6. ใส่พริกไทยป่นและต้นหอมซอย
+7. ผัดให้เข้ากันและตักเสิร์ฟ","khawphadekhy epnoaharthithamngayaelarwderw miwithithamdangni
+
+1. aisnammanlngainkratha rochnnammanron
+2. aiskraethiymechiywlngaipphadaihhom
+3. aisekhylngaipphadaihekhysuk
+4. aiskhawswylngaipphadaihekhakan
+5. aissosprungrsaelanampla
+6. aisphrikaithypnaelatnhomsoy
+7. phadaihekhakanaelatakesirf",.
+ให้เขียนวิธีทำ ปล่าซายท๋อดขี้มิ้น เป็นภาษาใต้,"**วิธีทำปล่าซายทอดขี้มิ้น**
+
+**วัตถุดิบ**
+
+*   ปลากระพงหรือปลากระพงแดง 1 ตัว
+*   น้ำปลา 2 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+*   พริกขี้มิ้น 5-6 เม็ด
+*   กระเทียม 3 กลีบ
+*   รากผักชี 1 ต้น
+*   ตะไคร้ 2 ต้น
+*   ใบมะกรูด 2 ใบ
+*   น้ำมันพืช 1/2 ถ้วย
+*   น้ำ 1 ถ้วย
+
+**วิธีทำ**
+
+1.  ล้างปลาให้สะอาด ตัดครีบและหัว ปลอกเกล็ดออก
+2.  ใส่น้ำปลา น้ำมะนาว น้ำตาลปี๊บ พริกขี้มิ้น กระเทียม รากผักชี ตะไคร้ และใบมะกรูดลงในหม้อ
+3.  ใส่น้ำลงในหม้อและตั้งไฟให้เดือด
+4.  เมื่อน้ำเดือดแล้วให้ใส่ปลาลงไปต้มประมาณ 10-15 นาที หรือจนปลาเปื่อย
+5.  ตักปลาออกมาพักให้เย็น
+6.  เมื่อปลาเย็นแล้วให้ใช้กระดาษชำระซับให้แห้ง
+7.  ใส่น้ำมันลงในกระทะตั้งไฟให้ร้อน
+8.  เมื่อน้ำมันร้อนแล้วให้ใส่ปลาลงไปทอดจนเหลืองกรอบ
+9.  ตักปลาออกมาเสิร์ฟ","**withithamplasaythodkhimin**
+
+**watthudib**
+
+*   plakraphnghrueoplakraphngaedng 1 taw
+*   nampla 2 chonota
+*   nammanaw 1 chonota
+*   namtalpib 1 chonota
+*   phrikkhimin 5-6 emd
+*   kraethiym 3 klib
+*   rakphakchi 1 tn
+*   taaikhr 2 tn
+*   aibmakrud 2 aib
+*   nammanphuech 1/2 thwy
+*   nam 1 thwy
+
+**withitham**
+
+1.  langplaaihsaoad tadkhribaelahaw plokekldook
+2.  aisnampla nammanaw namtalpib phrikkhimin kraethiym rakphakchi taaikhr aelaaibmakrudlngainhmo
+3.  aisnamlngainhmoaelatangaifaihedueod
+4.  emueonamedueodaelwaihaisplalngaiptmpraman 10-15 nathi hrueochnplaepueoy
+5.  takplaookmaphakaiheyn
+6.  emueoplaeynaelwaihaichkradaschamrasabaihaehng
+7.  aisnammanlngainkrathatangaifaihron
+8.  emueonammanronaelwaihaisplalngaipthodchnehlueongkrob
+9.  takplaookmaesirf",.
+ให้เขียนวิธีทำ ผั๊ดผั๊กเหลี๊ยง เป็นภาษาใต้,"ผัดผักเหลียงเป็นอาหารที่ทำง่ายและรวดเร็ว โดยใช้ผักเหลียงเป็นส่วนประกอบหลัก ต่อไปนี้คือสูตรและวิธีทำผัดผักเหลียงแบบใต้
+
+**ส่วนผสม**
+
+*   ผักเหลียง 1 ถ้วย
+*   น้ำมันพืช 2 ช้อนโต๊ะ
+*   กระเทียม 3 กลีบ
+*   พริกขี้หนู 2 เม็ด
+*   น้ำตาลปี๊บ 1 ช้อนชา
+*   น้ำปลา 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำ 1/2 ถ้วย
+*   ซีอิ๊วขาว 1 ช้อนโต๊ะ
+*   ต้นหอมซอย 1 ต้น
+
+**วิธีทำ**
+
+1.  ตั้งกระทะให้ร้อน ใส่น้ำมันพืชลงไป พอน้ำมันร้อนแล้วใส่กระเทียมและพริกขี้หนูลงไปผัดจนกระเทียมสุก
+2.  ใส่ผักเหลียงลงไปผัดให้เข้ากัน
+3.  เติมน้ำตาลปี๊บ น้ำปลา น้ำมะนาว น้ำ และซีอิ๊วขาวลงไปผัดให้เข้ากัน
+4.  ใส่ต้นหอมซอยลงไปผัดให้เข้ากัน
+5.  รอจนน้ำเริ่มแห้งแล้วปิดไฟ
+6.  ตักเสิร์ฟ","phadphakehliyngepnoaharthithamngayaelarwderw odyaichphakehliyngepnswnprakobhlak toaipnikhueosutraelawithithamphadphakehliyngaebbait
+
+**swnphsm**
+
+*   phakehliyng 1 thwy
+*   nammanphuech 2 chonota
+*   kraethiym 3 klib
+*   phrikkhihnu 2 emd
+*   namtalpib 1 choncha
+*   nampla 1 chonota
+*   nammanaw 1 chonota
+*   nam 1/2 thwy
+*   sioiwkhaw 1 chonota
+*   tnhomsoy 1 tn
+
+**withitham**
+
+1.  tangkrathaaihron aisnammanphuechlngaip phonammanronaelwaiskraethiymaelaphrikkhihnulngaipphadchnkraethiymsuk
+2.  aisphakehliynglngaipphadaihekhakan
+3.  etimnamtalpib nampla nammanaw nam aelasioiwkhawlngaipphadaihekhakan
+4.  aistnhomsoylngaipphadaihekhakan
+5.  rochnnamerimaehngaelwpidaif
+6.  takesirf",.
+ให้เขียนวิธีทำ แก๋งเลียง เป็นภาษาใต้,"แกงเลียง เป็นอาหารพื้นเมืองภาคใต้ของประเทศไทย ทำจากผักต่าง ๆ เช่น มะระ ผักบุ้ง มะเขือเปราะ มะเขือเทศ และเครื่องแกงเลียงที่ทำจากกะปิ กุ้งแห้ง และพริกไทย โดยมีวิธีทำดังนี้
+
+1. ใส่น้ำมันพืชลงในกระทะ ตั้งไฟกลาง ใส่พริกแกงเลียงลงไปผัดให้หอม
+2. ใส่ผักตามชอบลงไปผัดให้เข้ากัน
+3. ใส่น้ำลงไปต้มให้ผักสุก
+4. ใส่เครื่องแกงเลียงที่ทำจากกะปิ กุ้งแห้ง และพริกไทยลงไป
+5. ใส่เกลือและน้ำตาลปี๊บลงไปตามชอบ
+6. ต้มต่อไปอีกประมาณ 5 นาที จนผักสุกและเครื่องแกงเลียงเข้ากันดี
+7. ตักเสิร์ฟ","aekngeliyng epnoaharphuenemueongphakhaitkhongpraethsaithy thamchakphaktang - echn mara phakbung maekhueoepraa maekhueoeths aelaekhrueongaekngeliyngthithamchakkapi kungaehng aelaphrikaithy odymiwithithamdangni
+
+1. aisnammanphuechlngainkratha tangaifklang aisphrikaekngeliynglngaipphadaihhom
+2. aisphaktamchoblngaipphadaihekhakan
+3. aisnamlngaiptmaihphaksuk
+4. aisekhrueongaekngeliyngthithamchakkapi kungaehng aelaphrikaithylngaip
+5. aiseklueoaelanamtalpiblngaiptamchob
+6. tmtoaipoikpraman 5 nathi chnphaksukaelaekhrueongaekngeliyngekhakandi
+7. takesirf",.
+ให้เขียนวิธีทำ ผั๊ดหลูกต๋อ เป็นภาษาใต้,"ผัดหลูกต๋อ เป็นอาหารท้องถิ่นของภาคใต้ โดยใช้หลูกต๋อเป็นส่วนประกอบหลัก โดยมีวิธีทำดังนี้
+
+1.  เตรียมวัตถุดิบหลูกต๋อ 1 ถ้วยตวง, น้ำมันพืช 2 ช้อนโต๊ะ, กระเทียม 3 กลีบ, พริกขี้หนู 3 เม็ด, ตะไคร้ 2 ต้น, รากผักชี 1 ต้น, น้ำตาลปี๊บ 1 ช้อนโต๊ะ, น้ำปลา 1 ช้อนโต๊ะ, น้ำมะนาว 1 ช้อนโต๊ะ, น้ำเปล่า 1 ถ้วยตวง, น้ำมะนาว 1 ช้อนโต๊ะ, พริกไทยป่น 1/2 ช้อนชา, ต้นหอมซอย 1 ต้น, ใบมะกรูดซอย 2 ใบ
+2.  ตั้งกระทะให้ร้อน ใส่น้ำมันพืชลงไป พอน้ำมันร้อนแล้วใส่กระเทียม พริกขี้หนู ตะไคร้ รากผักชี ลงไปผัดให้หอม
+3.  ใส่หลูกต๋อลงไปผัดให้เข้ากัน
+4.  ใส่น้ำตาลปี๊บ น้ำปลา น้ำมะนาว น้ำเปล่า พริกไทยป่น ลงไปผัดให้เข้ากัน
+5.  ใส่ต้นหอมซอย ใบมะกรูดซอย ลงไปผัดให้เข้ากัน
+6.  ตักเสิร์ฟ","phadhlukto epnoaharthongthinkhongphakhait odyaichhluktoepnswnprakobhlak odymiwithithamdangni
+
+1.  etriymwatthudibhlukto 1 thwytwng, nammanphuech 2 chonota, kraethiym 3 klib, phrikkhihnu 3 emd, taaikhr 2 tn, rakphakchi 1 tn, namtalpib 1 chonota, nampla 1 chonota, nammanaw 1 chonota, namepla 1 thwytwng, nammanaw 1 chonota, phrikaithypn 1/2 choncha, tnhomsoy 1 tn, aibmakrudsoy 2 aib
+2.  tangkrathaaihron aisnammanphuechlngaip phonammanronaelwaiskraethiym phrikkhihnu taaikhr rakphakchi lngaipphadaihhom
+3.  aishluktolngaipphadaihekhakan
+4.  aisnamtalpib nampla nammanaw namepla phrikaithypn lngaipphadaihekhakan
+5.  aistnhomsoy aibmakrudsoy lngaipphadaihekhakan
+6.  takesirf",.

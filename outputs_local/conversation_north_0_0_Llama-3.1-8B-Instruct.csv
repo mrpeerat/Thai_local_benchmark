@@ -1,0 +1,351 @@
+Input,Pred,Pred_Latin,Gold
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ ประเพณีท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"**บทสนทนาเกี่ยวกับประเพณีท้องถิ่นของคนเหนือ**
+
+**Turn 1**
+น้ำ: สวัสดีค่ะ นี่คือคุณน้ำ น้องสาวคนหนึ่งของเรา ที่มาจากจังหวัดเชียงใหม่ คุณน้ำ มีอะไรอยากจะพูดคุยเกี่ยวกับประเพณีท้องถิ่นของคนเหนือไหม?
+
+น้ำ: อ๋อ ค่ะ ฉันอยากจะพูดคุยเกี่ยวกับประเพณี ""สงกรานต์"" ของคนเหนือ ค่ะ สงกรานต์เป็นประเพณีที่มีความสำคัญมากในจังหวัดเชียงใหม่และจังหวัดอื่นๆ ในภาคเหนือ
+
+**Turn 2**
+น้ำ: สงกรานต์เป็นประเพณีที่มีความสำคัญมากในจังหวัดเชียงใหม่และจังหวัดอื่นๆ ในภาคเหนือ เพราะเป็นประเพณีที่แสดงถึงการเริ่มต้นของฤดูฝนและฤดูปลูกปล่อยพืชผลใหม่ๆ นอกจากนี้ยังมีการละเล่นและงานประเพณีอื่นๆ เช่น การละเล่นน้ำ การละเล่นไฟ และการละเล่นเครื่องดนตรี
+
+**Turn 3**
+น้ำ: ในประเพณีสงกรานต์ มีการละเล่นน้ำเป็นหนึ่งในกิจกรรมหลักๆ น้ำมีหลายรูปแบบ เช่น การละเล่นน้ำในแม่น้ำ การละเล่นน้ำในบ่อน้ำ และการละเล่นน้ำในบ้านเรือน นอกจากนี้ยังมีการละเล่นไฟและเครื่องดนตรีเพื่อแสดงถึงความสุขและความมีความสุข
+
+**Turn 4**
+น้ำ: นอกจากนี้ ประเพณีสงกรานต์ยังมีการละเล่นอื่นๆ เช่น การละเล่น ""ลอยกระทง"" การละเล่น ""ลอยกระทง"" เป็นการละเล่นที่มีความสำคัญมากในประเพณีสงกรานต์ โดยมีการลอยกระทงลงแม่น้ำเพื่อแสดงถึงความสุขและความมีความสุข
+
+**Turn 5**
+น้ำ: สุดท้าย","**bthsnthnaekiywkabpraephnithongthinkhongkhnehnueo**
+
+**Turn 1**
+nam: swasdikha nikhueokhunnam nongsawkhnhnuengkhongera thimachakchanghwadechiyngaihm khunnam mioaairoyakchaphudkhuyekiywkabpraephnithongthinkhongkhnehnueoaihm?
+
+nam: oo kha chanoyakchaphudkhuyekiywkabpraephni ""sngkrant"" khongkhnehnueo kha sngkrantepnpraephnithimikhwamsamkhaymakainchanghwadechiyngaihmaelachanghwadouen- ainphakhehnueo
+
+**Turn 2**
+nam: sngkrantepnpraephnithimikhwamsamkhaymakainchanghwadechiyngaihmaelachanghwadouen- ainphakhehnueo ephraaepnpraephnithiaesdngthuengkarerimtnkhongruedufnaelarueduplukployphuechphlaihm- nokchakniyangmikarlaelnaelanganpraephniouen- echn karlaelnnam karlaelnaif aelakarlaelnekhrueongdntri
+
+**Turn 3**
+nam: ainpraephnisngkrant mikarlaelnnamepnhnuengainkichkrrmhlak- nammihlayrupaebb echn karlaelnnamainaemnam karlaelnnamainbonam aelakarlaelnnamainbanerueon nokchakniyangmikarlaelnaifaelaekhrueongdntriephueoaesdngthuengkhwamsukhaelakhwammikhwamsukh
+
+**Turn 4**
+nam: nokchakni praephnisngkrantyangmikarlaelnouen- echn karlaeln ""loykrathng"" karlaeln ""loykrathng"" epnkarlaelnthimikhwamsamkhaymakainpraephnisngkrant odymikarloykrathnglngaemnamephueoaesdngthuengkhwamsukhaelakhwammikhwamsukh
+
+**Turn 5**
+nam: sudthay",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ อาชีพ บทสนทนาบะควรเกิน 5 turns,"**บทสนทนา**
+
+**คนเหนือ 1:** สวัสดีครับ คุณเป็นใครครับ?
+
+**คนเหนือ 2:** สวัสดีครับ ฉันชื่อไก่ ฉันเป็นคนเหนือที่มีงานเป็นคนขับรถแท็กซี่
+
+**คนเหนือ 1:** อ๋อ คุณเป็นคนขับรถแท็กซี่เหรอ? ฉันเคยขับรถแท็กซี่มาแต่ไม่เคยได้ไปเหนือมาก่อน
+
+**คนเหนือ 2:** ใช่ครับ ฉันขับรถแท็กซี่มาประมาณ 5 ปีแล้ว และเคยไปเหนือมาหลายครั้ง ฉันชอบการขับรถแท็กซี่เพราะสามารถเดินทางไปทั่วเมืองได้และได้พบปะคนใหม่ๆ
+
+**คนเหนือ 1:** อ๋อ นั่นเป็นงานที่ดีเลย ฉันเคยอยากเป็นคนขับรถแท็กซี่ แต่ไม่เคยได้ลอง
+
+**คนเหนือ 2:** ไม่เป็นไรครับ คุณสามารถลองได้เลย ฉันจะแนะนำให้คุณลองขับรถแท็กซี่กับฉัน
+
+**คนเหนือ 1:** อ๋อ ขอบคุณครับ ฉันจะลองดู
+
+**คนเหนือ 2:** ไม่เป็นไรครับ ฉันจะช่วยคุณเรียนรู้และแนะนำให้คุณได้","**bthsnthna**
+
+**khnehnueo 1:** swasdikhrab khunepnaikhrkhrab?
+
+**khnehnueo 2:** swasdikhrab chanchueoaik chanepnkhnehnueothiminganepnkhnkhabrthaethksi
+
+**khnehnueo 1:** oo khunepnkhnkhabrthaethksiehro? chanekhykhabrthaethksimaaetaimekhyaidaipehnueomakon
+
+**khnehnueo 2:** aichkhrab chankhabrthaethksimapraman 5 piaelw aelaekhyaipehnueomahlaykhrang chanchobkarkhabrthaethksiephraasamarthedinthangaipthawemueongaidaelaaidphbpakhnaihm-
+
+**khnehnueo 1:** oo nanepnnganthidiely chanekhyoyakepnkhnkhabrthaethksi aetaimekhyaidlong
+
+**khnehnueo 2:** aimepnairkhrab khunsamarthlongaidely chanchaaenanamaihkhunlongkhabrthaethksikabchan
+
+**khnehnueo 1:** oo khobkhunkhrab chanchalongdu
+
+**khnehnueo 2:** aimepnairkhrab chanchachwykhuneriynruaelaaenanamaihkhunaid",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ การคมนาคม บทสนทนาบะควรเกิน 5 turns,"**บทสนทนา**
+
+**คนเหนือ 1:** สวัสดีครับ คุณมาจากไหนครับ
+
+**คนเหนือ 2:** สวัสดีครับ ฉันมาจากกรุงเทพครับ มาเยี่ยมบ้านพี่ๆ ที่เชียงใหม่ครับ
+
+**คนเหนือ 1:** อ๋อ นั่นง่ายดีครับ คุณมาโดยรถไฟหรือรถยนต์ครับ
+
+**คนเหนือ 2:** ฉันมาโดยรถยนต์ครับ ใช้เวลาประมาณ 8 ชั่วโมงครับ
+
+**คนเหนือ 1:** อ๋อ นั่นไม่แย่ครับ คุณชอบการเดินทางด้วยรถยนต์หรือไม่ครับ
+
+**คนเหนือ 2:** ใช่ครับ ฉันชอบการเดินทางด้วยรถยนต์ครับ เพราะสามารถชมบรรยากาศและความงามของธรรมชาติได้ครับ
+
+**คนเหนือ 1:** อ๋อ นั่นเป็นความคิดที่ดีครับ คุณเคยใช้บริการรถบัสหรือรถแท็กซี่หรือไม่ครับ
+
+**คนเหนือ 2:** ใช่ครับ ฉันเคยใช้บริการรถบัสและรถแท็กซี่ครับ แต่ไม่ค่อยชอบครับ เพราะไม่สะดวกและไม่สบายใจครับ
+
+**คนเหนือ 1:** อ๋อ ฉันเข้าใจครับ คุณชอบการเดินทางด้วยรถยนต์เพราะสะดวกและสบายใจครับ
+
+**คนเหนือ 2:** ใช่ครับ ฉันชอบการเดินทางด้วยรถยนต์ครับ เพราะสามารถควบคุมและเลือกเส้นทางได้เองครับ","**bthsnthna**
+
+**khnehnueo 1:** swasdikhrab khunmachakaihnkhrab
+
+**khnehnueo 2:** swasdikhrab chanmachakkrungethphkhrab maeyiymbanphi- thiechiyngaihmkhrab
+
+**khnehnueo 1:** oo nanngaydikhrab khunmaodyrthaifhrueorthyntkhrab
+
+**khnehnueo 2:** chanmaodyrthyntkhrab aichewlapraman 8 chawomngkhrab
+
+**khnehnueo 1:** oo nanaimaeykhrab khunchobkaredinthangdwyrthynthrueoaimkhrab
+
+**khnehnueo 2:** aichkhrab chanchobkaredinthangdwyrthyntkhrab ephraasamarthchmbrryakasaelakhwamngamkhongthrrmchatiaidkhrab
+
+**khnehnueo 1:** oo nanepnkhwamkhidthidikhrab khunekhyaichbrikarrthbashrueorthaethksihrueoaimkhrab
+
+**khnehnueo 2:** aichkhrab chanekhyaichbrikarrthbasaelarthaethksikhrab aetaimkhoychobkhrab ephraaaimsadwkaelaaimsbayaichkhrab
+
+**khnehnueo 1:** oo chanekhaaichkhrab khunchobkaredinthangdwyrthyntephraasadwkaelasbayaichkhrab
+
+**khnehnueo 2:** aichkhrab chanchobkaredinthangdwyrthyntkhrab ephraasamarthkhwbkhumaelaelueokesnthangaideongkhrab",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ ครอบครัว บทสนทนาบะควรเกิน 5 turns,"**บทสนทนา**
+
+**ผู้หญิง (แม่)**: น้องชาย มาเรียนเสร็จแล้วหรือยัง?
+
+**ผู้ชาย (น้องชาย)**: ยังไม่เสร็จเลย มีหนังสืออีกหลายเล่มที่ต้องอ่าน
+
+**ผู้หญิง (แม่)**: อ้อ น้องชายต้องทำงานหนักจริงๆ แต่ไม่ต้องห่วง มื้อนี้มีอาหารเยอะมาก
+
+**ผู้ชาย (น้องชาย)**: อาหารเยอะจริงๆ มีปลากระพงและกุ้งด้วย
+
+**ผู้หญิง (แม่)**: ใช่ มีปลากระพงและกุ้ง น้องชายชอบกุ้งมากใช่ไหม
+
+**ผู้ชาย (น้องชาย)**: ใช่เลย แม่ทำกุ้งได้ดีมาก
+
+**ผู้หญิง (แม่)**: ขอบคุณน้องชาย มื้อนี้กินกันนะ
+
+**ผู้ชาย (น้องชาย)**: ขอบคุณแม่","**bthsnthna**
+
+**phuhying (aem)**: nongchay maeriynesrchaelwhrueoyang?
+
+**phuchay (nongchay)**: yangaimesrchely mihnangsueooikhlayelmthitongoan
+
+**phuhying (aem)**: oo nongchaytongthamnganhnakchring- aetaimtonghwng mueonimioahareyoamak
+
+**phuchay (nongchay)**: oahareyoachring- miplakraphngaelakungdwy
+
+**phuhying (aem)**: aich miplakraphngaelakung nongchaychobkungmakaichaihm
+
+**phuchay (nongchay)**: aichely aemthamkungaiddimak
+
+**phuhying (aem)**: khobkhunnongchay mueonikinkanna
+
+**phuchay (nongchay)**: khobkhunaem",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ กลับบ้านช่วงเทศกาล บทสนทนาบะควรเกิน 5 turns,"นี่คือบทสนทนาที่ฉันสร้างขึ้น:
+
+**Turn 1**
+น้ำใส (น้องสาว) : น้อง (น้องชาย) กลับบ้านแล้วหรือยัง?
+น้อง (น้องชาย) : ยังไม่กลับบ้านเลย น้อง ใส่ ฉันอยู่ที่กรุงเทพฯ กำลังทำงาน
+
+**Turn 2**
+น้ำใส : อ๋อ น้องทำงานหนักมากเลย น้องกลับบ้านช่วงเทศกาลกันนะ
+น้อง : อ๋อ ฉันรู้แล้วว่าเทศกาลนี้ใกล้จะมาถึงแล้ว แต่ฉันไม่สามารถกลับบ้านได้เลย
+
+**Turn 3**
+น้ำใส : ทำไมน้องไม่สามารถกลับบ้านได้ น้องไม่ชอบเทศกาลหรือเปล่า
+น้อง : ไม่ใช่เลย น้อง ใส่ ฉันแค่มีงานสำคัญที่ต้องทำอยู่ที่กรุงเทพฯ และไม่สามารถกลับบ้านได้
+
+**Turn 4**
+น้ำใส : อ๋อ ฉันเข้าใจแล้ว น้องกลับบ้านช่วงเทศกาลถัดไปกันนะ
+น้อง : อ๋อ ฉันหวังว่าจะได้กลับบ้านช่วงเทศกาลถัดไปกับครอบครัว
+
+**Turn 5**
+น้ำใส : น้องกลับบ้านแล้วกันนะ ฉันจะรออยู่ที่บ้าน
+น้อง : อ๋อ ฉันจะกลับบ้านแล้วนะ น้อง ใส่ ฉันจะกลับบ้านช่วงเย็น","nikhueobthsnthnathichansrangkhuen:
+
+**Turn 1**
+namais (nongsaw) : nong (nongchay) klabbanaelwhrueoyang?
+nong (nongchay) : yangaimklabbanely nong ais chanoyuthikrungethph. kamlangthamngan
+
+**Turn 2**
+namais : oo nongthamnganhnakmakely nongklabbanchwngethskalkanna
+nong : oo chanruaelwwaethskalniaiklchamathuengaelw aetchanaimsamarthklabbanaidely
+
+**Turn 3**
+namais : thamaimnongaimsamarthklabbanaid nongaimchobethskalhrueoepla
+nong : aimaichely nong ais chanaekhmingansamkhaythitongthamoyuthikrungethph. aelaaimsamarthklabbanaid
+
+**Turn 4**
+namais : oo chanekhaaichaelw nongklabbanchwngethskalthadaipkanna
+nong : oo chanhwangwachaaidklabbanchwngethskalthadaipkabkhrobkhraw
+
+**Turn 5**
+namais : nongklabbanaelwkanna chancharooyuthiban
+nong : oo chanchaklabbanaelwna nong ais chanchaklabbanchwngeyn",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ การเมืองท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"**บทสนทนา**
+
+**ผู้พูด 1:** น้อย (ผู้นำชุมชน)
+
+**ผู้พูด 2:** พี่น้อย (ผู้นำชุมชน)
+
+**ผู้พูด 1:** น้อย: สวัสดีครับ พี่น้อย มีเรื่องอะไรที่ต้องการพูดกับฉันหรือเปล่า
+
+**ผู้พูด 2:** พี่น้อย: สวัสดีครับ น้อย นี่มีเรื่องเกี่ยวกับการเมืองท้องถิ่นครับ มีคนบางคนบอกว่าเราควรจะเปลี่ยนแปลงระบบการเมืองท้องถิ่นของเราให้ใหม่
+
+**ผู้พูด 1:** น้อย: อ๋อ มีคนบอกว่าเปลี่ยนแปลงหรือเปล่า? มีเหตุผลอะไรที่ทำให้พวกเขาต้องการเปลี่ยนแปลงหรือเปล่า
+
+**ผู้พูด 2:** พี่น้อย: มีหลายเหตุผลครับ เช่น การบริหารจัดการที่ไม่ดี การไม่ใส่ใจกับปัญหาของชุมชน และการไม่มีการฟังเสียงของประชาชน
+
+**ผู้พูด 1:** น้อย: อ๋อ ฉันเข้าใจแล้ว พี่น้อย คิดว่าเราควรเปลี่ยนแปลงหรือไม่
+
+**ผู้พูด 2:** พี่น้อย: ฉันคิดว่าเราควรเปลี่ยนแปลงครับ เราต้องมีการเปลี่ยนแปลงเพื่อให้ประชาชนได้รับการบริการที่ดีขึ้นและได้รับการฟังเสียงของพวกเขา
+
+**ผู้พูด 1:** น้อย: ฉันเห็นด้วยกับพี่น้อย เราต้องมีการเปลี่ยนแปลงเพื่อให้ประชาชนได้รับการบริการที่ดีขึ้น
+
+**ผู้พูด 2:** พี่น้อย: ขอบคุณครับ น้อย ที่เห็นด้วยกับฉัน เราจะต้องทำงานร่วมกันเพื่อเปลี่ยนแปลงการเมืองท้องถิ่นของเราให้ดีขึ้น
+
+**ผู้พูด 1:** น้อย: ไม่เป็นไรครับ พี่น้อย เราจะทำงานร่วมกันเพื่อเปลี่ยนแปลง","**bthsnthna**
+
+**phuphud 1:** noy (phunamchumchn)
+
+**phuphud 2:** phinoy (phunamchumchn)
+
+**phuphud 1:** noy: swasdikhrab phinoy mierueongoaairthitongkarphudkabchanhrueoepla
+
+**phuphud 2:** phinoy: swasdikhrab noy nimierueongekiywkabkaremueongthongthinkhrab mikhnbangkhnbokwaerakhwrchaepliynaeplngrabbkaremueongthongthinkhongeraaihaihm
+
+**phuphud 1:** noy: oo mikhnbokwaepliynaeplnghrueoepla? miehtuphloaairthithamaihphwkekhatongkarepliynaeplnghrueoepla
+
+**phuphud 2:** phinoy: mihlayehtuphlkhrab echn karbriharchadkarthiaimdi karaimaisaichkabpayhakhongchumchn aelakaraimmikarfangesiyngkhongprachachn
+
+**phuphud 1:** noy: oo chanekhaaichaelw phinoy khidwaerakhwrepliynaeplnghrueoaim
+
+**phuphud 2:** phinoy: chankhidwaerakhwrepliynaeplngkhrab eratongmikarepliynaeplngephueoaihprachachnaidrabkarbrikarthidikhuenaelaaidrabkarfangesiyngkhongphwkekha
+
+**phuphud 1:** noy: chanehndwykabphinoy eratongmikarepliynaeplngephueoaihprachachnaidrabkarbrikarthidikhuen
+
+**phuphud 2:** phinoy: khobkhunkhrab noy thiehndwykabchan erachatongthamnganrwmkanephueoepliynaeplngkaremueongthongthinkhongeraaihdikhuen
+
+**phuphud 1:** noy: aimepnairkhrab phinoy erachathamnganrwmkanephueoepliynaeplng",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ สภาพอากาศ บทสนทนาบะควรเกิน 5 turns,"**บทสนทนา**
+
+**คนเหนือ 1:** สวัสดีครับ/ค่ะ วันนี้อากาศดีมากเลย
+
+**คนเหนือ 2:** ใช่เลยครับ/ค่ะ มีฝนมาเยอะเลย ทำให้อากาศเย็นลง
+
+**คนเหนือ 1:** ใช่เลยครับ/ค่ะ แต่ฝนเยอะเกินไปเลย ทำให้ถนนน้ำท่วม
+
+**คนเหนือ 2:** ใช่เลยครับ/ค่ะ แต่ฝนเยอะๆ นี้ทำให้พืชผลดีๆ มากมายเลย
+
+**คนเหนือ 1:** ใช่เลยครับ/ค่ะ แต่ฝนเยอะเกินไปทำให้การเดินทางลำบาก
+
+**คนเหนือ 2:** ใช่เลยครับ/ค่ะ แต่ฝนเยอะๆ นี้ทำให้เราได้เห็นความงดงามของธรรมชาติ
+
+**คนเหนือ 1:** ใช่เลยครับ/ค่ะ แต่ฝนเยอะเกินไปทำให้เราต้องเตรียมตัวให้พร้อม
+
+**คนเหนือ 2:** ใช่เลยครับ/ค่ะ แต่ฝนเยอะๆ นี้ทำให้เราได้เรียนรู้วิธีการเตรียมตัวให้พร้อม","**bthsnthna**
+
+**khnehnueo 1:** swasdikhrab/kha wannioakasdimakely
+
+**khnehnueo 2:** aichelykhrab/kha mifnmaeyoaely thamaihoakaseynlng
+
+**khnehnueo 1:** aichelykhrab/kha aetfneyoaekinaipely thamaihthnnnamthwm
+
+**khnehnueo 2:** aichelykhrab/kha aetfneyoa- nithamaihphuechphldi- makmayely
+
+**khnehnueo 1:** aichelykhrab/kha aetfneyoaekinaipthamaihkaredinthanglambak
+
+**khnehnueo 2:** aichelykhrab/kha aetfneyoa- nithamaiheraaidehnkhwamngdngamkhongthrrmchati
+
+**khnehnueo 1:** aichelykhrab/kha aetfneyoaekinaipthamaiheratongetriymtawaihphrom
+
+**khnehnueo 2:** aichelykhrab/kha aetfneyoa- nithamaiheraaideriynruwithikaretriymtawaihphrom",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ อาหารท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"**Turn 1**
+น้ำ: สวัสดีค่ะ นี่คือคุณที่มาเยี่ยมเมืองเหนือแล้วนะคะ คุณชอบอาหารเหนือไหมคะ?
+
+**Turn 2**
+คุณ: สวัสดีค่ะ ฉันชอบอาหารเหนือมากเลยค่ะ มีหลายอย่างที่ฉันชอบ เช่น ข้าวเหนียวหมูแดง ข้าวเหนียวหมูกรอบ และข้าวเหนียวไก่
+
+**Turn 3**
+น้ำ: อาหารเหนือมีหลายอย่างที่ดีจริงๆ นอกจากข้าวเหนียวหมูแดงและข้าวเหนียวหมูกรอบแล้ว คุณเคยลองข้าวซอยหรือไม่คะ?
+
+**Turn 4**
+คุณ: ใช่แล้วค่ะ ฉันเคยลองข้าวซอยมาก่อนค่ะ มันอร่อยมากเลย มีหลายรสชาติให้เลือก เช่น ข้าวซอยหมู ข้าวซอยไก่ และข้าวซอยปลา
+
+**Turn 5**
+น้ำ: นั่นเป็นความสุขของการลองอาหารใหม่ๆ ค่ะ ข้าวซอยเหนือมีหลายร้านที่ดีในเมืองเหนือ คุณอยากลองไปร้านไหนคะ?","**Turn 1**
+nam: swasdikha nikhueokhunthimaeyiymemueongehnueoaelwnakha khunchoboaharehnueoaihmkha?
+
+**Turn 2**
+khun: swasdikha chanchoboaharehnueomakelykha mihlayoyangthichanchob echn khawehniywhmuaedng khawehniywhmukrob aelakhawehniywaik
+
+**Turn 3**
+nam: oaharehnueomihlayoyangthidichring- nokchakkhawehniywhmuaedngaelakhawehniywhmukrobaelw khunekhylongkhawsoyhrueoaimkha?
+
+**Turn 4**
+khun: aichaelwkha chanekhylongkhawsoymakonkha manoroymakely mihlayrschatiaihelueok echn khawsoyhmu khawsoyaik aelakhawsoypla
+
+**Turn 5**
+nam: nanepnkhwamsukhkhongkarlongoaharaihm- kha khawsoyehnueomihlayranthidiainemueongehnueo khunoyaklongaipranaihnkha?",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"**บทสนทนา**
+
+**ผู้สนทนา 1:** คุณป้า, คุณมีเครื่องแต่งกายท้องถิ่นของคนเหนือบ้างไหม?
+
+**ผู้สนทนา 2:** มีครับ ผมมีเครื่องแต่งกายท้องถิ่นของคนเหนืออยู่บ้าน แต่ผมไม่แน่ใจว่าผมจะใส่หรือไม่
+
+**ผู้สนทนา 1:** ทำไมไม่แน่ใจหรือครับ? เครื่องแต่งกายท้องถิ่นของคนเหนือเป็นเครื่องแต่งกายที่สวยงามและน่าประทับใจ
+
+**ผู้สนทนา 2:** ใช่ครับ แต่ผมไม่แน่ใจว่าผมจะใส่เครื่องแต่งกายท้องถิ่นไปงานปาร์ตี้หรือไม่ ผมไม่อยากให้คนอื่นเห็นผมใส่เครื่องแต่งกายท้องถิ่น
+
+**ผู้สนทนา 1:** ไม่เข้าใจครับ ทำไมถึงไม่อยากให้คนอื่นเห็นเครื่องแต่งกายท้องถิ่น? เครื่องแต่งกายท้องถิ่นเป็นเครื่องแต่งกายที่แสดงถึงความภาคภูมิใจในความเป็นคนเหนือ
+
+**ผู้สนทนา 2:** ใช่ครับ ผมเข้าใจแล้ว ผมจะใส่เครื่องแต่งกายท้องถิ่นไปงานปาร์ตี้ครับ
+
+**ผู้สนทนา 1:** ดีมากครับ! ผมจะช่วยคุณใส่เครื่องแต่งกายท้องถิ่นให้ครับ
+
+**ผู้สนทนา 2:** ขอบคุณครับ ผมจะใส่เครื่องแต่งกายท้องถิ่นและไปงานปาร์ตี้กับเพื่อนๆ ครับ","**bthsnthna**
+
+**phusnthna 1:** khunpa, khunmiekhrueongaetngkaythongthinkhongkhnehnueobangaihm?
+
+**phusnthna 2:** mikhrab phmmiekhrueongaetngkaythongthinkhongkhnehnueooyuban aetphmaimaenaichwaphmchaaishrueoaim
+
+**phusnthna 1:** thamaimaimaenaichhrueokhrab? ekhrueongaetngkaythongthinkhongkhnehnueoepnekhrueongaetngkaythiswyngamaelanaprathabaich
+
+**phusnthna 2:** aichkhrab aetphmaimaenaichwaphmchaaisekhrueongaetngkaythongthinaipnganpartihrueoaim phmaimoyakaihkhnouenehnphmaisekhrueongaetngkaythongthin
+
+**phusnthna 1:** aimekhaaichkhrab thamaimthuengaimoyakaihkhnouenehnekhrueongaetngkaythongthin? ekhrueongaetngkaythongthinepnekhrueongaetngkaythiaesdngthuengkhwamphakhphumiaichainkhwamepnkhnehnueo
+
+**phusnthna 2:** aichkhrab phmekhaaichaelw phmchaaisekhrueongaetngkaythongthinaipnganpartikhrab
+
+**phusnthna 1:** dimakkhrab! phmchachwykhunaisekhrueongaetngkaythongthinaihkhrab
+
+**phusnthna 2:** khobkhunkhrab phmchaaisekhrueongaetngkaythongthinaelaaipnganpartikabephueon- khrab",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ การศึกษาท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"**บทสนทนา**
+
+**คนเหนือ 1:** สวัสดีครับ/ค่ะ นี่คือการประชุมเพื่อหารือเกี่ยวกับการศึกษาท้องถิ่นของเรา
+
+**คนเหนือ 2:** สวัสดีครับ/ค่ะ ฉันเห็นด้วยว่าการศึกษาท้องถิ่นเป็นสิ่งสำคัญในการรักษาความหลากหลายทางวัฒนธรรมของเรา
+
+**คนเหนือ 1:** ใช่ครับ/ค่ะ ฉันคิดว่าการศึกษาท้องถิ่นจะช่วยให้เราเข้าใจถึงความสำคัญของการอนุรักษ์ทรัพยากรธรรมชาติและวัฒนธรรมของเรา
+
+**คนเหนือ 3:** ฉันเห็นด้วยครับ/ค่ะ แต่ฉันคิดว่าการศึกษาท้องถิ่นไม่เพียงแต่เกี่ยวกับการอนุรักษ์เท่านั้น แต่ยังเกี่ยวกับการพัฒนาท้องถิ่นให้ดีขึ้นเช่นกัน
+
+**คนเหนือ 2:** ใช่ครับ/ค่ะ ฉันคิดว่าการศึกษาท้องถิ่นสามารถช่วยให้เราเข้าใจถึงความต้องการและความต้องการของชุมชนในท้องถิ่น และสามารถพัฒนาสิ่งเหล่านั้นให้ดีขึ้น
+
+**คนเหนือ 1:** นั่นเป็นความคิดที่ดีครับ/ค่ะ ฉันคิดว่าการศึกษาท้องถิ่นควรเป็นเรื่องที่เราต้องทำอย่างต่อเนื่องเพื่อให้แน่ใจว่าท้องถิ่นของเราจะมีความเจริญรุ่งเรือง
+
+**คนเหนือ 3:** ใช่ครับ/ค่ะ ฉันเห็นด้วยว่าการศึกษาท้องถิ่นเป็นสิ่งสำคัญในการพัฒนาท้องถิ่นของเรา และฉันหวังว่าเราจะสามารถทำได้ดีขึ้นในอนาคต","**bthsnthna**
+
+**khnehnueo 1:** swasdikhrab/kha nikhueokarprachumephueoharueoekiywkabkarsueksathongthinkhongera
+
+**khnehnueo 2:** swasdikhrab/kha chanehndwywakarsueksathongthinepnsingsamkhayainkarraksakhwamhlakhlaythangwathnthrrmkhongera
+
+**khnehnueo 1:** aichkhrab/kha chankhidwakarsueksathongthinchachwyaiheraekhaaichthuengkhwamsamkhaykhongkaronuraksthraphyakrthrrmchatiaelawathnthrrmkhongera
+
+**khnehnueo 3:** chanehndwykhrab/kha aetchankhidwakarsueksathongthinaimephiyngaetekiywkabkaronuraksethanan aetyangekiywkabkarphathnathongthinaihdikhuenechnkan
+
+**khnehnueo 2:** aichkhrab/kha chankhidwakarsueksathongthinsamarthchwyaiheraekhaaichthuengkhwamtongkaraelakhwamtongkarkhongchumchnainthongthin aelasamarthphathnasingehlananaihdikhuen
+
+**khnehnueo 1:** nanepnkhwamkhidthidikhrab/kha chankhidwakarsueksathongthinkhwrepnerueongthieratongthamoyangtoenueongephueoaihaenaichwathongthinkhongerachamikhwamechriyrungerueong
+
+**khnehnueo 3:** aichkhrab/kha chanehndwywakarsueksathongthinepnsingsamkhayainkarphathnathongthinkhongera aelachanhwangwaerachasamarththamaiddikhuenainonakht",.

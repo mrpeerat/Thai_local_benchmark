@@ -1,0 +1,183 @@
+Input,Pred,Pred_Latin,Gold
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ ประเพณีท้องถิ่น บทสนทนาไม่ควรเกิน 5 turns,"คนภาคกลาง: สวัสดีครับ คุณมาจากไหนครับ
+
+คนภาคเหนือ: สวัสดีครับ ฉันมาจากเชียงใหม่ครับ
+
+คนภาคกลาง: อ๋อ เชียงใหม่เลย ฉันเคยไปเที่ยวที่เชียงใหม่ครับ มีอะไรน่าสนใจมากครับ
+
+คนภาคเหนือ: ใช่เลย มีประเพณีท้องถิ่นมากมาย เช่น ลอยกระทงและงานประเพณีแม่พญาเมืองกุมภัณฑ์ครับ
+
+คนภาคกลาง: อ๋อ ฉันเคยเห็นงานลอยกระทงมาแล้ว แต่ไม่เคยเห็นงานประเพณีแม่พญาเมืองกุมภัณฑ์เลยครับ มีอะไรน่าสนใจบ้างครับ","khnphakhklang: swasdikhrab khunmachakaihnkhrab
+
+khnphakhehnueo: swasdikhrab chanmachakechiyngaihmkhrab
+
+khnphakhklang: oo echiyngaihmely chanekhyaipethiywthiechiyngaihmkhrab mioaairnasnaichmakkhrab
+
+khnphakhehnueo: aichely mipraephnithongthinmakmay echn loykrathngaelanganpraephniaemphyaemueongkumphanthkhrab
+
+khnphakhklang: oo chanekhyehnnganloykrathngmaaelw aetaimekhyehnnganpraephniaemphyaemueongkumphanthelykhrab mioaairnasnaichbangkhrab",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ อาชีพ บทสนทนาไม่ควรเกิน 5 turns,"คนภาคกลาง 1: สวัสดีครับ คุณทำงานอะไรอยู่บ้าน
+
+คนภาคกลาง 2: สวัสดีครับ ฉันทำงานเป็นพนักงานขายในห้างสรรพสินค้าครับ
+
+คนภาคกลาง 1: อ๋อ น่าสนใจเลย ฉันเองก็ทำงานเป็นครูสอนภาษาไทยในโรงเรียน
+
+คนภาคกลาง 2: อ๋อ น่าสนใจเลย ฉันชอบเด็กๆ มากเลย
+
+คนภาคกลาง 1: ใช่เลย ฉันก็ชอบเด็กๆ มากเลย แต่ทำงานเป็นครูไม่ง่ายเลย
+
+คนภาคกลาง 2: ใช่เลย แต่ฉันก็ชอบที่จะได้เห็นเด็กๆ เติบโตและเรียนรู้อย่างต่อเนื่อง","khnphakhklang 1: swasdikhrab khunthamnganoaairoyuban
+
+khnphakhklang 2: swasdikhrab chanthamnganepnphnakngankhayainhangsrrphsinkhakhrab
+
+khnphakhklang 1: oo nasnaichely chaneongkthamnganepnkhrusonphasaaithyainorngeriyn
+
+khnphakhklang 2: oo nasnaichely chanchobedk- makely
+
+khnphakhklang 1: aichely chankchobedk- makely aetthamnganepnkhruaimngayely
+
+khnphakhklang 2: aichely aetchankchobthichaaidehnedk- etibotaelaeriynruoyangtoenueong",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ การคมนาคม บทสนทนาไม่ควรเกิน 5 turns,"คน 1: สวัสดีครับ/ค่ะ วันนี้รถไฟฟ้าใต้ดินมีปัญหาไหมครับ/ค่ะ
+
+คน 2: ไม่ครับ/ค่ะ มีครับ/ค่ะ แต่ไม่มากนัก มีคนเดินข้ามทางเดินเท้ามากกว่าครับ/ค่ะ
+
+คน 1: อ๋อ มีคนเดินข้ามทางเดินเท้าเยอะเลยครับ/ค่ะ
+
+คน 2: ใช่ครับ/ค่ะ เพราะรถไฟฟ้าใต้ดินมีปัญหาครับ/ค่ะ แต่ไม่ควรจะปิดทั้งหมดครับ/ค่ะ
+
+คน 1: ใช่ครับ/ค่ะ ไม่ควรปิดทั้งหมดเลยครับ/ค่ะ","khn 1: swasdikhrab/kha wannirthaiffaaitdinmipayhaaihmkhrab/kha
+
+khn 2: aimkhrab/kha mikhrab/kha aetaimmaknak mikhnedinkhamthangedinethamakkwakhrab/kha
+
+khn 1: oo mikhnedinkhamthangedinethaeyoaelykhrab/kha
+
+khn 2: aichkhrab/kha ephraarthaiffaaitdinmipayhakhrab/kha aetaimkhwrchapidthanghmdkhrab/kha
+
+khn 1: aichkhrab/kha aimkhwrpidthanghmdelykhrab/kha",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ ครอบครัว บทสนทนาไม่ควรเกิน 5 turns,"คนภาคกลาง 1: สวัสดีครับ/ค่ะ วันนี้อากาศดีมากเลย
+
+คนภาคกลาง 2: สวัสดีครับ/ค่ะ นั่นใช่เลย วันนี้อากาศดีมากเลย ฉันไปเดินเล่นในสวนแล้ว
+
+คนภาคกลาง 1: อ๋อ ฉันก็ไปเดินเล่นในสวนด้วย แต่ไม่ได้ไปเท่าไหร่ ฉันไปช่วยแม่ทำอาหารในบ้าน
+
+คนภาคกลาง 2: อ๋อ นั่นเป็นเรื่องดีเลย ฉันไปช่วยพ่อทำสวนในบ้าน ฉันชอบช่วยพ่อมากกว่า
+
+คนภาคกลาง 1: ฉันก็ชอบช่วยแม่มากกว่า แต่พ่อของฉันก็ชอบช่วยแม่ด้วย
+
+คนภาคกลาง 2: ใช่เลย พ่อแม่ของเราต่างก็ชอบช่วยกันอย่างนั้น","khnphakhklang 1: swasdikhrab/kha wannioakasdimakely
+
+khnphakhklang 2: swasdikhrab/kha nanaichely wannioakasdimakely chanaipedinelnainswnaelw
+
+khnphakhklang 1: oo chankaipedinelnainswndwy aetaimaidaipethaaihr chanaipchwyaemthamoaharainban
+
+khnphakhklang 2: oo nanepnerueongdiely chanaipchwyphothamswnainban chanchobchwyphomakkwa
+
+khnphakhklang 1: chankchobchwyaemmakkwa aetphokhongchankchobchwyaemdwy
+
+khnphakhklang 2: aichely phoaemkhongeratangkchobchwykanoyangnan",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ กลับบ้านช่วงเทศกาล บทสนทนาไม่ควรเกิน 5 turns,"คน1: สวัสดีครับ/ค่ะ วันนี้กลับบ้านกันไหม
+
+คน2: ใช่ครับ/ค่ะ กลับบ้านแล้วครับ/ค่ะ มีอะไรน่าสนใจบ้าง
+
+คน1: มีครับ/ค่ะ มีงานปาร์ตี้ที่บ้านน้องสาวของฉันครับ/ค่ะ
+
+คน2: อ๋อ น่าสนใจเลยครับ/ค่ะ ฉันจะไปด้วยกันไหมครับ/ค่ะ
+
+คน1: ได้เลยครับ/ค่ะ มาเลยครับ/ค่ะ","khn1: swasdikhrab/kha wanniklabbankanaihm
+
+khn2: aichkhrab/kha klabbanaelwkhrab/kha mioaairnasnaichbang
+
+khn1: mikhrab/kha minganpartithibannongsawkhongchankhrab/kha
+
+khn2: oo nasnaichelykhrab/kha chanchaaipdwykanaihmkhrab/kha
+
+khn1: aidelykhrab/kha maelykhrab/kha",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ การเมืองท้องถิ่น บทสนทนาไม่ควรเกิน 5 turns,"คน 1: สวัสดีครับ คุณรู้ไหมว่าเมืองของเรากำลังจะจัดงานเทศกาลใหญ่ในเดือนหน้า
+
+คน 2: ใช่ครับ ผมได้ยินมาว่าเทศกาลนั้นจะมีการแสดงดนตรีและอาหารพื้นเมือง
+
+คน 1: ใช่ครับ และยังมีการแข่งขันกีฬาและงานศิลปะอีกด้วย น่าจะดึงดูดคนมาเยี่ยมชมเมืองของเราได้
+
+คน 2: นั่นเป็นความคิดที่ดีครับ แต่ผมก็รู้สึกว่าเทศกาลนี้อาจจะทำให้คนในเมืองต้องเสียเงินเยอะ
+
+คน 1: อาจจะใช้เงินไปบ้างครับ แต่เทศกาลนี้ก็จะช่วยเพิ่มความมีชีวิตชีวาให้กับเมืองของเราและช่วยให้คนในเมืองรู้จักกันมากขึ้น","khn 1: swasdikhrab khunruaihmwaemueongkhongerakamlangchachadnganethskalaihyainedueonhna
+
+khn 2: aichkhrab phmaidyinmawaethskalnanchamikaraesdngdntriaelaoaharphuenemueong
+
+khn 1: aichkhrab aelayangmikaraekhngkhankilaaelangansilpaoikdwy nachaduengdudkhnmaeyiymchmemueongkhongeraaid
+
+khn 2: nanepnkhwamkhidthidikhrab aetphmkrusuekwaethskalnioachchathamaihkhnainemueongtongesiyengineyoa
+
+khn 1: oachchaaichenginaipbangkhrab aetethskalnikchachwyephimkhwammichiwitchiwaaihkabemueongkhongeraaelachwyaihkhnainemueongruchakkanmakkhuen",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ สภาพอากาศ บทสนทนาไม่ควรเกิน 5 turns,"คนภาคกลาง 1: สวัสดีครับ/ค่ะ วันนี้อากาศดีมากเลย
+
+คนภาคกลาง 2: ใช่เลยครับ/ค่ะ มีฝนตกเยอะเลย ทำให้อากาศเย็นลง
+
+คนภาคกลาง 1: ใช่เลยครับ/ค่ะ แต่ฝนไม่มากนัก มีแต่ฝนตกเล็กน้อย
+
+คนภาคกลาง 2: ใช่เลยครับ/ค่ะ แต่ฝนช่วยทำให้พืชผลดีเลย
+
+คนภาคกลาง 1: ใช่เลยครับ/ค่ะ นั่นเป็นเรื่องดีเลย","khnphakhklang 1: swasdikhrab/kha wannioakasdimakely
+
+khnphakhklang 2: aichelykhrab/kha mifntkeyoaely thamaihoakaseynlng
+
+khnphakhklang 1: aichelykhrab/kha aetfnaimmaknak miaetfntkelknoy
+
+khnphakhklang 2: aichelykhrab/kha aetfnchwythamaihphuechphldiely
+
+khnphakhklang 1: aichelykhrab/kha nanepnerueongdiely",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ อาหารท้องถิ่น บทสนทนาไม่ควรเกิน 5 turns,"คนภาคกลาง: สวัสดีครับ/ค่ะ วันนี้อากาศดีมากเลย
+
+คนภาคกลางอีกคน: สวัสดีครับ/ค่ะ วันนี้อากาศดีมากเลย มีอะไรอยากจะกินบ้าง
+
+คนภาคกลาง: อาหารท้องถิ่นของเราเลยครับ/ค่ะ มีแกงเขียวหวาน แกงปู แกงจืด และข้าวเหนียวหมูสับ
+
+คนภาคกลางอีกคน: อาหารที่ชอบมากเลยครับ/ค่ะ แกงเขียวหวานของเราอร่อยมากเลย
+
+คนภาคกลาง: ใช่เลยครับ/ค่ะ แกงเขียวหวานของเราเป็นอาหารที่มีชื่อเสียงของภาคกลางเลยครับ/ค่ะ","khnphakhklang: swasdikhrab/kha wannioakasdimakely
+
+khnphakhklangoikkhn: swasdikhrab/kha wannioakasdimakely mioaairoyakchakinbang
+
+khnphakhklang: oaharthongthinkhongeraelykhrab/kha miaekngekhiywhwan aekngpu aekngchued aelakhawehniywhmusab
+
+khnphakhklangoikkhn: oaharthichobmakelykhrab/kha aekngekhiywhwankhongeraoroymakely
+
+khnphakhklang: aichelykhrab/kha aekngekhiywhwankhongeraepnoaharthimichueoesiyngkhongphakhklangelykhrab/kha",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทสนทนาไม่ควรเกิน 5 turns,"คนภาคกลาง: สวัสดีครับ/ค่ะ วันนี้อากาศดีมากเลย
+
+คนภาคเหนือ: สวัสดีครับ/ค่ะ มาแล้วเหรอ? มาแล้วครับ/ค่ะ
+
+คนภาคกลาง: มาแล้วครับ/ค่ะ มาเพื่อชมงานแฟชั่นของภาคเหนือครับ/ค่ะ
+
+คนภาคเหนือ: อ๋อ มีงานแฟชั่นเหรอ? มีเครื่องแต่งกายท้องถิ่นของภาคเหนืออยู่ด้วยหรือเปล่าครับ/ค่ะ?
+
+คนภาคกลาง: มีครับ/ค่ะ มีเครื่องแต่งกายท้องถิ่นของภาคเหนืออยู่ด้วยครับ/ค่ะ เช่น ผ้าป่าซิ่น ผ้าป่าแดง และเครื่องประดับจากหินอ่อนครับ/ค่ะ","khnphakhklang: swasdikhrab/kha wannioakasdimakely
+
+khnphakhehnueo: swasdikhrab/kha maaelwehro? maaelwkhrab/kha
+
+khnphakhklang: maaelwkhrab/kha maephueochmnganaefchankhongphakhehnueokhrab/kha
+
+khnphakhehnueo: oo minganaefchanehro? miekhrueongaetngkaythongthinkhongphakhehnueooyudwyhrueoeplakhrab/kha?
+
+khnphakhklang: mikhrab/kha miekhrueongaetngkaythongthinkhongphakhehnueooyudwykhrab/kha echn phapasin phapaaedng aelaekhrueongpradabchakhinoonkhrab/kha",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ การศึกษาท้องถิ่น บทสนทนาไม่ควรเกิน 5 turns,"คนภาคกลาง 1: สวัสดีครับ/ค่ะ วันนี้เรามาแบ่งปันเรื่องราวเกี่ยวกับการศึกษาท้องถิ่นของเราเลยครับ/ค่ะ
+
+คนภาคกลาง 2: สวัสดีครับ/ค่ะ มีอะไรน่าสนใจบ้างครับ/ค่ะ
+
+คนภาคกลาง 1: เรื่องนี้มีประโยชน์มากครับ/ค่ะ เพราะการศึกษาท้องถิ่นจะช่วยให้เราเข้าใจวัฒนธรรมและประเพณีของเราได้ดีขึ้น
+
+คนภาคกลาง 2: ใช่ครับ/ค่ะ และยังช่วยให้เราเข้าใจประวัติศาสตร์ของเราได้ดีขึ้น เช่น เรื่องราวของพระเจ้ากรุงศรีอยุธยา
+
+คนภาคกลาง 1: ใช่ครับ/ค่ะ และยังช่วยให้เราเข้าใจถึงความสำคัญของการอนุรักษ์ทางวัฒนธรรมของเรา
+
+คนภาคกลาง 2: ใช่ครับ/ค่ะ และเราควรนำความรู้เหล่านี้ไปใช้ในชีวิตประจำวันเพื่ออนุรักษ์ทางวัฒนธรรมของเรา","khnphakhklang 1: swasdikhrab/kha wannieramaaebngpanerueongrawekiywkabkarsueksathongthinkhongeraelykhrab/kha
+
+khnphakhklang 2: swasdikhrab/kha mioaairnasnaichbangkhrab/kha
+
+khnphakhklang 1: erueongnimipraoychnmakkhrab/kha ephraakarsueksathongthinchachwyaiheraekhaaichwathnthrrmaelapraephnikhongeraaiddikhuen
+
+khnphakhklang 2: aichkhrab/kha aelayangchwyaiheraekhaaichprawatisastrkhongeraaiddikhuen echn erueongrawkhongphraechakrungsrioyuthya
+
+khnphakhklang 1: aichkhrab/kha aelayangchwyaiheraekhaaichthuengkhwamsamkhaykhongkaronuraksthangwathnthrrmkhongera
+
+khnphakhklang 2: aichkhrab/kha aelaerakhwrnamkhwamruehlaniaipaichainchiwitprachamwanephueoonuraksthangwathnthrrmkhongera",.

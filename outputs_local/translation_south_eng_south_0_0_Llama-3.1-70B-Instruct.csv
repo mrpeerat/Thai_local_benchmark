@@ -1,0 +1,69 @@
+Input,Pred,Pred_Latin,Gold
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: โบ๋นักเรียนชอบไปเดินเล่นกับอาจารย์หวันเย็น เพราะอากาศมันเย็นบาย ได้ออกกำลังกายและป่าไม้รอบๆทางเดินก็ทำให้อากาศดีมากๆด้วย
+คำแปล:","Bun, a student, likes to go for a walk with Wan Yen because the weather is cool and comfortable. It's a good exercise and the surrounding forest along the way makes the air very fresh.","Bun, a student, likes to go for a walk with Wan Yen because the weather is cool and comfortable. It's a good exercise and the surrounding forest along the way makes the air very fresh.","The group of students enjoys going for evening walks with their teacher because the weather is cool. They get some exercise, and the surrounding trees along the path make the air feel very refreshing."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: ขับรถเครื่องไปซื้อกาแควที่หน้าปากซอย แต่ก็พบว่าร้านประจำที่ชอบกินมันปิดไปแล้ว ก็เลยขับรถไปซื้อร้านเอิน ไม่หร่อยเลย จะไม่หลบซื้ออีกแล้ว หร๊าบแล้ว ร้านนี้
+คำแปล:",ขับรถเครื่องไปซื้อกาแควที่หน้าปากซอย แต่ก็พบว่าร้านประจำที่ชอบกินมันปิดไปแล้ว ก็เลยขับรถไปซื้อร้านเอิน ไม่อร่อยเลย จะไม่หลบซื้ออีกแล้ว หร๊าบแล้ว ร้านนี้,khabrthekhrueongaipsueokaaekhwthihnapaksoy aetkphbwaranprachamthichobkinmanpidaipaelw kelykhabrthaipsueoraneoin aimoroyely chaaimhlbsueooikaelw hrabaelw ranni,"I rode my motorcycle to buy coffee at the entrance of the alley, only to find that my favorite shop was closed. So, I went to try a new place instead. It wasn't good at all. I wouldn't go buy it there again."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: ฉ้านอยากอีสอบเข้าโรงเรียนสวนกุหลาบเพราะคิดว่าเป็นโรงเรียนที่ดี ฉ้านเลยตั้งใจเรียนมากๆเพื่อที่จะสอบเข้าที่นี้ให้ได้ สุดท้ายฉ้านสอบไม่ติด เสียใจหนัดเหนียน
+คำแปล:","I wanted to take an exam to get into Suankularb School because I thought it was a good school. So, I studied very hard to get in. Finally, I didn't pass the exam and felt very sad.","I wanted to take an exam to get into Suankularb School because I thought it was a good school. So, I studied very hard to get in. Finally, I didn't pass the exam and felt very sad.","I wanted to get into Suankularb School because I thought it was a great school. So, I studied really hard to pass the entrance exam. In the end, I didn’t make it, and I was very disappointed."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: โบ๋เพื่อนๆรอบตัวชอบไปเที่ยวเมืองนอก แต่รู้สึกดายของเบี้ย เลยไปเที่ยวเลในไทยแทน อากาศก็ดี ไม่เปลื้องเบี้ย ดีกว่าลุย ทำไมต้องไปเมืองนอกกันด้วย ไม่เข้าใจโบ๋นี้
+คำแปล:",เพื่อนๆรอบตัวชอบไปเที่ยวเมืองนอก แต่รู้สึกกลัวว่าจะหมดตัว เลยไปเที่ยวในไทยแทน อากาศก็ดี ไม่ต้องใช้จ่ายมาก ดีกว่าไปเมืองนอก ทำไมต้องไปเมืองนอกกันด้วย ไม่เข้าใจจริงๆ,ephueon-robtawchobaipethiywemueongnok aetrusuekklawwachahmdtaw elyaipethiywainaithyaethn oakaskdi aimtongaichchaymak dikwaaipemueongnok thamaimtongaipemueongnokkandwy aimekhaaichchring-,"My friends all love traveling abroad, but I feel it's a waste of money. So, I’d rather go to the beach in Thailand instead. The weather is great, the prices are cheap—it’s so much better! I really don’t understand why people go abroad."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: โบ๋เขากำลังช่วยกันทำความสะอาดเริ่นเพราะที่เริ่นยังโคลนจังเสีย หลังจากเกิดเหตุการณ์น้ำท่วมแร็กอาทิตย์ที่ผ่านมา  ต้องทำความสะอาดอีกนานเหลย
+คำแปล:",They are helping to clean the house because the house is still muddy after the flood last week. It will take a long time to clean up.,They are helping to clean the house because the house is still muddy after the flood last week. It will take a long time to clean up.,They are helping each other clean the house because it’s full of mud after the flooding incident last week. It’s going to take a long time to clean up.
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: พ่อกับแม่ชอบไปทำงานสวนหนัดเพราะที่สวนบรรยากาศดีไม่มีใครมางวน รวมไปถึงวิวภูเขาที่ดูสวยงามเหมือนหลุดเข้าไปอีกโลก
+คำแปล:",พ่อแม่ชอบไปทำงานสวนหนัด เพราะ ที่สวนบรรยากาศดี ไม่มีใครมางวน รวมไปถึงวิวภูเขาที่ดูสวยงามเหมือนหลุดเข้าไปอีกโลก,phoaemchobaipthamnganswnhnad ephraa thiswnbrryakasdi aimmiaikhrmangwn rwmaipthuengwiwphuekhathiduswyngamehmueonhludekhaaipoikolk,"Dad and mom love working in the garden because the atmosphere is nice and peaceful, plus there’s a beautiful mountain view that feels like stepping into another world."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: เมนูน้ำชุปหนุ่มเป็นอาหารขึ้นชื่อของภาคเหนือ โดยมีวัตถุดิบหลักๆ คือ ดีปลี หอมเแดง หัวเทียม
+คำแปล:","Nam phrik num is a famous dish of the North, with main ingredients such as chilies, garlic, shallots.","Nam phrik num is a famous dish of the North, with main ingredients such as chilies, garlic, shallots.","Nam Prik Noom is a famous dish from the northern region, with key ingredients including chili peppers, shallots, and garlic."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: โบ๋เรา ตอนเที่ยงยังใครที่อาดไปกินส้มตำไก่ย่างที่ร้านครัวคุณกรมั้งม่าย?
+คำแปล:","โบ๋เรา ตอนเที่ยงยังใครที่อาดไปกินส้มตำไก่ย่างที่ร้านครัวคุณกรมั้งม่าย?
+
+คำแปล: You, at noon, who went to eat spicy papaya salad and grilled chicken at Khun Kram's kitchen or not?","obera tonethiyngyangaikhrthioadaipkinsmtamaikyangthirankhrawkhunkrmangmay?
+
+khamaepl: You, at noon, who went to eat spicy papaya salad and grilled chicken at Khun Kram's kitchen or not?",Anyone interested in joining us for papaya salad and grilled chicken at Khun Korn’s Kitchen for lunch?
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: วันนี้ตื่นหัวรุ่งเพราะจะไปแลแข่งแล่นควาย อากาศร้อนอีตาย หลบเริ่นมา เลยนอนพักเพราะเจ็บเบ็ดหัวแปลบ
+คำแปล:",วันนี้ตื่นเช้าเพราะจะไปแข่งควาย อากาศร้อนมาก เลยหลบมานอนพักเพราะเจ็บหัว,wannituenechaephraachaaipaekhngkhway oakasronmak elyhlbmanonphakephraaechbhaw,"I woke up very early today to go watch the buffalo race. The weather was so hot that when I got back home, I had to take a rest because I had a headache."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: ไซร้ฉ้านต้องทำงานนี้แล้วหล่าว แก้มาจังเสียแล้ว ไม่เสร็จสักที คนสั่งให้แก้ก็ไม่รู้ว่าตัวเองทำไหร่อยู่ ฉันเหนื่อยแค่แล้ว
+คำแปล:","I have to do this job now. I've been working on it for a long time, but it's still not finished. The person who ordered it doesn't even know what they're doing. I'm so tired already.","I have to do this job now. I've been working on it for a long time, but it's still not finished. The person who ordered it doesn't even know what they're doing. I'm so tired already.","Why do I have to do this work again? I’ve revised it so many times, but it’s never finished. The person who keeps asking for revisions doesn’t even know what they’re doing. I’m so exhausted."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: ฉ้านซื้อไก่ทอดมาขวากเพื่อน แต่เนือยอย่างแรงเลยเอาของเพื่อนมากิน เพื่อนไม่ว่าไหรแถมเอาไก่ไปอุ่นให้กัน เพื่อนเป็นคนดีนัด
+คำแปล:",ฉันซื้อไก่ทอดมาให้เพื่อน แต่ฉันหิวมากเลยเอาของเพื่อนมากิน เพื่อนไม่ว่าอะไรเลย แถมเอาไก่ไปอุ่นให้ฉัน เพื่อนเป็นคนดีจริงๆ,chansueoaikthodmaaihephueon aetchanhiwmakelyeoakhongephueonmakin ephueonaimwaoaairely aethmeoaaikaipounaihchan ephueonepnkhndichring-,"I bought fried chicken for my friend, but I was too hungry, so I ate it instead. My friend didn’t mind and even reheated it for me. Such a kind friend!"
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: ฉ้านไม่เคยรู้มาก่อนเลยว่า ผี๋เบียร์เป็นคนที่ปีนเขาได้เก่งอย่างแรง ดูหรอยหนัดและอิ๊เอาเขาเป็นตัวหยางของความมีวินัยและสม่ำเสมอในการออกกำลังกาย
+คำแปล:","I never knew that Pee Beer is a very good mountain climber. Look at his body and his endurance, he is the model of discipline and regular exercise.","I never knew that Pee Beer is a very good mountain climber. Look at his body and his endurance, he is the model of discipline and regular exercise.","I never knew before that Beer was so good at rock climbing. It’s impressive, and I’ll use him as an example of discipline and consistency in exercise."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: บางคนชอบสมนากาหรู แต่บางคนชอบสมป้าวแบรนด์เนม สุดท้ายตายไปก็เอาไหรไปไม่ได้
+คำแปล:","Some people like luxury cars, but some people like brand-name clothes. In the end, when we die, we can't take anything with us.","Some people like luxury cars, but some people like brand-name clothes. In the end, when we die, we can't take anything with us.","Some people like to collect luxury watches, while others prefer designer bags. In the end, you can’t take any of it with you when you die."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: วันที่ฝนตกต้องเอาร่มออกไปกัน แต่ว่าวันนี้หน่องแก้มลืมเอาร่มมา พันนั้นหน่องแก้มจึงนอนเล่นอยู๋แต่เริน
+คำแปล:","On a rainy day, we have to bring an umbrella, but today, Nong Ngam forgot to bring an umbrella. So, Nong Ngam just slept and played at home.","On a rainy day, we have to bring an umbrella, but today, Nong Ngam forgot to bring an umbrella. So, Nong Ngam just slept and played at home.","On rainy days, you have to take an umbrella, but today, Gam forgot hers. So, she stayed home and relaxed."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: เจ็บพุงมีอยู่ 2 หยางคือ เจ็บพุงขี้ กับ เจ็บพุงแบบที่ต้องไปหาหมอ หลังจากนั้นก็เอาใบรับรองแพทย์มาให้อาจารย์ เพื่อใช้ในการหยบเรียน
+คำแปล:","Stomach ache has 2 types, stomach ache for diarrhea and stomach ache that needs to see a doctor. After that, bring a medical certificate to the teacher for leave of absence.","Stomach ache has 2 types, stomach ache for diarrhea and stomach ache that needs to see a doctor. After that, bring a medical certificate to the teacher for leave of absence.","There are two kinds of stomach aches: one where you need to use the bathroom, and a real one that needs medical attention. After that, you bring a medical certificate to the teacher for a leave of absence."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: คนที่ชอบแกล้งเพื่อนคือคนไม่รักดี ถ้าอยากเป็นคนดี ต้องไม่แกล้งเพื่อน แต่หว๋าหน่องกรโดนแกล้งหลายหน เลยทำให้หน่องกรโก้ว่า ""เหย็ดแหม๋ มึงขาดหุ้นม่าย""
+คำแปล:","คนชอบแกล้งเพื่อนคือคนไม่ดี ถ้าอยากเป็นคนดี ต้องไม่แกล้งเพื่อน แต่หน่องกรโดนแกล้งหลายหน เลยทำให้หน่องกรโก้ว่า ""เหย็ดแหม๋ มึงขาดหุ้นม่าย""","khnchobaeklngephueonkhueokhnaimdi thaoyakepnkhndi tongaimaeklngephueon aethnongkrodnaeklnghlayhn elythamaihhnongkrokwa ""ehydaehm muengkhadhunmay""","People who like to tease others are no-good. If you want to be a good person, don’t tease others. But Korn often gets teased, which makes him shout, ""What the heck is your problem?"""
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: วัวตัวอาดหนัด จานดินไม่หยุดเลย แสดงว่าหมันอยากอี้โส้กันแล้ว
+คำแปล:","The buffalo is stubborn, the plate doesn't stop, it means the husband and wife want to flirt with each other.","The buffalo is stubborn, the plate doesn't stop, it means the husband and wife want to flirt with each other.","Your cow is very spirited, kicking up the dirt non-stop. It shows it’s ready to fight."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: ตัวอี้ไม่โร้สึกไพรตัวขึ้นมาพรื่อเฮา เพราะตัวทำผิดแล้วเมียจับติด
+คำแปล:","ตัวอี้ไม่โร้สึกไพรตัวขึ้นมาพรื่อเฮา เพราะตัวทำผิดแล้วเมียจับติด
+
+แปลเป็นภาษาอังกฤษ: I don't dare to go up and serve you because I did wrong and my wife caught me.","tawoiaimorsuekaiphrtawkhuenmaphrueoeha ephraatawthamphidaelwemiychabtid
+
+aeplepnphasaoangkrues: I don't dare to go up and serve you because I did wrong and my wife caught me.","How could you not feel hot and cold flashes? You made a mistake, and your wife found out."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: หมาตัวนั้นเดินข้ามหนนพร้อมกับหมูปิ้งในปาก พาไปหาลูกของมัน ภาพที่เห็นแลน่าเห็นดูอย่างแรง
+คำแปล:",The dog walked across the field with a roasted boar in its mouth to its puppies. The scene was so pitiful.,The dog walked across the field with a roasted boar in its mouth to its puppies. The scene was so pitiful.,"That dog crossed the road with grilled pork in its mouth, heading to its puppies. The scene was heartwarming and touching."
+"แปลข้อความต่อจากนี้ ภาษาใต้ เป็น ภาษาอังกฤษ ให้การแปลของเติ้ลแปลตรงตัวเลย ไม่ต้องไสข้อมูลเพิ่มเติมไหร
+ข้อความ: ปลาตัวเถ้านี้ผมลากจานได้มาแรกวาและปลาที่ติดจานนี้ส่วนมากมักอี้เป็นแม่ปลา
+คำแปล:",This fish I caught with a hook and the fish that get hooked are mostly female fish.,This fish I caught with a hook and the fish that get hooked are mostly female fish.,"I caught this big fish yesterday, and most of the fish I catch on the line tend to be female fish."

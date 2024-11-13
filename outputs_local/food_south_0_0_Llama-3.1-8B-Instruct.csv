@@ -1,0 +1,613 @@
+Input,Pred,Pred_Latin,Gold
+ให้เขียนวิธีทำ แก๋งพุงปลา เป็นภาษาใต้,"แก๋งพุงปลา เป็นอาหารไทยที่มีชื่อเสียงและเป็นที่ชื่นชอบของหลายคน โดยเฉพาะในภาคใต้ของประเทศไทย วิธีทำแก๋งพุงปลาแบบดั้งเดิมมีดังนี้
+
+ส่วนผสม:
+
+- ปลาน้ำจืด 1 ตัว (ประมาณ 1 กิโลกรัม)
+- น้ำมันพืช 2 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- น้ำปลา 2 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- น้ำมะนาว 2 ช้อนโต๊ะ
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- พริกขี้หนู 2-3 เม็ด
+- ใบมะกรูด 2 ใบ
+- ใบมะกรูด 1 ใบ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- น้ำมะนาว 1 ช้อนโต๊ะ
+
+วิธีทำ:
+
+1. ใส่น้ำมันพืชลงในกระทะและร้อนให้เดือด
+2. ใส่ปลาน้ำจืดลงในกระทะและทอดจนกรอบ
+3. ใส่พริกไทยป่น น้ำตาลปี๊บ น้ำปลา น้ำมะนาว พริกขี้หนู ใบมะกรูดลงในกระทะและผสมให้เข้ากัน
+4. ใส่น้ำตาลปี๊บลงในกระทะและผสมให้เข้ากัน
+5. ใส่น้ำมะนาวลงในกระทะและผสมให้เข้ากัน
+6. ใส่ปลาที่ทอดแล้วลงในกระทะและผสมให้เข้ากัน
+7. ใส่ใบมะกรูดลงในกระทะและผสมให้เข้ากัน
+8. ใส่น้ำตาลปี๊บลงในกระทะและผสมให้เข้ากัน
+9. ใส่น้ำมะนาวลงในกระทะและผสมให้เข้ากัน
+10. ","aekngphungpla epnoaharaithythimichueoesiyngaelaepnthichuenchobkhonghlaykhn odyechphaaainphakhaitkhongpraethsaithy withithamaekngphungplaaebbdangedimmidangni
+
+swnphsm:
+
+- planamchued 1 taw (praman 1 kiolkram)
+- nammanphuech 2 chonota
+- namtalpib 1 chonota
+- phrikaithypn 1 choncha
+- nampla 2 chonota
+- namtalpib 1 chonota
+- nammanaw 2 chonota
+- nammanaw 1 chonota
+- phrikkhihnu 2-3 emd
+- aibmakrud 2 aib
+- aibmakrud 1 aib
+- namtalpib 1 chonota
+- nammanaw 1 chonota
+
+withitham:
+
+1. aisnammanphuechlngainkrathaaelaronaihedueod
+2. aisplanamchuedlngainkrathaaelathodchnkrob
+3. aisphrikaithypn namtalpib nampla nammanaw phrikkhihnu aibmakrudlngainkrathaaelaphsmaihekhakan
+4. aisnamtalpiblngainkrathaaelaphsmaihekhakan
+5. aisnammanawlngainkrathaaelaphsmaihekhakan
+6. aisplathithodaelwlngainkrathaaelaphsmaihekhakan
+7. aisaibmakrudlngainkrathaaelaphsmaihekhakan
+8. aisnamtalpiblngainkrathaaelaphsmaihekhakan
+9. aisnammanawlngainkrathaaelaphsmaihekhakan
+10. ",.
+ให้เขียนวิธีทำ แกงส้ม เป็นภาษาใต้,"แกงส้ม เป็นอาหารไทยที่มีชื่อเสียงและเป็นที่ชื่นชอบของหลายคน วันนี้เราจะมาแนะนำวิธีทำแกงส้มแบบง่ายๆ ในภาษาใต้
+
+**วัตถุดิบ**
+
+- น้ำมันพืช 2 ช้อนโต๊ะ
+- น้ำมะนาว 2 ถ้วย
+- น้ำปลา 1 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- พริกขี้หนู 2-3 เม็ด
+- น้ำมะนาว 1 ถ้วย
+- น้ำ 1 ถ้วย
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- พริกขี้หนู 2-3 เม็ด
+- น้ำมะนาว 1 ถ้วย
+- น้ำ 1 ถ้วย
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- พริกขี้หนู 2-3 เม็ด
+- น้ำมะนาว 1 ถ้วย
+- น้ำ 1 ถ้วย
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- พริกขี้หนู 2-3 เม็ด
+- น้ำมะนาว 1 ถ้วย
+- น้ำ 1 ถ้วย
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- พริกขี้หนู 2-3 เม็ด
+- น้ำมะนาว 1 ถ้วย
+- น้ำ 1 ถ้วย
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- น้ำ","aekngsm epnoaharaithythimichueoesiyngaelaepnthichuenchobkhonghlaykhn wannierachamaaenanamwithithamaekngsmaebbngay- ainphasaait
+
+**watthudib**
+
+- nammanphuech 2 chonota
+- nammanaw 2 thwy
+- nampla 1 chonota
+- namtalpib 1 chonota
+- namtalthray 1 chonota
+- phrikaithypn 1 choncha
+- phrikkhihnu 2-3 emd
+- nammanaw 1 thwy
+- nam 1 thwy
+- namtalpib 1 chonota
+- namtalthray 1 chonota
+- phrikaithypn 1 choncha
+- phrikkhihnu 2-3 emd
+- nammanaw 1 thwy
+- nam 1 thwy
+- namtalpib 1 chonota
+- namtalthray 1 chonota
+- phrikaithypn 1 choncha
+- phrikkhihnu 2-3 emd
+- nammanaw 1 thwy
+- nam 1 thwy
+- namtalpib 1 chonota
+- namtalthray 1 chonota
+- phrikaithypn 1 choncha
+- phrikkhihnu 2-3 emd
+- nammanaw 1 thwy
+- nam 1 thwy
+- namtalpib 1 chonota
+- namtalthray 1 chonota
+- phrikaithypn 1 choncha
+- phrikkhihnu 2-3 emd
+- nammanaw 1 thwy
+- nam 1 thwy
+- namtalpib 1 chonota
+- nam",.
+ให้เขียนวิธีทำ ลอกอผัดไข่ เป็นภาษาใต้,"วิธีทำ ลอกอผัดไข่
+
+1. ใส่กระทะใส่น้ำมัน 2 ช้อนโต๊ะ จากนั้นใส่กระเทียมและหอมแดงลงไปต้มจนหอม
+2. ใส่พริกขี้หนู 2-3 เม็ดลงไปต้ม
+3. ใส่ไข่ลงไปต้มจนไข่สุก
+4. ใส่พริกป่นและน้ำปลาลงไปต้ม
+5. ใส่กระเทียมและหอมแดงลงไปต้มอีกครั้ง
+6. ใส่พริกขี้หนูลงไปต้มอีกครั้ง
+7. ใส่ไข่ลงไปต้มอีกครั้ง
+8. ใส่น้ำตาลป่นลงไปต้ม
+9. ใส่กระเทียมและหอมแดงลงไปต้มอีกครั้ง
+10. ใส่พริกป่นลงไปต้มอีกครั้ง
+11. ใส่ไข่ลงไปต้มอีกครั้ง
+12. ใส่น้ำตาลป่นลงไปต้มอีกครั้ง
+13. ใส่กระเทียมและหอมแดงลงไปต้มอีกครั้ง
+14. ใส่พริกป่นลงไปต้มอีกครั้ง
+15. ใส่ไข่ลงไปต้มอีกครั้ง
+16. ใส่น้ำตาลป่นลงไปต้มอีกครั้ง
+17. ใส่กระเทียมและหอมแดงลงไปต้มอีกครั้ง
+18. ใส่พริกป่นลงไปต้มอีกครั้ง
+19. ใส่ไข่ลงไปต้มอีกครั้ง
+20. ใส่น้ำตาลป่นลงไปต้มอีกครั้ง
+
+คำแนะนำ: ควรใช้กระทะที่มีขนาดใหญ่เพื่อให้สามารถต้มไข่ได้อย่างเต็มที่ และควรใช้กระเทียมและหอมแดงให้หอมมากๆ เพื่อให้ได้รสชาติที่ดีที่สุด","withitham lokophadaikh
+
+1. aiskrathaaisnamman 2 chonota chaknanaiskraethiymaelahomaednglngaiptmchnhom
+2. aisphrikkhihnu 2-3 emdlngaiptm
+3. aisaikhlngaiptmchnaikhsuk
+4. aisphrikpnaelanamplalngaiptm
+5. aiskraethiymaelahomaednglngaiptmoikkhrang
+6. aisphrikkhihnulngaiptmoikkhrang
+7. aisaikhlngaiptmoikkhrang
+8. aisnamtalpnlngaiptm
+9. aiskraethiymaelahomaednglngaiptmoikkhrang
+10. aisphrikpnlngaiptmoikkhrang
+11. aisaikhlngaiptmoikkhrang
+12. aisnamtalpnlngaiptmoikkhrang
+13. aiskraethiymaelahomaednglngaiptmoikkhrang
+14. aisphrikpnlngaiptmoikkhrang
+15. aisaikhlngaiptmoikkhrang
+16. aisnamtalpnlngaiptmoikkhrang
+17. aiskraethiymaelahomaednglngaiptmoikkhrang
+18. aisphrikpnlngaiptmoikkhrang
+19. aisaikhlngaiptmoikkhrang
+20. aisnamtalpnlngaiptmoikkhrang
+
+khamaenanam: khwraichkrathathimikhnadaihyephueoaihsamarthtmaikhaidoyangetmthi aelakhwraichkraethiymaelahomaedngaihhommak- ephueoaihaidrschatithidithisud",.
+ให้เขียนวิธีทำ ข้าวผั๊ดเคย เป็นภาษาใต้,"ข้าวผั๊ดเคย เป็นอาหารไทยที่มีรสชาติเผ็ดและหอม มีหลายวิธีในการทำข้าวผั๊ดเคย แต่จะให้มาแนะนำวิธีทำข้าวผั๊ดเคยแบบง่ายๆ ดังนี้
+
+**ส่วนผสม**
+
+- ข้าวสวย 1 ถ้วย
+- น้ำมันพืช 2 ช้อนโต๊ะ
+- พริกขี้หนู 3-4 เม็ด
+- พริกแดง 2-3 เม็ด
+- กระเทียม 3-4 กลีบ
+- ต้นหอม 2-3 ต้น
+- น้ำปลา 2 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำตาลป","khawphadekhy epnoaharaithythimirschatiephdaelahom mihlaywithiainkarthamkhawphadekhy aetchaaihmaaenanamwithithamkhawphadekhyaebbngay- dangni
+
+**swnphsm**
+
+- khawswy 1 thwy
+- nammanphuech 2 chonota
+- phrikkhihnu 3-4 emd
+- phrikaedng 2-3 emd
+- kraethiym 3-4 klib
+- tnhom 2-3 tn
+- nampla 2 chonota
+- namtalpib 1 choncha
+- nammanaw 1 chonota
+- nammaphraw 1 chonota
+- nammanaw 1 chonota
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalpib 1 choncha
+- namtalp",.
+ให้เขียนวิธีทำ แกงส้มปล๊าพงยอดพร๊าว เป็นภาษาใต้,"แกงส้มปล๊าพงยอดพร๊าว เป็นอาหารไทยที่มีชื่อเสียงและเป็นที่ชื่นชอบของหลายคน โดยเฉพาะในภาคใต้ของประเทศไทย วันนี้เราจะมาแนะนำวิธีทำแกงส้มปล๊าพงยอดพร๊าวแบบง่ายๆ และอร่อยๆ ตามสูตรดั้งเดิมของภาคใต้
+
+**ส่วนผสม**
+
+- ปล๊าพง 1 ตัว (ประมาณ 500 กรัม)
+- ยอดพร๊าว 2-3 ต้น (หรือตามชอบ)
+- น้ำมะนาว 2-3 ช้อนโต๊ะ
+- น้ำปลา 2-3 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- น้ำตาลปี๊บ 1 ช้อนชา
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- พริกไทยป่น 1 ช้อนชา
+- น้ำตาล","aekngsmplaphngyodphraw epnoaharaithythimichueoesiyngaelaepnthichuenchobkhonghlaykhn odyechphaaainphakhaitkhongpraethsaithy wannierachamaaenanamwithithamaekngsmplaphngyodphrawaebbngay- aelaoroy- tamsutrdangedimkhongphakhait
+
+**swnphsm**
+
+- plaphng 1 taw (praman 500 kram)
+- yodphraw 2-3 tn (hrueotamchob)
+- nammanaw 2-3 chonota
+- nampla 2-3 chonota
+- namtalpib 1 chonota
+- nammaphraw 1 chonota
+- phrikaithypn 1 choncha
+- namtalpib 1 choncha
+- nammanaw 1 chonota
+- nammaphraw 1 chonota
+- namtalpib 1 chonota
+- phrikaithypn 1 choncha
+- namtalpib 1 choncha
+- nammanaw 1 chonota
+- nammaphraw 1 chonota
+- namtalpib 1 chonota
+- phrikaithypn 1 choncha
+- namtalpib 1 choncha
+- nammanaw 1 chonota
+- nammaphraw 1 chonota
+- namtalpib 1 chonota
+- phrikaithypn 1 choncha
+- namtalpib 1 choncha
+- nammanaw 1 chonota
+- nammaphraw 1 chonota
+- namtalpib 1 chonota
+- phrikaithypn 1 choncha
+- namtal",.
+ให้เขียนวิธีทำ ข้าวผั๊ดเคย เป็นภาษาใต้,"ข้าวผั๊ดเคย เป็นอาหารไทยภาคใต้ชนิดหนึ่งที่มีรสชาติเผ็ดและหอม มีหลายวิธีในการทำข้าวผั๊ดเคย แต่จะให้มาแนะนำวิธีทำที่ง่ายและอร่อย
+
+**ส่วนผสม**
+
+- ข้าวเหนียว 1 ถ้วย
+- น้ำมะนาว 2-3 ช้อนโต๊ะ
+- น้ำปลา 2-3 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- พริกขี้หนู 3-4 เม็ด
+- พริกไทยป่น 1 ช้อนชา
+- น้ำมันพืช 2 ช้อนโต๊ะ
+- ผักชีฝรั่ง 1 ช้อนชา
+- น้ำมะพร้าว 1 ช้อนโต๊ะ (ตัวเลือก)
+
+**วิธีทำ**
+
+1. ใส่ข้าวเหนียวลงในหม้อและเติมน้ำให้ครึ่งหนึ่งของข้าวเหนียว จากนั้นปิดฝาและนึ่งข้าวเหนียวจนข้าวเหนียวนุ่ม
+2. ใส่น้ำมะนาว น้ำปลา น้ำตาลปี๊บ พริกขี้หนู พริกไทยป่น และผักชีฝรั่งลงในหม้อและคนให้เข้ากัน
+3. เมื่อข้าวเหนียวนุ่มแล้ว ให้ใส่น้ำมันพืชลงในหม้อและคนให้เข้ากัน
+4. หากต้องการให้ข้าวผั๊ดเคยมีรสชาติหวานและหอม ให้ใส่น้ำมะพร้าวลงในหม้อและคนให้เข้ากัน
+5. ใส่ข้าวเหนียวลงในหม้อและคนให้เข้ากัน
+6. ใส่ข้าวเหนียวลงในถ้วยและเสิร์ฟ
+
+**คำแนะนำ**
+
+- ควรใช้ข้าวเหนียวที่มีคุณภาพดีและไม่เหนียวมากนัก
+- ควรใช้น้ำมะนาวและน้ำปลาที่มีคุณภาพดีเพื่อให้ได้รสชาติที่ดี
+- ควรใช้พริกข","khawphadekhy epnoaharaithyphakhaitchnidhnuengthimirschatiephdaelahom mihlaywithiainkarthamkhawphadekhy aetchaaihmaaenanamwithithamthingayaelaoroy
+
+**swnphsm**
+
+- khawehniyw 1 thwy
+- nammanaw 2-3 chonota
+- nampla 2-3 chonota
+- namtalpib 1 chonota
+- phrikkhihnu 3-4 emd
+- phrikaithypn 1 choncha
+- nammanphuech 2 chonota
+- phakchifrang 1 choncha
+- nammaphraw 1 chonota (tawelueok)
+
+**withitham**
+
+1. aiskhawehniywlngainhmoaelaetimnamaihkhruenghnuengkhongkhawehniyw chaknanpidfaaelanuengkhawehniywchnkhawehniywnum
+2. aisnammanaw nampla namtalpib phrikkhihnu phrikaithypn aelaphakchifranglngainhmoaelakhnaihekhakan
+3. emueokhawehniywnumaelw aihaisnammanphuechlngainhmoaelakhnaihekhakan
+4. haktongkaraihkhawphadekhymirschatihwanaelahom aihaisnammaphrawlngainhmoaelakhnaihekhakan
+5. aiskhawehniywlngainhmoaelakhnaihekhakan
+6. aiskhawehniywlngainthwyaelaesirf
+
+**khamaenanam**
+
+- khwraichkhawehniywthimikhunphaphdiaelaaimehniywmaknak
+- khwraichnammanawaelanamplathimikhunphaphdiephueoaihaidrschatithidi
+- khwraichphrikkh",.
+ให้เขียนวิธีทำ ปล่าซายท๋อดขี้มิ้น เป็นภาษาใต้,"วิธีทำ ปล่าซายท๋อดขี้มิ้น (ปล่าซายทอดขี้มิ้น) เป็นอาหารไทยที่มีรสชาติเผ็ดและหอม โดยใช้ขี้มิ้นเป็นส่วนประกอบหลัก นี่คือวิธีทำปล่าซายทอดขี้มิ้นแบบง่ายๆ
+
+**ส่วนผสม**
+
+- 1 ถ้วยขี้มิ้น
+- 2 ถ้วยน้ำมันพืช
+- 2 ถ้วยน้ำตาลปี๊บ
+- 1 ช้อนโต๊ะเกลือ
+- 1 ช้อนโต๊ะพริกไทยป่น
+- 1 ช้อนโต๊ะพริกขี้หนู
+- 2 ใบมะกรูด
+- 2 ใบมะนาว
+- 1 ช้อนโต๊ะกระเทียม
+- 1 ช้อนโต๊ะหอมแดง
+- 1 ช้อนโต๊ะกระเทียม
+- 1/2 ถ้วยน้ำมะนาว
+- 1/2 ถ้วยน้ำตาลทราย
+- 1/4 ถ้วยน้ำตาลปี๊บ
+- 1/4 ถ้วยน้ำมะนาว
+- 1/4 ถ้วยน้ำตาลทราย
+- 1/4 ถ้วยน้ำตาลปี๊บ
+- 1/4 ถ้วยน้ำมะนาว
+- 1/4 ถ้วยน้ำตาลทราย
+- 1/4 ถ้วยน้ำตาลปี๊บ
+- 1/4 ถ้วยน้ำมะนาว
+- 1/4 ถ้วยน้ำตาลทราย
+- 1/4 ถ้วยน้ำตาลปี๊บ
+- 1/4 ถ้วยน้ำมะนาว
+- 1/4 ถ้วยน้ำตาลทราย
+- 1/4 ถ้วยน้ำตาลปี๊บ
+- 1/4 ถ้วยน้ำมะนาว
+- 1/4 ถ้วยน้ำตาลทราย
+- 1/4 ถ้วยน้ำตาลปี๊บ
+- 1/4 ถ้วยน้ำมะนาว
+- 1/4 ถ้วยน้ำต","withitham plasaythodkhimin (plasaythodkhimin) epnoaharaithythimirschatiephdaelahom odyaichkhiminepnswnprakobhlak nikhueowithithamplasaythodkhiminaebbngay-
+
+**swnphsm**
+
+- 1 thwykhimin
+- 2 thwynammanphuech
+- 2 thwynamtalpib
+- 1 chonotaeklueo
+- 1 chonotaphrikaithypn
+- 1 chonotaphrikkhihnu
+- 2 aibmakrud
+- 2 aibmanaw
+- 1 chonotakraethiym
+- 1 chonotahomaedng
+- 1 chonotakraethiym
+- 1/2 thwynammanaw
+- 1/2 thwynamtalthray
+- 1/4 thwynamtalpib
+- 1/4 thwynammanaw
+- 1/4 thwynamtalthray
+- 1/4 thwynamtalpib
+- 1/4 thwynammanaw
+- 1/4 thwynamtalthray
+- 1/4 thwynamtalpib
+- 1/4 thwynammanaw
+- 1/4 thwynamtalthray
+- 1/4 thwynamtalpib
+- 1/4 thwynammanaw
+- 1/4 thwynamtalthray
+- 1/4 thwynamtalpib
+- 1/4 thwynammanaw
+- 1/4 thwynamtalthray
+- 1/4 thwynamtalpib
+- 1/4 thwynammanaw
+- 1/4 thwynamt",.
+ให้เขียนวิธีทำ ผั๊ดผั๊กเหลี๊ยง เป็นภาษาใต้,"ผั๊ดผั๊กเหลี๊ยง เป็นอาหารไทยที่มีชื่อเสียงและเป็นเอกลักษณ์ของภาคใต้ของประเทศไทย โดยเฉพาะอย่างยิ่งในจังหวัดนราธิวาสและจังหวัดสตูล วิธีทำผั๊ดผั๊กเหลี๊ยงมีดังนี้
+
+**วัตถุดิบ**
+
+- ผักเหลี๊ยง (ผักชีฝรั่ง) 1 ถ้วย
+- น้ำมะนาว 2-3 ช้อนโต๊ะ
+- น้ำตาลปี๊บ 1 ช้อนโต๊ะ
+- น้ำปลา 1 ช้อนโต๊ะ
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- พริกไทยป่น 1/2 ช้อนชา
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- พริกไทยป่น 1/2 ช้อนชา
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- พริกไทยป่น 1/2 ช้อนชา
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- พริกไทยป่น 1/2 ช้อนชา
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- พริกไทยป่น 1/2 ช้อนชา
+- น้ำตาลทราย 1 ช้อนโต๊ะ
+- น้ำมะพร้าว 1 ช้อนโต๊ะ
+- น้ำมะนาว 1 ช้อนโต๊ะ
+- พริกไทยป่น 1/2 ช้อนชา","phadphakehliyng epnoaharaithythimichueoesiyngaelaepneoklaksnkhongphakhaitkhongpraethsaithy odyechphaaoyangyingainchanghwadnrathiwasaelachanghwadstul withithamphadphakehliyngmidangni
+
+**watthudib**
+
+- phakehliyng (phakchifrang) 1 thwy
+- nammanaw 2-3 chonota
+- namtalpib 1 chonota
+- nampla 1 chonota
+- namtalthray 1 chonota
+- nammaphraw 1 chonota
+- nammanaw 1 chonota
+- phrikaithypn 1/2 choncha
+- namtalthray 1 chonota
+- nammaphraw 1 chonota
+- nammanaw 1 chonota
+- phrikaithypn 1/2 choncha
+- namtalthray 1 chonota
+- nammaphraw 1 chonota
+- nammanaw 1 chonota
+- phrikaithypn 1/2 choncha
+- namtalthray 1 chonota
+- nammaphraw 1 chonota
+- nammanaw 1 chonota
+- phrikaithypn 1/2 choncha
+- namtalthray 1 chonota
+- nammaphraw 1 chonota
+- nammanaw 1 chonota
+- phrikaithypn 1/2 choncha
+- namtalthray 1 chonota
+- nammaphraw 1 chonota
+- nammanaw 1 chonota
+- phrikaithypn 1/2 choncha",.
+ให้เขียนวิธีทำ แก๋งเลียง เป็นภาษาใต้,"แก๋งเลียง เป็นอาหารไทยที่มีชื่อเสียงและเป็นเอกลักษณ์ของภาคใต้ของประเทศไทย โดยเฉพาะอย่างยิ่งในจังหวัดนราธิวาสและจังหวัดปัตตานี วิธีทำแก๋งเลียงมีดังนี้
+
+**วัตถุดิบ**
+
+- เนื้อสัตว์ (เนื้อวัวหรือเนื้อหมู)
+- ผัก (ผักบุ้ง ผักชีฝรั่ง และผักคะน้า)
+- พริกไทย
+- น้ำปลา
+- น้ำตาล
+- น้ำมันพืช
+- น้ำมะนาว
+- น้ำตาลปี๊บ
+- น้ำมะพร้าว
+- น้ำมะพร้าวข้น
+- น้ำมะพร้าวข้นผสมกับน้ำตาลปี๊บ
+
+**วิธีทำ**
+
+1. ใส่เนื้อสัตว์ลงในกระทะและปรุงด้วยพริกไทย น้ำปลา น้ำตาล และน้ำมันพืช
+2. ใส่ผักลงในกระทะและปรุงให้เข้ากับเนื้อสัตว์
+3. ใส่น้ำมะนาวลงในกระทะและปรุงให้เข้ากับเนื้อสัตว์และผัก
+4. ใส่น้ำมะพร้าวข้นลงในกระทะและปรุงให้เข้ากับเนื้อสัตว์และผัก
+5. ใส่น้ำมะพร้าวข้นผสมกับน้ำตาลปี๊บลงในกระทะและปรุงให้เข้ากับเนื้อสัตว์และผัก
+6. ใส่น้ำตาลปี๊บลงในกระทะและปรุงให้เข้ากับเนื้อสัตว์และผัก
+7. ใส่น้ำมะพร้าวลงในกระทะและปรุงให้เข้ากับเนื้อสัตว์และผัก
+8. ใส่น้ำมะพร้าวข้นลงในกระทะและปรุงให้เข้ากับเนื้อสัตว์และผัก
+9. ใส่น้ำมะพร้าวข้นผสมกับน้ำตาลปี๊บลงในกระทะและปรุงให้เข้ากับเนื้อสัตว์และผัก
+10","aekngeliyng epnoaharaithythimichueoesiyngaelaepneoklaksnkhongphakhaitkhongpraethsaithy odyechphaaoyangyingainchanghwadnrathiwasaelachanghwadpattani withithamaekngeliyngmidangni
+
+**watthudib**
+
+- enueosatw (enueowawhrueoenueohmu)
+- phak (phakbung phakchifrang aelaphakkhana)
+- phrikaithy
+- nampla
+- namtal
+- nammanphuech
+- nammanaw
+- namtalpib
+- nammaphraw
+- nammaphrawkhn
+- nammaphrawkhnphsmkabnamtalpib
+
+**withitham**
+
+1. aisenueosatwlngainkrathaaelaprungdwyphrikaithy nampla namtal aelanammanphuech
+2. aisphaklngainkrathaaelaprungaihekhakabenueosatw
+3. aisnammanawlngainkrathaaelaprungaihekhakabenueosatwaelaphak
+4. aisnammaphrawkhnlngainkrathaaelaprungaihekhakabenueosatwaelaphak
+5. aisnammaphrawkhnphsmkabnamtalpiblngainkrathaaelaprungaihekhakabenueosatwaelaphak
+6. aisnamtalpiblngainkrathaaelaprungaihekhakabenueosatwaelaphak
+7. aisnammaphrawlngainkrathaaelaprungaihekhakabenueosatwaelaphak
+8. aisnammaphrawkhnlngainkrathaaelaprungaihekhakabenueosatwaelaphak
+9. aisnammaphrawkhnphsmkabnamtalpiblngainkrathaaelaprungaihekhakabenueosatwaelaphak
+10",.
+ให้เขียนวิธีทำ ผั๊ดหลูกต๋อ เป็นภาษาใต้,"วิธีทำผั๊ดหลูกต๋อ (ผัดหลูกต๋อ) เป็นอาหารไทยที่มีรสชาติเผ็ดและหอม โดยมีส่วนผสมหลักคือ เนื้อสัตว์หรือปลา และผักต่างๆ นี่คือวิธีทำผั๊ดหลูกต๋อแบบง่ายๆ
+
+**ส่วนผสม**
+
+*   เนื้อสัตว์หรือปลา 200 กรัม (สามารถใช้เนื้อหมูหรือเนื้อวัวได้)
+*   ผักต่างๆ เช่น ผักบุ้ง ผักชีฝรั่ง ผักคะน้า
+*   น้ำมันพืช 2 ช้อนโต๊ะ
+*   พริกขี้หนู 2-3 เม็ด
+*   พริกไทยป่น 1 ช้อนชา
+*   น้ำปลา 2 ช้อนโต๊ะ
+*   น้ำตาลปี๊บ 1 ช้อนชา
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อนโต๊ะ
+*   น้ำมะนาว 1 ช้อน","withithamphadhlukto (phadhlukto) epnoaharaithythimirschatiephdaelahom odymiswnphsmhlakkhueo enueosatwhrueopla aelaphaktang- nikhueowithithamphadhluktoaebbngay-
+
+**swnphsm**
+
+*   enueosatwhrueopla 200 kram (samarthaichenueohmuhrueoenueowawaid)
+*   phaktang- echn phakbung phakchifrang phakkhana
+*   nammanphuech 2 chonota
+*   phrikkhihnu 2-3 emd
+*   phrikaithypn 1 choncha
+*   nampla 2 chonota
+*   namtalpib 1 choncha
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chonota
+*   nammanaw 1 chon",.

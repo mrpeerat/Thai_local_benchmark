@@ -1,0 +1,345 @@
+Input,Pred,Pred_Latin,Gold
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: ซุมนักเรียนมักไปย่างเล่นนำอาจารย์ยามมื้อแลง ย้อนอากาศเย็นสบาย ได้ออกกำลังกายและป่าไม้รอบๆ หม่องย่างก็เฮ็ดให้อากาศดีหลายคัก
+คำแปล:","ข้อความภาษาอีสาน: ""ซุมนักเรียนมักไปย่างเล่นนำอาจารย์ยามมื้อแลง ย้อนอากาศเย็นสบาย ได้ออกกำลังกายและป่าไม้รอบๆ หม่องย่างก็เฮ็ดให้อากาศดีหลายคัก""
+
+ข้อความแปลภาษาอังกฤษ: ""Students often go to the forest to play with teachers during lunch break. They enjoy the cool weather, exercise, and the forest around the school is also very fresh and clean.""
+
+หมายเหตุ: ข้อความภาษาอีสานมีลักษณะเฉพาะของภาษาถิ่นและอาจมีความหมายที่แตกต่างกันไปในบริบทที่แตกต่างกัน แต่ข้อความที่แปลข้างต้นเป็นความหมายทั่วไปที่สามารถเข้าใจได้","khokhwamphasaoisan: ""sumnakeriynmakaipyangelnnamoacharyyammueoaelng yonoakaseynsbay aidookkamlangkayaelapaaimrob- hmongyangkehdaihoakasdihlaykhak""
+
+khokhwamaeplphasaoangkrues: ""Students often go to the forest to play with teachers during lunch break. They enjoy the cool weather, exercise, and the forest around the school is also very fresh and clean.""
+
+hmayehtu: khokhwamphasaoisanmilaksnaechphaakhongphasathinaelaoachmikhwamhmaythiaetktangkanaipainbribththiaetktangkan aetkhokhwamthiaeplkhangtnepnkhwamhmaythawaipthisamarthekhaaichaid","The group of students enjoys going for evening walks with their teacher because the weather is cool. They get some exercise, and the surrounding trees along the path make the air feel very refreshing."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: ขับรถเครื่องไปซื้อกาแฟหน้าปากซอย แต่ก็พ้อว่าร้านประจำที่มักกินปิดไปแล้ว ก็เลยขับรถไปรถไปซื้อร้านใหม่ บ่แซบเลย สิบ่ไปซื้ออีกแล้ว
+คำแปล:","ข้อความที่ให้มาเป็นภาษาอีสาน ซึ่งเป็นภาษาในภาคตะวันออกเฉียงเหนือของประเทศไทย คำแปลของข้อความนี้คือ:
+
+""ขับรถเครื่องไปซื้อกาแฟหน้าปากซอย แต่ก็พ้อว่าร้านประจำที่มักกินปิดไปแล้ว ก็เลยขับรถไปซื้อร้านใหม่ แต่ไม่สบายเลย เพราะไปซื้ออีกแล้ว""
+
+ข้อความนี้มีความหมายว่า คนหนึ่งไปซื้อกาแฟที่ร้านปกติ แต่ร้านนั้นปิดไปแล้ว ดังนั้นเขาจึงไปซื้อกาแฟที่ร้านใหม่ แต่ไม่สบายใจเพราะไปซื้ออีกแล้ว","khokhwamthiaihmaepnphasaoisan suengepnphasaainphakhtawanookechiyngehnueokhongpraethsaithy khamaeplkhongkhokhwamnikhueo:
+
+""khabrthekhrueongaipsueokaaefhnapaksoy aetkphowaranprachamthimakkinpidaipaelw kelykhabrthaipsueoranaihm aetaimsbayely ephraaaipsueooikaelw""
+
+khokhwamnimikhwamhmaywa khnhnuengaipsueokaaefthiranpkti aetrannanpidaipaelw dangnanekhachuengaipsueokaaefthiranaihm aetaimsbayaichephraaaipsueooikaelw","I rode my motorcycle to buy coffee at the entrance of the alley, only to find that my favorite shop was closed. So, I went to try a new place instead. It wasn't good at all. I wouldn't go buy it there again."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: ข้อยอยากสอบเข้าโรงเรียนสวนกุหลาบย้อนคึดว่าเป็นโรงเรียนที่ดี ข้อยเลยตั้งใจเรียนหลายๆ ให้สอบเข้าหม่องนี้ให้ได้ สุดท้ายสอบบ่ติด เสียใจคัก
+คำแปล:","ข้อความที่ให้มาเป็นภาษาอีสาน ซึ่งเป็นภาษาในภาคตะวันออกเฉียงเหนือของประเทศไทย คำแปลของข้อความนี้คือ:
+
+""ข้อยอยากสอบเข้าโรงเรียนสวนกุหลาบ แต่คิดถึงว่าเป็นโรงเรียนที่ดีเลยตั้งใจเรียนหลายอย่างเพื่อสอบเข้าไป แต่สุดท้ายสอบไม่ผ่าน เสียใจมาก""
+
+ข้อมูลเพิ่มเติม:
+
+* ""ข้อย"" เป็นคำที่ใช้แทนชื่อหรือคำนำหน้าในภาษาอีสาน
+* ""ย้อนคึด"" หมายถึง ""คิดถึง"" หรือ ""คิดถึงอย่างแรง""
+* ""หม่อง"" หมายถึง ""โรงเรียน""
+* ""เสียใจคัก"" หมายถึง ""เสียใจมาก"" หรือ ""เสียใจอย่างมาก""
+
+ภาษาอีสานเป็นภาษาท้องถิ่นในภาคตะวันออกเฉียงเหนือของประเทศไทย มีลักษณะเฉพาะของตัวเองและใช้คำศัพท์ที่แตกต่างจากภาษาไทยมาตรฐาน","khokhwamthiaihmaepnphasaoisan suengepnphasaainphakhtawanookechiyngehnueokhongpraethsaithy khamaeplkhongkhokhwamnikhueo:
+
+""khoyoyaksobekhaorngeriynswnkuhlab aetkhidthuengwaepnorngeriynthidielytangaicheriynhlayoyangephueosobekhaaip aetsudthaysobaimphan esiyaichmak""
+
+khomulephimetim:
+
+* ""khoy"" epnkhamthiaichaethnchueohrueokhamnamhnaainphasaoisan
+* ""yonkhued"" hmaythueng ""khidthueng"" hrueo ""khidthuengoyangaerng""
+* ""hmong"" hmaythueng ""orngeriyn""
+* ""esiyaichkhak"" hmaythueng ""esiyaichmak"" hrueo ""esiyaichoyangmak""
+
+phasaoisanepnphasathongthinainphakhtawanookechiyngehnueokhongpraethsaithy milaksnaechphaakhongtaweongaelaaichkhamsaphththiaetktangchakphasaaithymatrthan","I wanted to get into Suankularb School because I thought it was a great school. So, I studied really hard to pass the entrance exam. In the end, I didn’t make it, and I was very disappointed."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: หมู่รอบโตมักไปเที่ยวเมืองนอก แต่รู้สึกเสียดายเงิน เลยไปเที่ยวทะเลในไทยแทน อากาศก็ดี ราคาก็ถืก ดีก่อนหลาย เป็นหยังต้องไปเมืองนอกนำบ่เข้าใจ
+คำแปล:","ข้อความที่ให้มาเป็นภาษาอีสาน และข้อความนี้มีความหมายที่คล้ายกับภาษาไทยมาตรฐาน แต่มีความแตกต่างกันเล็กน้อย ดังนี้
+
+ข้อความ: หมู่รอบโตมักไปเที่ยวเมืองนอก แต่รู้สึกเสียดายเงิน เลยไปเที่ยวทะเลในไทยแทน อากาศก็ดี ราคาก็ถูก ดีก่อนหลายคนเป็นยังต้องไปเมืองนอกนำไม่เข้าใจ
+
+คำแปล: 
+
+หลายคนรอบๆ ตัวมักไปเที่ยวเมืองนอก แต่รู้สึกเสียดายเงิน เลยไปเที่ยวทะเลในไทยแทน อากาศก็ดี ราคาก็ถูก ดีกว่าหลายคนเป็นยังต้องไปเมืองนอกไม่เข้าใจ
+
+หมายเหตุ: 
+- ""หมู่รอบโตมัก"" แปลว่า ""หลายคนรอบๆ ตัวมัก""
+- ""หยัง"" แปลว่า ""ยัง""
+- ""นำ"" แปลว่า ""ไม่""
+- ""บ่"" แปลว่า ""ไม่"" (ใช้ในภาษาอีสาน)","khokhwamthiaihmaepnphasaoisan aelakhokhwamnimikhwamhmaythikhlaykabphasaaithymatrthan aetmikhwamaetktangkanelknoy dangni
+
+khokhwam: hmurobotmakaipethiywemueongnok aetrusuekesiydayengin elyaipethiywthaelainaithyaethn oakaskdi rakhakthuk dikonhlaykhnepnyangtongaipemueongnoknamaimekhaaich
+
+khamaepl: 
+
+hlaykhnrob- tawmakaipethiywemueongnok aetrusuekesiydayengin elyaipethiywthaelainaithyaethn oakaskdi rakhakthuk dikwahlaykhnepnyangtongaipemueongnokaimekhaaich
+
+hmayehtu: 
+- ""hmurobotmak"" aeplwa ""hlaykhnrob- tawmak""
+- ""hyang"" aeplwa ""yang""
+- ""nam"" aeplwa ""aim""
+- ""b"" aeplwa ""aim"" (aichainphasaoisan)","My friends all love traveling abroad, but I feel it's a waste of money. So, I’d rather go to the beach in Thailand instead. The weather is great, the prices are cheap—it’s so much better! I really don’t understand why people go abroad."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: [ซุม]ขะเจ้ากำลังซอยกันเฮ็ดความสะอาดเฮือนย้อนเฮือนมีแต่โคลนเต็มไปเบิด หลังจากเกิดเหตุการณ์น้ำท่วมตอนอาทิตย์ที่ผ่านมา ต้องเฮ็ดความสะอาดอีกดนเลย
+คำแปล:","ข้อความนี้เป็นภาษาอีสาน ซึ่งเป็นภาษาในภาคตะวันออกเฉียงเหนือของประเทศไทย คำแปลที่ถูกต้องคือ:
+
+""ซุม (ซึ่งหมายถึง ""น้ำ"" หรือ ""น้ำท่วม"") ขะเจ้า (ซึ่งหมายถึง ""คุณ"" หรือ ""คุณชาย"") กำลังซอย (ซึ่งหมายถึง ""ทำความสะอาด"") กันเฮ็ด (ซึ่งหมายถึง ""บ้าน"" หรือ ""บ้านเรือน"") ความสะอาด (ซึ่งหมายถึง ""ความสะอาด"" หรือ ""การทำความสะอาด"") ย้อน (ซึ่งหมายถึง ""ย้อนกลับ"" หรือ ""กลับไป"") เฮือน (ซึ่งหมายถึง ""บ้าน"" หรือ ""บ้านเรือน"") มีแต่โคลน (ซึ่งหมายถึง ""โคลน"" หรือ ""ดินเหนียว"") เต็มไปเบิด (ซึ่งหมายถึง ""เต็มไปด้วย"" หรือ ""เต็มไปด้วยโคลน"") หลังจากเกิดเหตุการณ์น้ำท่วม (ซึ่งหมายถึง ""น้ำท่วม"" หรือ ""น้ำท่วมครั้งล่าสุด"") ตอนอาทิตย์ที่ผ่านมา (ซึ่งหมายถึง ""เมื่อไม่นานมานี้"" หรือ ""เมื่อไม่นานมานี้"") ต้องเฮ็ด (ซึ่งหมายถึง ""ต้องทำความสะอาด"" หรือ ""ต้องทำความสะอาดอีก"") ความสะอาดอีก (ซึ่งหมายถึง ""ความสะอาดอีกครั้ง"" หรือ ""การทำความสะอาดอีกครั้ง"") ดน (ซึ่งหมายถึง ""อีกครั้ง"" หรือ ""อีกครั้งหนึ่ง"") เลย""
+
+คำแปลที่สั้นและง่ายขึ้นคือ:
+
+""หลังจากน้ำท่วมเมื่อไม่นานมานี้ บ้านเรือนของเราต้องทำความสะอาดอีกครั้ง เพราะโคลนเต็มไปทุกที่""","khokhwamniepnphasaoisan suengepnphasaainphakhtawanookechiyngehnueokhongpraethsaithy khamaeplthithuktongkhueo:
+
+""sum (suenghmaythueng ""nam"" hrueo ""namthwm"") khaecha (suenghmaythueng ""khun"" hrueo ""khunchay"") kamlangsoy (suenghmaythueng ""thamkhwamsaoad"") kanehd (suenghmaythueng ""ban"" hrueo ""banerueon"") khwamsaoad (suenghmaythueng ""khwamsaoad"" hrueo ""karthamkhwamsaoad"") yon (suenghmaythueng ""yonklab"" hrueo ""klabaip"") ehueon (suenghmaythueng ""ban"" hrueo ""banerueon"") miaetokhln (suenghmaythueng ""okhln"" hrueo ""dinehniyw"") etmaipebid (suenghmaythueng ""etmaipdwy"" hrueo ""etmaipdwyokhln"") hlangchakekidehtukarnnamthwm (suenghmaythueng ""namthwm"" hrueo ""namthwmkhranglasud"") tonoathitythiphanma (suenghmaythueng ""emueoaimnanmani"" hrueo ""emueoaimnanmani"") tongehd (suenghmaythueng ""tongthamkhwamsaoad"" hrueo ""tongthamkhwamsaoadoik"") khwamsaoadoik (suenghmaythueng ""khwamsaoadoikkhrang"" hrueo ""karthamkhwamsaoadoikkhrang"") dn (suenghmaythueng ""oikkhrang"" hrueo ""oikkhranghnueng"") ely""
+
+khamaeplthisanaelangaykhuenkhueo:
+
+""hlangchaknamthwmemueoaimnanmani banerueonkhongeratongthamkhwamsaoadoikkhrang ephraaokhlnetmaipthukthi""",They are helping each other clean the house because it’s full of mud after the flooding incident last week. It’s going to take a long time to clean up.
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: พ่อกับแม่มักไปเฮ็ดเวียกหม่องสวนหลายย้อนบรรยากาศดีและสงบ รวมไปถึงวิวภูเขาก็งามป่านหลุดไปอีกโลก
+คำแปล:","ข้อความที่ให้มาเป็นภาษาอีสาน ซึ่งเป็นภาษาในภาคตะวันออกเฉียงเหนือของประเทศไทย คำแปลของข้อความนี้คือ:
+
+""พ่อกับแม่มักไปเดินเล่นในสวนหลายๆ ที่มีอากาศดีและสงบ รวมไปถึงมีทิวทัศน์ของภูเขาที่สวยงามและน่าประทับใจ""
+
+ข้อมูลเพิ่มเติม:
+
+* ""เฮ็ดเวียก"" ในภาษาอีสานหมายถึง ""เดินเล่น"" หรือ ""เดินไปเที่ยว""
+* ""หม่อง"" หมายถึง ""สวน"" หรือ ""ที่ดิน""
+* ""ย้อน"" หมายถึง ""หลายๆ ที่"" หรือ ""หลายแห่ง""
+* ""บรรยากาศดี"" หมายถึง ""อากาศดี"" หรือ ""สภาพอากาศที่ดี""
+* ""สงบ"" หมายถึง ""สงบสุข"" หรือ ""ไม่มีความวุ่นวาย""
+* ""วิวภูเขาก็งาม"" หมายถึง ""มีทิวทัศน์ของภูเขาที่สวยงาม""
+* ""ป่านหลุดไปอีกโลก"" หมายถึง ""น่าประทับใจ"" หรือ ""น่าประหลาดใจ""","khokhwamthiaihmaepnphasaoisan suengepnphasaainphakhtawanookechiyngehnueokhongpraethsaithy khamaeplkhongkhokhwamnikhueo:
+
+""phokabaemmakaipedinelnainswnhlay- thimioakasdiaelasngb rwmaipthuengmithiwthasnkhongphuekhathiswyngamaelanaprathabaich""
+
+khomulephimetim:
+
+* ""ehdewiyk"" ainphasaoisanhmaythueng ""edineln"" hrueo ""edinaipethiyw""
+* ""hmong"" hmaythueng ""swn"" hrueo ""thidin""
+* ""yon"" hmaythueng ""hlay- thi"" hrueo ""hlayaehng""
+* ""brryakasdi"" hmaythueng ""oakasdi"" hrueo ""sphaphoakasthidi""
+* ""sngb"" hmaythueng ""sngbsukh"" hrueo ""aimmikhwamwunway""
+* ""wiwphuekhakngam"" hmaythueng ""mithiwthasnkhongphuekhathiswyngam""
+* ""panhludaipoikolk"" hmaythueng ""naprathabaich"" hrueo ""naprahladaich""","Dad and mom love working in the garden because the atmosphere is nice and peaceful, plus there’s a beautiful mountain view that feels like stepping into another world."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: เมนูน้ำพริกหนุ่มแมนอาหารขึ้นชื่อของภาคเหนือ โดยมีวัตถุดิบหลักๆ คือ พริกชี้ฟ้า หอมแดง กระเทียม
+คำแปล:","ข้อความที่ให้มาเป็นภาษาอีสาน และขอแปลเป็นภาษาอังกฤษโดยตรง ดังนี้
+
+""Menud Nam Prik Num Man (น้ำพริกหนุ่มแมน) เป็นอาหารที่มีชื่อเสียงของภาคเหนือ โดยมีวัตถุดิบหลักๆ คือ พริกชี้ฟ้า หอมแดง กระเทียม""","khokhwamthiaihmaepnphasaoisan aelakhoaeplepnphasaoangkruesodytrng dangni
+
+""Menud Nam Prik Num Man (namphrikhnumaemn) epnoaharthimichueoesiyngkhongphakhehnueo odymiwatthudibhlak- khueo phrikchifa homaedng kraethiym""","Nam Prik Noom is a famous dish from the northern region, with key ingredients including chili peppers, shallots, and garlic."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: หมู่เฮาตอนเที่ยงมีไผอยากไปกินตำบักหุ่งร้านครัวคุณกรบ่?
+คำแปล:","ข้อความภาษาอีสาน: ""หมู่เฮาตอนเที่ยงมีไผอยากไปกินตำบักหุ่งร้านครัวคุณกรบ่"" แปลเป็นภาษาอังกฤษได้เป็น ""The group of people at noon want to go eat a dish at Mrs. Krai's kitchen.""
+
+หมายเหตุ: 
+- ""หมู่เฮา"" หมายถึง กลุ่มของคน
+- ""เที่ยง"" หมายถึง เวลา 12.00 น.
+- ""ไผ"" หมายถึง พวกเขา (ใช้แทนคำว่า ""พวกเขา"" ในภาษาอีสาน)
+- ""อยาก"" หมายถึง ต้องการ
+- ""ไปกิน"" หมายถึง ไปรับประทานอาหาร
+- ""ตำบักหุ่ง"" หมายถึง อาหาร
+- ""ร้านครัวคุณกร"" หมายถึง ร้านอาหารของนางกร
+- ""บ่"" หมายถึง ไม่ (ใช้แทนคำว่า ""ไม่"" ในภาษาอีสาน)","khokhwamphasaoisan: ""hmuehatonethiyngmiaiphoyakaipkintambakhungrankhrawkhunkrb"" aeplepnphasaoangkruesaidepn ""The group of people at noon want to go eat a dish at Mrs. Krai's kitchen.""
+
+hmayehtu: 
+- ""hmueha"" hmaythueng klumkhongkhn
+- ""ethiyng"" hmaythueng ewla 12.00 n.
+- ""aiph"" hmaythueng phwkekha (aichaethnkhamwa ""phwkekha"" ainphasaoisan)
+- ""oyak"" hmaythueng tongkar
+- ""aipkin"" hmaythueng aiprabprathanoahar
+- ""tambakhung"" hmaythueng oahar
+- ""rankhrawkhunkr"" hmaythueng ranoaharkhongnangkr
+- ""b"" hmaythueng aim (aichaethnkhamwa ""aim"" ainphasaoisan)",Anyone interested in joining us for papaya salad and grilled chicken at Khun Korn’s Kitchen for lunch?
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: มื้อนี้ตื่นเช้าหลายย้อนสิไปเบิ่งแข่งวิ่งควาย อากาศร้อนแฮง เมือเฮือนมาเลยนอนพักย้อนปวดหัว
+คำแปล:","ข้อความที่ให้มาเป็นภาษาอีสาน ซึ่งเป็นภาษาในภาคตะวันออกเฉียงเหนือของประเทศไทย มีคำศัพท์และสำนวนที่แตกต่างจากภาษาไทยมาตรฐาน ดังนี้
+
+ข้อความ: ""มื้อนี้ตื่นเช้าหลายย้อนสิไปเบิ่งแข่งวิ่งควาย อากาศร้อนแฮง เมือเฮือนมาเลยนอนพักย้อนปวดหัว""
+
+คำแปล: ""วันนี้ตื่นเช้าไปดูการแข่งควาย อากาศร้อนมาก เมื่อไปถึงบ้านก็เลยนอนพักเพราะหัวปวด""
+
+ข้อมูลเพิ่มเติม:
+
+* ""มื้อนี้"" หมายถึง ""วันนี้""
+* ""หลายย้อนสิ"" หมายถึง ""ไป""
+* ""เบิ่ง"" หมายถึง ""ดู""
+* ""แข่งวิ่งควาย"" หมายถึง ""การแข่งควาย""
+* ""อากาศร้อนแฮง"" หมายถึง ""อากาศร้อนมาก""
+* ""เมือ"" หมายถึง ""เมื่อ""
+* ""เฮือน"" หมายถึง ""บ้าน""
+* ""มาเลยนอนพัก"" หมายถึง ""ไปนอนพัก""
+* ""ย้อนปวดหัว"" หมายถึง ""หัวปวด""","khokhwamthiaihmaepnphasaoisan suengepnphasaainphakhtawanookechiyngehnueokhongpraethsaithy mikhamsaphthaelasamnwnthiaetktangchakphasaaithymatrthan dangni
+
+khokhwam: ""mueonituenechahlayyonsiaipebingaekhngwingkhway oakasronaehng emueoehueonmaelynonphakyonpwdhaw""
+
+khamaepl: ""wannituenechaaipdukaraekhngkhway oakasronmak emueoaipthuengbankelynonphakephraahawpwd""
+
+khomulephimetim:
+
+* ""mueoni"" hmaythueng ""wanni""
+* ""hlayyonsi"" hmaythueng ""aip""
+* ""ebing"" hmaythueng ""du""
+* ""aekhngwingkhway"" hmaythueng ""karaekhngkhway""
+* ""oakasronaehng"" hmaythueng ""oakasronmak""
+* ""emueo"" hmaythueng ""emueo""
+* ""ehueon"" hmaythueng ""ban""
+* ""maelynonphak"" hmaythueng ""aipnonphak""
+* ""yonpwdhaw"" hmaythueng ""hawpwd""","I woke up very early today to go watch the buffalo race. The weather was so hot that when I got back home, I had to take a rest because I had a headache."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: เป็นหยังข้อยต้องเฮ็ดงานนี้อีกแล้ว แก้มาหลายเทือแล้ว บ่แล้วจักเทือ คนสั่งให้แก้ก็บ่ฮู้ว่าเจ้าของเฮ็ดอิหยังอยู่ ข้อยเหมื่อยแฮง
+คำแปล:","ข้อความนี้เป็นภาษาอีสาน (ภาษาถิ่นในภาคตะวันออกเฉียงเหนือของประเทศไทย) และแปลเป็นภาษาอังกฤษได้ดังนี้:
+
+""I've done this work many times already, but I still don't know who the owner is. I'm tired.""
+
+ข้อมูลเพิ่มเติม:
+
+- ""หยังข้อย"" หมายถึง ""ฉัน"" หรือ ""ผม/ดิฉัน""
+- ""ต้อง"" หมายถึง ""ต้องทำ"" หรือ ""ต้องมี""
+- ""เฮ็ด"" หมายถึง ""งาน"" หรือ ""ภาระ""
+- ""แก้มา"" หมายถึง ""ทำ"" หรือ ""จัดการ""
+- ""หลายเทือ"" หมายถึง ""หลายครั้ง""
+- ""บ่"" หมายถึง ""ไม่""
+- ""แล้ว"" หมายถึง ""แล้วก็""
+- ""จัก"" หมายถึง ""จะ""
+- ""เทือ"" หมายถึง ""เท่า""
+- ""คนสั่ง"" หมายถึง ""คนบอก"" หรือ ""คนสั่ง""
+- ""ให้แก"" หมายถึง ""ให้ทำ""
+- ""บ่ฮู้"" หมายถึง ""ไม่รู้""
+- ""เจ้าของ"" หมายถึง ""เจ้าของงาน""
+- ""อิหยัง"" หมายถึง ""อะไร""
+- ""อยู่"" หมายถึง ""อยู่ที่ไหน""
+- ""เหมื่อยแฮง"" หมายถึง ""เหนื่อย"" หรือ ""เหนื่อยล้า""
+
+ข้อความนี้แสดงถึงความเหนื่อยล้าและความไม่เข้าใจเกี่ยวกับเจ้าของงานที่ต้องทำ","khokhwamniepnphasaoisan (phasathinainphakhtawanookechiyngehnueokhongpraethsaithy) aelaaeplepnphasaoangkruesaiddangni:
+
+""I've done this work many times already, but I still don't know who the owner is. I'm tired.""
+
+khomulephimetim:
+
+- ""hyangkhoy"" hmaythueng ""chan"" hrueo ""phm/dichan""
+- ""tong"" hmaythueng ""tongtham"" hrueo ""tongmi""
+- ""ehd"" hmaythueng ""ngan"" hrueo ""phara""
+- ""aekma"" hmaythueng ""tham"" hrueo ""chadkar""
+- ""hlayethueo"" hmaythueng ""hlaykhrang""
+- ""b"" hmaythueng ""aim""
+- ""aelw"" hmaythueng ""aelwk""
+- ""chak"" hmaythueng ""cha""
+- ""ethueo"" hmaythueng ""etha""
+- ""khnsang"" hmaythueng ""khnbok"" hrueo ""khnsang""
+- ""aihaek"" hmaythueng ""aihtham""
+- ""bhu"" hmaythueng ""aimru""
+- ""echakhong"" hmaythueng ""echakhongngan""
+- ""oihyang"" hmaythueng ""oaair""
+- ""oyu"" hmaythueng ""oyuthiaihn""
+- ""ehmueoyaehng"" hmaythueng ""ehnueoy"" hrueo ""ehnueoyla""
+
+khokhwamniaesdngthuengkhwamehnueoylaaelakhwamaimekhaaichekiywkabechakhongnganthitongtham","Why do I have to do this work again? I’ve revised it so many times, but it’s never finished. The person who keeps asking for revisions doesn’t even know what they’re doing. I’m so exhausted."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: ข่อยซื้อไก่ทอดมาฝากหมู่ แต่หิว เลยเอาของหมู่มากิน หมู่บ่ว่า แถมเอาไก่ไปอุ่นให้อีกนำ หมู่เป็นคนดีอีหลี
+คำแปล:","ข้อความภาษาอีสาน: ""ข่อยซื้อไก่ทอดมาฝากหมู่ แต่หิว เลยเอาของหมู่มากิน หมู่บ่ว่า แถมเอาไก่ไปอุ่นให้อีกนำ หมู่เป็นคนดีอีหลี""
+
+คำแปลภาษาอังกฤษ: ""I bought fried chicken to share with my friend, but I was hungry, so I ate most of it. My friend said, 'You ate too much!' and then I even warmed up the chicken for my friend. I'm a good friend, I guess.""
+
+หมายเหตุ: คำว่า ""ข่อย"" ในภาษาอีสานหมายถึง ""ฉัน"" หรือ ""ผม"" ในภาษาไทย คำว่า ""หมู่"" หมายถึง ""เพื่อน"" หรือ ""เพื่อนบ้าน"" ในภาษาไทย คำว่า ""บ่ว่า"" หมายถึง ""บอก"" หรือ ""พูด"" ในภาษาไทย และคำว่า ""อีหลี"" หมายถึง ""ดี"" หรือ ""ดีใจ"" ในภาษาไทย","khokhwamphasaoisan: ""khoysueoaikthodmafakhmu aethiw elyeoakhonghmumakin hmubwa aethmeoaaikaipounaihoiknam hmuepnkhndioihli""
+
+khamaeplphasaoangkrues: ""I bought fried chicken to share with my friend, but I was hungry, so I ate most of it. My friend said, 'You ate too much!' and then I even warmed up the chicken for my friend. I'm a good friend, I guess.""
+
+hmayehtu: khamwa ""khoy"" ainphasaoisanhmaythueng ""chan"" hrueo ""phm"" ainphasaaithy khamwa ""hmu"" hmaythueng ""ephueon"" hrueo ""ephueonban"" ainphasaaithy khamwa ""bwa"" hmaythueng ""bok"" hrueo ""phud"" ainphasaaithy aelakhamwa ""oihli"" hmaythueng ""di"" hrueo ""diaich"" ainphasaaithy","I bought fried chicken for my friend, but I was too hungry, so I ate it instead. My friend didn’t mind and even reheated it for me. Such a kind friend!"
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: ข่อยบ่เคยฮู้มาก่อนเลยว่าอ้ายเบียร์สิเป็นคนที่ปีนผาได้เก่งจังซี่ ประหลาดใจหลาย และจะเอาเขาเป็นแบบอย่างของความมีวินัยและสม่ำเสมอในการออกกำลังกาย
+คำแปล:",ข้อความ: ฉันไม่เคยรู้มาก่อนว่าอ้ายเบียร์สิเป็นคนปีนผาเก่งมาก ฉันประหลาดใจและต้องการให้เขาเป็นแบบอย่างในการมีวินัยและสม่ำเสมอในการออกกำลังกาย,khokhwam: chanaimekhyrumakonwaoayebiyrsiepnkhnpinphaekngmak chanprahladaichaelatongkaraihekhaepnaebboyangainkarmiwinayaelasmamesmoainkarookkamlangkay,"I never knew before that Beer was so good at rock climbing. It’s impressive, and I’ll use him as an example of discipline and consistency in exercise."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: บางคนมักสะสมนาฬิกาหรู แต่บางคนมักสะสมกระเป๋าแบรนด์เนม สุดท้ายตายไปกะเอาไปบ่ได้
+คำแปล:","ข้อความที่ให้มาในภาษาอีสานคือ:
+
+""บางคนมักสะสมนาฬิกาหรู แต่บางคนมักสะสมกระเป๋าแบรนด์เนม สุดท้ายตายไปกะเอาไปบ่ได้""
+
+คำแปลในภาษาอังกฤษ:
+
+""Some people collect luxury watches, while others collect branded handbags. In the end, they take nothing with them when they die.""","khokhwamthiaihmaainphasaoisankhueo:
+
+""bangkhnmaksasmnalikahru aetbangkhnmaksasmkraepaaebrndenm sudthaytayaipkaeoaaipbaid""
+
+khamaeplainphasaoangkrues:
+
+""Some people collect luxury watches, while others collect branded handbags. In the end, they take nothing with them when they die.""","Some people like to collect luxury watches, while others prefer designer bags. In the end, you can’t take any of it with you when you die."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: วันที่ฝนตกจะต้องเอา คันจ้อง ออกไปนำ แต่มื้อนี้น้องแก้มลืมเอาคันจ้องมา ดังนั้นน้องแก้มเลยนอนเล่นอยู่บ้าน
+คำแปล:","ข้อความนี้มีความหมายเหมือนกับ ""วันที่ฝนตก"" หรือ ""วันที่ฝน"" ในภาษาอีสาน ซึ่งเป็นภาษาในภาคตะวันออกเฉียงเหนือของประเทศไทย
+
+ข้อความที่แปลเป็นภาษาอังกฤษคือ:
+
+""When it rains, we have to take the umbrella out. But today, my little sister forgot to bring the umbrella. So, my little sister is playing at home.""
+
+หรือ
+
+""When it rains, we have to take the umbrella out. But today, my little sister forgot to bring the umbrella. So, my little sister is staying at home.""
+
+หรือ
+
+""When it rains, we have to take the umbrella out. But today, my little sister forgot to bring the umbrella. So, my little sister is playing at home today.""
+
+ข้อความนี้มีความหมายเหมือนกับ ""วันที่ฝนตก"" หรือ ""วันที่ฝน"" ในภาษาอีสาน ซึ่งเป็นภาษาในภาคตะวันออกเฉียงเหนือของประเทศไทย","khokhwamnimikhwamhmayehmueonkab ""wanthifntk"" hrueo ""wanthifn"" ainphasaoisan suengepnphasaainphakhtawanookechiyngehnueokhongpraethsaithy
+
+khokhwamthiaeplepnphasaoangkrueskhueo:
+
+""When it rains, we have to take the umbrella out. But today, my little sister forgot to bring the umbrella. So, my little sister is playing at home.""
+
+hrueo
+
+""When it rains, we have to take the umbrella out. But today, my little sister forgot to bring the umbrella. So, my little sister is staying at home.""
+
+hrueo
+
+""When it rains, we have to take the umbrella out. But today, my little sister forgot to bring the umbrella. So, my little sister is playing at home today.""
+
+khokhwamnimikhwamhmayehmueonkab ""wanthifntk"" hrueo ""wanthifn"" ainphasaoisan suengepnphasaainphakhtawanookechiyngehnueokhongpraethsaithy","On rainy days, you have to take an umbrella, but today, Gam forgot hers. So, she stayed home and relaxed."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: ปวดท้องมีอยู่ 2 อย่างคือ ปวดท้องขี้ กับ กับปวดท้องอีหลี ที่ต้องไปหาหมอ จากนั้นเอาใบฮับฮองแพทย์มาให้ครู เพื่อใช้ในการลาเฮียน
+คำแปล:","ข้อความที่ให้มาเป็นภาษาอีสาน ซึ่งเป็นภาษาในภาคตะวันออกเฉียงเหนือของประเทศไทย คำแปลที่ถูกต้องคือ:
+
+มีอาการปวดท้อง 2 อย่าง คือ ปวดท้องขี้หนู (ปวดท้องเนื่องจากมีแมลงหรือสัตว์เล็กๆ อยู่ในกระเพาะอาหาร) และปวดท้องอีหลี (ปวดท้องเนื่องจากมีไข้หรืออาการท้องร่วง) ที่ต้องไปหาหมอ จากนั้นเอาใบฮับฮองแพทย์ (ใบสั่งการรักษา) มาให้ครู เพื่อใช้ในการลา (ขออนุญาตพักการเรียน)","khokhwamthiaihmaepnphasaoisan suengepnphasaainphakhtawanookechiyngehnueokhongpraethsaithy khamaeplthithuktongkhueo:
+
+mioakarpwdthong 2 oyang khueo pwdthongkhihnu (pwdthongenueongchakmiaemlnghrueosatwelk- oyuainkraephaaoahar) aelapwdthongoihli (pwdthongenueongchakmiaikhhrueooakarthongrwng) thitongaiphahmo chaknaneoaaibhabhongaephthy (aibsangkarraksa) maaihkhru ephueoaichainkarla (khoonuyatphakkareriyn)","There are two kinds of stomach aches: one where you need to use the bathroom, and a real one that needs medical attention. After that, you bring a medical certificate to the teacher for a leave of absence."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: คนที่มักแกล้งคนอื่นคือคนไม่มักดี ถ้าอยากเป็นคนดี ต้องไม่แกล้งคนอื่น แต่น้องกร ถืกแกล้งดู๋ เลย เฮ็ดให้น้องกร ตะโกนว่า ""มึงเป็นหยังหลายบ่""
+คำแปล:","ข้อความภาษาอีสานที่ให้มาเป็นภาษาไทยมีความหมายเหมือนกับภาษาอังกฤษที่ว่า ""คนที่มักจะทำให้คนอื่นลำบากหรือแกล้งคนอื่น นั่นเป็นเพราะว่าพวกเขาไม่มีความดี ถ้าอยากจะเป็นคนดี คุณต้องไม่ทำให้คนอื่นลำบาก แต่น้องกร (น้องชาย) ก็แกล้งดู๋ (น้องสาว) เลย เฮ็ด (น้องชาย) จึงบอกว่า ""คุณเป็นคนไม่ดี""","khokhwamphasaoisanthiaihmaepnphasaaithymikhwamhmayehmueonkabphasaoangkruesthiwa ""khnthimakchathamaihkhnouenlambakhrueoaeklngkhnouen nanepnephraawaphwkekhaaimmikhwamdi thaoyakchaepnkhndi khuntongaimthamaihkhnouenlambak aetnongkr (nongchay) kaeklngdu (nongsaw) ely ehd (nongchay) chuengbokwa ""khunepnkhnaimdi""","People who like to tease others are no-good. If you want to be a good person, don’t tease others. But Korn often gets teased, which makes him shout, ""What the heck is your problem?"""
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: งัวของเจ้า คึกหลาย ลุยดินบ่หยุดเลย แสดงว่ามันอยากจะสู้กัน
+คำแปล:","ข้อความนี้แปลเป็นภาษาอังกฤษได้ดังนี้:
+
+""The buffalo of the lord, Kuk Lai, dug into the ground without stopping, indicating that it wanted to fight.""
+
+หมายเหตุ: ""คึกหลาย"" เป็นชื่อของงัวในภาษาอีสาน และ ""คึก"" เป็นคำที่ใช้แสดงถึงความกระตือรือร้นหรือความตื่นเต้น","khokhwamniaeplepnphasaoangkruesaiddangni:
+
+""The buffalo of the lord, Kuk Lai, dug into the ground without stopping, indicating that it wanted to fight.""
+
+hmayehtu: ""khuekhlay"" epnchueokhongngawainphasaoisan aela ""khuek"" epnkhamthiaichaesdngthuengkhwamkratueorueornhrueokhwamtuenetn","Your cow is very spirited, kicking up the dirt non-stop. It shows it’s ready to fight."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: เจ้าจะบ่รู้สึกฮ้อนๆหนาวๆ ขึ้นมาได้จังได๋ ย้อนว่า เจ้าเฮ็ดผิดแล้วเมียจับได้
+คำแปล:","ข้อความที่ให้มาในภาษาอีสานคือ:
+
+""เจ้าจะบ่รู้สึกฮ้อนๆหนาวๆ ขึ้นมาได้จังได๋ ย้อนว่า เจ้าเฮ็ดผิดแล้วเมียจับได้""
+
+คำแปลในภาษาอังกฤษ:
+
+""You will feel hot and cold at the same time. You will regret it when your wife catches you.""
+
+หมายเหตุ: คำว่า ""เฮ็ด"" ในภาษาอีสานหมายถึง ""ผิด"" หรือ ""ผิดพลาด"" ในขณะที่ ""เมีย"" หมายถึง ""ภรรยา"" หรือ ""ภรรยาของตนเอง""","khokhwamthiaihmaainphasaoisankhueo:
+
+""echachabrusuekhon-hnaw- khuenmaaidchangaid yonwa echaehdphidaelwemiychabaid""
+
+khamaeplainphasaoangkrues:
+
+""You will feel hot and cold at the same time. You will regret it when your wife catches you.""
+
+hmayehtu: khamwa ""ehd"" ainphasaoisanhmaythueng ""phid"" hrueo ""phidphlad"" ainkhnathi ""emiy"" hmaythueng ""phrrya"" hrueo ""phrryakhongtneong""","How could you not feel hot and cold flashes? You made a mistake, and your wife found out."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: หมาตัวนั้นย่างข้ามถนนพร้อมหมูปิ้งในปาก กำลังไปหาลูกๆ ของมัน ภาพที่เห็นเป็นตาสีโตนหลายและน่าจับใจ
+คำแปล:","ข้อความภาษาอีสาน: ""หมาตัวนั้นย่างข้ามถนนพร้อมหมูปิ้งในปาก กำลังไปหาลูกๆ ของมัน ภาพที่เห็นเป็นตาสีโตนหลายและน่าจับใจ""
+
+ข้อความแปลภาษาอังกฤษ: ""The elephant crossed the road with a porcupine in its mouth, heading to find its children. The scene is full of beauty and touching.""","khokhwamphasaoisan: ""hmatawnanyangkhamthnnphromhmupingainpak kamlangaiphaluk- khongman phaphthiehnepntasiotnhlayaelanachabaich""
+
+khokhwamaeplphasaoangkrues: ""The elephant crossed the road with a porcupine in its mouth, heading to find its children. The scene is full of beauty and touching.""","That dog crossed the road with grilled pork in its mouth, heading to its puppies. The scene was heartwarming and touching."
+"แปลข้อความต่อไปนี้จาก ภาษาอีสาน เป็น ภาษาอังกฤษ ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: ปลาโตใหญ่นี้ ข่อยตกเบ็ดได้มาเมื่อวานและปลาที่ติดเบ็ดลากนี้ส่วนมากมักสิเป็นแม่ปลา
+คำแปล:","ข้อความภาษาอีสาน: ""ปลาโตใหญ่นี้ ข่อยตกเบ็ดได้มาเมื่อวานและปลาที่ติดเบ็ดลากนี้ส่วนมากมักสิเป็นแม่ปลา""
+
+ข้อความภาษาอังกฤษ: ""This big fish, I caught it with a hook yesterday and most of the fish that got hooked with this hook are usually the mother fish.""","khokhwamphasaoisan: ""plaotaihyni khoytkebdaidmaemueowanaelaplathitidebdlakniswnmakmaksiepnaempla""
+
+khokhwamphasaoangkrues: ""This big fish, I caught it with a hook yesterday and most of the fish that got hooked with this hook are usually the mother fish.""","I caught this big fish yesterday, and most of the fish I catch on the line tend to be female fish."

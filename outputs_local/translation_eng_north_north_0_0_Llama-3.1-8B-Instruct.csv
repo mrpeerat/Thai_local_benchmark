@@ -1,0 +1,131 @@
+Input,Pred,Pred_Latin,Gold
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: The group of students enjoys going for evening walks with their teacher because the weather is cool. They get some exercise, and the surrounding trees along the path make the air feel very refreshing.
+คำแปล:",กลุ่มของนักเรียนชอบเดินเล่นกับครูในตอนเย็นเพราะอากาศเย็นสบาย พวกเขาจะได้ออกกำลังกาย และต้นไม้รอบๆ ทางเดินทำให้อากาศรู้สึกเย็นสบายมาก,klumkhongnakeriynchobedinelnkabkhruaintoneynephraaoakaseynsbay phwkekhachaaidookkamlangkay aelatnaimrob- thangedinthamaihoakasrusuekeynsbaymak,กลุ่มนักเฮียนชอบไปเตียวเล่นกับอาจารย์ในช่วงเมื่อแลง เพราะอากาศมันเย็นสบายได้ออกกำลังกายและป่าไม้รอบๆตางเตียวก่ยะฮื้ออากาศดีมากๆโตย
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I rode my motorcycle to buy coffee at the entrance of the alley, only to find that my favorite shop was closed. So, I went to try a new place instead. It wasn't good at all. I wouldn't go buy it there again.
+คำแปล:","ข้อความที่ให้มาเป็นภาษาอังกฤษ และต้องการแปลเป็นภาษาเหนือ (ภาษาไทย) คำแปลคือ:
+
+ฉันขับรถจักรยานยนต์ไปซื้อเครื่องดื่มกาแฟที่ทางเข้าซอย แต่พบว่าร้านที่ชอบของฉันปิดไปแล้ว ดังนั้น ฉันจึงไปลองร้านใหม่แทน แต่ไม่ดีเลย ฉันจะไม่ไปซื้อไปที่นั่นอีก","khokhwamthiaihmaepnphasaoangkrues aelatongkaraeplepnphasaehnueo (phasaaithy) khamaeplkhueo:
+
+chankhabrthchakryanyntaipsueoekhrueongduemkaaefthithangekhasoy aetphbwaranthichobkhongchanpidaipaelw dangnan chanchuengaiplongranaihmaethn aetaimdiely chanchaaimaipsueoaipthinanoik",ขับรถเครื่องไปซื้อกาแฟที่หน้าปากซอย แต่ก็พบว่าฮ้านประจำตี้ชอบกิ๋นมันปิดไปแล้ว ก่อเลยขับรถไปซื้อฮ้านใหม่ บ่อลำเลย จะบ่ไปซื้อแหมแล้ว
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I wanted to get into Suankularb School because I thought it was a great school. So, I studied really hard to pass the entrance exam. In the end, I didn’t make it, and I was very disappointed.
+คำแปล:",ข้อความที่ต้องการแปลคือ: ฉันอยากเข้าเรียนโรงเรียนสวนกุหลาบเพราะฉันคิดว่าโรงเรียนนั้นเป็นโรงเรียนที่ดี ดังนั้น ฉันจึงเรียนหนักเพื่อผ่านการสอบเข้าโรงเรียน แต่สุดท้ายฉันไม่ได้เข้า และฉันรู้สึกเสียใจมาก,khokhwamthitongkaraeplkhueo: chanoyakekhaeriynorngeriynswnkuhlabephraachankhidwaorngeriynnanepnorngeriynthidi dangnan chanchuengeriynhnakephueophankarsobekhaorngeriyn aetsudthaychanaimaidekha aelachanrusuekesiyaichmak,ฮาอยากจะสอบเข้าโฮงเฮียนสวนกุหลาบเพราะกึดว่าเป็นโฮงเฮียนตี้ดี ฮาเลยตั้งใจเฮียนนักๆ เพื่อตี้จะสอบเข้าตี้นี่หื้อได้ สุดท้ายสอบบ่ติด เสียใจขนาด
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: My friends all love traveling abroad, but I feel it's a waste of money. So, I’d rather go to the beach in Thailand instead. The weather is great, the prices are cheap—it’s so much better! I really don’t understand why people go abroad.
+คำแปล:",เพื่อนๆ ของฉันชอบเดินทางไปต่างประเทศ แต่ฉันรู้สึกว่าใช้เงินเปล่าๆ ฉันจึงชอบไปเที่ยวชายหาดในประเทศไทยมากกว่า อากาศดี ราคาถูก มันคือสิ่งที่ดีกว่ามาก ฉันไม่เข้าใจว่าทำไมคนถึงไปต่างประเทศ,ephueon- khongchanchobedinthangaiptangpraeths aetchanrusuekwaaichenginepla- chanchuengchobaipethiywchayhadainpraethsaithymakkwa oakasdi rakhathuk mankhueosingthidikwamak chanaimekhaaichwathamaimkhnthuengaiptangpraeths,จะหมู่รอบตัวชอบไปแอ่วเมืองนอก แต่ฮู้สึกเสียดายเงิน เลยไปแอ่วทะเลในไทยแทน อากาศก่อดี ราคาก่ถูก ดีกว่าเยอะ เยียะหยังต้องไปเมืองนอกโตย บ่เข้าใจ
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: They are helping each other clean the house because it’s full of mud after the flooding incident last week. It’s going to take a long time to clean up.
+คำแปล:",คำแปลภาษาเหนือ: พวกเขากำลังช่วยกันทำความสะอาดบ้าน เพราะบ้านมีน้ำขังหลังจากเกิดน้ำท่วมเมื่อสัปดาห์ที่แล้ว มีเวลานานมากในการทำความสะอาด,khamaeplphasaehnueo: phwkekhakamlangchwykanthamkhwamsaoadban ephraabanminamkhanghlangchakekidnamthwmemueosapdahthiaelw miewlananmakainkarthamkhwamsaoad,สูเขากำลังช่วยกันทำความสะอาดบ้านเพราะตี้บ้านมีแต่ขี้เปอะเต็มไปหมด หลังจากเกิดเหตุการณ์น้ำท่วมเมื่ออาติ้ดตี้ผ่านมา ต้องทำความสะอาดแหมเมินเลย
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Dad and mom love working in the garden because the atmosphere is nice and peaceful, plus there’s a beautiful mountain view that feels like stepping into another world.
+คำแปล:",คำแปล: พ่อแม่ชอบทำงานในสวนเพราะบรรยากาศดีและสงบสุข นอกจากนี้ยังมีทิวทัศน์ของภูเขา ที่ทำให้เหมือนกับว่าเราอยู่ในโลกอื่น,khamaepl: phoaemchobthamnganainswnephraabrryakasdiaelasngbsukh nokchakniyangmithiwthasnkhongphuekha thithamaihehmueonkabwaeraoyuainolkouen,ป้อกับแม่ชอบไปยะกั๋นตี้สวนมากเพราะตี้สวนบรรยากาศดีและสงบ รวมไปถึงวิวเขาตี้ดูสวยงามเหมือนหลุดเข้าไปแหมโลก
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Nam Prik Noom is a famous dish from the northern region, with key ingredients including chili peppers, shallots, and garlic.
+คำแปล:",น้ำพริกหนุ่ม เป็นอาหารที่มีชื่อเสียงจากภาคเหนือ โดยมีส่วนผสมหลัก ได้แก่ พริกไทย กระเทียม และหอมแดง,namphrikhnum epnoaharthimichueoesiyngchakphakhehnueo odymiswnphsmhlak aidaek phrikaithy kraethiym aelahomaedng,เมนูน้ำพริกหนุ่มเป็นอาหารขึ้นชื่อของภาคเหนือ โดยมีวัตถุดิบหลักๆ คือ พริกชี้ฟ้า หอมเแดง กระเทียม 
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Anyone interested in joining us for papaya salad and grilled chicken at Khun Korn’s Kitchen for lunch?
+คำแปล:",คนที่สนใจมาร่วมรับประทานผักชีฝรั่งและไก่อบกับ คุณกร ณ คุณกร's Kitchen สำหรับอาหารกลางวัน,khnthisnaichmarwmrabprathanphakchifrangaelaaikobkab khunkr n khunkr's Kitchen samhraboaharklangwan,หมู่เฮาตอนเที่ยงมีไผสนใจไปกินส้มตำไก่ย่างตี๋ร้านครัวคุณกรก่อ?
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I woke up very early today to go watch the buffalo race. The weather was so hot that when I got back home, I had to take a rest because I had a headache.
+คำแปล:","ข้อความที่ให้มาเป็นภาษาอังกฤษ และต้องการแปลเป็นภาษาเหนือ (ภาษาไทย) คำแปลที่ถูกต้องคือ:
+
+""ฉันลุกขึ้นมาเมื่อเช้าตรู่วันนี้เพื่อไปดูการแข่งควาย แต่สภาพอากาศร้อนจัดมาก เมื่อฉันกลับบ้าน ฉันเลยต้องพักผ่อนเพราะมีหัวใจวาย""
+
+ข้อมูลเพิ่มเติม:
+
+- ""woke up"" แปลว่า ""ลุกขึ้นมา"" หรือ ""ตื่นขึ้นมา""
+- ""very early"" แปลว่า ""เช้าตรู่""
+- ""buffalo race"" แปลว่า ""การแข่งควาย""
+- ""had to"" แปลว่า ""ต้อง""
+- ""take a rest"" แปลว่า ""พักผ่อน""
+- ""had a headache"" แปลว่า ""มีหัวใจวาย"" หรือ ""มีหัวใจวาย""
+
+หมายเหตุ: ภาษาเหนือ (ภาษาไทย) มีความแตกต่างจากภาษาไทยมาตรฐานในบางคำและสำนวนที่ใช้","khokhwamthiaihmaepnphasaoangkrues aelatongkaraeplepnphasaehnueo (phasaaithy) khamaeplthithuktongkhueo:
+
+""chanlukkhuenmaemueoechatruwanniephueoaipdukaraekhngkhway aetsphaphoakasronchadmak emueochanklabban chanelytongphakphonephraamihawaichway""
+
+khomulephimetim:
+
+- ""woke up"" aeplwa ""lukkhuenma"" hrueo ""tuenkhuenma""
+- ""very early"" aeplwa ""echatru""
+- ""buffalo race"" aeplwa ""karaekhngkhway""
+- ""had to"" aeplwa ""tong""
+- ""take a rest"" aeplwa ""phakphon""
+- ""had a headache"" aeplwa ""mihawaichway"" hrueo ""mihawaichway""
+
+hmayehtu: phasaehnueo (phasaaithy) mikhwamaetktangchakphasaaithymatrthanainbangkhamaelasamnwnthiaich",วันนี้ตื่นเช้ามากเพราะจะไปดูแข่งล่นควาย อากาศฮ้อนขนาด ปิ๊กบ้านมาเลยนอนพักเพราะปวดหัว
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Why do I have to do this work again? I’ve revised it so many times, but it’s never finished. The person who keeps asking for revisions doesn’t even know what they’re doing. I’m so exhausted.
+คำแปล:","คำแปลภาษาเหนือ: 
+
+สิฉันทำไมต้องทำงานนี้อีกครั้ง ฉันแก้ไขมันหลายครั้งแล้ว แต่ก็ยังไม่เสร็จสิ้น  คนคนนั้นที่ต้องการให้ฉันแก้ไขอีกคนนั้นไม่รู้ว่าพวกเขาเองทำอะไรอยู่เลย ฉันเหนื่อยมาก","khamaeplphasaehnueo: 
+
+sichanthamaimtongthamngannioikkhrang chanaekaikhmanhlaykhrangaelw aetkyangaimesrchsin  khnkhnnanthitongkaraihchanaekaikhoikkhnnanaimruwaphwkekhaeongthamoaairoyuely chanehnueoymak",เยี๊ยะหยังฮาต้องยะกั๋นนี้แหมแล้ว แก้มาหลายเตื้อละ บ่แล้วสักกำ คนสั่งหื้อแก้ก่บ่ฮู้ว่าตัวเก่ายะหยังอยู่ ฮาอิ๊ดขนาด
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I bought fried chicken for my friend, but I was too hungry, so I ate it instead. My friend didn’t mind and even reheated it for me. Such a kind friend!
+คำแปล:","ข้อความที่ให้มา: I bought fried chicken for my friend, but I was too hungry, so I ate it instead. My friend didn’t mind and even reheated it for me. Such a kind friend!
+
+คำแปลภาษาเหนือ: 
+
+- ฉันซื้อไก่ปิ้งให้เพื่อน แต่ฉันหิวมาก ฉันจึงกินแทน  เพื่อนไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม่ไม","khokhwamthiaihma: I bought fried chicken for my friend, but I was too hungry, so I ate it instead. My friend didn't mind and even reheated it for me. Such a kind friend!
+
+khamaeplphasaehnueo: 
+
+- chansueoaikpingaihephueon aetchanhiwmak chanchuengkinaethn  ephueonaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaimaim",เปิ้ลซื้อไก่ทอดมาฝากเปื้อน แต่หิวเกินเลยเอาของเปื้อนมากิน เปื้อนบะว่าแถมยังเอาไก่ไปอุ่นหือแห่ม เปื้อนเป็นคนดีแต้ๆ
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I never knew before that Beer was so good at rock climbing. It’s impressive, and I’ll use him as an example of discipline and consistency in exercise.
+คำแปล:","ข้อความที่ให้มา: I never knew before that Beer was so good at rock climbing. It’s impressive, and I’ll use him as an example of discipline and consistency in exercise.
+
+คำแปลภาษาเหนือ: มันไม่เคยรู้มาก่อนว่าเบียร์จะดีมากกับการปีนเขา มันประทับใจ และฉันจะใช้เขาเป็นตัวอย่างของการฝึกฝนและความสม่ำเสมอในการออกกำลังกาย","khokhwamthiaihma: I never knew before that Beer was so good at rock climbing. It's impressive, and I'll use him as an example of discipline and consistency in exercise.
+
+khamaeplphasaehnueo: manaimekhyrumakonwaebiyrchadimakkabkarpinekha manprathabaich aelachanchaaichekhaepntawoyangkhongkarfuekfnaelakhwamsmamesmoainkarookkamlangkay",เปิ้ลบะเกยฮู้มาก่อนเลยว่าอ้ายเบียร์จะเป็นคนตี้ปืนผาได้เก่งขนาดนี้ เก่งขนาด ละจะเอาเขาเป็นแบบอย่างของความมีวินัยและสม่ำเสมอในก๋านออกกำลังกาย
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Some people like to collect luxury watches, while others prefer designer bags. In the end, you can’t take any of it with you when you die.
+คำแปล:","คำแปลภาษาเหนือ: 
+
+คนบางคนชอบสะสมเครื่องประดับหรูหรู คนอื่นๆ ก็ชอบกระเป๋าแบรนด์  ในที่สุด คุณก็ไม่สามารถนำสิ่งเหล่านั้นไปได้เมื่อคุณตาย","khamaeplphasaehnueo: 
+
+khnbangkhnchobsasmekhrueongpradabhruhru khnouen- kchobkraepaaebrnd  ainthisud khunkaimsamarthnamsingehlananaipaidemueokhuntay",บางคนมักสะสมนาฬิกาหรู แต่บางคนมักสะสมกระเป๋าแบรนด์เนม สุดท้ายตายไปก็เอาไปบะใจ๋ได้
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: On rainy days, you have to take an umbrella, but today, Gam forgot hers. So, she stayed home and relaxed.
+คำแปล:",เมื่อฝนตก คุณต้องเอาตะเกียบไปกับ แต่ในวันนี้ Gamลืมเอาตะเกียบไป ดังนั้น เธอจึงอยู่บ้านและผ่อนคลาย,emueofntk khuntongeoataekiybaipkab aetainwanni Gamluemeoataekiybaip dangnan ethochuengoyubanaelaphonkhlay,วันตี้ฝนตกจะต้องนำจ่องไปตวย แต่วันนี้น้องแก้มลืมเอาจ่องมา จะอั๋นน้องแก้มก่อเลยนอนเล่นอยู่บ้าน
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: There are two kinds of stomach aches: one where you need to use the bathroom, and a real one that needs medical attention. After that, you bring a medical certificate to the teacher for a leave of absence.
+คำแปล:",มี 2 แบบของปวดท้อง คือ 1. ท้องร่วงต้องไปใช้ห้องน้ำ 2. ท้องร่วงจริงต้องไปพบแพทย์,mi 2 aebbkhongpwdthong khueo 1. thongrwngtongaipaichhongnam 2. thongrwngchringtongaipphbaephthy,เจ็บต๊องมีอยู่ 2 อย่างคือ เจ็บต๊องขี้ กับ เจ็บต๊องแต้ๆ ตี้ต้องไปหาหมอ เลยเอาใบรับรองแพทย์มาหืออาจ๋ารย์ เพื่อใจ้ในการลาเรียน
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: People who like to tease others are no-good. If you want to be a good person, don’t tease others. But Korn often gets teased, which makes him shout, ""What the heck is your problem?""
+คำแปล:","คนชอบเล่นตลกคนอื่นไม่ดี ถ้าคุณอยากเป็นคนดี อย่าเล่นตลกคนอื่น แต่โครณ์ (Korn) มักถูกเล่นตลก ซึ่งทำให้เขาตะโกน ""อะไรผิดปกติของเธอ""","khnchobelntlkkhnouenaimdi thakhunoyakepnkhndi oyaelntlkkhnouen aetokhrn (Korn) makthukelntlk suengthamaihekhataokn ""oaairphidpktikhongetho""","คนตี้ชอบแกล้งคนอื่นคือคนตี้บะฮักดี ถ้าอยากเป็นคนดี ต้องบะแกล้งคนอื่น แต่น้องกรโดนแกล้งบ่อยขนาด เลยทำฮือน้องกร เอ้กว่า ""มึงเป็นห่าอะหยัง"""
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Your cow is very spirited, kicking up the dirt non-stop. It shows it’s ready to fight.
+คำแปล:",คำแปล: ม้าของคุณมีความกระตือรือร้นมาก มันกระโดดขึ้นลงอย่างไม่หยุดหย่อน แสดงว่ามันพร้อมต่อสู้,khamaepl: makhongkhunmikhwamkratueorueornmak mankraoddkhuenlngoyangaimhyudhyon aesdngwamanphromtosu,งัวของตั๋วอยู่บะดีขนาดคุ้ยดินบะหยุดเลย แสดงว่ามันไข้อยากขวิดกั๋นแล้ว
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: How could you not feel hot and cold flashes? You made a mistake, and your wife found out.
+คำแปล:",คำแปลภาษาเหนือ: คุณจะไม่รู้สึกได้ไหมว่าหนาวและร้อนๆ? คุณทำผิดพลาด และภรรยาของคุณก็พบได้,khamaeplphasaehnueo: khunchaaimrusuekaidaihmwahnawaelaron-? khunthamphidphlad aelaphrryakhongkhunkphbaid,ตั๋วจะบะฮู้สึกฮู้ฮ้อนฮู้หนาวได้จะใด เพราะตั๋วยะผิดละเมียยับได้
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: That dog crossed the road with grilled pork in its mouth, heading to its puppies. The scene was heartwarming and touching.
+คำแปล:",คำแปล: สุนัขนั้นเดินข้ามถนนกับหมูสุกอยู่ในปากเดินไปเลี้ยงลูกสุนัขของมัน  สภาพแวดล้อมนั้นเป็นเรื่องที่น่าประทับใจและน่าประทับใจ,khamaepl: sunakhnanedinkhamthnnkabhmusukoyuainpakedinaipeliyngluksunakhkhongman  sphaphaewdlomnanepnerueongthinaprathabaichaelanaprathabaich,หมาตัวนั้นเดินข้ามถนนพร้อมก๊าบหมูปิ้งในปาก มุ่งหน้าไปหาลูกๆ ของมัน ผ่อละน่าเอ็นดูขนาด
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป๋น ภาษาเหนือ หื้อตั๋วแปลโดยตรงโดยตี้บะต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I caught this big fish yesterday, and most of the fish I catch on the line tend to be female fish.
+คำแปล:","ข้อความที่ต้องการแปล: ฉันจับปลานี้เมื่อวานนี้ และส่วนใหญ่ของปลาที่ฉันจับบนเส้นลวดมักจะเป็นปลาตัวเมีย
+
+หมายเหตุ: 
+- ""I caught"" หมายถึง ""ฉันจับ""
+- ""this big fish"" หมายถึง ""ปลานี้""
+- ""yesterday"" หมายถึง ""เมื่อวานนี้""
+- ""most of the fish"" หมายถึง ""ส่วนใหญ่ของปลา""
+- ""I catch"" หมายถึง ""ฉันจับ""
+- ""on the line"" หมายถึง ""บนเส้นลวด""
+- ""tend to be"" หมายถึง ""มักจะเป็น""
+- ""female fish"" หมายถึง ""ปลาตัวเมีย""","khokhwamthitongkaraepl: chanchabplaniemueowanni aelaswnaihykhongplathichanchabbnesnlwdmakchaepnplatawemiy
+
+hmayehtu: 
+- ""I caught"" hmaythueng ""chanchab""
+- ""this big fish"" hmaythueng ""plani""
+- ""yesterday"" hmaythueng ""emueowanni""
+- ""most of the fish"" hmaythueng ""swnaihykhongpla""
+- ""I catch"" hmaythueng ""chanchab""
+- ""on the line"" hmaythueng ""bnesnlwd""
+- ""tend to be"" hmaythueng ""makchaepn""
+- ""female fish"" hmaythueng ""platawemiy""",ปลาตัวใหญ่นี้ผมตกเบ็ดได้มาตะวาละปลาที่ติดเบ็ดลากนี้ส่วนใหญ่จะเป็นแม่ปล๋า

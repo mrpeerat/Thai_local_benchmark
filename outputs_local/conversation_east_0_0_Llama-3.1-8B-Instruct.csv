@@ -1,0 +1,379 @@
+Input,Pred,Pred_Latin,Gold
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ ประเพณีท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"**บทเว่าของคนภาคอีสาน**
+
+(ฉันกำลังเดินไปตามถนนในหมู่บ้านเล็กๆ ในภาคอีสาน)
+
+ฉัน: สวัสดีครับ/ค่ะ คุณนี้เป็นคนนี้บ้างครับ/ค่ะ
+
+คนในหมู่บ้าน: สวัสดีครับ/ค่ะ ฉันชื่อพลอย นี่คือหมู่บ้านของฉัน
+
+ฉัน: นี่คือหมู่บ้านที่สวยงามมากครับ/ค่ะ มีอะไรน่าสนใจบ้างในหมู่บ้านนี้?
+
+คนในหมู่บ้าน: มีหลายอย่างครับ/ค่ะ แต่ฉันอยากจะบอกคุณเกี่ยวกับประเพณีท้องถิ่นของเราครับ/ค่ะ เรามีประเพณี ""บุญบั้งไฟ"" ซึ่งเป็นประเพณีที่สำคัญของเรา
+
+ฉัน: บุญบั้งไฟ? ฉันไม่เคยได้ยินมาก่อนครับ/ค่ะ อธิบายให้ฉันฟังหน่อยครับ/ค่ะ
+
+คนในหมู่บ้าน: บุญบั้งไฟเป็นประเพณีที่เราทำเพื่อเป็นเกียรติแก่ผู้ใหญ่ในหมู่บ้าน เมื่อผู้ใหญ่ในหมู่บ้านมีอายุครบ 60 ปี เราจะจัดงานบุญบั้งไฟเพื่อเป็นเกียรติแก่พวกเขา เราจะมีการละเว้, การละเว้, การละเว้ และการละเว้
+
+ฉัน: นี่ดีมากครับ/ค่ะ ฉันอยากจะไปดูงานบุญบั้งไฟครับ/ค่ะ
+
+คนในหมู่บ้าน: นี่คือโอกาสที่ดีครับ/ค่ะ ฉันจะพาคุณไปดูงานบุญบั้งไฟกันครับ/ค่ะ","**bthewakhongkhnphakhoisan**
+
+(chankamlangedinaiptamthnnainhmubanelk- ainphakhoisan)
+
+chan: swasdikhrab/kha khunniepnkhnnibangkhrab/kha
+
+khnainhmuban: swasdikhrab/kha chanchueophloy nikhueohmubankhongchan
+
+chan: nikhueohmubanthiswyngammakkhrab/kha mioaairnasnaichbangainhmubanni?
+
+khnainhmuban: mihlayoyangkhrab/kha aetchanoyakchabokkhunekiywkabpraephnithongthinkhongerakhrab/kha eramipraephni ""buybangaif"" suengepnpraephnithisamkhaykhongera
+
+chan: buybangaif? chanaimekhyaidyinmakonkhrab/kha othibayaihchanfanghnoykhrab/kha
+
+khnainhmuban: buybangaifepnpraephnithierathamephueoepnekiyrtiaekphuaihyainhmuban emueophuaihyainhmubanmioayukhrb 60 pi erachachadnganbuybangaifephueoepnekiyrtiaekphwkekha erachamikarlaew, karlaew, karlaew aelakarlaew
+
+chan: nidimakkhrab/kha chanoyakchaaipdunganbuybangaifkhrab/kha
+
+khnainhmuban: nikhueoookasthidikhrab/kha chanchaphakhunaipdunganbuybangaifkankhrab/kha",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ อาชีพ บทสนทนาบ่ควรเกิน 5 turns,"**บทเว่าของคนภาคอีสาน**
+
+**คน 1:** สวัสดีครับ นี่คือชีวิตของคนภาคอีสาน
+
+**คน 2:** สวัสดีครับ นี่คือชีวิตที่ง่ายๆ แต่ดีใจ
+
+**คน 1:** ฉันทำงานเป็นเกษตรกร ครอบครัวของฉันอยู่ในชนบท เราปลูกข้าวและผลไม้เพื่อขาย
+
+**คน 2:** นั่นเป็นงานที่ดีเลยครับ ฉันทำงานเป็นครูในโรงเรียนของเรา เราเรียนให้เด็กๆ ในชนบท
+
+**คน 1:** ฉันชอบงานของฉัน แต่บางครั้งเราจะต้องเผชิญกับปัญหาที่ยากลำบาก เช่น ฝนตกหนักหรือแมลงศัตรูพืช
+
+**คน 2:** ฉันเข้าใจครับ แต่ฉันก็ชอบงานของฉัน เพราะฉันสามารถช่วยเหลือเด็กๆ ในชนบทได้
+
+**คน 1:** นั่นเป็นเรื่องที่ดีเลยครับ เราต้องช่วยเหลือและสนับสนุนกันเพื่อให้ชีวิตในชนบทดีขึ้น
+
+**คน 2:** ใช่ครับ เราต้องทำงานด้วยใจและช่วยเหลือกันเพื่อให้ชีวิตในชนบทดีขึ้น","**bthewakhongkhnphakhoisan**
+
+**khn 1:** swasdikhrab nikhueochiwitkhongkhnphakhoisan
+
+**khn 2:** swasdikhrab nikhueochiwitthingay- aetdiaich
+
+**khn 1:** chanthamnganepnekstrkr khrobkhrawkhongchanoyuainchnbth eraplukkhawaelaphlaimephueokhay
+
+**khn 2:** nanepnnganthidielykhrab chanthamnganepnkhruainorngeriynkhongera eraeriynaihedk- ainchnbth
+
+**khn 1:** chanchobngankhongchan aetbangkhrangerachatongephchiykabpayhathiyaklambak echn fntkhnakhrueoaemlngsatruphuech
+
+**khn 2:** chanekhaaichkhrab aetchankchobngankhongchan ephraachansamarthchwyehlueoedk- ainchnbthaid
+
+**khn 1:** nanepnerueongthidielykhrab eratongchwyehlueoaelasnabsnunkanephueoaihchiwitainchnbthdikhuen
+
+**khn 2:** aichkhrab eratongthamngandwyaichaelachwyehlueokanephueoaihchiwitainchnbthdikhuen",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ การคมนาคม บทสนทนาบ่ควรเกิน 5 turns,"คนภาคอีสาน: สวัสดีครับ/ค่ะ ผม/ดิฉันมาจากภาคอีสานครับ/ค่ะ
+
+คนภาคกลาง: สวัสดีครับ/ค่ะ ผม/ดิฉันมาจากภาคกลางครับ/ค่ะ
+
+คนภาคอีสาน: อ๋อ นี่คือภาคกลางเลย ผม/ดิฉันเคยมาเที่ยวที่นี่มาก่อนครับ/ค่ะ แต่ไม่เคยได้ไปเที่ยวภาคอีสานเลย
+
+คนภาคกลาง: อ๋อ นี่คือภาคกลางเลย ผม/ดิฉันเคยไปเที่ยวภาคอีสานมาก่อนครับ/ค่ะ มีอาหารอร่อยมากเลย
+
+คนภาคอีสาน: อ๋อ นั่นใช่เลย ผม/ดิฉันชอบกินข้าวเหนียวหมูแดงและข้าวเหนียวหมูกรอบมากเลย
+
+คนภาคกลาง: อ๋อ นั่นอร่อยมากเลย ผม/ดิฉันชอบกินข้าวเหนียวหมูแดงและข้าวเหนียวหมูกรอบนี้มากเลย
+
+คนภาคอีสาน: อ๋อ นั่นเป็นอาหารภาคอีสานที่ดีที่สุดเลยครับ/ค่ะ
+
+คนภาคกลาง: อ๋อ นั่นใช่เลย ผม/ดิฉันจะไปเที่ยวภาคอีสานอีกครั้งแน่นอนครับ/ค่ะ","khnphakhoisan: swasdikhrab/kha phm/dichanmachakphakhoisankhrab/kha
+
+khnphakhklang: swasdikhrab/kha phm/dichanmachakphakhklangkhrab/kha
+
+khnphakhoisan: oo nikhueophakhklangely phm/dichanekhymaethiywthinimakonkhrab/kha aetaimekhyaidaipethiywphakhoisanely
+
+khnphakhklang: oo nikhueophakhklangely phm/dichanekhyaipethiywphakhoisanmakonkhrab/kha mioaharoroymakely
+
+khnphakhoisan: oo nanaichely phm/dichanchobkinkhawehniywhmuaedngaelakhawehniywhmukrobmakely
+
+khnphakhklang: oo nanoroymakely phm/dichanchobkinkhawehniywhmuaedngaelakhawehniywhmukrobnimakely
+
+khnphakhoisan: oo nanepnoaharphakhoisanthidithisudelykhrab/kha
+
+khnphakhklang: oo nanaichely phm/dichanchaaipethiywphakhoisanoikkhrangaennonkhrab/kha",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ ครอบครัว บทสนทนาบ่ควรเกิน 5 turns,"นี่คือบทเว่าของคนภาคอีสาน:
+
+(คนหนึ่งคนสองคนนั่งอยู่ในบ้านเล็กๆ ของตนเอง)
+
+คนหนึ่ง: ""นี่น้อง มีอะไรทำอย่างนี้บ้าง? ทำไมไม่ไปช่วยแม่ทำอาหาร?""
+
+คนสอง: ""ไม่ทำอะไรเลย นั่นไปช่วยแม่ทำอาหารก่อน""
+
+คนหนึ่ง: ""นั่นไปช่วยแม่ทำอาหารก่อน? ทำไมไม่ไปช่วยพ่อทำสวน?""
+
+คนสอง: ""ไม่ไปช่วยพ่อทำสวนเลย พ่อไปช่วยแม่ทำอาหารก่อน""
+
+คนหนึ่ง: ""นั่นไปช่วยพ่อทำสวนก่อน! พ่อไม่ชอบไปช่วยแม่ทำอาหาร""
+
+คนสอง: ""นั่นไปช่วยพ่อทำสวนก่อน! พ่อไม่ชอบไปช่วยแม่ทำอาหาร""
+
+(ทั้งสองคนหัวเราะและนั่งอยู่เงียบๆ)","nikhueobthewakhongkhnphakhoisan:
+
+(khnhnuengkhnsongkhnnangoyuainbanelk- khongtneong)
+
+khnhnueng: ""ninong mioaairthamoyangnibang? thamaimaimaipchwyaemthamoahar?""
+
+khnsong: ""aimthamoaairely nanaipchwyaemthamoaharkon""
+
+khnhnueng: ""nanaipchwyaemthamoaharkon? thamaimaimaipchwyphothamswn?""
+
+khnsong: ""aimaipchwyphothamswnely phoaipchwyaemthamoaharkon""
+
+khnhnueng: ""nanaipchwyphothamswnkon! phoaimchobaipchwyaemthamoahar""
+
+khnsong: ""nanaipchwyphothamswnkon! phoaimchobaipchwyaemthamoahar""
+
+(thangsongkhnhaweraaaelanangoyuengiyb-)",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ กลับบ้านช่วงเทศกาล บทสนทนาบ่ควรเกิน 5 turns,"นี่คือบทเว่าของคนภาคอีสานเกี่ยวกับกลับบ้านช่วงเทศกาล:
+
+(คนหนึ่งกำลังเดินทางกลับบ้านช่วงเทศกาล)
+
+คนหนึ่ง: ""นั่งรถแล้วเหรอ? กลับบ้านกันเลย""
+
+คนสอง: ""ใช่เลย นี่คือช่วงเทศกาล เราต้องกลับบ้านไปด้วยกัน""
+
+คนหนึ่ง: ""ใช่เลย ฉันรู้สึกดีใจที่ได้กลับบ้านกับครอบครัว""
+
+คนสอง: ""ฉันรู้สึกเหมือนกัน ฉันอยากเห็นแม่และพ่อของฉัน""
+
+คนหนึ่ง: ""เราจะได้ไปกินข้าวเหนียวมะม่วงกันนะ""
+
+คนสอง: ""ใช่เลย ฉันรู้สึกหิวแล้ว""
+
+คนหนึ่ง: ""เราจะได้ไปเล่นกับเพื่อนๆ กัน""
+
+คนสอง: ""ใช่เลย ฉันรู้สึกดีใจที่ได้กลับบ้านช่วงเทศกาล""","nikhueobthewakhongkhnphakhoisanekiywkabklabbanchwngethskal:
+
+(khnhnuengkamlangedinthangklabbanchwngethskal)
+
+khnhnueng: ""nangrthaelwehro? klabbankanely""
+
+khnsong: ""aichely nikhueochwngethskal eratongklabbanaipdwykan""
+
+khnhnueng: ""aichely chanrusuekdiaichthiaidklabbankabkhrobkhraw""
+
+khnsong: ""chanrusuekehmueonkan chanoyakehnaemaelaphokhongchan""
+
+khnhnueng: ""erachaaidaipkinkhawehniywmamwngkanna""
+
+khnsong: ""aichely chanrusuekhiwaelw""
+
+khnhnueng: ""erachaaidaipelnkabephueon- kan""
+
+khnsong: ""aichely chanrusuekdiaichthiaidklabbanchwngethskal""",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ การเมืองท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"ฉันจะเขียนบทเว่าเกี่ยวกับการเมืองท้องถิ่นในภาคอีสาน โดยมีเนื้อหาที่เกี่ยวข้องกับชีวิตประจำวันของคนภาคอีสาน
+
+**Turn 1**
+นั่งบนรถบัสที่กำลังจะไปตลาดนัดในหมู่บ้านของเขา บรรยากาศในรถบัสมันเงียบๆ เหล่าผู้โดยสารกำลังพูดคุยกันอย่างเบาๆ แต่เมื่อถึงช่วงเวลาที่รถบัสผ่านไปตามถนนสายหลัก เสียงพูดก็เริ่มดังขึ้น
+
+""ขอโทษครับ ผมไม่เห็นมีใครบอกว่ารถบัสจะผ่านไปตามถนนนี้เลย"" คนหนึ่งพูดขึ้น
+
+""ใช่เลยครับ ผมก็ไม่เห็นเลย"" คนอื่นพูดตาม
+
+**Turn 2**
+คนขับรถบัสหันมาถาม ""คุณเห็นป้ายบอกทางหรือเปล่าครับ?"" คนขับรถบัสถาม
+
+""ไม่เห็นเลยครับ"" คนหนึ่งตอบ
+
+""ใช่เลยครับ"" คนอื่นพูด ""ผมก็ไม่เห็นเลย""
+
+คนขับรถบัสหันไปมองป้ายบอกทางที่อยู่ข้างหน้า ""อ๋อครับ ป้ายบอกทางมันอยู่ที่นี่"" คนขับรถบัสชี้ไปที่ป้ายบอกทางที่อยู่ข้างหน้า
+
+**Turn 3**
+คนขับรถบัสหันมาถาม ""คุณเห็นป้ายบอกทางหรือเปล่าครับ?"" คนขับรถบัสถาม
+
+""ใช่เลยครับ"" คนหนึ่งตอบ ""ผมเห็นป้ายบอกทางแล้ว""
+
+""ใช่เลยครับ"" คนอื่นพูด ""ผมก็เห็นป้ายบอกทางแล้ว""
+
+คนขับรถบัสหันไปมองคนข้างหน้า ""อ๋อครับ ป้ายบอกทางมันบอกว่ารถบัสจะผ่านไปตามถนนนี้"" คนขับรถบัสชี้ไปที่ป้ายบอกทาง
+
+**Turn 4**
+คนข","chanchaekhiynbthewaekiywkabkaremueongthongthinainphakhoisan odymienueohathiekiywkhongkabchiwitprachamwankhongkhnphakhoisan
+
+**Turn 1**
+nangbnrthbasthikamlangchaaiptladnadainhmubankhongekha brryakasainrthbasmanengiyb- ehlaphuodysarkamlangphudkhuykanoyangeba- aetemueothuengchwngewlathirthbasphanaiptamthnnsayhlak esiyngphudkerimdangkhuen
+
+""khoothskhrab phmaimehnmiaikhrbokwarthbaschaphanaiptamthnnniely"" khnhnuengphudkhuen
+
+""aichelykhrab phmkaimehnely"" khnouenphudtam
+
+**Turn 2**
+khnkhabrthbashanmatham ""khunehnpaybokthanghrueoeplakhrab?"" khnkhabrthbastham
+
+""aimehnelykhrab"" khnhnuengtob
+
+""aichelykhrab"" khnouenphud ""phmkaimehnely""
+
+khnkhabrthbashanaipmongpaybokthangthioyukhanghna ""ookhrab paybokthangmanoyuthini"" khnkhabrthbaschiaipthipaybokthangthioyukhanghna
+
+**Turn 3**
+khnkhabrthbashanmatham ""khunehnpaybokthanghrueoeplakhrab?"" khnkhabrthbastham
+
+""aichelykhrab"" khnhnuengtob ""phmehnpaybokthangaelw""
+
+""aichelykhrab"" khnouenphud ""phmkehnpaybokthangaelw""
+
+khnkhabrthbashanaipmongkhnkhanghna ""ookhrab paybokthangmanbokwarthbaschaphanaiptamthnnni"" khnkhabrthbaschiaipthipaybokthang
+
+**Turn 4**
+khnkh",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ สภาพอากาศ บทสนทนาบ่ควรเกิน 5 turns,"นี่คือบทเว่าของคนภาคอีสานเกี่ยวกับ สภาพอากาศ
+
+1. น.ส. สายฝน : สวัสดีครับ ผมวันนี้อากาศดีมากเลยครับ
+
+น.ส. น้ำฝน : สวัสดีครับ นั่นใช่เลยครับ แต่ผมวันนี้อากาศหนาวมากเลยครับ
+
+น.ส. สายฝน : อะไรนะครับ หนาวมากเลย
+
+น.ส. น้ำฝน : ใช่เลยครับ ผมวันนี้ตื่นขึ้นมาแล้วเห็นน้ำแข็งอยู่บนกระจกเลยครับ
+
+น.ส. สายฝน : อ๋อ นั่นเพราะว่าตอนนี้เป็นช่วงหน้าหนาวเลยครับ
+
+น.ส. น้ำฝน : ใช่เลยครับ ผมวันนี้ต้องใส่เสื้อผ้าเยอะเลยครับ
+
+น.ส. สายฝน : ใช่เลยครับ แต่ถ้าอากาศดีๆ นะครับ เราก็สามารถออกไปเดินเล่นได้เลยครับ","nikhueobthewakhongkhnphakhoisanekiywkab sphaphoakas
+
+1. n.s. sayfn : swasdikhrab phmwannioakasdimakelykhrab
+
+n.s. namfn : swasdikhrab nanaichelykhrab aetphmwannioakashnawmakelykhrab
+
+n.s. sayfn : oaairnakhrab hnawmakely
+
+n.s. namfn : aichelykhrab phmwannituenkhuenmaaelwehnnamaekhngoyubnkrachkelykhrab
+
+n.s. sayfn : oo nanephraawatonniepnchwnghnahnawelykhrab
+
+n.s. namfn : aichelykhrab phmwannitongaisesueophaeyoaelykhrab
+
+n.s. sayfn : aichelykhrab aetthaoakasdi- nakhrab eraksamarthookaipedinelnaidelykhrab",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ อาหารท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"นี่คือบทสนทนาเกี่ยวกับอาหารท้องถิ่นภาคอีสาน
+
+**Turn 1**
+น้ำตาล (ผู้หญิง) : สวัสดีค่ะ คุณป้า นี่คืออาหารท้องถิ่นภาคอีสานที่คุณชอบกินไหม
+ป้า (ผู้หญิง) : สวัสดีค่ะ น้ำตาล นั่นเอง ฉันชอบกินข้าวเหนียวหมูแดงและข้าวเหนียวหมูกรอบมากๆ
+
+**Turn 2**
+น้ำตาล : อ๋อ ฉันชอบกินข้าวเหนียวหมูแดงและข้าวเหนียวหมูกรอบเหมือนกัน แต่ฉันชอบกินข้าวเหนียวหมูกรอบมากกว่า
+ป้า : อ๋อ ฉันชอบกินข้าวเหนียวหมูแดงมากกว่าเพราะมันทำให้ฉันรู้สึกอบอุ่นในฤดูหนาว
+
+**Turn 3**
+น้ำตาล : อ๋อ ฉันเข้าใจแล้ว คุณชอบกินข้าวเหนียวหมูแดงเพราะมันทำให้คุณรู้สึกอบอุ่นในฤดูหนาว นั่นเหมือนกับฉัน
+ป้า : ใช่ๆ นั่นเอง น้ำตาล ฉันหวังว่าคุณจะลองกินข้าวเหนียวหมูแดงและข้าวเหนียวหมูกรอบที่บ้านของฉัน
+
+**Turn 4**
+น้ำตาล : อ๋อ ฉันจะลองกินข้าวเหนียวหมูแดงและข้าวเหนียวหมูกรอบที่บ้านของคุณป้า ฉันหวังว่าจะได้รับประสบการณ์ที่ดีๆ
+ป้า : ฉันหวังว่าคุณจะชอบและรู้สึกดีๆ เมื่อกินข้าวเหนียวหมูแดงและข้าวเหนียวหมูกรอบที่บ้านของฉัน
+
+**Turn 5**
+น้ำตาล : ขอบคุณค่ะ คุณป้า ฉันจะไปที่บ้านของคุณป้าและกินข้าวเหนียวหมูแดงและข้าวเหนียวหมูกรอบกัน
+ป้า : ไม่เป็นไรค่ะ น้ำตาล ฉันหวังว่าคุณจะชอบและรู้","nikhueobthsnthnaekiywkaboaharthongthinphakhoisan
+
+**Turn 1**
+namtal (phuhying) : swasdikha khunpa nikhueooaharthongthinphakhoisanthikhunchobkinaihm
+pa (phuhying) : swasdikha namtal naneong chanchobkinkhawehniywhmuaedngaelakhawehniywhmukrobmak-
+
+**Turn 2**
+namtal : oo chanchobkinkhawehniywhmuaedngaelakhawehniywhmukrobehmueonkan aetchanchobkinkhawehniywhmukrobmakkwa
+pa : oo chanchobkinkhawehniywhmuaedngmakkwaephraamanthamaihchanrusuekobounainrueduhnaw
+
+**Turn 3**
+namtal : oo chanekhaaichaelw khunchobkinkhawehniywhmuaedngephraamanthamaihkhunrusuekobounainrueduhnaw nanehmueonkabchan
+pa : aich- naneong namtal chanhwangwakhunchalongkinkhawehniywhmuaedngaelakhawehniywhmukrobthibankhongchan
+
+**Turn 4**
+namtal : oo chanchalongkinkhawehniywhmuaedngaelakhawehniywhmukrobthibankhongkhunpa chanhwangwachaaidrabprasbkarnthidi-
+pa : chanhwangwakhunchachobaelarusuekdi- emueokinkhawehniywhmuaedngaelakhawehniywhmukrobthibankhongchan
+
+**Turn 5**
+namtal : khobkhunkha khunpa chanchaaipthibankhongkhunpaaelakinkhawehniywhmuaedngaelakhawehniywhmukrobkan
+pa : aimepnairkha namtal chanhwangwakhunchachobaelaru",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"นี่คือบทเว่าของคนภาคอีสานเกี่ยวกับเครื่องแต่งกายท้องถิ่น
+
+**Turn 1**
+น้ำใส: สวัสดีครับ น้องๆ มาแล้วเหรอ? วันนี้เราจะไปเล่นกันไหม?
+น้องปาน: นั่นเหรอ น้อง ใส่เสื้อผ้าแบบไหนน่ะ?
+น้ำใส: นั่นเหรอ น้องปาน ฉันใส่เสื้อผ้าแบบท้องถิ่นของภาคอีสาน นี่คือผ้าพร้าว
+
+**Turn 2**
+น้องปาน: อ๋อ นี่สวยมาก นี่คือผ้าพร้าวแบบไหนน่ะ?
+น้ำใส: นี่คือผ้าพร้าวแบบดั้งเดิมของภาคอีสาน ผ้าพร้าวเป็นเครื่องแต่งกายที่มีความสำคัญมากในภาคอีสาน
+น้องปาน: อ๋อ ฉันไม่เคยเห็นมาก่อน นี่มีลวดลายสวยงามมาก
+
+**Turn 3**
+น้องปาน: นี่คือลวดลายอะไรน่ะ?
+น้ำใส: นี่คือลวดลายของสัตว์ป่าในภาคอีสาน เช่น สิงโต นกกระจอก และแมลง
+น้องปาน: อ๋อ นี่สวยงามมาก ฉันอยากได้เหมือนนี้
+
+**Turn 4**
+น้องปาน: นี่คือเสื้อผ้าแบบไหนน่ะ?
+น้ำใส: นี่คือเสื้อผ้าแบบผ้าพร้าวและผ้าไหม นี่เป็นเครื่องแต่งกายที่มีความสำคัญมากในภาคอีสาน
+น้องปาน: อ๋อ ฉันชอบมาก ฉันอยากได้เหมือนนี้
+
+**Turn 5**
+น้องปาน: นี่คือเครื่องแต่งกายท้องถิ่นของภาคอีสานมาก่อน
+น้ำใส: ใช่ครับ นี่คือเครื่องแต่งกายที่มีความสำคัญมากในภาคอีสาน ฉันหวังว่าคุณจะชอบมาก","nikhueobthewakhongkhnphakhoisanekiywkabekhrueongaetngkaythongthin
+
+**Turn 1**
+namais: swasdikhrab nong- maaelwehro? wannierachaaipelnkanaihm?
+nongpan: nanehro nong aisesueophaaebbaihnna?
+namais: nanehro nongpan chanaisesueophaaebbthongthinkhongphakhoisan nikhueophaphraw
+
+**Turn 2**
+nongpan: oo niswymak nikhueophaphrawaebbaihnna?
+namais: nikhueophaphrawaebbdangedimkhongphakhoisan phaphrawepnekhrueongaetngkaythimikhwamsamkhaymakainphakhoisan
+nongpan: oo chanaimekhyehnmakon nimilwdlayswyngammak
+
+**Turn 3**
+nongpan: nikhueolwdlayoaairna?
+namais: nikhueolwdlaykhongsatwpaainphakhoisan echn singot nkkrachok aelaaemlng
+nongpan: oo niswyngammak chanoyakaidehmueonni
+
+**Turn 4**
+nongpan: nikhueoesueophaaebbaihnna?
+namais: nikhueoesueophaaebbphaphrawaelaphaaihm niepnekhrueongaetngkaythimikhwamsamkhaymakainphakhoisan
+nongpan: oo chanchobmak chanoyakaidehmueonni
+
+**Turn 5**
+nongpan: nikhueoekhrueongaetngkaythongthinkhongphakhoisanmakon
+namais: aichkhrab nikhueoekhrueongaetngkaythimikhwamsamkhaymakainphakhoisan chanhwangwakhunchachobmak",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ การศึกษาท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"**บทเว่าของคนภาคอีสาน**
+
+(คนภาคอีสานกำลังพูดกับเพื่อน)
+
+คนภาคอีสาน: ""เฮ้ย, น้อง นึกถึงเรื่องการศึกษาท้องถิ่นไหม? เราเคยเรียนในโรงเรียนมัธยมศึกษาที่หมู่บ้านของเรา""
+
+เพื่อน: ""ใช่แล้ว นี่เอง เราเคยเรียนเกี่ยวกับประวัติศาสตร์และวัฒนธรรมของภาคอีสาน""
+
+คนภาคอีสาน: ""ใช่แล้ว เราเรียนเกี่ยวกับเรื่องราวของพระเจ้าพรหมมหาราช และเรื่องราวของพระเจ้าพรหมมหาราชที่สร้างเมืองต่างๆ ในภาคอีสาน""
+
+เพื่อน: ""ใช่แล้ว นี่เอง เราเรียนเกี่ยวกับเรื่องราวของพระเจ้าพรหมมหาราชที่สร้างเมืองต่างๆ ในภาคอีสาน เช่น เมืองขอนแก่น เมืองอุดรธานี และเมืองหนองคาย""
+
+คนภาคอีสาน: ""ใช่แล้ว เราเรียนเกี่ยวกับเรื่องราวของพระเจ้าพรหมมหาราชที่สร้างเมืองต่างๆ ในภาคอีสาน และเรียนเกี่ยวกับวัฒนธรรมของภาคอีสาน เช่น วัฒนธรรมของชาวลาว และวัฒนธรรมของชาวไทย""
+
+เพื่อน: ""ใช่แล้ว นี่เอง เราเรียนเกี่ยวกับเรื่องราวของพระเจ้าพรหมมหาราชที่สร้างเมืองต่างๆ ในภาคอีสาน และเรียนเกี่ยวกับวัฒนธรรมของภาคอีสาน เช่น วัฒนธรรมของชาวลาว และวัฒนธรรมของชาวไทย และเรียนเกี่ยวกับอาหารของภาคอีสาน เช่น ข้าวเหนียว และแกงเขียวหวาน""
+
+คนภาคอีสาน: ""ใช่แล้ว นี่เอง เราเรียนเกี่ยวกับเรื่องราวของพระเจ้าพรหมมหาราชที่สร้างเมืองต่างๆ ในภาคอีสาน และเรียนเกี่ยวกับวัฒนธรรมของภาคอีสาน เช่น วัฒนธรรมของชาวลาว และวัฒนธรรมของชาวไทย และเรียนเกี่","**bthewakhongkhnphakhoisan**
+
+(khnphakhoisankamlangphudkabephueon)
+
+khnphakhoisan: ""ehy, nong nuekthuengerueongkarsueksathongthinaihm? eraekhyeriynainorngeriynmathymsueksathihmubankhongera""
+
+ephueon: ""aichaelw nieong eraekhyeriynekiywkabprawatisastraelawathnthrrmkhongphakhoisan""
+
+khnphakhoisan: ""aichaelw eraeriynekiywkaberueongrawkhongphraechaphrhmmharach aelaerueongrawkhongphraechaphrhmmharachthisrangemueongtang- ainphakhoisan""
+
+ephueon: ""aichaelw nieong eraeriynekiywkaberueongrawkhongphraechaphrhmmharachthisrangemueongtang- ainphakhoisan echn emueongkhonaekn emueongoudrthani aelaemueonghnongkhay""
+
+khnphakhoisan: ""aichaelw eraeriynekiywkaberueongrawkhongphraechaphrhmmharachthisrangemueongtang- ainphakhoisan aelaeriynekiywkabwathnthrrmkhongphakhoisan echn wathnthrrmkhongchawlaw aelawathnthrrmkhongchawaithy""
+
+ephueon: ""aichaelw nieong eraeriynekiywkaberueongrawkhongphraechaphrhmmharachthisrangemueongtang- ainphakhoisan aelaeriynekiywkabwathnthrrmkhongphakhoisan echn wathnthrrmkhongchawlaw aelawathnthrrmkhongchawaithy aelaeriynekiywkaboaharkhongphakhoisan echn khawehniyw aelaaekngekhiywhwan""
+
+khnphakhoisan: ""aichaelw nieong eraeriynekiywkaberueongrawkhongphraechaphrhmmharachthisrangemueongtang- ainphakhoisan aelaeriynekiywkabwathnthrrmkhongphakhoisan echn wathnthrrmkhongchawlaw aelawathnthrrmkhongchawaithy aelaeriyneki",.
