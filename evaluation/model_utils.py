@@ -24,7 +24,7 @@ except ImportError:
 httpx_logger = logging.getLogger("httpx")
 httpx_logger.setLevel(logging.WARNING)
 
-MAX_GENERATION_LENGTH = 512
+MAX_GENERATION_LENGTH = 3000
 
 openai_client = None
 anthropic_client = None
@@ -327,21 +327,24 @@ class HFModel(AbsModel):
             model_name_or_path, use_fast=False
         )
         device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-        model = AutoModelForCausalLM.from_pretrained(
-            model_name_or_path,
-            device_map="auto",
-        )
-        tokenizer.padding_side = "right"
-
         # model = AutoModelForCausalLM.from_pretrained(
         #     model_name_or_path,
         #     device_map="auto",
-        #     trust_remote_code=True,
-        #     torch_dtype=torch.bfloat16,
-        #     attn_implementation="flash_attention_2",
         # )
-        # tokenizer.padding_side = "left"
+        # tokenizer.padding_side = "right"
+        print("test")
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name_or_path,
+            device_map="auto",
+            trust_remote_code=True,
+            torch_dtype=torch.bfloat16,
+            attn_implementation="flash_attention_2",
+            #cache_dir="/cache/.cache/huggingface/hub/models--scb10x--llama-3-typhoon-v1.5x-70b-instruct/snapshots/a55bf4e7f25e4cd4fb3457078f7b0985ce675633"
+        )
+        tokenizer.padding_side = "right"
+        #tokenizer.padding_side = "left"
         model_max_length = min(_get_and_verify_max_len(model.config), 8192)
+        model_max_length = 6000
         
         self.max_generation_length = MAX_GENERATION_LENGTH
         self.model_max_length = model_max_length

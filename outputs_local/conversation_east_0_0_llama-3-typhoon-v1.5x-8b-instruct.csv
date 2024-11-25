@@ -1,0 +1,311 @@
+Input,Pred,Pred_Latin,Gold
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ ประเพณีท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"Commentator: สวัสดีครับ, วันนี้เราจะพาไปรู้จักกับประเพณีท้องถิ่นของคนภาคอีสาน ในชื่อ ""ประเพณีบวชพระ"" หรือ ""บวชพระอีสาน"" เป็นประเพณีที่สำคัญของชาวอีสานที่มีความเชื่อว่า การบวชพระจะทำให้มีความเป็นสิริมงคลและช่วยเสริมสร้างความเจริญรุ่งเรืองให้แก่ครอบครัว
+
+Turn 1:
+A: สวัสดีครับ, ผมชื่อ อู๊ด จากอำเภอหนองบัวลำภู ผมอยากจะเล่าเกี่ยวกับประเพณีบวชพระของเรา
+B: สวัสดีครับ, ผมชื่อ แป้ง จากอำเภอขอนแก่น ผมก็สนใจประเพณีนี้เหมือนกัน
+
+Turn 2:
+A: ประเพณีบวชพระของเราจะเริ่มต้นด้วยการทำพิธีกรรมทางศาสนา เช่น การทำบุญตักบาตร การสวดมนต์ และการทำสมาธิ
+B: ใช่ครับ, และเราจะมีการทำอาหารพิเศษที่เรียกว่า ""ข้าวเหนียวหมู"" เพื่อเป็นอาหารสำหรับพระภิกษุ
+
+Turn 3:
+A: ในระหว่างที่พระภิกษุอาศัยอยู่ในหมู่บ้าน เราจะมีการจัดงานรื่นเริง เช่น การแสดงละคร การเต้นรำ และการประกวดเพลง
+B: และเราจะมีการแข่งขันกีฬา เช่น การแข่งขันฟุตบอล และการแข่งขันยกน้ำหนัก
+
+Turn 4:
+A: เมื่อพระภิกษุออกจากวัด เราจะมีการทำพิธีกรรมทางศาสนาเพื่อขอบพระคุณพระภิกษุ และเราจะมีการแจกของขวัญให้แก่พระภิกษุ
+B: ใช่ครับ, และเราจะมีการทำอาหารพิเศษที่เรียกว่า ""ขนมจีน"" เพื่อเป็นอาหารสำหรับพระภิกษุ
+
+Turn 5:
+A: ประเพณีบวชพระของเราถือเป็นโอกาสที่ดีที่จะสร้างความสัมพันธ์ระหว่างครอบครัวและชุมชน และเป็นการแสดงออกถึงความเคารพต่อพระพุทธศาสนา
+B: ใช่ครับ, และเราจะมีการทำบุญตักบาตรเพื่อขอพรจากพระพุทธเจ้า และเพื่อสร้างความเป็นสิริมงคลให้แก่ครอบครัวและชุมชน
+
+Commentator: นี่คือประเพณีบวชพระของคนภาคอีสาน ที่มีความสำคัญและความหมายที่ลึกซึ้ง ขอบคุณทั้ง อู๊ด และ แป้ง ที่มาแบ่งปันประสบการณ์และความรู้เกี่ยวกับประเพณีนี้","Commentator: swasdikhrab, wannierachaphaaipruchakkabpraephnithongthinkhongkhnphakhoisan ainchueo ""praephnibwchphra"" hrueo ""bwchphraoisan"" epnpraephnithisamkhaykhongchawoisanthimikhwamechueowa karbwchphrachathamaihmikhwamepnsirimngkhlaelachwyesrimsrangkhwamechriyrungerueongaihaekkhrobkhraw
+
+Turn 1:
+A: swasdikhrab, phmchueo oud chakoamephohnongbawlamphu phmoyakchaelaekiywkabpraephnibwchphrakhongera
+B: swasdikhrab, phmchueo aepng chakoamephokhonaekn phmksnaichpraephniniehmueonkan
+
+Turn 2:
+A: praephnibwchphrakhongerachaerimtndwykarthamphithikrrmthangsasna echn karthambuytakbatr karswdmnt aelakarthamsmathi
+B: aichkhrab, aelaerachamikarthamoaharphiessthieriykwa ""khawehniywhmu"" ephueoepnoaharsamhrabphraphiksu
+
+Turn 3:
+A: ainrahwangthiphraphiksuoasayoyuainhmuban erachamikarchadnganruenering echn karaesdnglakhr karetnram aelakarprakwdephlng
+B: aelaerachamikaraekhngkhankila echn karaekhngkhanfutbol aelakaraekhngkhanyknamhnak
+
+Turn 4:
+A: emueophraphiksuookchakwad erachamikarthamphithikrrmthangsasnaephueokhobphrakhunphraphiksu aelaerachamikaraechkkhongkhwayaihaekphraphiksu
+B: aichkhrab, aelaerachamikarthamoaharphiessthieriykwa ""khnmchin"" ephueoepnoaharsamhrabphraphiksu
+
+Turn 5:
+A: praephnibwchphrakhongerathueoepnookasthidithichasrangkhwamsamphanthrahwangkhrobkhrawaelachumchn aelaepnkaraesdngookthuengkhwamekharphtophraphuththsasna
+B: aichkhrab, aelaerachamikarthambuytakbatrephueokhophrchakphraphuththecha aelaephueosrangkhwamepnsirimngkhlaihaekkhrobkhrawaelachumchn
+
+Commentator: nikhueopraephnibwchphrakhongkhnphakhoisan thimikhwamsamkhayaelakhwamhmaythilueksueng khobkhunthang oud aela aepng thimaaebngpanprasbkarnaelakhwamruekiywkabpraephnini",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ อาชีพ บทสนทนาบ่ควรเกิน 5 turns,"Commentator: สวัสดีครับ, วันนี้เราจะพาคุณไปพบกับชาวบ้านจากภาคอีสานที่จะมาเล่าเรื่องราวของอาชีพและการใช้ชีวิตของเขา
+
+A: สวัสดีครับ, ผมชื่อสมชาย เป็นชาวบ้านจากอำเภอหนองบัวลำภู ผมทำงานเป็นเกษตรกร ทำนาและปลูกผักขายในตลาด
+
+Commentator: น่าสนใจมากครับ, คุณสมชายสามารถบอกเราได้มั้ยว่าทำไมคุณถึงเลือกทำงานในอาชีพนี้?
+
+A: จริงๆ ผมชอบทำงานในนาที่สุดครับ เพราะผมชอบความสงบและความใกล้ชิดกับธรรมชาติ นอกจากนี้ ผมยังได้เห็นผลของการทำงานของตัวเองอย่างชัดเจน เมื่อผมปลูกผักและข้าวแล้วได้ผลผลิตที่ดี มันทำให้ผมมีความภูมิใจและความสุข
+
+Commentator: นั่นคือความสุขที่แท้จริงครับ, แต่การทำเกษตรกรรมมันก็ไม่ง่ายนะ คุณสมชายเคยเผชิญกับปัญหาหรืออุปสรรคอะไรบ้าง?
+
+A: ใช่ครับ, มีหลายครั้งที่ผมเผชิญกับปัญหา เช่น พายุฝนตกหนักทำให้นาข้าวเสียหาย หรือแมลงศัตรูพืชทำลายผัก แต่ผมก็พยายามแก้ไขและปรับตัวให้เข้ากับสถานการณ์ เพื่อให้สามารถทำงานได้อย่างต่อเนื่อง
+
+Commentator: นี่คือความอดทนและความมุ่งมั่นครับ, ขอบคุณที่แบ่งปันเรื่องราวของคุณให้เราฟัง คุณสมชาย
+
+A: ไม่เป็นไรครับ, ขอบคุณที่ให้โอกาสผมได้พูดถึงอาชีพของตัวเอง ขอให้ทุกคนสนับสนุนเกษตรกรและผลิตภัณฑ์จากภาคอีสานครับ","Commentator: swasdikhrab, wannierachaphakhunaipphbkabchawbanchakphakhoisanthichamaelaerueongrawkhongoachiphaelakaraichchiwitkhongekha
+
+A: swasdikhrab, phmchueosmchay epnchawbanchakoamephohnongbawlamphu phmthamnganepnekstrkr thamnaaelaplukphakkhayaintlad
+
+Commentator: nasnaichmakkhrab, khunsmchaysamarthbokeraaidmaywathamaimkhunthuengelueokthamnganainoachiphni?
+
+A: chring- phmchobthamnganainnathisudkhrab ephraaphmchobkhwamsngbaelakhwamaiklchidkabthrrmchati nokchakni phmyangaidehnphlkhongkarthamngankhongtaweongoyangchadechn emueophmplukphakaelakhawaelwaidphlphlitthidi manthamaihphmmikhwamphumiaichaelakhwamsukh
+
+Commentator: nankhueokhwamsukhthiaethchringkhrab, aetkarthamekstrkrrmmankaimngayna khunsmchayekhyephchiykabpayhahrueooupsrrkhoaairbang?
+
+A: aichkhrab, mihlaykhrangthiphmephchiykabpayha echn phayufntkhnakthamaihnakhawesiyhay hrueoaemlngsatruphuechthamlayphak aetphmkphyayamaekaikhaelaprabtawaihekhakabsthankarn ephueoaihsamarththamnganaidoyangtoenueong
+
+Commentator: nikhueokhwamodthnaelakhwammungmankhrab, khobkhunthiaebngpanerueongrawkhongkhunaiherafang khunsmchay
+
+A: aimepnairkhrab, khobkhunthiaihookasphmaidphudthuengoachiphkhongtaweong khoaihthukkhnsnabsnunekstrkraelaphlitphanthchakphakhoisankhrab",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ การคมนาคม บทสนทนาบ่ควรเกิน 5 turns,"Commentator: สวัสดีครับ, วันนี้เราจะพาคุณไปพบกับวิถีชีวิตของคนภาคอีสาน ผ่านบทเว่าที่จะทำให้คุณได้สัมผัสถึงความเป็นอยู่และวัฒนธรรมของคนอีสาน
+
+Turn 1:
+A: สวัสดีครับ, ผมชื่อสมชาย เป็นชาวอุบลราชธานี ผมทำงานเป็นคนขับรถประจำทางในเมือง
+B: สวัสดีครับ, ผมชื่อสมพงษ์ เป็นชาวนครราชสีมา ผมทำงานเป็นคนขับรถแท็กซี่ในเมือง
+
+Turn 2:
+A: ในภาคอีสาน เรามีระบบขนส่งสาธารณะที่ครอบคลุมทั่วทุกพื้นที่ ไม่ว่าจะเป็นรถประจำทาง รถแท็กซี่ หรือรถจักรยานยนต์รับจ้าง
+B: ใช่ครับ, ในนครราชสีมา ก็มีระบบขนส่งสาธารณะที่ดีเช่นกัน แต่บางครั้งเราก็เจอปัญหาเรื่องการจราจรที่ติดขัด
+
+Turn 3:
+A: ในอุบลราชธานี เรามีถนนสายหลักที่เชื่อมต่อระหว่างอำเภอต่างๆ ทำให้การเดินทางสะดวกมากขึ้น
+B: ขอบคุณครับ, ในนครราชสีมา ก็มีถนนสายหลักที่เชื่อมต่อระหว่างอำเภอต่างๆ เช่นกัน แต่บางครั้งเราก็เจอปัญหาเรื่องถนนลื่นเมื่อมีฝนตกหนัก
+
+Turn 4:
+A: นอกจากนี้ ในภาคอีสาน เรายังมีระบบขนส่งสาธารณะที่ครอบคลุมทั่วทุกพื้นที่ ไม่ว่าจะเป็นรถประจำทาง รถแท็กซี่ หรือรถจักรยานยนต์รับจ้าง
+B: ใช่ครับ, ในนครราชสีมา ก็มีระบบขนส่งสาธารณะที่ดีเช่นกัน แต่บางครั้งเราก็เจอปัญหาเรื่องการจราจรที่ติดขัด
+
+Turn 5:
+A: ในภาคอีสาน เรามีการพัฒนาโครงสร้างพื้นฐานด้านการคมนาคมอย่างต่อเนื่อง เพื่อให้ประชาชนสามารถเดินทางได้อย่างสะดวกสบาย
+B: ใช่ครับ, ในนครราชสีมา ก็มีการพัฒนาโครงสร้างพื้นฐานด้านการคมนาคมอย่างต่อเนื่อง เพื่อให้ประชาชนสามารถเดินทางได้อย่างสะดวกสบาย
+
+Commentator: นี่คือบทเว่าที่ทำให้คุณได้สัมผัสถึงวิถีชีวิตและวัฒนธรรมของคนภาคอีสาน ผ่านการคมนาคมและการสื่อสารที่ครอบคลุมทั่วทุกพื้นที่","Commentator: swasdikhrab, wannierachaphakhunaipphbkabwithichiwitkhongkhnphakhoisan phanbthewathichathamaihkhunaidsamphasthuengkhwamepnoyuaelawathnthrrmkhongkhnoisan
+
+Turn 1:
+A: swasdikhrab, phmchueosmchay epnchawoublrachthani phmthamnganepnkhnkhabrthprachamthangainemueong
+B: swasdikhrab, phmchueosmphngs epnchawnkhrrachsima phmthamnganepnkhnkhabrthaethksiainemueong
+
+Turn 2:
+A: ainphakhoisan eramirabbkhnsngsatharnathikhrobkhlumthawthukphuenthi aimwachaepnrthprachamthang rthaethksi hrueorthchakryanyntrabchang
+B: aichkhrab, ainnkhrrachsima kmirabbkhnsngsatharnathidiechnkan aetbangkhrangerakechopayhaerueongkarchrachrthitidkhad
+
+Turn 3:
+A: ainoublrachthani eramithnnsayhlakthiechueomtorahwangoamephotang- thamaihkaredinthangsadwkmakkhuen
+B: khobkhunkhrab, ainnkhrrachsima kmithnnsayhlakthiechueomtorahwangoamephotang- echnkan aetbangkhrangerakechopayhaerueongthnnluenemueomifntkhnak
+
+Turn 4:
+A: nokchakni ainphakhoisan erayangmirabbkhnsngsatharnathikhrobkhlumthawthukphuenthi aimwachaepnrthprachamthang rthaethksi hrueorthchakryanyntrabchang
+B: aichkhrab, ainnkhrrachsima kmirabbkhnsngsatharnathidiechnkan aetbangkhrangerakechopayhaerueongkarchrachrthitidkhad
+
+Turn 5:
+A: ainphakhoisan eramikarphathnaokhrngsrangphuenthandankarkhmnakhmoyangtoenueong ephueoaihprachachnsamarthedinthangaidoyangsadwksbay
+B: aichkhrab, ainnkhrrachsima kmikarphathnaokhrngsrangphuenthandankarkhmnakhmoyangtoenueong ephueoaihprachachnsamarthedinthangaidoyangsadwksbay
+
+Commentator: nikhueobthewathithamaihkhunaidsamphasthuengwithichiwitaelawathnthrrmkhongkhnphakhoisan phankarkhmnakhmaelakarsueosarthikhrobkhlumthawthukphuenthi",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ ครอบครัว บทสนทนาบ่ควรเกิน 5 turns,"Commentator: สวัสดีครับ, วันนี้เราจะพาคุณไปพบกับครอบครัวชาวอีสานที่น่ารักและอบอุ่น! พวกเขาจะเล่าเรื่องราวของครอบครัวและชีวิตประจำวันให้ฟัง
+
+[Turn 1]
+แม่: สวัสดีจ้า, เรามาเยี่ยมครอบครัวของเราในอีสานกันเถอะ!
+ลูกสาว: อื้ม, พ่อแม่! เราจะไปไหน?
+พ่อ: เราจะไปตลาดซื้อของกินและของใช้, แล้วก็ไปเยี่ยมญาติที่บ้านใกล้ๆ
+
+[Turn 2]
+แม่: เมื่อก่อนเรามักจะทำขนมจีนน้ำยาป่าขาย, แต่ตอนนี้เราไม่ทำแล้ว เพราะลูกสาวเราชอบไปโรงเรียนมาก
+ลูกสาว: ใช่ค่ะ, ผมชอบเรียนหนังสือและเล่นเกมกับเพื่อนๆ
+พ่อ: แต่เราก็ยังทำขนมจีนน้ำยาป่าให้ญาติๆ ทานบ้างนะ
+
+[Turn 3]
+แม่: อื้ม, เราจะไปเยี่ยมยายที่บ้านใกล้ๆ ก่อน, เธอชอบทานขนมจีนน้ำยาป่ามาก
+ลูกสาว: ใช่ค่ะ, ผมชอบไปเยี่ยมยายด้วย เพราะเธอเล่าเรื่องราวเก่าๆ ให้ฟัง
+พ่อ: ใช่, ยายของเรามีเรื่องราวมากมายที่น่าสนใจ
+
+[Turn 4]
+แม่: เมื่อก่อนเราจะทำขนมจีนน้ำยาป่าขาย, แต่ตอนนี้เราไม่ทำแล้ว เพราะลูกสาวเราชอบไปโรงเรียนมาก
+ลูกสาว: ใช่ค่ะ, ผมชอบเรียนหนังสือและเล่นเกมกับเพื่อนๆ
+พ่อ: แต่เราก็ยังทำขนมจีนน้ำยาป่าให้ญาติๆ ทานบ้างนะ
+
+[Turn 5]
+แม่: อื้ม, เราจะกลับบ้านแล้ว, ลูกสาวจะไปโรงเรียนพรุ่งนี้นะ
+ลูกสาว: ใช่ค่ะ, ผมจะไปโรงเรียนและเล่นเกมกับเพื่อนๆ
+พ่อ: ใช่, เราจะกลับบ้านแล้ว, แล้วเจอกันพรุ่งนี้!","Commentator: swasdikhrab, wannierachaphakhunaipphbkabkhrobkhrawchawoisanthinarakaelaoboun! phwkekhachaelaerueongrawkhongkhrobkhrawaelachiwitprachamwanaihfang
+
+[Turn 1]
+aem: swasdicha, eramaeyiymkhrobkhrawkhongeraainoisankanethoa!
+luksaw: ouem, phoaem! erachaaipaihn?
+pho: erachaaiptladsueokhongkinaelakhongaich, aelwkaipeyiymyatithibanaikl-
+
+[Turn 2]
+aem: emueokoneramakchathamkhnmchinnamyapakhay, aettonnieraaimthamaelw ephraaluksawerachobaiporngeriynmak
+luksaw: aichkha, phmchoberiynhnangsueoaelaelnekmkabephueon-
+pho: aeterakyangthamkhnmchinnamyapaaihyati- thanbangna
+
+[Turn 3]
+aem: ouem, erachaaipeyiymyaythibanaikl- kon, ethochobthankhnmchinnamyapamak
+luksaw: aichkha, phmchobaipeyiymyaydwy ephraaethoelaerueongraweka- aihfang
+pho: aich, yaykhongeramierueongrawmakmaythinasnaich
+
+[Turn 4]
+aem: emueokonerachathamkhnmchinnamyapakhay, aettonnieraaimthamaelw ephraaluksawerachobaiporngeriynmak
+luksaw: aichkha, phmchoberiynhnangsueoaelaelnekmkabephueon-
+pho: aeterakyangthamkhnmchinnamyapaaihyati- thanbangna
+
+[Turn 5]
+aem: ouem, erachaklabbanaelw, luksawchaaiporngeriynphrungnina
+luksaw: aichkha, phmchaaiporngeriynaelaelnekmkabephueon-
+pho: aich, erachaklabbanaelw, aelwechokanphrungni!",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ กลับบ้านช่วงเทศกาล บทสนทนาบ่ควรเกิน 5 turns,"1. อ้าย: สวัสดีครับ, ผมกลับบ้านช่วงเทศกาลนี้แล้วครับ. มีอะไรใหม่ๆ ที่บ้านหรือเปล่า?
+2. อี: สวัสดีจ้า, ยินดีต้อนรับกลับบ้านนะ. มีอะไรใหม่ๆ ที่บ้านก็ไม่มีเท่าไหร่, แต่พ่อแม่บอกว่าจะทำอาหารพิเศษให้เราทานในวันเทศกาล.
+3. อ้าย: โอ้, นั่นดีมากเลย! ผมชอบอาหารของแม่มากๆ. แล้วเพื่อนๆ ที่บ้านเป็นไงบ้าง?
+4. อี: เพื่อนๆ ที่บ้านก็ดีครับ, แต่บางคนก็ไม่ได้กลับบ้านเพราะทำงานหรือเรียนต่อ. แต่เราก็ยังได้เจอกันบ่อยๆ ในชุมชน.
+5. อ้าย: โอเค, ผมเข้าใจ. แล้วเราจะทำอะไรในวันเทศกาลนี้?
+6. อี: เราจะไปทำบุญที่วัด, แล้วก็ทานอาหารร่วมกันในครอบครัว. และอาจจะมีการเล่นเกมส์หรือเต้นรำด้วย.","1. oay: swasdikhrab, phmklabbanchwngethskalniaelwkhrab. mioaairaihm- thibanhrueoepla?
+2. oi: swasdicha, yinditonrabklabbanna. mioaairaihm- thibankaimmiethaaihr, aetphoaembokwachathamoaharphiessaiherathanainwanethskal.
+3. oay: oo, nandimakely! phmchoboaharkhongaemmak-. aelwephueon- thibanepnaingbang?
+4. oi: ephueon- thibankdikhrab, aetbangkhnkaimaidklabbanephraathamnganhrueoeriynto. aeterakyangaidechokanboy- ainchumchn.
+5. oay: ooekh, phmekhaaich. aelwerachathamoaairainwanethskalni?
+6. oi: erachaaipthambuythiwad, aelwkthanoaharrwmkanainkhrobkhraw. aelaoachchamikarelnekmshrueoetnramdwy.",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ การเมืองท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"Commentator: สวัสดีครับ, วันนี้เราจะพูดถึงเรื่องการเมืองท้องถิ่นในภาคอีสานกันครับ
+
+A: อื้อหื้อ, มีอะไรใหม่ๆ บ้างครับ?
+
+Commentator: จริงๆ มีหลายเรื่องครับ แต่วันนี้เราจะพูดถึงเรื่องการเลือกตั้งท้องถิ่นครับ
+
+B: อ๋อ, เลือกตั้งท้องถิ่นเนี่ย มันสำคัญขนาดไหนครับ?
+
+Commentator: สำคัญมากครับ เพราะการเลือกตั้งท้องถิ่นจะทำให้เราสามารถเลือกผู้แทนที่ดีที่สุดเพื่อดูแลชุมชนของเราได้ครับ
+
+A: แต่ว่าบางทีเราก็ไม่รู้ว่าใครเป็นผู้แทนของเราจริงๆ ครับ
+
+Commentator: ใช่ครับ, แต่เราสามารถศึกษาข้อมูลและทำการตรวจสอบผู้แทนของเราได้ครับ เพื่อให้แน่ใจว่าเขาจะทำงานเพื่อประโยชน์ของชุมชนของเรา
+
+B: อื้อหื้อ, ถ้าเราไม่สนใจการเลือกตั้งท้องถิ่น เราอาจจะพลาดโอกาสที่ดีในการพัฒนาชุมชนของเราครับ
+
+Commentator: ใช่ครับ, การเลือกตั้งท้องถิ่นเป็นโอกาสที่ดีในการสร้างความเปลี่ยนแปลงที่ดีให้กับชุมชนของเราครับ","Commentator: swasdikhrab, wannierachaphudthuengerueongkaremueongthongthinainphakhoisankankhrab
+
+A: oueohueo, mioaairaihm- bangkhrab?
+
+Commentator: chring- mihlayerueongkhrab aetwannierachaphudthuengerueongkarelueoktangthongthinkhrab
+
+B: oo, elueoktangthongthineniy mansamkhaykhnadaihnkhrab?
+
+Commentator: samkhaymakkhrab ephraakarelueoktangthongthinchathamaiherasamarthelueokphuaethnthidithisudephueoduaelchumchnkhongeraaidkhrab
+
+A: aetwabangthierakaimruwaaikhrepnphuaethnkhongerachring- khrab
+
+Commentator: aichkhrab, aeterasamarthsueksakhomulaelathamkartrwchsobphuaethnkhongeraaidkhrab ephueoaihaenaichwaekhachathamnganephueopraoychnkhongchumchnkhongera
+
+B: oueohueo, thaeraaimsnaichkarelueoktangthongthin eraoachchaphladookasthidiainkarphathnachumchnkhongerakhrab
+
+Commentator: aichkhrab, karelueoktangthongthinepnookasthidiainkarsrangkhwamepliynaeplngthidiaihkabchumchnkhongerakhrab",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ สภาพอากาศ บทสนทนาบ่ควรเกิน 5 turns,"Commentator: สวัสดีครับ, ทุกคน! วันนี้เราจะพาคุณไปพบกับชาวบ้านจากภาคอีสานที่จะมาเล่าถึงสภาพอากาศในภูมิภาคนี้
+
+A: สวัสดีครับ, ผมชื่อสมพงษ์ เป็นชาวบ้านจากอำเภอหนองบัวลำภู ผมอยู่ที่นี่มาตลอดชีวิต และผมบอกได้เลยว่าอากาศที่นี่มันแปรปรวนมากครับ
+
+Commentator: อ้าว, มันแปรปรวนอย่างไรครับ?
+
+A: บางทีมันร้อนจัด บางทีมันหนาวเย็น บางทีมันก็ฝนตกหนัก บางทีมันก็ไม่มีฝนเลยครับ ทำให้การทำการเกษตรยากขึ้นครับ
+
+Commentator: นั่นจริงๆ ครับ แต่คุณมีวิธีปรับตัวหรือไม่?
+
+A: ใช่ครับ, เราต้องปรับตัวให้เข้ากับสภาพอากาศ เราปลูกพืชที่ทนทานต่อความแห้งแล้ง และเราก็เตรียมพร้อมสำหรับฤดูฝนครับ
+
+Commentator: นี่คือความสามารถของชาวบ้านภาคอีสานที่แท้จริงครับ ขอบคุณคุณสมพงษ์สำหรับประสบการณ์ของคุณ
+
+A: ไม่เป็นไรครับ, ขอบคุณที่ให้โอกาสผมเล่าเรื่องราวของเราครับ","Commentator: swasdikhrab, thukkhn! wannierachaphakhunaipphbkabchawbanchakphakhoisanthichamaelathuengsphaphoakasainphumiphakhni
+
+A: swasdikhrab, phmchueosmphngs epnchawbanchakoamephohnongbawlamphu phmoyuthinimatlodchiwit aelaphmbokaidelywaoakasthinimanaeprprwnmakkhrab
+
+Commentator: oaw, manaeprprwnoyangairkhrab?
+
+A: bangthimanronchad bangthimanhnaweyn bangthimankfntkhnak bangthimankaimmifnelykhrab thamaihkarthamkarekstryakkhuenkhrab
+
+Commentator: nanchring- khrab aetkhunmiwithiprabtawhrueoaim?
+
+A: aichkhrab, eratongprabtawaihekhakabsphaphoakas eraplukphuechthithnthantokhwamaehngaelng aelaeraketriymphromsamhrabruedufnkhrab
+
+Commentator: nikhueokhwamsamarthkhongchawbanphakhoisanthiaethchringkhrab khobkhunkhunsmphngssamhrabprasbkarnkhongkhun
+
+A: aimepnairkhrab, khobkhunthiaihookasphmelaerueongrawkhongerakhrab",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ อาหารท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"Commentator: สวัสดีครับ, วันนี้เราจะพาคุณไปพบกับอาหารท้องถิ่นของภาคอีสาน, มื้อนี้เราจะไปลอง ""ขนมจีนน้ำยาป่า"" ที่ร้านข้างทางในอำเภอหนองบัวลำภู
+
+A: อื้อหื้อ, ขนมจีนน้ำยาป่านี่เป็นอาหารที่ผมชอบมากๆ เลยครับ, มันอร่อยจริงๆ
+
+B: ใช่ครับ, น้ำยาป่าของที่นี่รสชาติดีมาก, มีกลิ่นหอมของเครื่องเทศและพริกแกงที่ทำให้เราติดใจ
+
+A: ใช่ครับ, นอกจากนี้ยังมีเนื้อปลาทอดกรอบๆ ที่ทำให้ขนมจีนน้ำยาป่าของที่นี่เป็นเอกลักษณ์ไม่เหมือนใคร
+
+B: ใช่ครับ, และที่สำคัญคือราคาไม่แพง, เพียงแค่ 30 บาทก็ได้ขนมจีนน้ำยาป่าที่อร่อยและอิ่มท้อง
+
+A: ใช่ครับ, ถ้าใครมาเที่ยวภาคอีสานไม่ควรพลาด ""ขนมจีนน้ำยาป่า"" ที่ร้านข้างทางในอำเภอหนองบัวลำภูครับ","Commentator: swasdikhrab, wannierachaphakhunaipphbkaboaharthongthinkhongphakhoisan, mueonierachaaiplong ""khnmchinnamyapa"" thirankhangthangainoamephohnongbawlamphu
+
+A: oueohueo, khnmchinnamyapaniepnoaharthiphmchobmak- elykhrab, manoroychring-
+
+B: aichkhrab, namyapakhongthinirschatidimak, miklinhomkhongekhrueongethsaelaphrikaekngthithamaiheratidaich
+
+A: aichkhrab, nokchakniyangmienueoplathodkrob- thithamaihkhnmchinnamyapakhongthiniepneoklaksnaimehmueonaikhr
+
+B: aichkhrab, aelathisamkhaykhueorakhaaimaephng, ephiyngaekh 30 bathkaidkhnmchinnamyapathioroyaelaoimthong
+
+A: aichkhrab, thaaikhrmaethiywphakhoisanaimkhwrphlad ""khnmchinnamyapa"" thirankhangthangainoamephohnongbawlamphukhrab",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"A: สวัสดีครับ, ผมเป็นคนจากภาคอีสาน เรามาแลกเปลี่ยนความคิดเห็นเกี่ยวกับเครื่องแต่งกายท้องถิ่นของเรา
+
+B: สวัสดีครับ, ผมจากกรุงเทพฯ ด้วยครับ ผมอยากรู้ว่าเครื่องแต่งกายท้องถิ่นของภาคอีสานมีอะไรบ้าง
+
+A: ในภาคอีสาน เรามีเครื่องแต่งกายท้องถิ่นที่เรียกว่า ""ผ้าซิ่น"" เป็นผ้าแพรที่ใช้ในการสวมใส่ โดยเฉพาะผู้หญิง จะใช้ในการสวมใส่ในโอกาสพิเศษ เช่น งานแต่งงาน หรืองานเทศกาล
+
+B: อ๋อ, ผมเคยเห็นผ้าซิ่นในละครไทยที่ฉายทางทีวี แต่ไม่ทราบว่ามันมีความหมายอะไรหรือเปล่า
+
+A: ใช่ครับ, ผ้าซิ่นมีความหมายทางวัฒนธรรมและศาสนา ผู้หญิงที่สวมผ้าซิ่นจะแสดงถึงความเป็นหญิงไทยที่มีความรู้สึกถึงความเป็นไทย และยังเป็นการแสดงออกถึงความเคารพต่อผู้ใหญ่และความเชื่อทางศาสนา
+
+B: โอ้, ผมเข้าใจแล้วครับ ขอบคุณที่อธิบายให้ผมฟัง
+
+A: ไม่เป็นไรครับ, ถ้ามีอะไรสงสัยหรืออยากทราบเพิ่มเติม ก็บอกผมได้นะครับ","A: swasdikhrab, phmepnkhnchakphakhoisan eramaaelkepliynkhwamkhidehnekiywkabekhrueongaetngkaythongthinkhongera
+
+B: swasdikhrab, phmchakkrungethph. dwykhrab phmoyakruwaekhrueongaetngkaythongthinkhongphakhoisanmioaairbang
+
+A: ainphakhoisan eramiekhrueongaetngkaythongthinthieriykwa ""phasin"" epnphaaephrthiaichainkarswmais odyechphaaphuhying chaaichainkarswmaisainookasphiess echn nganaetngngan hrueonganethskal
+
+B: oo, phmekhyehnphasinainlakhraithythichaythangthiwi aetaimthrabwamanmikhwamhmayoaairhrueoepla
+
+A: aichkhrab, phasinmikhwamhmaythangwathnthrrmaelasasna phuhyingthiswmphasinchaaesdngthuengkhwamepnhyingaithythimikhwamrusuekthuengkhwamepnaithy aelayangepnkaraesdngookthuengkhwamekharphtophuaihyaelakhwamechueothangsasna
+
+B: oo, phmekhaaichaelwkhrab khobkhunthiothibayaihphmfang
+
+A: aimepnairkhrab, thamioaairsngsayhrueooyakthrabephimetim kbokphmaidnakhrab",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ การศึกษาท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"Commentator: สวัสดีครับ, วันนี้เราจะพาคุณไปพบกับชาวบ้านในภาคอีสานที่กำลังพูดถึงการศึกษาท้องถิ่น
+
+A: สวัสดีครับ, ผมชื่อสมชาย เป็นชาวบ้านในอำเภอหนองบัวลำภู ผมอยากจะบอกว่าการศึกษาท้องถิ่นเป็นสิ่งที่สำคัญมาก เพราะมันทำให้เราสามารถเข้าใจและพัฒนาชุมชนของเราได้ดีขึ้น
+
+B: ใช่ครับ, ผมเห็นด้วยกับคุณสมชาย การศึกษาท้องถิ่นไม่เพียงแต่ทำให้เราสามารถเข้าใจชุมชนของเราเท่านั้น แต่ยังทำให้เราสามารถสร้างความเข้าใจและความสัมพันธ์ที่ดีกับคนในชุมชนได้อีกด้วย
+
+C: แต่ผมคิดว่าการศึกษาท้องถิ่นควรจะครอบคลุมถึงการศึกษาภาษาท้องถิ่นและวัฒนธรรมด้วย เพราะภาษาและวัฒนธรรมของเราก็เป็นส่วนสำคัญของการศึกษาท้องถิ่น
+
+D: ใช่ครับ, ภาษาและวัฒนธรรมของเราก็เป็นส่วนสำคัญของการศึกษาท้องถิ่น และการศึกษาภาษาท้องถิ่นและวัฒนธรรมจะทำให้เราสามารถสื่อสารและเข้าใจกับคนในชุมชนได้ดีขึ้น
+
+Commentator: ขอบคุณทุกคนที่มาร่วมสนทนาเกี่ยวกับการศึกษาท้องถิ่นในวันนี้ หวังว่าเราจะได้เห็นการพัฒนาการศึกษาท้องถิ่นที่ดีขึ้นในอนาคต","Commentator: swasdikhrab, wannierachaphakhunaipphbkabchawbanainphakhoisanthikamlangphudthuengkarsueksathongthin
+
+A: swasdikhrab, phmchueosmchay epnchawbanainoamephohnongbawlamphu phmoyakchabokwakarsueksathongthinepnsingthisamkhaymak ephraamanthamaiherasamarthekhaaichaelaphathnachumchnkhongeraaiddikhuen
+
+B: aichkhrab, phmehndwykabkhunsmchay karsueksathongthinaimephiyngaetthamaiherasamarthekhaaichchumchnkhongeraethanan aetyangthamaiherasamarthsrangkhwamekhaaichaelakhwamsamphanththidikabkhnainchumchnaidoikdwy
+
+C: aetphmkhidwakarsueksathongthinkhwrchakhrobkhlumthuengkarsueksaphasathongthinaelawathnthrrmdwy ephraaphasaaelawathnthrrmkhongerakepnswnsamkhaykhongkarsueksathongthin
+
+D: aichkhrab, phasaaelawathnthrrmkhongerakepnswnsamkhaykhongkarsueksathongthin aelakarsueksaphasathongthinaelawathnthrrmchathamaiherasamarthsueosaraelaekhaaichkabkhnainchumchnaiddikhuen
+
+Commentator: khobkhunthukkhnthimarwmsnthnaekiywkabkarsueksathongthinainwanni hwangwaerachaaidehnkarphathnakarsueksathongthinthidikhuenainonakht",.
