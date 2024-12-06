@@ -2,6 +2,8 @@ import os, sys
 os.environ["PYTORCH_USE_CUDA_DSA"] = "1"
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 os.environ["TORCH_USE_CUDA_DSA"] = "1"
+# os.environ["TRANSFORMERS_OFFLINE"] = "1"
+
 import csv
 from os.path import exists
 

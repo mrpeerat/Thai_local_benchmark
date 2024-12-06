@@ -1,0 +1,89 @@
+Input,Pred,Pred_Latin,Gold
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ ประเพณีท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"""สวัสดีครับ, ผมมาจากภาคใต้ครับ. ที่นี่มีประเพณีท้องถิ่นที่น่าสนใจมากๆ ครับ. เช่น ประเพณีสงกรานต์ใต้, ประเพณีตรุษจีน, และประเพณีชักพระ. ทุกๆ ปีจะมีการจัดงานใหญ่ๆ เพื่อเฉลิมฉลองและรักษาประเพณีเหล่านี้ไว้. ผมหวังว่าคุณจะได้มาสัมผัสกับประเพณีท้องถิ่นของเราครับ.""","""swasdikhrab, phmmachakphakhaitkhrab. thinimipraephnithongthinthinasnaichmak- khrab. echn praephnisngkrantait, praephnitruschin, aelapraephnichakphra. thuk- pichamikarchadnganaihy- ephueoechlimchlongaelaraksapraephniehlaniaiw. phmhwangwakhunchaaidmasamphaskabpraephnithongthinkhongerakhrab.""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ อาชีพ บทพูดไม่ควรเกิน 5 ตา," the southern dialect of Thailand. Here's a short dialogue about occupations:
+
+1. คนใต้: ""อ้ายทำอาชีพอะไร?""
+   (Southern person: ""What do you do for a living?"")
+
+2. คนเหนือ: ""อ้ายเป็นครูสอนภาษา""
+   (Northern person: ""I'm a language teacher."")
+
+3. คนใต้: ""อ้ายก็อยากเป็นครูสอนภาษา แต่อ้ายไม่มีความรู้เรื่องภาษา""
+   (Southern person: ""I also want to be a language teacher, but I don't know much about languages."")
+
+4. คนเหนือ: ""อ้ายก็เรียนรู้ได้นะ อ้ายเรียนภาษาใต้ได้ไหม?""
+   (Northern person: ""You can learn, can't you? Can you learn the southern dialect?"")
+
+5. คนใต้: ""อ้ายเรียนรู้ได้ แต่อ้ายต้องใช้เวลาหน่อย""
+   (Southern person: ""I can learn, but I need some time."")"," the southern dialect of Thailand. Here's a short dialogue about occupations:
+
+1. khnait: ""oaythamoachiphoaair?""
+   (Southern person: ""What do you do for a living?"")
+
+2. khnehnueo: ""oayepnkhrusonphasa""
+   (Northern person: ""I'm a language teacher."")
+
+3. khnait: ""oaykoyakepnkhrusonphasa aetoayaimmikhwamruerueongphasa""
+   (Southern person: ""I also want to be a language teacher, but I don't know much about languages."")
+
+4. khnehnueo: ""oaykeriynruaidna oayeriynphasaaitaidaihm?""
+   (Northern person: ""You can learn, can't you? Can you learn the southern dialect?"")
+
+5. khnait: ""oayeriynruaid aetoaytongaichewlahnoy""
+   (Southern person: ""I can learn, but I need some time."")",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การคมนาคม บทพูดไม่ควรเกิน 5 ตา,"""โอ้ย! การคมนาคมที่ใต้นี่มันแย่จริงๆครับ. ถ้าจะไปไหนมาไหนต้องใช้รถยนต์เป็นหลัก เพราะรถไฟก็ไม่ค่อยมี และถ้ามีรถไฟก็ช้ามากๆ. แล้วถ้าจะขึ้นเครื่องบินก็ต้องไปที่สนามบินหาดใหญ่ ซึ่งไกลจากบ้านฉันมากๆ. นอกจากนี้ ถนนก็ไม่ค่อยดี มีรถติดมากๆ ทำให้การเดินทางเป็นเรื่องที่ยากลำบากจริงๆครับ.""","""ooy! karkhmnakhmthiaitnimanaeychring-khrab. thachaaipaihnmaaihntongaichrthyntepnhlak ephraarthaifkaimkhoymi aelathamirthaifkchamak-. aelwthachakhuenekhrueongbinktongaipthisnambinhadaihy suengaiklchakbanchanmak-. nokchakni thnnkaimkhoydi mirthtidmak- thamaihkaredinthangepnerueongthiyaklambakchring-khrab.""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ ครอบครัว บทพูดไม่ควรเกิน 5 ตา,"""โอ้ย, ครอบครัวเรานี่แหละที่สุดยอด! แม่ทำกับข้าวอร่อยที่สุดในโลก, พ่อทำงานหนักเพื่อเลี้ยงดูพวกเรา, น้องๆ ก็เป็นเด็กดีไม่เคยทำให้พ่อแม่เสียใจ. ครอบครัวเรานี่แหละที่ทำให้ฉันมีความสุขที่สุด.""","""ooy, khrobkhraweraniaehlathisudyod! aemthamkabkhaworoythisudainolk, phothamnganhnakephueoeliyngduphwkera, nong- kepnedkdiaimekhythamaihphoaemesiyaich. khrobkhraweraniaehlathithamaihchanmikhwamsukhthisud.""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ กลับบ้านช่วงเทศกาล บทพูดไม่ควรเกิน 5 ตา,"""โอ้ย! เทศกาลนี้ก็ถึงแล้วนะครับ, ต้องกลับบ้านไปหาพ่อแม่แล้ว. คิดถึงบ้านมากๆ เลยครับ, คิดถึงอาหารใต้ คิดถึงทะเล คิดถึงความสงบ. ไม่ได้กลับบ้านนานแล้ว, ต้องไปหาพ่อแม่แล้วครับ. ไปถึงก็จะทำบุญที่วัด, แล้วก็ไปเล่นทะเลที่หาดใหญ่. คิดถึงบ้านมากๆ เลยครับ, ต้องกลับบ้านแล้วครับ.""","""ooy! ethskalnikthuengaelwnakhrab, tongklabbanaiphaphoaemaelw. khidthuengbanmak- elykhrab, khidthuengoaharait khidthuengthael khidthuengkhwamsngb. aimaidklabbannanaelw, tongaiphaphoaemaelwkhrab. aipthuengkchathambuythiwad, aelwkaipelnthaelthihadaihy. khidthuengbanmak- elykhrab, tongklabbanaelwkhrab.""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การเมืองท้องถิ่น บทพูดไม่ควรเกิน 5 ตา," the southern dialect, focusing on local politics, and the speech should not exceed 5 minutes.
+
+""สวัสดีครับพี่น้องชาวใต้ทั้งหลาย, วันนี้ผมมีเรื่องสำคัญที่ต้องการจะพูดถึง นั่นคือการเมืองท้องถิ่นของเรา
+
+เราทุกคนรู้ว่า การเมืองท้องถิ่นเป็นสิ่งที่สำคัญมาก เพราะมันส่งผลกระทบต่อชีวิตประจำวันของเรา ไม่ว่าจะเป็นเรื่องของการบริการสาธารณะ, การจัดการทรัพยากรธรรมชาติ, หรือการสนับสนุนการพัฒนาชุมชน
+
+แต่เราก็ต้องยอมรับว่า การเมืองท้องถิ่นของเรายังมีปัญหาอยู่มาก ไม่ว่าจะเป็นเรื่องของการทุจริต, การบริหารจัดการที่ไม่โปร่งใส, หรือการไม่ฟังเสียงของประชาชน
+
+ดังนั้น ผมเชื่อว่า เราทุกคนต้องร่วมมือกันเพื่อสร้างการเปลี่ยนแปลง เราต้องเลือกผู้นำที่มีความสามารถและความซื่อสัตย์ เราต้องตรวจสอบและติดตามการทำงานของพวกเขา และเราต้องไม่ลืมที่จะใช้สิทธิ์ของเราในการเลือกตั้ง
+
+ถ้าเราทุกคนร่วมมือกัน เราจะสามารถสร้างการเมืองท้องถิ่นที่ดีและเป็นธรรมให้กับทุกคน. ขอบคุณครับ."""," the southern dialect, focusing on local politics, and the speech should not exceed 5 minutes.
+
+""swasdikhrabphinongchawaitthanghlay, wanniphmmierueongsamkhaythitongkarchaphudthueng nankhueokaremueongthongthinkhongera
+
+erathukkhnruwa karemueongthongthinepnsingthisamkhaymak ephraamansngphlkrathbtochiwitprachamwankhongera aimwachaepnerueongkhongkarbrikarsatharna, karchadkarthraphyakrthrrmchati, hrueokarsnabsnunkarphathnachumchn
+
+aeteraktongyomrabwa karemueongthongthinkhongerayangmipayhaoyumak aimwachaepnerueongkhongkarthuchrit, karbriharchadkarthiaimoprngais, hrueokaraimfangesiyngkhongprachachn
+
+dangnan phmechueowa erathukkhntongrwmmueokanephueosrangkarepliynaeplng eratongelueokphunamthimikhwamsamarthaelakhwamsueosaty eratongtrwchsobaelatidtamkarthamngankhongphwkekha aelaeratongaimluemthichaaichsiththikhongeraainkarelueoktang
+
+thaerathukkhnrwmmueokan erachasamarthsrangkaremueongthongthinthidiaelaepnthrrmaihkabthukkhn. khobkhunkhrab.""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ สภาพอากาศ บทพูดไม่ควรเกิน 5 ตา," the weather in the south is very hot and humid, you know? It's like the sun is always beating down on us. But we're used to it, we're southern people, we're strong. We can handle the heat. But sometimes, when the rain comes, it's like a blessing from heaven. It cools everything down and makes everything feel fresh and new again."," the weather in the south is very hot and humid, you know? It's like the sun is always beating down on us. But we're used to it, we're southern people, we're strong. We can handle the heat. But sometimes, when the rain comes, it's like a blessing from heaven. It cools everything down and makes everything feel fresh and new again.",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ อาหารท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"""โอ้ย! ที่นี่มีอาหารท้องถิ่นอร่อยๆ เยอะแยะเลยครับ! อย่างเช่น 'คั่วกลิ้ง' ที่ทำจากเนื้อไก่หรือหมูผสมกับเครื่องเทศและพริกไทย รสชาติเผ็ดร้อนถึงใจ หรือ 'ขนมจีน' ที่เป็นเส้นข้าวเหนียวที่ทำจากแป้งข้าวเหนียว นำมาต้มแล้วราดด้วยน้ำแกงหรือน้ำจิ้ม อร่อยจนไม่อยากหยุดกินเลยครับ! แล้วยังมี 'ยำไข่ปลา' ที่เป็นอาหารท้องถิ่นที่ทำจากไข่ปลาและผักต่างๆ รสชาติเปรี้ยวหวานเผ็ด เหมาะกับการกินกับข้าวสวยมากๆ ครับ!""","""ooy! thinimioaharthongthinoroy- eyoaaeyaelykhrab! oyangechn 'khawkling' thithamchakenueoaikhrueohmuphsmkabekhrueongethsaelaphrikaithy rschatiephdronthuengaich hrueo 'khnmchin' thiepnesnkhawehniywthithamchakaepngkhawehniyw nammatmaelwraddwynamaeknghrueonamchim oroychnaimoyakhyudkinelykhrab! aelwyangmi 'yamaikhpla' thiepnoaharthongthinthithamchakaikhplaaelaphaktang- rschatiepriywhwanephd ehmaakabkarkinkabkhawswymak- khrab!""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"""โอ้ย! ชุดพื้นเมืองบ้านเฮานี่มันสวยมากๆ เลยนะคะ ผ้าซิ่นลายดอกไม้ สีสันสดใส แถมยังมีเครื่องประดับเงินทองที่สวยงามอีกด้วย ถ้าไม่ได้ใส่ชุดนี้ไปงานบุญบ้านเฮา ก็เหมือนกับว่าไม่ได้ไปเลยค่ะ""","""ooy! chudphuenemueongbanehanimanswymak- elynakha phasinlaydokaim sisansdais aethmyangmiekhrueongpradabenginthongthiswyngamoikdwy thaaimaidaischudniaipnganbuybaneha kehmueonkabwaaimaidaipelykha""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การศึกษาท้องถิ่น บทพูดไม่ควรเกิน 5 ตา," the southern dialect of Thailand. Here is a short speech about local education in the southern dialect:
+
+""สวัสดีครับ ผมมีความยินดีที่ได้มาพูดถึงการศึกษาท้องถิ่นในวันนี้ ครับ
+
+การศึกษาท้องถิ่นเป็นสิ่งที่สำคัญมากๆ สำหรับเรา เพราะว่าเราต้องรู้จักและเข้าใจถึงวัฒนธรรม ประวัติศาสตร์ และความเป็นมาของท้องถิ่นของเรา เพื่อที่เราจะได้รักษาและพัฒนาท้องถิ่นของเราให้ดียิ่งขึ้น
+
+ดังนั้น ผมหวังว่าทุกคนจะให้ความสำคัญกับการศึกษาท้องถิ่น และสนับสนุนให้เยาวชนของเราได้รับการศึกษาที่ดี เพื่อที่เราจะได้มีอนาคตที่สดใสครับ""
+
+Translation:
+
+""Hello, I am pleased to talk about local education today.
+
+Local education is very important for us because we need to know and understand the culture, history, and origins of our local area so that we can preserve and develop our local area better.
+
+Therefore, I hope everyone will prioritize local education and support our young people to receive good education so that we can have a bright future."""," the southern dialect of Thailand. Here is a short speech about local education in the southern dialect:
+
+""swasdikhrab phmmikhwamyindithiaidmaphudthuengkarsueksathongthinainwanni khrab
+
+karsueksathongthinepnsingthisamkhaymak- samhrabera ephraawaeratongruchakaelaekhaaichthuengwathnthrrm prawatisastr aelakhwamepnmakhongthongthinkhongera ephueothierachaaidraksaaelaphathnathongthinkhongeraaihdiyingkhuen
+
+dangnan phmhwangwathukkhnchaaihkhwamsamkhaykabkarsueksathongthin aelasnabsnunaiheyawchnkhongeraaidrabkarsueksathidi ephueothierachaaidmionakhtthisdaiskhrab""
+
+Translation:
+
+""Hello, I am pleased to talk about local education today.
+
+Local education is very important for us because we need to know and understand the culture, history, and origins of our local area so that we can preserve and develop our local area better.
+
+Therefore, I hope everyone will prioritize local education and support our young people to receive good education so that we can have a bright future.""",.

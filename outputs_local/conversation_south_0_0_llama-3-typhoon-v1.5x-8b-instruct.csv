@@ -1,0 +1,109 @@
+Input,Pred,Pred_Latin,Gold
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ ประเพณีท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"Commentator: สวัสดีครับ, ผมชื่อสมชาย จากจังหวัดนครศรีธรรมราช, และผมจะพาคุณไปรู้จักกับประเพณีท้องถิ่นของเรา
+
+ตาแรก: ""ประเพณีท้องถิ่นของเราเป็นส่วนสำคัญของวัฒนธรรมและความเป็นไทยของเรา เรามีเทศกาลประจำปีที่เรียกว่า 'สงกรานต์' ซึ่งเป็นเทศกาลที่เราจะฉลองการเริ่มต้นของฤดูใหม่ และเราจะสรงน้ำพระและผู้ใหญ่เพื่อขอพรและความเป็นสิริมงคล""
+
+ตา: ""นอกจากนี้ เรายังมีเทศกาล 'บวช' ซึ่งเป็นเทศกาลที่เราจะส่งเสริมการศึกษาและวัฒนธรรมของเรา โดยผู้ชายจะเข้าไปบวชเป็นพระภิกษุเพื่อศึกษาธรรมะและปฏิบัติธรรม""
+
+ตา: ""และอีกหนึ่งประเพณีที่สำคัญของเราคือ 'งานบุญ' ซึ่งเป็นงานที่เราจะทำบุญและถวายอาหารให้กับพระภิกษุ เพื่อสร้างความเป็นสิริมงคลและความเจริญรุ่งเรืองให้กับครอบครัวและชุมชนของเรา""
+
+ตา: ""นอกจากนี้ เรายังมีประเพณี 'การทำบุญ' ซึ่งเป็นการทำบุญโดยการบริจาคเงินหรือสิ่งของให้กับวัดหรือสถานสงเคราะห์ เพื่อสร้างความเป็นสิริมงคลและความเจริญรุ่งเรืองให้กับครอบครัวและชุมชนของเรา""
+
+ตา: ""และท้ายที่สุด เรายังมีประเพณี 'การทำบุญ' ซึ่งเป็นการทำบุญโดยการบริจาคเงินหรือสิ่งของให้กับวัดหรือสถานสงเคราะห์ เพื่อสร้างความเป็นสิริมงคลและความเจริญรุ่งเรืองให้กับครอบครัวและชุมชนของเรา""
+
+ตา: ""และนี่คือประเพณีท้องถิ่นของเรา ที่เราภูมิใจที่จะแบ่งปันกับคุณ ขอบคุณที่ฟัง""","Commentator: swasdikhrab, phmchueosmchay chakchanghwadnkhrsrithrrmrach, aelaphmchaphakhunaipruchakkabpraephnithongthinkhongera
+
+taaerk: ""praephnithongthinkhongeraepnswnsamkhaykhongwathnthrrmaelakhwamepnaithykhongera eramiethskalprachampithieriykwa 'sngkrant' suengepnethskalthierachachlongkarerimtnkhongrueduaihm aelaerachasrngnamphraaelaphuaihyephueokhophraelakhwamepnsirimngkhl""
+
+ta: ""nokchakni erayangmiethskal 'bwch' suengepnethskalthierachasngesrimkarsueksaaelawathnthrrmkhongera odyphuchaychaekhaaipbwchepnphraphiksuephueosueksathrrmaaelaptibatithrrm""
+
+ta: ""aelaoikhnuengpraephnithisamkhaykhongerakhueo 'nganbuy' suengepnnganthierachathambuyaelathwayoaharaihkabphraphiksu ephueosrangkhwamepnsirimngkhlaelakhwamechriyrungerueongaihkabkhrobkhrawaelachumchnkhongera""
+
+ta: ""nokchakni erayangmipraephni 'karthambuy' suengepnkarthambuyodykarbrichakhenginhrueosingkhongaihkabwadhrueosthansngekhraah ephueosrangkhwamepnsirimngkhlaelakhwamechriyrungerueongaihkabkhrobkhrawaelachumchnkhongera""
+
+ta: ""aelathaythisud erayangmipraephni 'karthambuy' suengepnkarthambuyodykarbrichakhenginhrueosingkhongaihkabwadhrueosthansngekhraah ephueosrangkhwamepnsirimngkhlaelakhwamechriyrungerueongaihkabkhrobkhrawaelachumchnkhongera""
+
+ta: ""aelanikhueopraephnithongthinkhongera thieraphumiaichthichaaebngpankabkhun khobkhunthifang""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ อาชีพ บทพูดไม่ควรเกิน 5 ตา,"Commentator: สวัสดีครับ, ผมเป็นคนใต้จากจังหวัดนครศรีธรรมราช และผมจะมาเล่าเรื่องราวเกี่ยวกับอาชีพของผมให้ฟัง
+
+1. ""ผมเป็นชาวสวน, ผมทำการเกษตรมาตลอดชีวิต ผมปลูกข้าว, มัน, และผลไม้ เช่น มะพร้าว, สับปะรด, และมะม่วง""
+2. ""ผมทำงานหนักมาก เพื่อให้ได้ผลผลิตที่ดี และเพื่อเลี้ยงครอบครัวของผม""
+3. ""แต่ผมไม่ได้ทำการเกษตรเพียงอย่างเดียว ผมยังทำงานเป็นช่างไม้อีกด้วย ผมสร้างบ้าน, ตู้, และเฟอร์นิเจอร์จากไม้""
+4. ""ผมภูมิใจในอาชีพของผม เพราะผมได้ใช้ความรู้และความสามารถของตัวเอง เพื่อสร้างสรรค์สิ่งใหม่ๆ และเพื่อช่วยเหลือคนอื่น""
+5. ""ผมหวังว่าผมจะสามารถส่งมอบความรู้และประสบการณ์ของผมให้กับคนรุ่นหลัง เพื่อที่พวกเขาจะสามารถดำเนินชีวิตและอาชีพของตัวเองได้อย่างมีความสุข""","Commentator: swasdikhrab, phmepnkhnaitchakchanghwadnkhrsrithrrmrach aelaphmchamaelaerueongrawekiywkaboachiphkhongphmaihfang
+
+1. ""phmepnchawswn, phmthamkarekstrmatlodchiwit phmplukkhaw, man, aelaphlaim echn maphraw, sabpard, aelamamwng""
+2. ""phmthamnganhnakmak ephueoaihaidphlphlitthidi aelaephueoeliyngkhrobkhrawkhongphm""
+3. ""aetphmaimaidthamkarekstrephiyngoyangediyw phmyangthamnganepnchangaimoikdwy phmsrangban, tu, aelaeforniechorchakaim""
+4. ""phmphumiaichainoachiphkhongphm ephraaphmaidaichkhwamruaelakhwamsamarthkhongtaweong ephueosrangsrrkhsingaihm- aelaephueochwyehlueokhnouen""
+5. ""phmhwangwaphmchasamarthsngmobkhwamruaelaprasbkarnkhongphmaihkabkhnrunhlang ephueothiphwkekhachasamarthdameninchiwitaelaoachiphkhongtaweongaidoyangmikhwamsukh""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การคมนาคม บทพูดไม่ควรเกิน 5 ตา,"Question: ""เฮ้ย! มึงจะไปไหน? มึงใช้รถหรือว่าเรือ?""
+Answer: ""เฮ้ย! กูจะไปตลาดนัด, กูจะใช้รถมอเตอร์ไซค์ครับ""
+Question: ""โอ๊ะ! มอเตอร์ไซค์? มึงไม่กลัวโดนรถชนหรือ?""
+Answer: ""เฮ้ย! กูไม่กลัวครับ, กูขับรถมานานแล้ว, กูจะระวังตัวเอง""
+Question: ""โอเคๆ, มึงไปตลาดนัดแล้วก็ซื้อของดีๆ มาให้พวกเราด้วยนะ""
+Answer: ""เฮ้ย! กูจะไปซื้อของดีๆ มาให้พวกเราจริงๆ ครับ""","Question: ""ehy! muengchaaipaihn? muengaichrthhrueowaerueo?""
+Answer: ""ehy! kuchaaiptladnad, kuchaaichrthmoetoraiskhkhrab""
+Question: ""ooa! moetoraiskh? muengaimklawodnrthchnhrueo?""
+Answer: ""ehy! kuaimklawkhrab, kukhabrthmananaelw, kucharawangtaweong""
+Question: ""ooekh-, muengaiptladnadaelwksueokhongdi- maaihphwkeradwyna""
+Answer: ""ehy! kuchaaipsueokhongdi- maaihphwkerachring- khrab""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ ครอบครัว บทพูดไม่ควรเกิน 5 ตา,"Comment: บทพูดของคนใต้ (ภาษาไทย) ไม่ควรเกิน 5 ตา เพราะเป็นภาษาที่ใช้ในการสนทนาระหว่างคนในครอบครัวหรือกลุ่มเพื่อนฝูง และมักจะใช้คำศัพท์ที่สั้นกระชับ เพื่อให้ง่ายต่อการเข้าใจและโต้ตอบ
+
+""เฮ้ย, พ่อแม่! มื้อนี้ผมจะทำอาหารเองนะครับ"" (ตาแรก)
+""โอ๊ะ, ดีจัง! เราจะได้ลองชิมฝีมือลูก"" (ตาแรก)
+""ขอบคุณครับ, พ่อแม่! ผมจะทำให้อร่อยที่สุด"" (ตาแรก)
+""ไม่ต้องห่วงนะ, เราจะช่วยกัน"" (ตาแรก)
+""โอเค, ขอบคุณครับ!"" (ตาแรก)","Comment: bthphudkhongkhnait (phasaaithy) aimkhwrekin 5 ta ephraaepnphasathiaichainkarsnthnarahwangkhnainkhrobkhrawhrueoklumephueonfung aelamakchaaichkhamsaphththisankrachab ephueoaihngaytokarekhaaichaelaottob
+
+""ehy, phoaem! mueoniphmchathamoahareongnakhrab"" (taaerk)
+""ooa, dichang! erachaaidlongchimfimueoluk"" (taaerk)
+""khobkhunkhrab, phoaem! phmchathamaihoroythisud"" (taaerk)
+""aimtonghwngna, erachachwykan"" (taaerk)
+""ooekh, khobkhunkhrab!"" (taaerk)",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ กลับบ้านช่วงเทศกาล บทพูดไม่ควรเกิน 5 ตา,"""เฮ้ย! สวัสดีครับพี่น้องชาวใต้, ผมกลับมาจากเมืองใหญ่แล้ว! รู้สึกดีใจมากที่ได้กลับบ้านในช่วงเทศกาลนี้ เพราะนี่คือสถานที่ที่ผมรักและคิดถึงที่สุด. ผมอยากบอกว่า, การกลับบ้านไม่ได้แค่เพื่อพบครอบครัวและเพื่อนฝูง แต่ยังเป็นการกลับมาพบความอบอุ่นและความสุขที่แท้จริงในชีวิต. ผมหวังว่าทุกคนจะมีความสุขและสนุกกับเทศกาลนี้!""","""ehy! swasdikhrabphinongchawait, phmklabmachakemueongaihyaelw! rusuekdiaichmakthiaidklabbanainchwngethskalni ephraanikhueosthanthithiphmrakaelakhidthuengthisud. phmoyakbokwa, karklabbanaimaidaekhephueophbkhrobkhrawaelaephueonfung aetyangepnkarklabmaphbkhwamobounaelakhwamsukhthiaethchringainchiwit. phmhwangwathukkhnchamikhwamsukhaelasnukkabethskalni!""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การเมืองท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"Commentator: สวัสดีครับ, ผมเป็นคนใต้ และผมอยากจะพูดถึงเรื่องการเมืองท้องถิ่นของเรา
+
+1. ""ผมเชื่อว่า การเมืองท้องถิ่นของเราควรเป็นของประชาชน ไม่ใช่ของพรรคการเมืองหรือผู้มีอำนาจ""
+2. ""เราต้องการความเปลี่ยนแปลง เราต้องการความโปร่งใส และเราต้องการความเท่าเทียม""
+3. ""เราต้องการให้เงินภาษีของเราไปใช้ประโยชน์ให้มากที่สุด ไม่ใช่ถูกนำไปใช้เพื่อประโยชน์ของบางคน""
+4. ""เราต้องการให้การศึกษาของเราเป็นที่หนึ่ง และเราต้องการให้โอกาสให้กับทุกคน ไม่ว่าจะมาจากไหน""
+5. ""เราต้องการให้ความสงบสุขกลับคืนสู่ท้องถิ่นของเรา และเราต้องการให้ความไว้วางใจกลับคืนสู่ผู้บริหารท้องถิ่นของเรา""","Commentator: swasdikhrab, phmepnkhnait aelaphmoyakchaphudthuengerueongkaremueongthongthinkhongera
+
+1. ""phmechueowa karemueongthongthinkhongerakhwrepnkhongprachachn aimaichkhongphrrkhkaremueonghrueophumioamnach""
+2. ""eratongkarkhwamepliynaeplng eratongkarkhwamoprngais aelaeratongkarkhwamethaethiym""
+3. ""eratongkaraihenginphasikhongeraaipaichpraoychnaihmakthisud aimaichthuknamaipaichephueopraoychnkhongbangkhn""
+4. ""eratongkaraihkarsueksakhongeraepnthihnueng aelaeratongkaraihookasaihkabthukkhn aimwachamachakaihn""
+5. ""eratongkaraihkhwamsngbsukhklabkhuensuthongthinkhongera aelaeratongkaraihkhwamaiwwangaichklabkhuensuphubriharthongthinkhongera""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ สภาพอากาศ บทพูดไม่ควรเกิน 5 ตา,"Comment: ""เฮ้ย! อากาศร้อนจริงๆ วันนี้ เหมือนไฟเผาโลกเลย! หัวใจจะหยุดเต้นแล้ว! ขอโทษนะครับ, ผมไม่ได้พูดเล่น ๆ นะ!""","Comment: ""ehy! oakasronchring- wanni ehmueonaifephaolkely! hawaichchahyudetnaelw! khoothsnakhrab, phmaimaidphudeln - na!""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ อาหารท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"Commentator: สวัสดีครับ, ผมเป็นคนใต้จากจังหวัดนครศรีธรรมราช และวันนี้ผมจะพาคุณไปรู้จักกับอาหารท้องถิ่นของเรา
+
+1. ""อาหารใต้"" เป็นอาหารที่มีรสชาติเฉพาะตัว, มีกลิ่นหอมและความเผ็ดร้อนจากพริกไทยดำและกระเทียม
+2. ""ข้าวยำ"" เป็นอาหารที่ขึ้นชื่อของเรา, มันทำจากข้าวสวยที่ผสมกับเครื่องปรุงต่างๆ เช่น กุ้งแห้ง, ปลาหมึก, ไข่เค็ม, และหอมแดง
+3. ""แกงป่า"" เป็นอาหารที่มีรสชาติเผ็ดร้อน, ทำจากเนื้อหมูหรือเนื้อวัวที่ผัดกับพริกไทยดำ, กระเทียม, และใบมะกรูด
+4. ""ขนมจีน"" เป็นอาหารที่ขึ้นชื่อของเรา, มันทำจากแป้งข้าวเจ้าที่ผสมกับน้ำและไข่, แล้วนำไปตากแดดจนแห้ง
+5. ""ส้มตำ"" เป็นอาหารที่ขึ้นชื่อของเรา, มันทำจากมะเขือเทศ, มะนาว, พริก, และปลาร้า, แล้วนำไปตำจนละเอียด
+
+Commentator: นี่คืออาหารท้องถิ่นของเรา, หวังว่าคุณจะชอบและอยากลองทาน!","Commentator: swasdikhrab, phmepnkhnaitchakchanghwadnkhrsrithrrmrach aelawanniphmchaphakhunaipruchakkaboaharthongthinkhongera
+
+1. ""oaharait"" epnoaharthimirschatiechphaataw, miklinhomaelakhwamephdronchakphrikaithydamaelakraethiym
+2. ""khawyam"" epnoaharthikhuenchueokhongera, manthamchakkhawswythiphsmkabekhrueongprungtang- echn kungaehng, plahmuek, aikhekhm, aelahomaedng
+3. ""aekngpa"" epnoaharthimirschatiephdron, thamchakenueohmuhrueoenueowawthiphadkabphrikaithydam, kraethiym, aelaaibmakrud
+4. ""khnmchin"" epnoaharthikhuenchueokhongera, manthamchakaepngkhawechathiphsmkabnamaelaaikh, aelwnamaiptakaeddchnaehng
+5. ""smtam"" epnoaharthikhuenchueokhongera, manthamchakmaekhueoeths, manaw, phrik, aelaplara, aelwnamaiptamchnlaeoiyd
+
+Commentator: nikhueooaharthongthinkhongera, hwangwakhunchachobaelaoyaklongthan!",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"""โอ๊ย! ผมชอบใส่ผ้าซิ่นมากเลยนะครับ มันเป็นเอกลักษณ์ของคนใต้จริงๆ ผ้าซิ่นเนี่ยไม่ได้แค่เป็นเสื้อผ้าธรรมดา แต่มันสะท้อนถึงวัฒนธรรมและความเป็นไทยของเรา ผมชอบใส่ผ้าซิ่นไปงานบุญ งานศพ หรือแม้กระทั่งไปเที่ยวเล่นกับเพื่อนๆ ผ้าซิ่นเนี่ยทำให้ผมรู้สึกภาคภูมิใจในความเป็นไทย และยังทำให้คนอื่นรู้สึกถึงความเป็นไทยของเราได้อีกด้วย""","""ooy! phmchobaisphasinmakelynakhrab manepneoklaksnkhongkhnaitchring- phasineniyaimaidaekhepnesueophathrrmda aetmansathonthuengwathnthrrmaelakhwamepnaithykhongera phmchobaisphasinaipnganbuy ngansph hrueoaemkrathangaipethiywelnkabephueon- phasineniythamaihphmrusuekphakhphumiaichainkhwamepnaithy aelayangthamaihkhnouenrusuekthuengkhwamepnaithykhongeraaidoikdwy""",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การศึกษาท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"Comment: ผมเป็นคนใต้, ผมอยากจะบอกว่าการศึกษาท้องถิ่นเป็นสิ่งสำคัญมากๆ เพราะมันทำให้เราได้รู้จักและเข้าใจวัฒนธรรมของเราเอง และยังทำให้เราสามารถสืบทอดและอนุรักษ์วัฒนธรรมของเราไปสู่คนรุ่นหลังๆ ด้วยครับ
+
+Comment: การศึกษาท้องถิ่นไม่ได้หมายถึงแค่เรียนรู้ประวัติศาสตร์และวัฒนธรรมของเราเท่านั้น แต่ยังรวมถึงการเรียนรู้ภาษาและเพลงของเราเองด้วยครับ เพราะภาษาและเพลงของเราก็เป็นส่วนสำคัญของวัฒนธรรมของเรา
+
+Comment: นอกจากนี้การศึกษาท้องถิ่นยังทำให้เราสามารถสร้างความเข้าใจและความสัมพันธ์ที่ดีกับคนในพื้นที่เดียวกัน และยังทำให้เราสามารถทำงานร่วมกับคนในพื้นที่เดียวกันได้อย่างราบรื่นครับ
+
+Comment: ในท้ายที่สุดการศึกษาท้องถิ่นเป็นสิ่งที่ทำให้เราสามารถสร้างความภาคภูมิใจในตัวเองและในพื้นที่ของเรา และยังทำให้เราสามารถส่งมอบวัฒนธรรมของเราให้กับคนรุ่นหลังๆ ได้อย่างมั่นคงครับ","Comment: phmepnkhnait, phmoyakchabokwakarsueksathongthinepnsingsamkhaymak- ephraamanthamaiheraaidruchakaelaekhaaichwathnthrrmkhongeraeong aelayangthamaiherasamarthsuebthodaelaonurakswathnthrrmkhongeraaipsukhnrunhlang- dwykhrab
+
+Comment: karsueksathongthinaimaidhmaythuengaekheriynruprawatisastraelawathnthrrmkhongeraethanan aetyangrwmthuengkareriynruphasaaelaephlngkhongeraeongdwykhrab ephraaphasaaelaephlngkhongerakepnswnsamkhaykhongwathnthrrmkhongera
+
+Comment: nokchaknikarsueksathongthinyangthamaiherasamarthsrangkhwamekhaaichaelakhwamsamphanththidikabkhnainphuenthiediywkan aelayangthamaiherasamarththamnganrwmkabkhnainphuenthiediywkanaidoyangrabruenkhrab
+
+Comment: ainthaythisudkarsueksathongthinepnsingthithamaiherasamarthsrangkhwamphakhphumiaichaintaweongaelaainphuenthikhongera aelayangthamaiherasamarthsngmobwathnthrrmkhongeraaihkabkhnrunhlang- aidoyangmankhngkhrab",.
