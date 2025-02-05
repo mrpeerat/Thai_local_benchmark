@@ -1,0 +1,175 @@
+Input,Pred,Pred_Latin,Gold
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ ประเพณีท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"ได้เลย นี่คือบทพูดของคนใต้ แหลงถึงประเพณีท้องถิ่น ไม่เกิน 5 ตา:
+
+**ตาที่ 1:** ""เห้อ! เดือนสิบเข้ามาแหม็ดแล้วนิ ปีนี้เตรียมหฺมฺรับแรงๆ สักหฺมฺรับตะ""
+
+**ตาที่ 2:** ""ไอ้ไหรเล่าหฺมฺรับเพ? ทำไหรกันมั่ง?""
+
+**ตาที่ 3:** ""ก็ทำบุญให้บรรพบุรุษไงเล่า! เตรียมขนมพอง ขนมลา ขนมบ้า แล้วก็ผลไม้ หฺมฺรับใหญ่ๆ เลย""
+
+**ตาที่ 4:** ""อ้อ! แล้วอย่าลืมแห่หฺมฺรับด้วยนะ ปีนี้ใครได้รางวัลที่หนึ่งหวา?""
+
+**ตาที่ 5:** ""นั่นแหละ! สนุกกันทั้งเพ! ประเพณีบ้านเรานี่ดีจริงๆ สืบทอดกันมาแต่โบราณ""
+","aidely nikhueobthphudkhongkhnait aehlngthuengpraephnithongthin aimekin 5 ta:
+
+**tathi 1:** ""eho! edueonsibekhamaaehmdaelwni pinietriymhmrabaerng- sakhmrabta""
+
+**tathi 2:** ""aioaihrelahmrabeph? thamaihrkanmang?""
+
+**tathi 3:** ""kthambuyaihbrrphburusaingela! etriymkhnmphong khnmla khnmba aelwkphlaim hmrabaihy- ely""
+
+**tathi 4:** ""oo! aelwoyaluemaehhmrabdwyna piniaikhraidrangwalthihnuenghwa?""
+
+**tathi 5:** ""nanaehla! snukkanthangeph! praephnibaneranidichring- suebthodkanmaaetobran""
+",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ อาชีพ บทพูดไม่ควรเกิน 5 ตา,"ได้เลย นี่คือบทพูดคนใต้เกี่ยวกับอาชีพ ไม่เกิน 5 ตา:
+
+*   **ตาที่ 1:** ""เห้อ! ราคายางนิ ตกเหี้ยนเตี้ยเลยหวาง... ทำไหร่ดีหวา?"" (เฮ้อ! ราคายางนี่ ตกต่ำมากเลย ทำอะไรดีเนี่ย?)
+*   **ตาที่ 2:** ""แต่ก่อนกะทำแต่สวนยาง... สงสัยต้องหาไหร่ทำเพิ่มแล้ว"" (แต่ก่อนก็ทำแต่สวนยาง สงสัยต้องหาอะไรทำเพิ่มแล้ว)
+*   **ตาที่ 3:** ""เพื่อนบอกว่า ขายของออนไลน์ พอกินได้แรง... ลองผ่อสักทีดีหวา"" (เพื่อนบอกว่า ขายของออนไลน์ พอกินได้บ้าง ลองดูสักทีดีไหม)
+*   **ตาที่ 4:** ""เออ... ลองเบิ่งสักตั้ง! เผื่อรุ่ง... ถ้าไม่รุ่ง... กะค่อยว่ากันใหม่"" (เออ ลองดูสักตั้ง เผื่อรุ่ง ถ้าไม่รุ่ง ค่อยว่ากันใหม่)
+*   **ตาที่ 5:** ""สู้โว้ย! คนใต้ไม่ท้อแท้... ทำไหร่กะทำได้ทั้งเพ!"" (สู้โว้ย! คนใต้ไม่ท้อแท้ ทำอะไรก็ทำได้ทั้งนั้น!)
+","aidely nikhueobthphudkhnaitekiywkaboachiph aimekin 5 ta:
+
+*   **tathi 1:** ""eho! rakhayangni tkehiynetiyelyhwang... thamaihrdihwa?"" (eho! rakhayangni tktammakely thamoaairdieniy?)
+*   **tathi 2:** ""aetkonkathamaetswnyang... sngsaytonghaaihrthamephimaelw"" (aetkonkthamaetswnyang sngsaytonghaoaairthamephimaelw)
+*   **tathi 3:** ""ephueonbokwa khaykhongoonailn phokinaidaerng... longphosakthidihwa"" (ephueonbokwa khaykhongoonailn phokinaidbang longdusakthidiaihm)
+*   **tathi 4:** ""eoo... longebingsaktang! ephueorung... thaaimrung... kakhoywakanaihm"" (eoo longdusaktang ephueorung thaaimrung khoywakanaihm)
+*   **tathi 5:** ""suowy! khnaitaimthoaeth... thamaihrkathamaidthangeph!"" (suowy! khnaitaimthoaeth thamoaairkthamaidthangnan!)
+",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การคมนาคม บทพูดไม่ควรเกิน 5 ตา,"ได้เลย นี่คือบทพูดคนใต้เกี่ยวกับคมนาคม 5 ตา:
+
+1.  **""ไอ้ไหรเหอ! รถติดพันนี้หวา... สงสัยต้องนั่งเรือหางยาวไปทำงานแล้วมั้ง!""** (อะไรกัน! รถติดขนาดนี้... สงสัยต้องนั่งเรือหางยาวไปทำงานแล้วมั้ง!)
+2.  **""แต่ก่อนนั่งรถทัวร์ทีเดียวถึง... เดียวนี้ต้องต่อรถตู้ ต่อสองแถว... วุ่นวายฉิบหาย!""** (เมื่อก่อนนั่งรถทัวร์ทีเดียวถึง... เดี๋ยวนี้ต้องต่อรถตู้ ต่อสองแถว... วุ่นวายมาก!)
+3.  **""ถนนหนทางก็แคบ... รถก็แยะ... ทำไหรกันอยู่ไม่รู้... ไม่เห็นพัฒนาสักที!""** (ถนนหนทางก็แคบ... รถก็เยอะ... ทำอะไรกันอยู่ไม่รู้... ไม่เห็นพัฒนาสักที!)
+4.  **""รถไฟรางคู่ก็ยังไม่เสร็จสักที... รอจนลูกบวชแล้วมั้ง!""** (รถไฟรางคู่ก็ยังไม่เสร็จสักที... รอจนลูกบวชแล้วมั้ง!)
+5.  **""ถ้ามีรถไฟฟ้าเหมือนกรุงเทพฯ คงจะดี... แต่คงได้แค่ฝัน... ชาตินี้คงไม่เห็น!""** (ถ้ามีรถไฟฟ้าเหมือนกรุงเทพฯ คงจะดี... แต่คงได้แค่ฝัน... ชาตินี้คงไม่เห็น!)
+","aidely nikhueobthphudkhnaitekiywkabkhmnakhm 5 ta:
+
+1.  **""aioaihreho! rthtidphannihwa... sngsaytongnangerueohangyawaipthamnganaelwmang!""** (oaairkan! rthtidkhnadni... sngsaytongnangerueohangyawaipthamnganaelwmang!)
+2.  **""aetkonnangrththawrthiediywthueng... ediywnitongtorthtu tosongaethw... wunwaychibhay!""** (emueokonnangrththawrthiediywthueng... ediywnitongtorthtu tosongaethw... wunwaymak!)
+3.  **""thnnhnthangkaekhb... rthkaeya... thamaihrkanoyuaimru... aimehnphathnasakthi!""** (thnnhnthangkaekhb... rthkeyoa... thamoaairkanoyuaimru... aimehnphathnasakthi!)
+4.  **""rthaifrangkhukyangaimesrchsakthi... rochnlukbwchaelwmang!""** (rthaifrangkhukyangaimesrchsakthi... rochnlukbwchaelwmang!)
+5.  **""thamirthaiffaehmueonkrungethph. khngchadi... aetkhngaidaekhfan... chatinikhngaimehn!""** (thamirthaiffaehmueonkrungethph. khngchadi... aetkhngaidaekhfan... chatinikhngaimehn!)
+",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ ครอบครัว บทพูดไม่ควรเกิน 5 ตา,"ได้เลย นี่คือบทพูดคนใต้ แหลงเรื่องครอบครัว ไม่เกิน 5 ตา:
+
+1.  **ตา:** ""เห้อ... แลตะ ครอบครัวเรานี่แหละ สำคัญสุดแล้ว""
+2.  **ยาย:** ""จริงของแก ไอ้หลานเอ้ย... ไม่มีไหร่ใหญ่เท่า ครอบครัวเราแล้ว""
+3.  **ลูก:** ""พ่อแม่เลี้ยงดูผมมาอย่างดี ผมจะตอบแทนพระคุณให้เต็มที่เลย""
+4.  **หลาน:** ""ผมรักปู่ย่าตายาย รักพ่อแม่ รักทุกคนในครอบครัวเลยครับ""
+5.  **ทุกคน:** ""เอ้อ... รักกันๆ แบบนี้แหละ ครอบครัวเราถึงอยู่กันอย่างมีความสุข""
+","aidely nikhueobthphudkhnait aehlngerueongkhrobkhraw aimekin 5 ta:
+
+1.  **ta:** ""eho... aelta khrobkhraweraniaehla samkhaysudaelw""
+2.  **yay:** ""chringkhongaek aiohlaneoy... aimmiaihraihyetha khrobkhraweraaelw""
+3.  **luk:** ""phoaemeliyngduphmmaoyangdi phmchatobaethnphrakhunaihetmthiely""
+4.  **hlan:** ""phmrakpuyatayay rakphoaem rakthukkhnainkhrobkhrawelykhrab""
+5.  **thukkhn:** ""eoo... rakkan- aebbniaehla khrobkhrawerathuengoyukanoyangmikhwamsukh""
+",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ กลับบ้านช่วงเทศกาล บทพูดไม่ควรเกิน 5 ตา,"ได้เลย นี่คือบทพูดคนใต้ แหลงเรื่องกลับบ้านช่วงเทศกาล ไม่เกิน 5 ตา:
+
+1.  **""เห้อ... ถึงเทศกาลทีไร ใจมันอยู่บ้านแล้วหวาง! อยากกลับไปกินแกงส้มฝีมือแม่แรง""** (เฮ้อ... ถึงเทศกาลทีไร ใจมันอยู่บ้านแล้วเพื่อน! อยากกลับไปกินแกงส้มฝีมือแม่จริงๆ)
+2.  **""รถราก็ติดพรืด! แต่ไม่ย่อท้อหวางเหอ... เพื่อพ่อแม่ พี่น้อง รออยู่บ้านทั้งเพ""** (รถราก็ติดมากๆ! แต่ไม่ย่อท้อเพื่อนเอ๋ย... เพื่อพ่อแม่ พี่น้อง รออยู่ที่บ้านทั้งนั้น)
+3.  **""ปีนี้ว่าจะซื้อผ้าถุงสวยๆ ไปฝากแม่สักผืน... แกคงดีใจออก""** (ปีนี้ว่าจะซื้อผ้าถุงสวยๆ ไปฝากแม่สักผืน... แม่คงดีใจมาก)
+4.  **""กลับไปถึงบ้าน จะไปช่วยพ่อทำสวนยาง... ถึงแดดจะแรงก็สู้โว้ย!""** (กลับไปถึงบ้าน จะไปช่วยพ่อทำสวนยาง... ถึงแดดจะแรงก็สู้เว้ย!)
+5.  **""ที่สำคัญ... กลับไปกินข้าวพร้อมหน้าพร้อมตากันทั้งครอบครัว... แค่นี้ก็สุขใจแล้ว""** (ที่สำคัญ... กลับไปกินข้าวพร้อมหน้าพร้อมตากันทั้งครอบครัว... แค่นี้ก็สุขใจแล้ว)
+","aidely nikhueobthphudkhnait aehlngerueongklabbanchwngethskal aimekin 5 ta:
+
+1.  **""eho... thuengethskalthiair aichmanoyubanaelwhwang! oyakklabaipkinaekngsmfimueoaemaerng""** (eho... thuengethskalthiair aichmanoyubanaelwephueon! oyakklabaipkinaekngsmfimueoaemchring-)
+2.  **""rthraktidphrued! aetaimyothohwangeho... ephueophoaem phinong rooyubanthangeph""** (rthraktidmak-! aetaimyothoephueoneoy... ephueophoaem phinong rooyuthibanthangnan)
+3.  **""piniwachasueophathungswy- aipfakaemsakphuen... aekkhngdiaichook""** (piniwachasueophathungswy- aipfakaemsakphuen... aemkhngdiaichmak)
+4.  **""klabaipthuengban chaaipchwyphothamswnyang... thuengaeddchaaerngksuowy!""** (klabaipthuengban chaaipchwyphothamswnyang... thuengaeddchaaerngksuewy!)
+5.  **""thisamkhay... klabaipkinkhawphromhnaphromtakanthangkhrobkhraw... aekhniksukhaichaelw""** (thisamkhay... klabaipkinkhawphromhnaphromtakanthangkhrobkhraw... aekhniksukhaichaelw)
+",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การเมืองท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"ได้เลย นี่คือบทพูดตัวอย่างคนใต้ แหลงเรื่องการเมืองท้องถิ่น ไม่เกิน 5 ตา:
+
+*   **ตาที่ 1:** ""เอ้อ...ไอ้ไหรกันตะ ไอ้เรื่องเลือกตั้งนายกฯ เทศบาลรอบนี้ โหม๋เราะกันจังหู""
+*   **ตาที่ 2:** ""แต่ละคนนี่ ออกมาหาเสียงอย่างเข้ม...แต่พอได้เป็นแล้ว หายหัวไปไหนหมด""
+*   **ตาที่ 3:** ""โครงการที่บอกว่าจะทำๆ ก็เงียบหาย...สงสัยจะโดน 'กิน' ไปหมดแล้วมั้ง""
+*   **ตาที่ 4:** ""ทีนี้ก็เหลือแต่พวกเรานี่แหละ ที่ต้องทนกันต่อไป...เซ็งจังหู""
+*   **ตาที่ 5:** ""หวังว่ารอบหน้า จะมีคนดีๆ มาให้เลือกมั่งเหอะ...เบื่อเต็มทีแล้ว""
+","aidely nikhueobthphudtawoyangkhnait aehlngerueongkaremueongthongthin aimekin 5 ta:
+
+*   **tathi 1:** ""eoo...aioaihrkanta aioerueongelueoktangnayk. ethsbalrobni ohmeraakanchanghu""
+*   **tathi 2:** ""aetlakhnni ookmahaesiyngoyangekhm...aetphoaidepnaelw hayhawaipaihnhmd""
+*   **tathi 3:** ""okhrngkarthibokwachatham- kengiybhay...sngsaychaodn 'kin' aiphmdaelwmang""
+*   **tathi 4:** ""thinikehlueoaetphwkeraniaehla thitongthnkantoaip...esngchanghu""
+*   **tathi 5:** ""hwangwarobhna chamikhndi- maaihelueokmangehoa...ebueoetmthiaelw""
+",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ สภาพอากาศ บทพูดไม่ควรเกิน 5 ตา,"ได้เลย นี่คือบทพูดคนใต้เกี่ยวกับสภาพอากาศ 5 ตา:
+
+1.  **ตาแรก:** ""เห้อ! แดดเปรี้ยงขนาดนี้ สงสัยว่าวันนี้ต้องห่มผ้าอาบน้ำแล้ว""
+2.  **ตาที่สอง:** ""ตะวันขึ้นแรงอย่างนี้ เดี๋ยวตอนบ่ายฝนก็ตกห่าใหญ่แน่ เตรียมหลบฝนกันให้ดี""
+3.  **ตาที่สาม:** ""ลมทะเลพัดหวือๆ แบบนี้ ระวังคลื่นลมแรงนะ ชาวเลทั้งหลาย""
+4.  **ตาที่สี่:** ""เมื่อคืนฝนตกหนัก น้ำท่วมขังหน้าบ้านอีกแล้ว สงสัยต้องพายเรือไปซื้อแกง""
+5.  **ตาที่ห้า:** ""อากาศแปรปรวนจัง วันก่อนร้อนตับแตก วันนี้หนาวสั่น ต้องหาเสื้อแขนยาวมาใส่แล้ว""
+","aidely nikhueobthphudkhnaitekiywkabsphaphoakas 5 ta:
+
+1.  **taaerk:** ""eho! aeddepriyngkhnadni sngsaywawannitonghmphaoabnamaelw""
+2.  **tathisong:** ""tawankhuenaerngoyangni ediywtonbayfnktkhaaihyaen etriymhlbfnkanaihdi""
+3.  **tathisam:** ""lmthaelphadhwueo- aebbni rawangkhluenlmaerngna chawelthanghlay""
+4.  **tathisi:** ""emueokhuenfntkhnak namthwmkhanghnabanoikaelw sngsaytongphayerueoaipsueoaekng""
+5.  **tathiha:** ""oakasaeprprwnchang wankonrontabaetk wannihnawsan tonghaesueoaekhnyawmaaisaelw""
+",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ อาหารท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"ได้เลย นี่คือบทพูดคนใต้ แหลงเรื่องอาหารท้องถิ่น 5 ตา:
+
+* **ตาที่ 1:** ""เห้อ! วันนี้อยากกินอะไรหรอยๆ แรงๆ สักจานหวาง...คิดแล้วน้ำลายไหล""
+* **ตาที่ 2:** ""แกงไตปลาใส่หน่อไม้เหรอ? หรือว่าข้าวยำปักษ์ใต้คลุกกับน้ำบูดูดี? เลือกไม่ถูกเลย""
+* **ตาที่ 3:** ""แต่ถ้าได้กินไก่ทอดหาดใหญ่กรอบๆ ราดด้วยน้ำจิ้มไก่...โอ้ย! สวรรค์""
+* **ตาที่ 4:** ""แล้วไหนจะโรตีจิ้มนมข้นหวานอีก...ของหวานก็ขาดไม่ได้นะ""
+* **ตาที่ 5:** ""สรุปว่า...กินมันทั้งหมดนี่แหละ! ของหรอยๆ ทั้งเพ!""
+","aidely nikhueobthphudkhnait aehlngerueongoaharthongthin 5 ta:
+
+* **tathi 1:** ""eho! wannioyakkinoaairhroy- aerng- sakchanhwang...khidaelwnamlayaihl""
+* **tathi 2:** ""aekngaitplaaishnoaimehro? hrueowakhawyampaksaitkhlukkabnambududi? elueokaimthukely""
+* **tathi 3:** ""aetthaaidkinaikthodhadaihykrob- raddwynamchimaik...ooy! swrrkh""
+* **tathi 4:** ""aelwaihnchaortichimnmkhnhwanoik...khonghwankkhadaimaidna""
+* **tathi 5:** ""srupwa...kinmanthanghmdniaehla! khonghroy- thangeph!""
+",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"ได้เลย นี่คือบทพูดของคนใต้เกี่ยวกับเครื่องแต่งกายท้องถิ่น:
+
+**ตาที่ 1:** ""เห้อ! แลต๊ะผ้านุ่งปาเต๊ะนี่ มันหรูแรงนิ! ใส่ไปไหนใครก็ว่าสวย""
+
+**ตาที่ 2:** ""แล้วเสื้อลูกไม้นั่นแหละ! ใส่คู่กันแล้วเป็นสาวปักษ์ใต้แท้ๆ""
+
+**ตาที่ 3:** ""แต่ก่อนผู้ชายก็ใส่ผ้าโสร่งนะ เดี๋ยวนี้หายากแล้ว""
+
+**ตาที่ 4:** ""ไอ้หมวกกะปิเยาะห์ก็เหมือนกัน ใส่แล้วเท่ห์อย่าบอกใคร""
+
+**ตาที่ 5:** ""ของเหล่านี้แหละ คือเอกลักษณ์ของคนใต้เรา ต้องช่วยกันรักษาไว้""
+","aidely nikhueobthphudkhongkhnaitekiywkabekhrueongaetngkaythongthin:
+
+**tathi 1:** ""eho! aeltaphanungpaetani manhruaerngni! aisaipaihnaikhrkwaswy""
+
+**tathi 2:** ""aelwesueolukaimnanaehla! aiskhukanaelwepnsawpaksaitaeth-""
+
+**tathi 3:** ""aetkonphuchaykaisphaosrngna ediywnihayakaelw""
+
+**tathi 4:** ""aiohmwkkapieyaahkehmueonkan aisaelwethhoyabokaikhr""
+
+**tathi 5:** ""khongehlaniaehla khueoeoklaksnkhongkhnaitera tongchwykanraksaaiw""
+",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การศึกษาท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"ได้เลย นี่คือบทพูดของคนใต้เกี่ยวกับเรื่องการศึกษาท้องถิ่น ไม่เกิน 5 ตา:
+
+**ตาที่ 1:** ""ไอ้น้องเห้อ! เรียนไหรกันตะ? เรียนแต่เรื่องกรุงเทพฯ เรื่องเมืองนอก แล้วเรื่องบ้านเราหละ? ใครสอน?""
+
+**ตาที่ 2:** ""ป๊ะ! เด็กๆ สมัยนี้ไม่รู้จักต้นเหรียง ไม่รู้จักเคย ไม่รู้จักว่าทำไหร่ถึงได้มีข้าวกิน! เรียนแต่ A, B, C, D""
+
+**ตาที่ 3:** ""ครูบาอาจารย์ก็ต้องช่วยกันแหละ สอนเรื่องท้องถิ่นให้เด็กมันรักบ้านเกิด ให้มันหวงแหนวัฒนธรรม""
+
+**ตาที่ 4:** ""ต้องให้มันรู้ว่าปู่ย่าตาทวดเราทำไหร่มาบ้าง สร้างบ้านสร้างเมืองกันมายังไง ไม่ใช่ว่าอยู่แต่ในห้องแอร์""
+
+**ตาที่ 5:** ""ถ้าการศึกษาไม่ช่วยให้คนรักถิ่นฐาน แล้วจะให้ใครช่วย? ต้องเริ่มที่บ้านเราก่อน แล้วค่อยไปเรียนรู้โลกกว้าง""
+","aidely nikhueobthphudkhongkhnaitekiywkaberueongkarsueksathongthin aimekin 5 ta:
+
+**tathi 1:** ""aionongeho! eriynaihrkanta? eriynaeterueongkrungethph. erueongemueongnok aelwerueongbanerahla? aikhrson?""
+
+**tathi 2:** ""pa! edk- smayniaimruchaktnehriyng aimruchakekhy aimruchakwathamaihrthuengaidmikhawkin! eriynaet A, B, C, D""
+
+**tathi 3:** ""khrubaoacharyktongchwykanaehla sonerueongthongthinaihedkmanrakbanekid aihmanhwngaehnwathnthrrm""
+
+**tathi 4:** ""tongaihmanruwapuyatathwderathamaihrmabang srangbansrangemueongkanmayangaing aimaichwaoyuaetainhongaeor""
+
+**tathi 5:** ""thakarsueksaaimchwyaihkhnrakthinthan aelwchaaihaikhrchwy? tongerimthibanerakon aelwkhoyaiperiynruolkkwang""
+",.

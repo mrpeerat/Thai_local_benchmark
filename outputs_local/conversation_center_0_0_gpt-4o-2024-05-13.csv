@@ -1,0 +1,215 @@
+Input,Pred,Pred_Latin,Gold
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ ประเพณีท้องถิ่น บทสนทนาไม่ควรเกิน 5 turns,"A: สวัสดีจ้ะ บี วันนี้มีเรื่องอะไรน่าสนใจบ้าง?
+
+B: สวัสดีจ้ะ เอ วันนี้ฉันอยากคุยเรื่องประเพณีท้องถิ่นของเราน่ะ เธอรู้จักประเพณีลอยกระทงไหม?
+
+A: รู้จักสิจ้ะ ประเพณีลอยกระทงเป็นประเพณีที่เราจะทำกระทงจากใบตองแล้วนำไปลอยในน้ำ เพื่อขอขมาพระแม่คงคาใช่ไหม?
+
+B: ใช่แล้วจ้ะ นอกจากนั้นยังมีการประกวดกระทงสวยงามและการแสดงดนตรีพื้นบ้านด้วยนะ เธอเคยไปดูไหม?
+
+A: เคยจ้ะ ปีที่แล้วฉันไปดูการประกวดกระทงที่วัดใกล้บ้าน สนุกมากเลย ปีนี้เธอจะไปอีกไหม?
+
+B: แน่นอนจ้ะ ปีนี้ฉันตั้งใจจะทำกระทงเองด้วย เธออยากมาช่วยกันทำไหม?
+
+A: ยินดีจ้ะ จะได้สนุกไปด้วยกัน!","A: swasdicha bi wannimierueongoaairnasnaichbang?
+
+B: swasdicha eo wannichanoyakkhuyerueongpraephnithongthinkhongerana ethoruchakpraephniloykrathngaihm?
+
+A: ruchaksicha praephniloykrathngepnpraephnithierachathamkrathngchakaibtongaelwnamaiployainnam ephueokhokhmaphraaemkhngkhaaichaihm?
+
+B: aichaelwcha nokchaknanyangmikarprakwdkrathngswyngamaelakaraesdngdntriphuenbandwyna ethoekhyaipduaihm?
+
+A: ekhycha pithiaelwchanaipdukarprakwdkrathngthiwadaiklban snukmakely piniethochaaipoikaihm?
+
+B: aennoncha pinichantangaichchathamkrathngeongdwy ethooyakmachwykanthamaihm?
+
+A: yindicha chaaidsnukaipdwykan!",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ อาชีพ บทสนทนาไม่ควรเกิน 5 turns,"A: สวัสดีครับ คุณบี ไม่ได้เจอกันนานเลยนะครับ
+
+B: สวัสดีค่ะ คุณเอ ใช่ค่ะ นานมากเลย คุณเอทำงานอะไรอยู่ตอนนี้คะ?
+
+A: ผมทำงานเป็นวิศวกรที่บริษัทก่อสร้างครับ แล้วคุณบีล่ะครับ ทำงานอะไรอยู่?
+
+B: ฉันทำงานเป็นนักบัญชีที่บริษัทการเงินค่ะ งานยุ่งมากเลยช่วงนี้
+
+A: ฟังดูน่าสนใจนะครับ หวังว่าเราจะมีโอกาสได้ร่วมงานกันในอนาคตนะครับ
+
+B: ใช่ค่ะ หวังว่าอย่างนั้นเช่นกันค่ะ","A: swasdikhrab khunbi aimaidechokannanelynakhrab
+
+B: swasdikha khuneo aichkha nanmakely khuneothamnganoaairoyutonnikha?
+
+A: phmthamnganepnwiswkrthibrisathkosrangkhrab aelwkhunbilakhrab thamnganoaairoyu?
+
+B: chanthamnganepnnakbaychithibrisathkarenginkha nganyungmakelychwngni
+
+A: fangdunasnaichnakhrab hwangwaerachamiookasaidrwmngankanainonakhtnakhrab
+
+B: aichkha hwangwaoyangnanechnkankha",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ การคมนาคม บทสนทนาไม่ควรเกิน 5 turns,"A: สวัสดีครับ คุณบี วันนี้คุณเดินทางมายังไงครับ?
+
+B: สวัสดีค่ะ คุณเอ วันนี้ฉันนั่งรถไฟฟ้ามาค่ะ สะดวกมากเลย ไม่ต้องเจอรถติด
+
+A: ดีจังเลยครับ ผมเองก็ใช้รถไฟฟ้าเหมือนกัน แต่บางครั้งก็ต้องต่อรถเมล์อีกที
+
+B: ใช่ค่ะ บางทีการต่อรถก็ทำให้เสียเวลา แต่ก็ยังดีกว่าติดอยู่ในรถยนต์นานๆ
+
+A: เห็นด้วยครับ หวังว่าในอนาคตการคมนาคมจะพัฒนาขึ้นอีก จะได้เดินทางสะดวกยิ่งขึ้น
+
+B: ใช่ค่ะ ถ้ามีระบบขนส่งที่ดีขึ้น เราก็จะมีเวลามากขึ้นในการทำสิ่งอื่นๆ","A: swasdikhrab khunbi wannikhunedinthangmayangaingkhrab?
+
+B: swasdikha khuneo wannichannangrthaiffamakha sadwkmakely aimtongechorthtid
+
+A: dichangelykhrab phmeongkaichrthaiffaehmueonkan aetbangkhrangktongtorthemloikthi
+
+B: aichkha bangthikartorthkthamaihesiyewla aetkyangdikwatidoyuainrthyntnan-
+
+A: ehndwykhrab hwangwaainonakhtkarkhmnakhmchaphathnakhuenoik chaaidedinthangsadwkyingkhuen
+
+B: aichkha thamirabbkhnsngthidikhuen erakchamiewlamakkhuenainkarthamsingouen-",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ ครอบครัว บทสนทนาไม่ควรเกิน 5 turns,"A: สวัสดีจ้ะ บี ไม่ได้เจอกันนานเลยนะ ครอบครัวเป็นยังไงบ้าง?
+
+B: สวัสดีจ้ะ เอ ครอบครัวก็สบายดีนะ พ่อแม่ก็ยังแข็งแรงดี แล้วครอบครัวเอเป็นยังไงบ้าง?
+
+A: ครอบครัวเราก็สบายดีจ้ะ ลูกๆ ก็โตขึ้นเยอะเลย ตอนนี้กำลังสนใจเรื่องเรียนกันมาก
+
+B: ดีจังเลยนะ ลูกๆ ของเราก็เหมือนกัน กำลังสนใจเรื่องกีฬาอยู่ พ่อแม่เราก็ชอบใจที่เห็นหลานๆ มีความสุข
+
+A: ใช่เลยจ้ะ เห็นครอบครัวมีความสุข เราก็มีความสุขไปด้วย ว่างๆ มาเจอกันบ้างนะ
+
+B: แน่นอนจ้ะ เอ ไว้เจอกันใหม่จ้ะ บายๆ
+
+A: บายจ้ะ บี","A: swasdicha bi aimaidechokannanelyna khrobkhrawepnyangaingbang?
+
+B: swasdicha eo khrobkhrawksbaydina phoaemkyangaekhngaerngdi aelwkhrobkhraweoepnyangaingbang?
+
+A: khrobkhraweraksbaydicha luk- kotkhueneyoaely tonnikamlangsnaicherueongeriynkanmak
+
+B: dichangelyna luk- khongerakehmueonkan kamlangsnaicherueongkilaoyu phoaemerakchobaichthiehnhlan- mikhwamsukh
+
+A: aichelycha ehnkhrobkhrawmikhwamsukh erakmikhwamsukhaipdwy wang- maechokanbangna
+
+B: aennoncha eo aiwechokanaihmcha bay-
+
+A: baycha bi",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ กลับบ้านช่วงเทศกาล บทสนทนาไม่ควรเกิน 5 turns,"A: ""เฮ้ บี เทศกาลนี้กลับบ้านไหม?""
+
+B: ""กลับสิ เอ แล้วนายล่ะ?""
+
+A: ""กลับเหมือนกัน คิดถึงบ้านมากเลย""
+
+B: ""ใช่เลย ฉันก็คิดถึงอาหารฝีมือแม่มากๆ""
+
+A: ""จริงๆ แล้วเจอกันที่สถานีรถไฟนะ จะได้เดินทางไปด้วยกัน""
+
+B: ""ดีเลย เจอกันที่นั่นนะ!""","A: ""eh bi ethskalniklabbanaihm?""
+
+B: ""klabsi eo aelwnayla?""
+
+A: ""klabehmueonkan khidthuengbanmakely""
+
+B: ""aichely chankkhidthuengoaharfimueoaemmak-""
+
+A: ""chring- aelwechokanthisthanirthaifna chaaidedinthangaipdwykan""
+
+B: ""diely echokanthinanna!""",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ การเมืองท้องถิ่น บทสนทนาไม่ควรเกิน 5 turns,"สมชาย: สวัสดีครับพี่น้อย วันนี้มีเรื่องอะไรน่าสนใจบ้างครับ?
+
+พี่น้อย: สวัสดีจ้ะสมชาย วันนี้พี่ได้ยินมาว่าจะมีการเลือกตั้งท้องถิ่นเร็วๆ นี้นะ
+
+สมชาย: จริงเหรอครับพี่น้อย? ผมยังไม่รู้เลยว่าใครลงสมัครบ้าง
+
+พี่น้อย: ใช่จ้ะ มีหลายคนที่น่าสนใจนะ บางคนก็มีประสบการณ์เยอะ บางคนก็เป็นคนรุ่นใหม่ไฟแรง
+
+สมชาย: งั้นผมต้องไปศึกษาข้อมูลเพิ่มเติมแล้วล่ะครับ จะได้เลือกคนที่เหมาะสมที่สุด
+
+พี่น้อย: ใช่เลยจ้ะสมชาย การเลือกตั้งท้องถิ่นสำคัญมาก เราต้องเลือกคนที่สามารถพัฒนาชุมชนของเราได้จริงๆ","smchay: swasdikhrabphinoy wannimierueongoaairnasnaichbangkhrab?
+
+phinoy: swasdichasmchay wanniphiaidyinmawachamikarelueoktangthongthinerw- nina
+
+smchay: chringehrokhrabphinoy? phmyangaimruelywaaikhrlngsmakhrbang
+
+phinoy: aichcha mihlaykhnthinasnaichna bangkhnkmiprasbkarneyoa bangkhnkepnkhnrunaihmaifaerng
+
+smchay: nganphmtongaipsueksakhomulephimetimaelwlakhrab chaaidelueokkhnthiehmaasmthisud
+
+phinoy: aichelychasmchay karelueoktangthongthinsamkhaymak eratongelueokkhnthisamarthphathnachumchnkhongeraaidchring-",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ สภาพอากาศ บทสนทนาไม่ควรเกิน 5 turns,"A: สวัสดีจ้ะ วันนี้อากาศเป็นยังไงบ้าง?
+
+B: สวัสดีจ้ะ วันนี้อากาศร้อนมากเลย แดดแรงสุดๆ
+
+A: จริงเหรอ เมื่อเช้าฉันออกไปข้างนอกยังรู้สึกเย็นๆ อยู่เลย
+
+B: ใช่จ้ะ ตอนเช้าอากาศยังดีอยู่ แต่พอสายๆ แดดก็เริ่มแรงขึ้นเรื่อยๆ
+
+A: งั้นเหรอ ขอบใจที่บอกนะ ฉันจะเตรียมตัวให้พร้อมก่อนออกไปข้างนอก
+
+B: ไม่เป็นไรจ้ะ อย่าลืมพกร่มหรือหมวกด้วยนะ จะได้ไม่ร้อนเกินไป","A: swasdicha wannioakasepnyangaingbang?
+
+B: swasdicha wannioakasronmakely aeddaerngsud-
+
+A: chringehro emueoechachanookaipkhangnokyangrusuekeyn- oyuely
+
+B: aichcha tonechaoakasyangdioyu aetphosay- aeddkerimaerngkhuenerueoy-
+
+A: nganehro khobaichthibokna chanchaetriymtawaihphromkonookaipkhangnok
+
+B: aimepnaircha oyaluemphkrmhrueohmwkdwyna chaaidaimronekinaip",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ อาหารท้องถิ่น บทสนทนาไม่ควรเกิน 5 turns,"A: สวัสดีจ้า วันนี้ไปกินข้าวที่ไหนมาหรอ?
+
+B: สวัสดีจ้า วันนี้ไปกินข้าวที่ร้านอาหารท้องถิ่นมา อร่อยมากเลย
+
+A: โอ้ จริงเหรอ? มีเมนูอะไรแนะนำบ้าง?
+
+B: มีหลายอย่างเลยนะ อย่างเช่น ผัดไทย ก๋วยเตี๋ยวเรือ แล้วก็ข้าวมันไก่
+
+A: ฟังดูน่าอร่อยจัง ไว้วันหลังต้องไปลองบ้างแล้ว ขอบใจมากนะ
+
+B: ไม่เป็นไรจ้า ไว้เจอกันใหม่!","A: swasdicha wanniaipkinkhawthiaihnmahro?
+
+B: swasdicha wanniaipkinkhawthiranoaharthongthinma oroymakely
+
+A: oo chringehro? miemnuoaairaenanambang?
+
+B: mihlayoyangelyna oyangechn phadaithy kwyetiywerueo aelwkkhawmanaik
+
+A: fangdunaoroychang aiwwanhlangtongaiplongbangaelw khobaichmakna
+
+B: aimepnaircha aiwechokanaihm!",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทสนทนาไม่ควรเกิน 5 turns,"A: สวัสดีจ้ะ บี วันนี้เธอแต่งตัวสวยจังเลย ใส่ชุดอะไรมาเหรอ?
+
+B: สวัสดีจ้ะ เอ ชุดนี้เป็นชุดไทยภาคกลางน่ะจ้ะ เป็นชุดไทยจักรี ใส่ในงานสำคัญๆ
+
+A: โอ้โห สวยมากเลยนะ ฉันชอบลายผ้าของเธอจัง มันดูละเอียดอ่อนดี
+
+B: ขอบใจจ้ะ ชุดนี้ใช้ผ้าไหมไทยทอมือ ลายดอกพิกุล เป็นลายที่นิยมในภาคกลาง
+
+A: น่าสนใจจัง ไว้คราวหน้าฉันจะลองหามาใส่บ้าง ขอบคุณที่แนะนำจ้ะ!","A: swasdicha bi wanniethoaetngtawswychangely aischudoaairmaehro?
+
+B: swasdicha eo chudniepnchudaithyphakhklangnacha epnchudaithychakri aisainngansamkhay-
+
+A: oooh swymakelyna chanchoblayphakhongethochang mandulaeoiydoondi
+
+B: khobaichcha chudniaichphaaihmaithythomueo laydokphikul epnlaythiniymainphakhklang
+
+A: nasnaichchang aiwkhrawhnachanchalonghamaaisbang khobkhunthiaenanamcha!",.
+จงสร้างบทสนทนาของคนภาคกลาง โดยพูดคุยเกี่ยวกับ การศึกษาท้องถิ่น บทสนทนาไม่ควรเกิน 5 turns,"A: สวัสดีจ้ะ บี วันนี้มีเรื่องอะไรน่าสนใจบ้าง?
+
+B: สวัสดีจ้ะ เอ วันนี้ฉันไปฟังบรรยายเรื่องการศึกษาท้องถิ่นมา น่าสนใจมากเลย
+
+A: จริงเหรอ? เขาพูดถึงเรื่องอะไรบ้างล่ะ?
+
+B: เขาพูดถึงการนำวัฒนธรรมและประเพณีท้องถิ่นมาใช้ในการเรียนการสอน เพื่อให้นักเรียนรู้จักและภูมิใจในรากเหง้าของตัวเอง
+
+A: ฟังดูดีนะ ฉันว่ามันน่าจะทำให้นักเรียนมีความสนใจและตั้งใจเรียนมากขึ้นด้วย
+
+B: ใช่เลย เอ แล้วก็ยังมีการแนะนำวิธีการสอนที่เชื่อมโยงกับชีวิตประจำวันของนักเรียนด้วยนะ ฉันว่ามันเป็นแนวคิดที่ดีมากเลย","A: swasdicha bi wannimierueongoaairnasnaichbang?
+
+B: swasdicha eo wannichanaipfangbrryayerueongkarsueksathongthinma nasnaichmakely
+
+A: chringehro? ekhaphudthuengerueongoaairbangla?
+
+B: ekhaphudthuengkarnamwathnthrrmaelapraephnithongthinmaaichainkareriynkarson ephueoaihnakeriynruchakaelaphumiaichainrakehngakhongtaweong
+
+A: fangdudina chanwamannachathamaihnakeriynmikhwamsnaichaelatangaicheriynmakkhuendwy
+
+B: aichely eo aelwkyangmikaraenanamwithikarsonthiechueomoyngkabchiwitprachamwankhongnakeriyndwyna chanwamanepnaenwkhidthidimakely",.

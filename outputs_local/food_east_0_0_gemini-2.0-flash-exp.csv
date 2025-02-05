@@ -1,0 +1,885 @@
+Input,Pred,Pred_Latin,Gold
+จงเขียนวิธีเฮ็ด แจ่วบักเขือ เป็นภาษาอีสาน,"โอ้ มาเด้อพี่น้อง มาเฮ็ดแจ่วบักเขือแซ่บๆ นำกันเด้อ สูตรนี้ง่ายๆ แต่ว่ารสชาติจัดจ้านถึงใจแน่นอน!
+
+**วัตถุดิบ:**
+
+*   บักเขือ (เขือเผา หรือเขือขื่นก็ได้ตามมัก) 3-4 หน่วย
+*   พริกแห้ง (เผ็ดหลายเผ็ดน้อยตามใจ) 5-7 เม็ด
+*   กระเทียม 3-4 กลีบ
+*   หอมแดง 2-3 หัว
+*   น้ำปลา 2-3 ช้อนโต๊ะ
+*   น้ำปลาร้า (ถ้ามัก) 1-2 ช้อนโต๊ะ
+*   น้ำตาลปี๊บ (นิดหน่อยตัดรส) 1/2 ช้อนชา
+*   ผักชี หรือ ต้นหอม (ซอย)
+*   ผักสด (แตงกวา, ถั่วฝักยาว, กะหล่ำปลี) กินกับ
+
+**วิธีเฮ็ด:**
+
+1.  **เผาบักเขือ:** เอาบักเขือไปเผาไฟอ่อนๆ จนสุกนิ่ม แล้วปอกเปลือกออก เอาแต่เนื้อ
+2.  **คั่วพริก:** เอาพริกแห้งไปคั่วในกระทะให้หอมๆ (ระวังไหม้เด้อ)
+3.  **ตำเครื่อง:** เอาพริกคั่ว, กระเทียม, หอมแดง ลงครก ตำให้แหลก
+4.  **ตำแจ่ว:** เอาเนื้อบักเขือที่เผาไว้ลงครก ตำรวมกับเครื่องที่ตำไว้ ตำให้เข้ากันดี
+5.  **ปรุงรส:** ปรุงรสด้วยน้ำปลา, น้ำปลาร้า (ถ้าใส่), น้ำตาลปี๊บ ชิมเบิ่งให้ได้รสชาติที่มัก (เค็ม หวาน เผ็ด)
+6.  **ใส่ผัก:** ใส่ผักชี หรือ ต้นหอมซอยลงไป คนให้เข้ากัน
+7.  **เสิร์ฟ:** ตักใส่ถ้วย กินกับผักสด แซ่บหลาย!
+
+**เคล็ดลับ:**
+
+*   ถ้าบักเขือขื่น ให้เอาไปแช่น้ำเกลือจักหน่อยก่อนเผา จะซอยลดความขื่นลงได้
+*   ถ้ามักรสเปรี้ยว บีบน้ำมะนาวลงไปจักหน่อยกะได้
+*   กินกับข้าวเหนียวฮ้อนๆ แซ่บอีหลีเด้อ!
+
+ลองเฮ็ดเบิ่งเด้อพี่น้อง รับรองว่าแซ่บจนลืมเมือบ้าน!
+","oo maedophinong maehdaechwbakekhueoaesb- namkanedo sutrningay- aetwarschatichadchanthuengaichaennon!
+
+**watthudib:**
+
+*   bakekhueo (ekhueoepha hrueoekhueokhuenkaidtammak) 3-4 hnwy
+*   phrikaehng (ephdhlayephdnoytamaich) 5-7 emd
+*   kraethiym 3-4 klib
+*   homaedng 2-3 haw
+*   nampla 2-3 chonota
+*   namplara (thamak) 1-2 chonota
+*   namtalpib (nidhnoytadrs) 1/2 choncha
+*   phakchi hrueo tnhom (soy)
+*   phaksd (aetngkwa, thawfakyaw, kahlampli) kinkab
+
+**withiehd:**
+
+1.  **ephabakekhueo:** eoabakekhueoaipephaaifoon- chnsuknim aelwpokeplueokook eoaaetenueo
+2.  **khawphrik:** eoaphrikaehngaipkhawainkrathaaihhom- (rawangaihmedo)
+3.  **tamekhrueong:** eoaphrikkhaw, kraethiym, homaedng lngkhrk tamaihaehlk
+4.  **tamaechw:** eoaenueobakekhueothiephaaiwlngkhrk tamrwmkabekhrueongthitamaiw tamaihekhakandi
+5.  **prungrs:** prungrsdwynampla, namplara (thaais), namtalpib chimebingaihaidrschatithimak (ekhm hwan ephd)
+6.  **aisphak:** aisphakchi hrueo tnhomsoylngaip khnaihekhakan
+7.  **esirf:** takaisthwy kinkabphaksd aesbhlay!
+
+**ekhldlab:**
+
+*   thabakekhueokhuen aiheoaaipaechnameklueochakhnoykonepha chasoyldkhwamkhuenlngaid
+*   thamakrsepriyw bibnammanawlngaipchakhnoykaaid
+*   kinkabkhawehniywhon- aesboihliedo!
+
+longehdebingedophinong rabrongwaaesbchnluememueoban!
+",.
+จงเขียนวิธีเฮ็ด อ่อมน้องวัว เป็นภาษาอีสาน,"ได้เลยครับ นี่คือวิธีเฮ็ดอ่อมน้องวัวแบบภาษาอีสาน:
+
+**วัตถุดิบ:**
+
+*   น้องวัว (เนื้อวัวส่วนที่ติดเอ็น, หนัง) หั่นเป็นชิ้นพอดีคำ
+*   น้ำปลาแดก (น้ำปลาร้า)
+*   ข้าวคั่ว
+*   พริกแห้ง (ตามมักเผ็ด)
+*   หอมแดง
+*   กระเทียม
+*   ตะไคร้
+*   ข่า
+*   ใบมะกรูด
+*   ผักอีตู่ (แมงลัก)
+*   ต้นหอม
+*   ผักชี
+*   น้ำปลา
+*   เกลือ
+*   น้ำเปล่า
+
+**วิธีเฮ็ด:**
+
+1.  **เตรียมเครื่อง:**
+    *   เอาพริกแห้ง, หอมแดง, กระเทียม, ตะไคร้, ข่า มาโขลกให้แหลก (หรือปั่นเอาก็ได้) ให้เป็นเครื่องแกง
+    *   คั่วข้าวสารให้เหลืองหอม แล้วเอามาตำให้แหลกเป็นข้าวคั่ว
+    *   ซอยต้นหอม, ผักชี, ผักอีตู่ เตรียมไว้
+2.  **ต้ม/อ่อม:**
+    *   เอาน้องวัวที่หั่นไว้ลงหม้อ เติมน้ำเปล่าพอท่วมเนื้อ
+    *   ยกขึ้นตั้งไฟ ต้มไปเรื่อยๆ จนเนื้อเปื่อย (ถ้าน้องวัวแก่ กะต้มโดนเติบจักหน่อย) คอยซ้อนฟองออกนำเด้อ
+    *   พอเนื้อเปื่อยแล้ว ใส่เครื่องแกงที่โขลกไว้ลงไป คนให้เข้ากัน
+    *   ปรุงรสด้วยน้ำปลาแดก, น้ำปลา, เกลือ ชิมเบิ่งให้ได้รสชาติที่มัก (เค็ม, นัว, เผ็ด ตามใจ)
+    *   ใส่ข้าวคั่วลงไป คนให้เข้ากัน ข้าวคั่วจะเฮ็ดให้น้ำแกงข้นขึ้น
+    *   ใส่ใบมะกรูดฉีก, ต้นหอม, ผักชี ลงไป คนให้เข้ากัน
+    *   สุดท้าย ใส่ผักอีตู่ลงไป คนพอให้ผักสลด ปิดไฟ
+3.  **เสิร์ฟ:**
+    *   ตักอ่อมน้องวัวใส่ถ้วย กินกับข้าวเหนียวฮ้อนๆ แซ่บหลาย!
+
+**เคล็ดลับ:**
+
+*   ถ้ามักน้ำข้นๆ ให้ใส่ข้าวคั่วหลายๆ
+*   ถ้ามักเผ็ดๆ ให้ใส่พริกแห้งหลายๆ
+*   สามารถใส่ผักอื่นๆ ที่มักได้ เช่น บักเขือ, ถั่วฝักยาว
+*   บางคนมักใส่หนังวัวต้มเปื่อยนำ กะแซ่บคือกัน
+
+ลองเฮ็ดเบิ่งเด้อครับ แซ่บอีหลี!","aidelykhrab nikhueowithiehdoomnongwawaebbphasaoisan:
+
+**watthudib:**
+
+*   nongwaw (enueowawswnthitideon, hnang) hanepnchinphodikham
+*   namplaaedk (namplara)
+*   khawkhaw
+*   phrikaehng (tammakephd)
+*   homaedng
+*   kraethiym
+*   taaikhr
+*   kha
+*   aibmakrud
+*   phakoitu (aemnglak)
+*   tnhom
+*   phakchi
+*   nampla
+*   eklueo
+*   namepla
+
+**withiehd:**
+
+1.  **etriymekhrueong:**
+    *   eoaphrikaehng, homaedng, kraethiym, taaikhr, kha maokhlkaihaehlk (hrueopaneoakaid) aihepnekhrueongaekng
+    *   khawkhawsaraihehlueonghom aelweoamatamaihaehlkepnkhawkhaw
+    *   soytnhom, phakchi, phakoitu etriymaiw
+2.  **tm/oom:**
+    *   eoanongwawthihanaiwlnghmo etimnameplaphothwmenueo
+    *   ykkhuentangaif tmaiperueoy- chnenueoepueoy (thanongwawaek katmodnetibchakhnoy) khoysonfongooknamedo
+    *   phoenueoepueoyaelw aisekhrueongaekngthiokhlkaiwlngaip khnaihekhakan
+    *   prungrsdwynamplaaedk, nampla, eklueo chimebingaihaidrschatithimak (ekhm, naw, ephd tamaich)
+    *   aiskhawkhawlngaip khnaihekhakan khawkhawchaehdaihnamaekngkhnkhuen
+    *   aisaibmakrudchik, tnhom, phakchi lngaip khnaihekhakan
+    *   sudthay aisphakoitulngaip khnphoaihphaksld pidaif
+3.  **esirf:**
+    *   takoomnongwawaisthwy kinkabkhawehniywhon- aesbhlay!
+
+**ekhldlab:**
+
+*   thamaknamkhn- aihaiskhawkhawhlay-
+*   thamakephd- aihaisphrikaehnghlay-
+*   samarthaisphakouen- thimakaid echn bakekhueo, thawfakyaw
+*   bangkhnmakaishnangwawtmepueoynam kaaesbkhueokan
+
+longehdebingedokhrab aesboihli!",.
+จงเขียนวิธีเฮ็ด ตำบักหุ่ง เป็นภาษาอีสาน,"โอเค มาเด้อ มาเฮ็ดตำบักหุ่งแบบอีสานแท้ๆ นัวๆ ไปนำกัน:
+
+**วัตถุดิบ:**
+
+*   **บักหุ่งดิบ:** เลือกเอาหน่วยที่มันกรอบๆ บ่ทันสุกหลาย ขูดเป็นเส้น
+*   **มะเขือเทศ:** หั่นเป็นซีกๆ
+*   **ถั่วฝักยาว:** หั่นเป็นท่อนสั้นๆ
+*   **กระเทียม:** ปอกเปลือก
+*   **พริก:** (ตามมักเผ็ด) พริกแห้ง หรือ พริกสด กะได้
+*   **น้ำปลา:** น้ำปลาดีๆ หอมๆ
+*   **น้ำตาลปี๊บ:** หรือ น้ำตาลทราย กะได้
+*   **น้ำมะขามเปียก:** คั้นเอาแต่น้ำ
+*   **ผงชูรส:** (ใส่หรือไม่ใส่กะได้ ตามมัก)
+*   **กุ้งแห้ง:** (แช่น้ำให้อ่อนนุ่ม)
+*   **ถั่วลิสงคั่ว:** (สำหรับโรยหน้า)
+*   **มะนาว:** (ถ้ามักรสเปรี้ยวเพิ่ม)
+
+**วิธีเฮ็ด:**
+
+1.  **ตำพริกกระเทียม:** เอาพริกกับกระเทียมลงครก ตำให้แหลกพอประมาณ (ถ้ามักเผ็ดหลาย กะใส่พริกหลายๆ)
+2.  **ปรุงรส:** ใส่น้ำปลา น้ำตาลปี๊บ น้ำมะขามเปียก ผงชูรส (ถ้าใส่) ลงไปในครก คนให้เข้ากัน ชิมเบิ่งรสชาติ ให้ได้รสที่มัก (เปรี้ยว หวาน เค็ม เผ็ด)
+3.  **ใส่เครื่อง:** เอามะเขือเทศ ถั่วฝักยาว กุ้งแห้ง ลงไปตำเบาๆ ให้เข้ากัน อย่าตำแฮงหลายเดี๋ยวบ่แซ่บ
+4.  **ใส่บักหุ่ง:** เอาบักหุ่งที่ขูดไว้ลงไป ตำคลุกเคล้าให้เข้ากันดีๆ ตำเบาๆ ให้เส้นบักหุ่งซึมซับน้ำปรุงรส
+5.  **ชิม:** ชิมเบิ่งรสชาติอีกที ถ้าขาดเหลือหยัง กะปรุงเพิ่มตามมัก
+6.  **ตักใส่จาน:** ตักใส่จาน โรยหน้าด้วยถั่วลิสงคั่ว
+7.  **เสิร์ฟ:** กินกับข้าวเหนียว ไก่ย่าง หรือ หมูย่าง แซ่บหลาย!
+
+**เคล็ดลับ:**
+
+*   ถ้ามักปลาร้า ให้ใส่ปลาร้าต้มสุก จักหน่อย กะสิแซ่บไปอีกแบบ
+*   บางคนมักใส่ผักกะเฉด หรือ ผักต่างๆ ที่มัก นำกะได้
+*   ถ้าบ่มีน้ำตาลปี๊บ ใช้น้ำตาลทรายแทนได้ แต่รสชาติอาจสิบ่คือกัน
+*   สำคัญที่สุดคือ ชิมเบิ่งรสชาติ ให้ได้รสที่มัก เพราะแต่ละคนมักรสชาติบ่คือกัน
+
+ลองเฮ็ดเบิ่งเด้อ รับรองแซ่บอีหลี!","ooekh maedo maehdtambakhungaebboisanaeth- naw- aipnamkan:
+
+**watthudib:**
+
+*   **bakhungdib:** elueokeoahnwythimankrob- bthansukhlay khudepnesn
+*   **maekhueoeths:** hanepnsik-
+*   **thawfakyaw:** hanepnthonsan-
+*   **kraethiym:** pokeplueok
+*   **phrik:** (tammakephd) phrikaehng hrueo phriksd kaaid
+*   **nampla:** nampladi- hom-
+*   **namtalpib:** hrueo namtalthray kaaid
+*   **nammakhamepiyk:** khaneoaaetnam
+*   **phngchurs:** (aishrueoaimaiskaaid tammak)
+*   **kungaehng:** (aechnamaihoonnum)
+*   **thawlisngkhaw:** (samhraboryhna)
+*   **manaw:** (thamakrsepriywephim)
+
+**withiehd:**
+
+1.  **tamphrikkraethiym:** eoaphrikkabkraethiymlngkhrk tamaihaehlkphopraman (thamakephdhlay kaaisphrikhlay-)
+2.  **prungrs:** aisnampla namtalpib nammakhamepiyk phngchurs (thaais) lngaipainkhrk khnaihekhakan chimebingrschati aihaidrsthimak (epriyw hwan ekhm ephd)
+3.  **aisekhrueong:** eoamaekhueoeths thawfakyaw kungaehng lngaiptameba- aihekhakan oyatamaehnghlayediywbaesb
+4.  **aisbakhung:** eoabakhungthikhudaiwlngaip tamkhlukekhlaaihekhakandi- tameba- aihesnbakhungsuemsabnamprungrs
+5.  **chim:** chimebingrschatioikthi thakhadehlueohyang kaprungephimtammak
+6.  **takaischan:** takaischan oryhnadwythawlisngkhaw
+7.  **esirf:** kinkabkhawehniyw aikyang hrueo hmuyang aesbhlay!
+
+**ekhldlab:**
+
+*   thamakplara aihaisplaratmsuk chakhnoy kasiaesbaipoikaebb
+*   bangkhnmakaisphakkaechd hrueo phaktang- thimak namkaaid
+*   thabminamtalpib aichnamtalthrayaethnaid aetrschatioachsibkhueokan
+*   samkhaythisudkhueo chimebingrschati aihaidrsthimak ephraaaetlakhnmakrschatibkhueokan
+
+longehdebingedo rabrongaesboihli!",.
+จงเขียนวิธีเฮ็ด หมกหน่อไม้ เป็นภาษาอีสาน,"เอาล่ะ มาเด้อ มาเฮ็ดหมกหน่อไม้นำกันแบบอีสานแท้ๆ ง่ายๆ แซ่บหลาย:
+
+**วัตถุดิบ:**
+
+*   หน่อไม้ต้มสุก (หน่อไม้สดเอามาต้มให้จืดก่อนเด้อ)
+*   หมูสามชั้น หรือ หมูเนื้อแดง (สับหยาบๆ)
+*   ข้าวเบือ (ข้าวเหนียวแช่น้ำแล้วเอามาตำให้ละเอียด)
+*   น้ำปลาแดก (ขาดบ่ได้เลย)
+*   พริกสด (ตามมักเผ็ดหลายเผ็ดน้อย)
+*   หอมแดง
+*   กระเทียม
+*   ตะไคร้
+*   ข่า
+*   ใบแมงลัก
+*   ต้นหอม
+*   ผักอีตู่ (ถ้ามี)
+*   เกลือ
+*   ผงชูรส (ใส่หรือไม่ใส่ก็ได้)
+*   ใบตอง (สำหรับห่อ)
+
+**วิธีเฮ็ด:**
+
+1.  **เตรียมเครื่อง:**
+    *   หอมแดง, กระเทียม, ตะไคร้, ข่า เอามาซอยแล้วตำให้แหลก (หรือปั่นเอาก็ได้)
+    *   พริกสด เอามาซอยหยาบๆ
+    *   ต้นหอม, ผักอีตู่, ใบแมงลัก ซอยหยาบๆ เตรียมไว้
+2.  **คลุกเคล้าส่วนผสม:**
+    *   เอาหน่อไม้ที่ต้มแล้วมาซอยให้เป็นเส้นน้อยๆ
+    *   เอาหน่อไม้, หมูสับ, เครื่องที่ตำไว้, ข้าวเบือ, พริกสด, น้ำปลาแดก, เกลือ, ผงชูรส (ถ้าใส่) มาคลุกเคล้าให้เข้ากัน
+    *   ชิมเบิ่งรสชาติ ให้ได้รสที่มัก (เค็ม, เผ็ด, นัว)
+3.  **ห่อหมก:**
+    *   เอาใบตองมาซ้อนกัน 2-3 ชั้น แล้วตักส่วนผสมใส่
+    *   ใส่ต้นหอม, ผักอีตู่, ใบแมงลัก ลงไปนำ
+    *   ห่อใบตองให้เป็นห่อสี่เหลี่ยม หรือ ห่อแบบสามเหลี่ยมก็ได้ แล้วแต่ถนัด
+    *   ใช้ไม้กลัด กลัดใบตองให้แน่น
+4.  **นึ่งหมก:**
+    *   เอาน้ำใส่หม้อนึ่ง แล้วเอาหมกหน่อไม้ที่ห่อไว้ไปนึ่ง
+    *   นึ่งประมาณ 30-45 นาที หรือ จนกว่าจะสุก
+5.  **พร้อมเสิร์ฟ:**
+    *   พอหมกสุกแล้ว เอาออกมาจากหม้อนึ่ง
+    *   แกะใบตองออก แล้วกินกับข้าวเหนียวฮ้อนๆ แซ่บหลาย!
+
+**เคล็ดลับ:**
+
+*   ถ้ามักน้ำหลายๆ ให้เติมน้ำปลาร้าลงไปอีก
+*   ถ้าบ่มีข้าวเบือ ใช้แป้งข้าวเหนียวแทนก็ได้ แต่รสชาติอาจสิบ่คือกัน
+*   ถ้ามักกินแบบแห้งๆ ให้นึ่งโดนๆ จักหน่อย
+*   สามารถใส่เห็ด หรือ ผักอื่นๆ ที่มักลงไปนำได้
+
+ลองเฮ็ดเบิ่งเด้อ รับรองว่าแซ่บอีหลี!
+","eoala maedo maehdhmkhnoaimnamkanaebboisanaeth- ngay- aesbhlay:
+
+**watthudib:**
+
+*   hnoaimtmsuk (hnoaimsdeoamatmaihchuedkonedo)
+*   hmusamchan hrueo hmuenueoaedng (sabhyab-)
+*   khawebueo (khawehniywaechnamaelweoamatamaihlaeoiyd)
+*   namplaaedk (khadbaidely)
+*   phriksd (tammakephdhlayephdnoy)
+*   homaedng
+*   kraethiym
+*   taaikhr
+*   kha
+*   aibaemnglak
+*   tnhom
+*   phakoitu (thami)
+*   eklueo
+*   phngchurs (aishrueoaimaiskaid)
+*   aibtong (samhrabho)
+
+**withiehd:**
+
+1.  **etriymekhrueong:**
+    *   homaedng, kraethiym, taaikhr, kha eoamasoyaelwtamaihaehlk (hrueopaneoakaid)
+    *   phriksd eoamasoyhyab-
+    *   tnhom, phakoitu, aibaemnglak soyhyab- etriymaiw
+2.  **khlukekhlaswnphsm:**
+    *   eoahnoaimthitmaelwmasoyaihepnesnnoy-
+    *   eoahnoaim, hmusab, ekhrueongthitamaiw, khawebueo, phriksd, namplaaedk, eklueo, phngchurs (thaais) makhlukekhlaaihekhakan
+    *   chimebingrschati aihaidrsthimak (ekhm, ephd, naw)
+3.  **hohmk:**
+    *   eoaaibtongmasonkan 2-3 chan aelwtakswnphsmais
+    *   aistnhom, phakoitu, aibaemnglak lngaipnam
+    *   hoaibtongaihepnhosiehliym hrueo hoaebbsamehliymkaid aelwaetthnad
+    *   aichaimklad kladaibtongaihaenn
+4.  **nuenghmk:**
+    *   eoanamaishmonueng aelweoahmkhnoaimthihoaiwaipnueng
+    *   nuengpraman 30-45 nathi hrueo chnkwachasuk
+5.  **phromesirf:**
+    *   phohmksukaelw eoaookmachakhmonueng
+    *   aekaaibtongook aelwkinkabkhawehniywhon- aesbhlay!
+
+**ekhldlab:**
+
+*   thamaknamhlay- aihetimnamplaralngaipoik
+*   thabmikhawebueo aichaepngkhawehniywaethnkaid aetrschatioachsibkhueokan
+*   thamakkinaebbaehng- aihnuengodn- chakhnoy
+*   samarthaisehd hrueo phakouen- thimaklngaipnamaid
+
+longehdebingedo rabrongwaaesboihli!
+",.
+จงเขียนวิธีเฮ็ด ซอยจุ๊ เป็นภาษาอีสาน,"โอเคครับ มาเด้อ มาเฮ็ดซอยจุ๊แบบอีสานแท้ๆ นัวๆ ไปนำกัน:
+
+**วัตถุดิบหลัก:**
+
+*   **เนื้อวัว:** เลือกเนื้อสันใน หรือเนื้อติดมันหน่อยๆ กะแซ่บหลาย (ประมาณ 500 กรัม)
+*   **เลือดสด:** เลือดวัวสดๆ (ประมาณ 1 ถ้วย) ต้องเบิ่งแหล่งที่มาดีๆ เด้อ ให้มันสะอาด ปลอดภัย
+*   **ดีวัว:** (ถ้ามี) อันนี้สิเพิ่มความขม ความนัว (นิดเดียวพอ)
+*   **ผักสด:**
+    *   ผักแพว
+    *   ผักชี
+    *   หอมแดง
+    *   สะระแหน่
+    *   แตงกวา
+
+**เครื่องปรุงรส:**
+
+*   **พริกป่น:** (ตามมัก เผ็ดหลายเผ็ดน้อย)
+*   **ข้าวคั่ว:** (คั่วเองหอมๆ)
+*   **น้ำปลา:**
+*   **น้ำมะนาว:**
+*   **ผงชูรส:** (ใส่หรือไม่ใส่กะได้ ตามใจ)
+*   **เกลือ:** (นิดหน่อย)
+
+**วิธีเฮ็ด:**
+
+1.  **เตรียมเนื้อ:** เอาเนื้อมาซอยเป็นชิ้นบางๆ พอดีคำ อย่าให้หนาหลาย มันสิบ่แซ่บ
+2.  **เฮ็ดน้ำจิ้ม:**
+    *   เอาพริกป่น ข้าวคั่ว น้ำปลา น้ำมะนาว ผงชูรส (ถ้าใส่) มาผสมกัน ชิมเบิ่งให้ได้รสที่มัก เปรี้ยว เค็ม เผ็ด ตามใจ
+    *   ถ้ามีดีวัว ให้เอามาหยอดใส่น้ำจิ้มนิดเดียว (ย้ำว่านิดเดียว) คนให้เข้ากัน
+3.  **เตรียมเลือด:** เอาเลือดสดมาใส่ถ้วยไว้
+4.  **จัดจาน:** เอาผักสดมาล้างให้สะอาด แล้วจัดใส่จานให้สวยงาม
+5.  **เสิร์ฟ:** เอาเนื้อที่ซอยไว้ จัดใส่จาน เสิร์ฟพร้อมกับเลือดสด น้ำจิ้ม และผักสด
+
+**วิธีกิน:**
+
+*   เอาเนื้อจุ่มลงในเลือดสดก่อน (ถ้ามัก)
+*   แล้วจุ่มลงในน้ำจิ้ม
+*   กินกับผักสด
+
+**เคล็ดลับความแซ่บ:**
+
+*   เนื้อต้องสดใหม่
+*   น้ำจิ้มต้องแซ่บถึงใจ
+*   ผักสดต้องกรอบ
+*   กินกับข้าวเหนียวฮ้อนๆ แฮงคัก
+
+**ข้อควรระวัง:**
+
+*   ต้องเลือกซื้อเนื้อและเลือดจากแหล่งที่เชื่อถือได้ เพื่อความปลอดภัย
+*   ถ้าบ่เคยกินดีวัว ให้ลองแต่น้อยๆ ก่อน เพราะมันขม
+
+**หมายเหตุ:** สูตรนี้เป็นสูตรแบบพื้นฐาน สามารถปรับเปลี่ยนรสชาติได้ตามความชอบส่วนบุคคล เด้อครับ แซ่บๆ นัวๆ นำกันเด้อ!
+","ooekhkhrab maedo maehdsoychuaebboisanaeth- naw- aipnamkan:
+
+**watthudibhlak:**
+
+*   **enueowaw:** elueokenueosanain hrueoenueotidmanhnoy- kaaesbhlay (praman 500 kram)
+*   **elueodsd:** elueodwawsd- (praman 1 thwy) tongebingaehlngthimadi- edo aihmansaoad plodphay
+*   **diwaw:** (thami) oannisiephimkhwamkhm khwamnaw (nidediywpho)
+*   **phaksd:**
+    *   phakaephw
+    *   phakchi
+    *   homaedng
+    *   saraaehn
+    *   aetngkwa
+
+**ekhrueongprungrs:**
+
+*   **phrikpn:** (tammak ephdhlayephdnoy)
+*   **khawkhaw:** (khaweonghom-)
+*   **nampla:**
+*   **nammanaw:**
+*   **phngchurs:** (aishrueoaimaiskaaid tamaich)
+*   **eklueo:** (nidhnoy)
+
+**withiehd:**
+
+1.  **etriymenueo:** eoaenueomasoyepnchinbang- phodikham oyaaihhnahlay mansibaesb
+2.  **ehdnamchim:**
+    *   eoaphrikpn khawkhaw nampla nammanaw phngchurs (thaais) maphsmkan chimebingaihaidrsthimak epriyw ekhm ephd tamaich
+    *   thamidiwaw aiheoamahyodaisnamchimnidediyw (yamwanidediyw) khnaihekhakan
+3.  **etriymelueod:** eoaelueodsdmaaisthwyaiw
+4.  **chadchan:** eoaphaksdmalangaihsaoad aelwchadaischanaihswyngam
+5.  **esirf:** eoaenueothisoyaiw chadaischan esirfphromkabelueodsd namchim aelaphaksd
+
+**withikin:**
+
+*   eoaenueochumlngainelueodsdkon (thamak)
+*   aelwchumlngainnamchim
+*   kinkabphaksd
+
+**ekhldlabkhwamaesb:**
+
+*   enueotongsdaihm
+*   namchimtongaesbthuengaich
+*   phaksdtongkrob
+*   kinkabkhawehniywhon- aehngkhak
+
+**khokhwrrawang:**
+
+*   tongelueoksueoenueoaelaelueodchakaehlngthiechueothueoaid ephueokhwamplodphay
+*   thabekhykindiwaw aihlongaetnoy- kon ephraamankhm
+
+**hmayehtu:** sutrniepnsutraebbphuenthan samarthprabepliynrschatiaidtamkhwamchobswnbukhkhl edokhrab aesb- naw- namkanedo!
+",.
+จงเขียนวิธีเฮ็ด แกงขี้เหล็ก เป็นภาษาอีสาน,"เอาล่ะ มาเฮ็ดแกงขี้เหล็กแบบอีสานแท้ๆ นัวๆ ไปนำกันเด้อพี่น้อง! นี่คือสูตรและวิธีเฮ็ดแบบละเอียด:
+
+**วัตถุดิบ:**
+
+*   **ขี้เหล็ก:** 1 กิโลกรัม (เลือกเอาใบอ่อนๆ เด้อ จั่งสิบ่ขมหลาย)
+*   **หมูสามชั้น:** 300 กรัม (หรือเนื้อวัว, เนื้อไก่ ตามมัก)
+*   **น้ำใบย่านาง:** 2 ถ้วยตวง (ถ้าบ่มี ใช้น้ำเปล่าผสมผงย่านางสำเร็จรูปกะได้)
+*   **ข้าวเบือ:** 1/2 ถ้วยตวง (แช่น้ำแล้วตำให้ละเอียด)
+*   **น้ำปลาแดก:** 3-4 ช้อนโต๊ะ (ปรุงรสตามมัก)
+*   **น้ำปลา:** 1-2 ช้อนโต๊ะ (ปรุงรสเพิ่ม)
+*   **พริกสด:** 5-7 เม็ด (หรือพริกแห้งแช่น้ำ ตำให้แหลก)
+*   **หอมแดง:** 5-7 หัว (ปอกเปลือกแล้วซอย)
+*   **กระเทียม:** 3-5 กลีบ (ปอกเปลือกแล้วซอย)
+*   **ตะไคร้:** 2 ต้น (ซอยบางๆ)
+*   **ข่า:** 1 แง่ง (ซอยบางๆ)
+*   **ใบมะกรูด:** 3-5 ใบ (ฉีกเอากลิ่น)
+*   **ผักอีตู่ (แมงลัก):** 1 กำ (เด็ดเอาแต่ใบ)
+*   **เห็ดฟาง:** 1 ถ้วยตวง (ผ่าครึ่ง) (ใส่หรือไม่ใส่กะได้)
+
+**วิธีเฮ็ด:**
+
+1.  **ต้มขี้เหล็ก:** เอาขี้เหล็กไปต้มในน้ำเดือดประมาณ 30-45 นาที (หรือจนกว่าสิหายขม) เทน้ำทิ้ง แล้วล้างน้ำเย็น บีบน้ำออกให้แห้ง พักไว้
+2.  **เตรียมเครื่องแกง:** ตำพริกสด, หอมแดง, กระเทียม, ตะไคร้, ข่า ให้เข้ากัน (ถ้าบ่มีครก ใช้เครื่องปั่นกะได้)
+3.  **ผัดเครื่องแกง:** เอาหม้อตั้งไฟ ใส่น้ำมันพืชลงไปนิดหน่อย พอน้ำมันฮ้อน เอาเครื่องแกงที่ตำไว้ลงไปผัดให้หอม
+4.  **ใส่หมูสามชั้น:** เอาหมูสามชั้นที่หั่นไว้ลงไปผัดกับเครื่องแกง ผัดจนหมูสุก
+5.  **เติมน้ำใบย่านาง:** เทน้ำใบย่านางลงในหม้อ (หรือน้ำเปล่าผสมผงย่านาง) รอจนน้ำเดือด
+6.  **ใส่ขี้เหล็ก:** เอาขี้เหล็กที่ต้มไว้ลงไปในหม้อ คนให้เข้ากัน
+7.  **ปรุงรส:** ใส่น้ำปลาแดก, น้ำปลา, ข้าวเบือ คนให้เข้ากัน ชิมรสชาติตามมัก (ถ้ามักเผ็ด กะใส่พริกเพิ่มได้)
+8.  **ใส่เห็ดฟาง:** ถ้ามักใส่เห็ดฟาง กะเอาลงไปในหม้อตอนนี้
+9.  **เคี่ยว:** เคี่ยวแกงขี้เหล็กไปเรื่อยๆ ด้วยไฟอ่อนๆ ประมาณ 15-20 นาที (หรือจนกว่าน้ำแกงสิข้น)
+10. **ใส่ใบมะกรูดและผักอีตู่:** ก่อนยกลงจากเตา ใส่ใบมะกรูดและผักอีตู่ลงไป คนให้เข้ากัน ปิดไฟ
+
+**เคล็ดลับ:**
+
+*   **ความขมของขี้เหล็ก:** การต้มขี้เหล็กหลายๆ น้ำ จะช่วยลดความขมได้
+*   **ความนัว:** น้ำปลาแดกคือหัวใจสำคัญของแกงขี้เหล็กอีสาน เลือกน้ำปลาแดกที่สะอาดและมีกลิ่นหอม
+*   **ความข้น:** ข้าวเบือจะช่วยให้น้ำแกงข้นขึ้น ถ้าบ่มักข้นหลาย กะลดปริมาณข้าวเบือลงได้
+*   **ผัก:** นอกจากผักอีตู่แล้ว บางคนกะมักใส่ผักอื่นๆ เช่น บวบ, ฟักทอง, หรือผักตามฤดูกาล
+
+**วิธีกิน:**
+
+*   ตักแกงขี้เหล็กร้อนๆ ใส่ถ้วย กินกับข้าวเหนียวฮ้อนๆ แซ่บหลาย!
+*   กินกับเครื่องเคียงอื่นๆ เช่น ผักสด, พริกสด, หรือไข่เค็ม
+
+ลองเฮ็ดเบิ่งเด้อพี่น้อง รับรองว่าแซ่บอีหลี!","eoala maehdaekngkhiehlkaebboisanaeth- naw- aipnamkanedophinong! nikhueosutraelawithiehdaebblaeoiyd:
+
+**watthudib:**
+
+*   **khiehlk:** 1 kiolkram (elueokeoaaiboon- edo changsibkhmhlay)
+*   **hmusamchan:** 300 kram (hrueoenueowaw, enueoaik tammak)
+*   **namaibyanang:** 2 thwytwng (thabmi aichnameplaphsmphngyanangsamerchrupkaaid)
+*   **khawebueo:** 1/2 thwytwng (aechnamaelwtamaihlaeoiyd)
+*   **namplaaedk:** 3-4 chonota (prungrstammak)
+*   **nampla:** 1-2 chonota (prungrsephim)
+*   **phriksd:** 5-7 emd (hrueophrikaehngaechnam tamaihaehlk)
+*   **homaedng:** 5-7 haw (pokeplueokaelwsoy)
+*   **kraethiym:** 3-5 klib (pokeplueokaelwsoy)
+*   **taaikhr:** 2 tn (soybang-)
+*   **kha:** 1 aengng (soybang-)
+*   **aibmakrud:** 3-5 aib (chikeoaklin)
+*   **phakoitu (aemnglak):** 1 kam (eddeoaaetaib)
+*   **ehdfang:** 1 thwytwng (phakhrueng) (aishrueoaimaiskaaid)
+
+**withiehd:**
+
+1.  **tmkhiehlk:** eoakhiehlkaiptmainnamedueodpraman 30-45 nathi (hrueochnkwasihaykhm) ethnamthing aelwlangnameyn bibnamookaihaehng phakaiw
+2.  **etriymekhrueongaekng:** tamphriksd, homaedng, kraethiym, taaikhr, kha aihekhakan (thabmikhrk aichekhrueongpankaaid)
+3.  **phadekhrueongaekng:** eoahmotangaif aisnammanphuechlngaipnidhnoy phonammanhon eoaekhrueongaekngthitamaiwlngaipphadaihhom
+4.  **aishmusamchan:** eoahmusamchanthihanaiwlngaipphadkabekhrueongaekng phadchnhmusuk
+5.  **etimnamaibyanang:** ethnamaibyananglngainhmo (hrueonameplaphsmphngyanang) rochnnamedueod
+6.  **aiskhiehlk:** eoakhiehlkthitmaiwlngaipainhmo khnaihekhakan
+7.  **prungrs:** aisnamplaaedk, nampla, khawebueo khnaihekhakan chimrschatitammak (thamakephd kaaisphrikephimaid)
+8.  **aisehdfang:** thamakaisehdfang kaeoalngaipainhmotonni
+9.  **ekhiyw:** ekhiywaekngkhiehlkaiperueoy- dwyaifoon- praman 15-20 nathi (hrueochnkwanamaekngsikhn)
+10. **aisaibmakrudaelaphakoitu:** konyklngchaketa aisaibmakrudaelaphakoitulngaip khnaihekhakan pidaif
+
+**ekhldlab:**
+
+*   **khwamkhmkhongkhiehlk:** kartmkhiehlkhlay- nam chachwyldkhwamkhmaid
+*   **khwamnaw:** namplaaedkkhueohawaichsamkhaykhongaekngkhiehlkoisan elueoknamplaaedkthisaoadaelamiklinhom
+*   **khwamkhn:** khawebueochachwyaihnamaekngkhnkhuen thabmakkhnhlay kaldprimankhawebueolngaid
+*   **phak:** nokchakphakoituaelw bangkhnkamakaisphakouen- echn bwb, fakthong, hrueophaktamruedukal
+
+**withikin:**
+
+*   takaekngkhiehlkron- aisthwy kinkabkhawehniywhon- aesbhlay!
+*   kinkabekhrueongekhiyngouen- echn phaksd, phriksd, hrueoaikhekhm
+
+longehdebingedophinong rabrongwaaesboihli!",.
+จงเขียนวิธีเฮ็ด น้ำตกคอหมูย่าง เป็นภาษาอีสาน,"โอเค มาเด้อ มาเฮ็ดน้ำตกคอหมูย่างแบบแซ่บๆ สไตล์อีสานบ้านเฮา:
+
+**วัตถุดิบ:**
+
+*   คอหมูย่าง (ซื้อสำเร็จ หรือย่างเองกะได้ตามมัก) ประมาณ 300 กรัม
+*   ข้าวคั่ว 2-3 ช้อนโต๊ะ (คั่วเองหอมกว่า)
+*   พริกป่น 1-2 ช้อนโต๊ะ (เผ็ดหลายเผ็ดน้อยตามใจ)
+*   น้ำปลา 2-3 ช้อนโต๊ะ
+*   น้ำมะนาว 2-3 ช้อนโต๊ะ
+*   น้ำตาลทราย 1/2 - 1 ช้อนชา (ตัดรส)
+*   หอมแดงซอย 2-3 หัว
+*   ผักชีซอย
+*   ต้นหอมซอย
+*   ใบสะระแหน่ (ถ้ามี)
+*   ผักสดกินกับ (แตงกวา, กะหล่ำปลี, ถั่วฝักยาว)
+
+**วิธีเฮ็ด:**
+
+1.  **เตรียมคอหมู:** เอาคอหมูย่างมาซอยเป็นชิ้นพอดีคำ บ่ต้องหนาหลายเด้อ
+2.  **ปรุงน้ำยำ:** ในถ้วยผสม, เอาน้ำปลา, น้ำมะนาว, น้ำตาลทราย, พริกป่น มาคนให้เข้ากัน ชิมเบิ่งรสชาติตามใจมัก เปรี้ยว เค็ม หวาน เผ็ด ปรับเอาตามชอบ
+3.  **คลุกเคล้า:** เอาคอหมูย่างที่ซอยไว้ใส่ลงในถ้วยน้ำยำ ใส่ข้าวคั่ว หอมแดงซอย ผักชีซอย ต้นหอมซอย คลุกเคล้าให้เข้ากันดีๆ
+4.  **แต่งหน้า:** ตักใส่จาน โรยหน้าด้วยใบสะระแหน่ (ถ้ามี) เพื่อความหอม
+5.  **เสิร์ฟ:** กินกับผักสดตามใจมัก แซ่บหลาย!
+
+**เคล็ดลับความแซ่บ:**
+
+*   ข้าวคั่วต้องใหม่ๆ หอมๆ คั่วเองจะหอมกว่าซื้อสำเร็จรูป
+*   น้ำมะนาวต้องสดๆ จั่งสิหอม
+*   ชิมรสชาติให้ถูกใจ ปรุงรสตามชอบ
+*   ถ้ามักเผ็ดหลาย กะใส่พริกป่นหลายๆ โลด
+*   กินกับข้าวเหนียวฮ้อนๆ แซ่บคัก!
+
+ลองเฮ็ดเบิ่งเด้อ รับรองแซ่บอีหลี!","ooekh maedo maehdnamtkkhohmuyangaebbaesb- saitloisanbaneha:
+
+**watthudib:**
+
+*   khohmuyang (sueosamerch hrueoyangeongkaaidtammak) praman 300 kram
+*   khawkhaw 2-3 chonota (khaweonghomkwa)
+*   phrikpn 1-2 chonota (ephdhlayephdnoytamaich)
+*   nampla 2-3 chonota
+*   nammanaw 2-3 chonota
+*   namtalthray 1/2 - 1 choncha (tadrs)
+*   homaedngsoy 2-3 haw
+*   phakchisoy
+*   tnhomsoy
+*   aibsaraaehn (thami)
+*   phaksdkinkab (aetngkwa, kahlampli, thawfakyaw)
+
+**withiehd:**
+
+1.  **etriymkhohmu:** eoakhohmuyangmasoyepnchinphodikham btonghnahlayedo
+2.  **prungnamyam:** ainthwyphsm, eoanampla, nammanaw, namtalthray, phrikpn makhnaihekhakan chimebingrschatitamaichmak epriyw ekhm hwan ephd prabeoatamchob
+3.  **khlukekhla:** eoakhohmuyangthisoyaiwaislngainthwynamyam aiskhawkhaw homaedngsoy phakchisoy tnhomsoy khlukekhlaaihekhakandi-
+4.  **aetnghna:** takaischan oryhnadwyaibsaraaehn (thami) ephueokhwamhom
+5.  **esirf:** kinkabphaksdtamaichmak aesbhlay!
+
+**ekhldlabkhwamaesb:**
+
+*   khawkhawtongaihm- hom- khaweongchahomkwasueosamerchrup
+*   nammanawtongsd- changsihom
+*   chimrschatiaihthukaich prungrstamchob
+*   thamakephdhlay kaaisphrikpnhlay- old
+*   kinkabkhawehniywhon- aesbkhak!
+
+longehdebingedo rabrongaesboihli!",.
+จงเขียนวิธีเฮ็ด ปลาส้ม เป็นภาษาอีสาน,"โอเคครับ มาเด้อ มาเฮ็ดปลาส้มแบบง่ายๆ สไตล์บ้านเฮา:
+
+**วัตถุดิบ:**
+
+*   ปลา (ปลาตะเพียน, ปลานิล, หรือปลาอื่นๆ ที่มีเนื้อเยอะ) ประมาณ 1 กิโลกรัม
+*   ข้าวสวย (ข้าวเหนียวที่หุงสุกแล้ว) ประมาณ 1 ถ้วย
+*   กระเทียม (ปอกเปลือก) ประมาณ 1 หัวใหญ่
+*   เกลือเม็ด ประมาณ 2-3 ช้อนโต๊ะ (ปรับตามความเค็มที่ชอบ)
+*   ผงชูรส (ใส่หรือไม่ใส่ก็ได้) นิดหน่อย
+*   ถุงพลาสติก หรือ กล่องสำหรับหมัก
+
+**วิธีเฮ็ด:**
+
+1.  **เตรียมปลา:**
+    *   ขอดเกล็ดปลา ควักไส้ออกให้หมด ล้างให้สะอาด เอาน้ำเกลือล้างอีกจักหน่อยเพื่อดับคาว
+    *   แล่เอาแต่เนื้อปลา (ถ้ามักกินแบบมีก้างกะบ่ต้องแล่) หั่นเป็นชิ้นพอดีคำ
+    *   ซับน้ำให้แห้งที่สุด (สำคัญเด้อ ปลาส้มสิบ่เน่า)
+
+2.  **ตำเครื่อง:**
+    *   ตำกระเทียมให้แหลก (หรือสิปั่นเอากะได้)
+
+3.  **คลุกเคล้า:**
+    *   เอาเนื้อปลาใส่กะละมัง
+    *   ใส่กระเทียมตำ, ข้าวสวย, เกลือ, และผงชูรส (ถ้าใส่) ลงไป
+    *   ขยำ (คลุกเคล้า) ให้เข้ากันดีๆ ให้เครื่องปรุงซึมเข้าเนื้อปลา
+    *   ชิมเบิ่งรสชาติ ถ้ายังบ่เค็มกะเติมเกลือได้
+
+4.  **หมัก:**
+    *   ตักปลาที่คลุกแล้วใส่ถุงพลาสติก หรือ กล่อง
+    *   กดให้แน่นๆ ไล่อากาศออกให้หมด (สำคัญคือกัน ปลาส้มสิบ่เสีย)
+    *   มัดปากถุงให้แน่น หรือ ปิดฝากล่องให้สนิท
+
+5.  **รอ:**
+    *   เอาไปวางไว้ในอุณหภูมิห้อง ประมาณ 3-5 มื้อ (แล้วแต่สภาพอากาศ ถ้าอากาศฮ้อนกะไว ถ้าอากาศเย็นกะโดน)
+    *   ลองเปิดเบิ่ง ถ้ามีกลิ่นส้มๆ กะแสดงว่าใช้ได้แล้ว
+
+6.  **เก็บ:**
+    *   เมื่อปลาส้มได้ที่แล้ว เอาใส่ตู้เย็นไว้ เพื่อหยุดการหมัก
+    *   เก็บไว้กินได้นาน
+
+**วิธีปรุง:**
+
+*   ปลาส้มทอด: เอาปลาส้มไปทอดให้เหลืองกรอบ กินกับข้าวสวยฮ้อนๆ แซ่บหลาย
+*   ปลาส้มปิ้ง: เอาปลาส้มไปปิ้งไฟอ่อนๆ กินกับแจ่วบอง หรือ น้ำพริก
+*   ปลาส้มผัด: เอาปลาส้มไปผัดกับไข่ หรือ ผักต่างๆ
+
+**เคล็ดลับ:**
+
+*   ความเค็มของเกลือมีผลต่อรสชาติ และ ระยะเวลาในการหมัก ลองปรับเบิ่งตามมัก
+*   ถ้ามักรสเปรี้ยวหลาย กะใส่ข้าวหลายๆ
+*   การไล่อากาศออกให้หมด เป็นสิ่งสำคัญ ป้องกันปลาส้มเสีย
+*   ถ้าอยากให้ปลาส้มมีสีสวยงาม อาจจะใส่ดินประสิว (ในปริมาณน้อยมากๆ) แต่บ่แนะนำให้ใส่ เพราะบ่ดีต่อสุขภาพ
+
+ลองเฮ็ดเบิ่งเด้อครับ แซ่บอีหลี!
+","ooekhkhrab maedo maehdplasmaebbngay- saitlbaneha:
+
+**watthudib:**
+
+*   pla (plataephiyn, planil, hrueoplaouen- thimienueoeyoa) praman 1 kiolkram
+*   khawswy (khawehniywthihungsukaelw) praman 1 thwy
+*   kraethiym (pokeplueok) praman 1 hawaihy
+*   eklueoemd praman 2-3 chonota (prabtamkhwamekhmthichob)
+*   phngchurs (aishrueoaimaiskaid) nidhnoy
+*   thungphlastik hrueo klongsamhrabhmak
+
+**withiehd:**
+
+1.  **etriympla:**
+    *   khodekldpla khwakaisookaihhmd langaihsaoad eoanameklueolangoikchakhnoyephueodabkhaw
+    *   aeleoaaetenueopla (thamakkinaebbmikangkabtongael) hanepnchinphodikham
+    *   sabnamaihaehngthisud (samkhayedo plasmsibena)
+
+2.  **tamekhrueong:**
+    *   tamkraethiymaihaehlk (hrueosipaneoakaaid)
+
+3.  **khlukekhla:**
+    *   eoaenueoplaaiskalamang
+    *   aiskraethiymtam, khawswy, eklueo, aelaphngchurs (thaais) lngaip
+    *   khyam (khlukekhla) aihekhakandi- aihekhrueongprungsuemekhaenueopla
+    *   chimebingrschati thayangbekhmkaetimeklueoaid
+
+4.  **hmak:**
+    *   takplathikhlukaelwaisthungphlastik hrueo klong
+    *   kdaihaenn- ailoakasookaihhmd (samkhaykhueokan plasmsibesiy)
+    *   madpakthungaihaenn hrueo pidfaklongaihsnith
+
+5.  **ro:**
+    *   eoaaipwangaiwainounhphumihong praman 3-5 mueo (aelwaetsphaphoakas thaoakashonkaaiw thaoakaseynkaodn)
+    *   longepidebing thamiklinsm- kaaesdngwaaichaidaelw
+
+6.  **ekb:**
+    *   emueoplasmaidthiaelw eoaaistueynaiw ephueohyudkarhmak
+    *   ekbaiwkinaidnan
+
+**withiprung:**
+
+*   plasmthod: eoaplasmaipthodaihehlueongkrob kinkabkhawswyhon- aesbhlay
+*   plasmping: eoaplasmaippingaifoon- kinkabaechwbong hrueo namphrik
+*   plasmphad: eoaplasmaipphadkabaikh hrueo phaktang-
+
+**ekhldlab:**
+
+*   khwamekhmkhongeklueomiphltorschati aela rayaewlaainkarhmak longprabebingtammak
+*   thamakrsepriywhlay kaaiskhawhlay-
+*   karailoakasookaihhmd epnsingsamkhay pongkanplasmesiy
+*   thaoyakaihplasmmisiswyngam oachchaaisdinprasiw (ainprimannoymak-) aetbaenanamaihais ephraabditosukhphaph
+
+longehdebingedokhrab aesboihli!
+",.
+จงเขียนวิธีเฮ็ด แจ่วฮ้อน เป็นภาษาอีสาน,"โอเค มาเด้อ มาเฮ็ดแจ่วฮ้อนแบบอีสานแท้ๆ นำกัน ง่ายๆ แซ่บหลาย!
+
+**วัตถุดิบที่ต้องเตรียม:**
+
+*   **น้ำซุป:**
+    *   กระดูกหมู หรือ กระดูกไก่ (สำหรับต้มน้ำซุป)
+    *   ตะไคร้ ทุบพอแหลก
+    *   ข่า หั่นแว่น
+    *   ใบมะกรูด ฉีก
+    *   หอมแดง ทุบ
+    *   รากผักชี ทุบ
+    *   เกลือ
+    *   น้ำปลา
+    *   ผงชูรส (ใส่หรือไม่ใส่ก็ได้ ตามใจชอบ)
+*   **น้ำจิ้มแจ่ว:**
+    *   พริกป่น (เผ็ดมาก เผ็ดน้อย ตามใจ)
+    *   ข้าวคั่ว
+    *   น้ำปลา
+    *   น้ำตาลปี๊บ (นิดหน่อย)
+    *   น้ำมะขามเปียก
+    *   หอมแดงซอย
+    *   ผักชีซอย
+    *   ต้นหอมซอย
+    *   ผักไผ่ซอย (ถ้ามี)
+*   **เครื่องเคียง:**
+    *   หมูหมัก (หมักกับน้ำมันหอย ซีอิ๊วขาว พริกไทย)
+    *   เนื้อวัวสไลด์
+    *   ตับหมู
+    *   หมูสามชั้น
+    *   ลูกชิ้นต่างๆ
+    *   ผักกาดขาว
+    *   ผักบุ้ง
+    *   ผักกวางตุ้ง
+    *   เห็ดต่างๆ (เห็ดเข็มทอง เห็ดหอม เห็ดออรินจิ)
+    *   วุ้นเส้น หรือ เส้นแก้ว
+    *   ไข่ไก่
+
+**วิธีเฮ็ด:**
+
+1.  **เฮ็ดน้ำซุป:**
+    *   เอากระดูกหมู หรือ กระดูกไก่ ไปล้างให้สะอาด แล้วเอาไปต้มในหม้อใหญ่ ใส่น้ำให้ท่วม
+    *   พอน้ำเดือด ให้ตักฟองออกให้หมด น้ำซุปจั่งสิบ่ขุ่น
+    *   ใส่ตะไคร้ ข่า ใบมะกรูด หอมแดง รากผักชี ลงไปในหม้อ
+    *   ปรุงรสด้วยเกลือ น้ำปลา ผงชูรส (ถ้าใส่) ชิมเบิ่งให้ได้รสชาติที่มัก ต้มไปเรื่อยๆ ไฟอ่อนๆ อย่างน้อย 1 ชั่วโมง ให้น้ำซุปหอมหวาน
+2.  **เฮ็ดน้ำจิ้มแจ่ว:**
+    *   เอาพริกป่น ข้าวคั่ว น้ำปลา น้ำตาลปี๊บ น้ำมะขามเปียก ใส่ในถ้วย
+    *   คนให้เข้ากัน ชิมเบิ่งให้ได้รสชาติ เผ็ด เปรี้ยว เค็ม หวาน กลมกล่อม
+    *   ใส่หอมแดงซอย ผักชีซอย ต้นหอมซอย ผักไผ่ซอย ลงไป คนให้เข้ากันอีกที
+3.  **เตรียมเครื่องเคียง:**
+    *   ล้างผักทุกอย่างให้สะอาด แล้วจัดใส่จาน
+    *   เตรียมหมูหมัก เนื้อวัวสไลด์ ตับหมู ลูกชิ้นต่างๆ ใส่จาน
+    *   แช่วุ้นเส้น หรือ เส้นแก้ว ในน้ำให้นิ่ม
+4.  **กินแจ่วฮ้อน:**
+    *   ตั้งหม้อแจ่วฮ้อนบนเตาแก๊ส หรือ เตาไฟฟ้า
+    *   เทน้ำซุปที่เฮ็ดไว้ลงในหม้อ
+    *   พอน้ำซุปเดือด เอาเครื่องเคียงต่างๆ ลงไปลวกให้สุก
+    *   จิ้มกับน้ำจิ้มแจ่ว แซ่บหลาย!
+    *   ตอกไข่ใส่ลงไปในหม้อ นำมากินกะได้
+
+**เคล็ดลับ:**
+
+*   ถ้ามักน้ำซุปเข้มข้น ให้เคี่ยวกระดูกหมู หรือ กระดูกไก่ โดนๆ
+*   น้ำจิ้มแจ่ว สามารถปรับรสชาติได้ตามใจชอบ มักเผ็ดหลาย กะใส่พริกป่นหลายๆ
+*   กินกับข้าวเหนียวฮ้อนๆ แซ่บอีหลีเด้อ!
+
+ลองเฮ็ดเบิ่งเด้อ รับรองว่าแซ่บจนลืมฟ้าลืมฝน! 😊
+","ooekh maedo maehdaechwhonaebboisanaeth- namkan ngay- aesbhlay!
+
+**watthudibthitongetriym:**
+
+*   **namsup:**
+    *   kradukhmu hrueo kradukaik (samhrabtmnamsup)
+    *   taaikhr thubphoaehlk
+    *   kha hanaewn
+    *   aibmakrud chik
+    *   homaedng thub
+    *   rakphakchi thub
+    *   eklueo
+    *   nampla
+    *   phngchurs (aishrueoaimaiskaid tamaichchob)
+*   **namchimaechw:**
+    *   phrikpn (ephdmak ephdnoy tamaich)
+    *   khawkhaw
+    *   nampla
+    *   namtalpib (nidhnoy)
+    *   nammakhamepiyk
+    *   homaedngsoy
+    *   phakchisoy
+    *   tnhomsoy
+    *   phakaiphsoy (thami)
+*   **ekhrueongekhiyng:**
+    *   hmuhmak (hmakkabnammanhoy sioiwkhaw phrikaithy)
+    *   enueowawsaild
+    *   tabhmu
+    *   hmusamchan
+    *   lukchintang-
+    *   phakkadkhaw
+    *   phakbung
+    *   phakkwangtung
+    *   ehdtang- (ehdekhmthong ehdhom ehdoorinchi)
+    *   wunesn hrueo esnaekw
+    *   aikhaik
+
+**withiehd:**
+
+1.  **ehdnamsup:**
+    *   eoakradukhmu hrueo kradukaik aiplangaihsaoad aelweoaaiptmainhmoaihy aisnamaihthwm
+    *   phonamedueod aihtakfongookaihhmd namsupchangsibkhun
+    *   aistaaikhr kha aibmakrud homaedng rakphakchi lngaipainhmo
+    *   prungrsdwyeklueo nampla phngchurs (thaais) chimebingaihaidrschatithimak tmaiperueoy- aifoon- oyangnoy 1 chawomng aihnamsuphomhwan
+2.  **ehdnamchimaechw:**
+    *   eoaphrikpn khawkhaw nampla namtalpib nammakhamepiyk aisainthwy
+    *   khnaihekhakan chimebingaihaidrschati ephd epriyw ekhm hwan klmklom
+    *   aishomaedngsoy phakchisoy tnhomsoy phakaiphsoy lngaip khnaihekhakanoikthi
+3.  **etriymekhrueongekhiyng:**
+    *   langphakthukoyangaihsaoad aelwchadaischan
+    *   etriymhmuhmak enueowawsaild tabhmu lukchintang- aischan
+    *   aechwunesn hrueo esnaekw ainnamaihnim
+4.  **kinaechwhon:**
+    *   tanghmoaechwhonbnetaaeks hrueo etaaiffa
+    *   ethnamsupthiehdaiwlngainhmo
+    *   phonamsupedueod eoaekhrueongekhiyngtang- lngaiplwkaihsuk
+    *   chimkabnamchimaechw aesbhlay!
+    *   tokaikhaislngaipainhmo nammakinkaaid
+
+**ekhldlab:**
+
+*   thamaknamsupekhmkhn aihekhiywkradukhmu hrueo kradukaik odn-
+*   namchimaechw samarthprabrschatiaidtamaichchob makephdhlay kaaisphrikpnhlay-
+*   kinkabkhawehniywhon- aesboihliedo!
+
+longehdebingedo rabrongwaaesbchnluemfaluemfn! :blush:
+",.
+จงเขียนวิธีเฮ็ด ตับหวาน เป็นภาษาอีสาน,"ได้เลยครับ นี่คือวิธีเฮ็ดตับหวานแบบฉบับภาษาอีสานบ้านเฮา:
+
+**วัตถุดิบ:**
+
+*   ตับหมู (เอาแบบสดๆ เด้อ) ประมาณ 300-400 กรัม
+*   หอมแดง ซอยบางๆ 3-4 หัว
+*   ผักชี ต้นหอม ซอยหยาบๆ พอประมาณ
+*   พริกป่น (เอาแบบเผ็ดๆ แซ่บๆ) ตามใจชอบ
+*   ข้าวคั่ว (คั่วเองหอมๆ หรือซื้อเอาก็ได้) 2-3 ช้อนโต๊ะ
+*   น้ำปลา 2-3 ช้อนโต๊ะ
+*   น้ำมะนาว 2-3 ช้อนโต๊ะ
+*   น้ำตาลทราย (นิดหน่อย พอตัดรส) ปลายช้อนชา
+*   ข่าอ่อน ซอยละเอียด (ถ้ามี) นิดหน่อย
+*   ใบสะระแหน่ (ถ้ามี) เอาไว้แต่งหน้า
+
+**วิธีเฮ็ด:**
+
+1.  **เตรียมตับ:** เอาตับหมูมาล้างให้สะอาด เอามีดฝานเป็นชิ้นบางๆ พอดีคำ อย่าให้หนาหลายเด้อ มันสิบ่สุกง่าย
+2.  **ลวกตับ:** ตั้งหม้อใส่น้ำให้เดือด เอาตับที่ฝานไว้ลงไปลวกเร็วๆ พอให้ตับเปลี่ยนสี อย่าลวกนานหลาย ตับสิแข็งบ่แซ่บ ตักขึ้นมาแช่น้ำเย็นทันที แล้วสะเด็ดน้ำออกให้แห้ง
+3.  **ปรุงรส:** เอาตับที่ลวกไว้ใส่ในชามผสม ใส่หอมแดงซอย พริกป่น ข้าวคั่ว น้ำปลา น้ำมะนาว น้ำตาลทราย (ถ้าใส่ข่าอ่อนกะใส่ตอนนี้เลย) คลุกเคล้าให้เข้ากันดี ชิมเบิ่งรสชาติให้ถูกปาก มักรสใด๋กะปรุงเพิ่มเอาตามใจ
+4.  **ใส่ผัก:** ใส่ผักชี ต้นหอมซอย คลุกเคล้าเบาๆ ให้เข้ากันอีกที
+5.  **ตักเสิร์ฟ:** ตักตับหวานใส่จาน โรยหน้าด้วยใบสะระแหน่ (ถ้ามี) กินกับข้าวเหนียวฮ้อนๆ แซ่บหลาย!
+
+**เคล็ดลับ:**
+
+*   การลวกตับให้สุกพอดีเป็นหัวใจสำคัญ อย่าลวกนานเกินไป ตับสิแข็งกระด้างบ่แซ่บ
+*   ข้าวคั่วใหม่ๆ หอมๆ สิเฮ็ดให้ตับหวานมีกลิ่นหอมน่ากินยิ่งขึ้น
+*   รสชาติของตับหวานขึ้นอยู่กับความมักของแต่ละคน มักเผ็ด มักเปรี้ยว มักหวาน กะปรุงรสเอาตามใจชอบ
+
+ลองเฮ็ดเบิ่งเด้อครับ รับรองแซ่บอีหลี!
+","aidelykhrab nikhueowithiehdtabhwanaebbchbabphasaoisanbaneha:
+
+**watthudib:**
+
+*   tabhmu (eoaaebbsd- edo) praman 300-400 kram
+*   homaedng soybang- 3-4 haw
+*   phakchi tnhom soyhyab- phopraman
+*   phrikpn (eoaaebbephd- aesb-) tamaichchob
+*   khawkhaw (khaweonghom- hrueosueoeoakaid) 2-3 chonota
+*   nampla 2-3 chonota
+*   nammanaw 2-3 chonota
+*   namtalthray (nidhnoy photadrs) playchoncha
+*   khaoon soylaeoiyd (thami) nidhnoy
+*   aibsaraaehn (thami) eoaaiwaetnghna
+
+**withiehd:**
+
+1.  **etriymtab:** eoatabhmumalangaihsaoad eoamidfanepnchinbang- phodikham oyaaihhnahlayedo mansibsukngay
+2.  **lwktab:** tanghmoaisnamaihedueod eoatabthifanaiwlngaiplwkerw- phoaihtabepliynsi oyalwknanhlay tabsiaekhngbaesb takkhuenmaaechnameynthanthi aelwsaeddnamookaihaehng
+3.  **prungrs:** eoatabthilwkaiwaisainchamphsm aishomaedngsoy phrikpn khawkhaw nampla nammanaw namtalthray (thaaiskhaoonkaaistonniely) khlukekhlaaihekhakandi chimebingrschatiaihthukpak makrsaidkaprungephimeoatamaich
+4.  **aisphak:** aisphakchi tnhomsoy khlukekhlaeba- aihekhakanoikthi
+5.  **takesirf:** taktabhwanaischan oryhnadwyaibsaraaehn (thami) kinkabkhawehniywhon- aesbhlay!
+
+**ekhldlab:**
+
+*   karlwktabaihsukphodiepnhawaichsamkhay oyalwknanekinaip tabsiaekhngkradangbaesb
+*   khawkhawaihm- hom- siehdaihtabhwanmiklinhomnakinyingkhuen
+*   rschatikhongtabhwankhuenoyukabkhwammakkhongaetlakhn makephd makepriyw makhwan kaprungrseoatamaichchob
+
+longehdebingedokhrab rabrongaesboihli!
+",.

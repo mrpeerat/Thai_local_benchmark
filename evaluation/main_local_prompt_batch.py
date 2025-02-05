@@ -69,7 +69,7 @@ if __name__ == '__main__':
         raise ValueError('main_local_prompt.py <prompt_lang> <model_path_or_name> <n_shot> <n_batch>')
 
     out_dir = './outputs_local'
-    metric_dir = './metrics_local_qa'
+    metric_dir = './metrics_local'
     os.makedirs(out_dir, exist_ok=True)
     os.makedirs(metric_dir, exist_ok=True)
 
@@ -87,7 +87,7 @@ if __name__ == '__main__':
     local_datasets = load_local_datasets(prompt_lang)
 
     #manual fix qa task
-    local_datasets  = {key: local_datasets[key] for key in ['qa'] if key in local_datasets}
+    #local_datasets  = {key: local_datasets[key] for key in ['qa'] if key in local_datasets}
     
     print(f'Loaded {len(local_datasets)} Local datasets')
     for i, dset_subset in enumerate(local_datasets.keys()):

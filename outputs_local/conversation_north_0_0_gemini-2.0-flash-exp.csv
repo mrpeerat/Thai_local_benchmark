@@ -1,0 +1,435 @@
+Input,Pred,Pred_Latin,Gold
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ ประเพณีท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"แน่นอนครับ นี่คือบทสนทนาสั้นๆ เป็นภาษาคำเมือง เกี่ยวกับประเพณีท้องถิ่น:
+
+**ตัวละคร:**
+
+*   **ป้าคำ:** หญิงสูงวัย ใจดี
+*   **หนานอิน:** ชายหนุ่มรุ่นหลาน กลับมาเยี่ยมบ้าน
+
+**บทสนทนา:**
+
+1.  **หนานอิน:** ""ป้าคำ สบายดีก่อครับ? บะได้ปิ๊กบ้านเมินขนาด คิดเติงหาบ้านขนาดเลย""
+    *   (ป้าคำ สบายดีไหมครับ? ไม่ได้กลับบ้านนานมาก คิดถึงบ้านมากเลย)
+
+2.  **ป้าคำ:** ""โอ๊ย หนานอินเอ๊ย ป้าสบายดีอยู่เจ้า ปิ๊กมาเตื่อนี้ จะอยู่จ๋นปี๋ใหม่เมืองเลยก่อ?""
+    *   (โอ๊ย หนานอินเอ๊ย ป้าสบายดีอยู่ กลับมาครั้งนี้ จะอยู่จนปีใหม่เมืองเลยไหม?)
+
+3.  **หนานอิน:** ""ครับป้า กะว่าจะอยู่จ๋นสงกรานต์พุ้นล่ะครับ อยากจะไปแอ่วปอย ไปดำหัวตวย""
+    *   (ครับป้า กะว่าจะอยู่จนสงกรานต์โน่นแหละครับ อยากจะไปเที่ยวงาน ไปดำหัวด้วย)
+
+4.  **ป้าคำ:** ""ดีแล้วๆ ประเพณีบ้านเฮา ต้องจ่วยกั๋นฮักษาไว้เน้อ อย่าหื้อหายไปไหน""
+    *   (ดีแล้วๆ ประเพณีบ้านเรา ต้องช่วยกันรักษาไว้นะ อย่าให้หายไปไหน)
+
+5.  **หนานอิน:** ""แน่นอนครับป้า ผมจะจ่วยป้าคำสืบสานประเพณีบ้านเฮาอย่างดีเลยครับ""
+    *   (แน่นอนครับป้า ผมจะช่วยป้าคำสืบสานประเพณีบ้านเราอย่างดีเลยครับ)
+
+หวังว่าบทสนทนานี้จะเป็นประโยชน์นะครับ ถ้าต้องการให้ปรับแก้ตรงไหน บอกได้เลยครับ","aennonkhrab nikhueobthsnthnasan- epnphasakhamemueong ekiywkabpraephnithongthin:
+
+**tawlakhr:**
+
+*   **pakham:** hyingsungway aichdi
+*   **hnanoin:** chayhnumrunhlan klabmaeyiymban
+
+**bthsnthna:**
+
+1.  **hnanoin:** ""pakham sbaydikokhrab? baaidpikbaneminkhnad khidetinghabankhnadely""
+    *   (pakham sbaydiaihmkhrab? aimaidklabbannanmak khidthuengbanmakely)
+
+2.  **pakham:** ""ooy hnanoineoy pasbaydioyuecha pikmaetueoni chaoyuchnpiaihmemueongelyko?""
+    *   (ooy hnanoineoy pasbaydioyu klabmakhrangni chaoyuchnpiaihmemueongelyaihm?)
+
+3.  **hnanoin:** ""khrabpa kawachaoyuchnsngkrantphunlakhrab oyakchaaipaeowpoy aipdamhawtwy""
+    *   (khrabpa kawachaoyuchnsngkrantonnaehlakhrab oyakchaaipethiywngan aipdamhawdwy)
+
+4.  **pakham:** ""diaelw- praephnibaneha tongchwykanhaksaaiweno oyahueohayaipaihn""
+    *   (diaelw- praephnibanera tongchwykanraksaaiwna oyaaihhayaipaihn)
+
+5.  **hnanoin:** ""aennonkhrabpa phmchachwypakhamsuebsanpraephnibanehaoyangdielykhrab""
+    *   (aennonkhrabpa phmchachwypakhamsuebsanpraephnibaneraoyangdielykhrab)
+
+hwangwabthsnthnanichaepnpraoychnnakhrab thatongkaraihprabaektrngaihn bokaidelykhrab",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ อาชีพ บทสนทนาบะควรเกิน 5 turns,"แน่นอน นี่คือบทสนทนาสั้นๆ เป็นภาษาคำเมือง เกี่ยวกับอาชีพ:
+
+**ตัวละคร:**
+
+*   **ป้าคำ:** ป้าแก่ๆ ใจดี มีอาชีพขายข้าวแกง
+*   **หนานอิน:** หนุ่มรุ่นใหม่ กลับมาอยู่บ้านเกิด
+
+**บทสนทนา:**
+
+1.  **หนานอิน:** (ยกมือไหว้) ""สวัสดีครับป้าคำ วันนี้มีแกงอะหยังพ่องครับ?""
+    **ป้าคำ:** ""อ้อ หนานอินมาแล้ว กิ๋นข้าวเตี่ยง (เที่ยง) เต๊อะ (เน้อ) วันนี้มีแกงผักกาดจอ แกงฮังเล แล้วก็มีไก่ทอดเจ้า""
+
+2.  **หนานอิน:** ""น่ากิ๋น (กิน) ทุกอย่างเลยครับป้า ผมว่าจะมาถามป้าเรื่องอาชีพนี่น่ะครับ ป้าขายข้าวแกงมาเมิน (นาน) แล้วก่อครับ?""
+    **ป้าคำ:** ""โอ๊ย ขายมาตั้งแต่สาวๆ พุ่น (นู่น) ล่ะเจ้า เลี้ยงลูกเลี้ยงเต้า (หลาน) ก็เพราะข้าวแกงนี่แหละ""
+
+3.  **หนานอิน:** ""ผมกึ๊ด (คิด) ว่าจะลองหาอาชีพทำตี้ (ที่) บ้านเฮา (เรา) เหมือนกั๋น (กัน) ครับป้า แต่ยังบ่ฮู้ (ไม่รู้) จะยะ (ทำ) อะหยังดี""
+    **ป้าคำ:** ""ลองผ่อ (ดู) สิ่งตี้ (ที่) ตัวเก่า (ตัวเอง) ถนัดก่อนเน้อหนาน แล้วค่อยๆ เรียนฮู้ (รู้) ไป บ่มีอะหยังยากเกินไป๋ (เกินไป)""
+
+4.  **หนานอิน:** ""ขอบคุณครับป้าคำ ป้ามีแฮง (แรง) ใจ๋ (ใจ) ผมขนาด (มาก) เลยครับ งั้นผมขอข้าวแกงจานนึงก่อนเน้อครับ""
+    **ป้าคำ:** ""ได้เลยเจ้า เอาอะหยังพ่อง (บ้าง) บอกมาได้เลย""
+
+หวังว่าบทสนทนานี้จะเป็นประโยชน์นะครับ ถ้าต้องการให้ปรับแก้ตรงไหน บอกได้เลยเน้อ!","aennon nikhueobthsnthnasan- epnphasakhamemueong ekiywkaboachiph:
+
+**tawlakhr:**
+
+*   **pakham:** paaek- aichdi mioachiphkhaykhawaekng
+*   **hnanoin:** hnumrunaihm klabmaoyubanekid
+
+**bthsnthna:**
+
+1.  **hnanoin:** (ykmueoaihw) ""swasdikhrabpakham wannimiaekngoahyangphongkhrab?""
+    **pakham:** ""oo hnanoinmaaelw kinkhawetiyng (ethiyng) etoa (eno) wannimiaekngphakkadcho aeknghangel aelwkmiaikthodecha""
+
+2.  **hnanoin:** ""nakin (kin) thukoyangelykhrabpa phmwachamathampaerueongoachiphninakhrab pakhaykhawaekngmaemin (nan) aelwkokhrab?""
+    **pakham:** ""ooy khaymatangaetsaw- phun (nun) laecha eliynglukeliyngeta (hlan) kephraakhawaekngniaehla""
+
+3.  **hnanoin:** ""phmkued (khid) wachalonghaoachiphthamti (thi) baneha (era) ehmueonkan (kan) khrabpa aetyangbhu (aimru) chaya (tham) oahyangdi""
+    **pakham:** ""longpho (du) singti (thi) taweka (taweong) thnadkonenohnan aelwkhoy- eriynhu (ru) aip bmioahyangyakekinaip (ekinaip)""
+
+4.  **hnanoin:** ""khobkhunkhrabpakham pamiaehng (aerng) aich (aich) phmkhnad (mak) elykhrab nganphmkhokhawaekngchannuengkonenokhrab""
+    **pakham:** ""aidelyecha eoaoahyangphong (bang) bokmaaidely""
+
+hwangwabthsnthnanichaepnpraoychnnakhrab thatongkaraihprabaektrngaihn bokaidelyeno!",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ การคมนาคม บทสนทนาบะควรเกิน 5 turns,"ได้เลยเจ้า นี่คือบทสนทนาภาษาเหนือเกี่ยวกับเรื่องการคมนาคม มี 5 ช่วงตั๋วอย่าง:
+
+**ตัวละคร:**
+
+*   **ป้าคำ:** ป้าแก่ ๆ ใจดี
+*   **น้องปิ่น:** สาวรุ่นใหม่
+
+**บทสนทนา:**
+
+1.  **น้องปิ่น:** ""ป้าคำเจ้า วันนี้รถแดงมันเมินเติงว่าจะมาแหมะเจ้า ปิ่นจะไปกาดหลวงแหมะหนา"" (ป้าคำคะ วันนี้รถแดงรอนานจังเลยค่ะ กว่าจะมา ปิ่นจะไปตลาดวโรรสค่ะ)
+2.  **ป้าคำ:** ""โอ๊ย น้องปิ่นเอ๊ย เดี๋ยวนี้รถแดงมันกะบะใจ้เหมือนแต่ก่อนแล้วหนา บางคันก็ไปส่งคนตางนอก บางคันก็ไปส่งของ ปอดีว่ามีแอปเรียกตุ๊ก ๆ ในมือถือ ลองผ่อเอาเต๊อะ"" (โอ๊ย น้องปิ่นเอ๊ย เดี๋ยวนี้รถแดงมันไม่เหมือนแต่ก่อนแล้ว บางคันก็ไปส่งคนต่างชาติ บางคันก็ไปส่งของ พอดีว่ามีแอปเรียกตุ๊ก ๆ ในมือถือ ลองดูเอาเถอะ)
+3.  **น้องปิ่น:** ""แอปตุ๊ก ๆ นี่มันแพงก่อเจ้าป้า ปิ่นย่านบะมีเงินจ่าย"" (แอปตุ๊ก ๆ นี่มันแพงไหมคะป้า ปิ่นกลัวไม่มีเงินจ่าย)
+4.  **ป้าคำ:** ""มันก็แพงกว่ารถแดงหน่อยเดียว น้องปิ่นลองเจรจาต่อรองราคากับคนขับก่อนก็ได้หนา เดี๋ยวนี้เปิ้นใจ้แอปกันหมดแล้ว"" (มันก็แพงกว่ารถแดงหน่อยเดียว น้องปิ่นลองเจรจาต่อรองราคากับคนขับก่อนก็ได้นะ เดี๋ยวนี้เขาใช้แอปกันหมดแล้ว)
+5.  **น้องปิ่น:** ""ขอบคุณเจ้าป้าคำ ปิ่นจะลองผ่อในแอปผ่อเจ้า"" (ขอบคุณค่ะป้าคำ ปิ่นจะลองดูในแอปดูค่ะ)
+
+หวังว่าบทสนทนานี้จะถูกใจ๋นะเจ้า!","aidelyecha nikhueobthsnthnaphasaehnueoekiywkaberueongkarkhmnakhm mi 5 chwngtawoyang:
+
+**tawlakhr:**
+
+*   **pakham:** paaek - aichdi
+*   **nongpin:** sawrunaihm
+
+**bthsnthna:**
+
+1.  **nongpin:** ""pakhamecha wannirthaedngmaneminetingwachamaaehmaecha pinchaaipkadhlwngaehmahna"" (pakhamkha wannirthaedngronanchangelykha kwachama pinchaaiptladworrskha)
+2.  **pakham:** ""ooy nongpineoy ediywnirthaedngmankabaaichehmueonaetkonaelwhna bangkhankaipsngkhntangnok bangkhankaipsngkhong podiwamiaeoperiyktuk - ainmueothueo longphoeoaetoa"" (ooy nongpineoy ediywnirthaedngmanaimehmueonaetkonaelw bangkhankaipsngkhntangchati bangkhankaipsngkhong phodiwamiaeoperiyktuk - ainmueothueo longdueoaethoa)
+3.  **nongpin:** ""aeoptuk - nimanaephngkoechapa pinyanbamienginchay"" (aeoptuk - nimanaephngaihmkhapa pinklawaimmienginchay)
+4.  **pakham:** ""mankaephngkwarthaednghnoyediyw nongpinlongechrchatorongrakhakabkhnkhabkonkaidhna ediywniepinaichaeopkanhmdaelw"" (mankaephngkwarthaednghnoyediyw nongpinlongechrchatorongrakhakabkhnkhabkonkaidna ediywniekhaaichaeopkanhmdaelw)
+5.  **nongpin:** ""khobkhunechapakham pinchalongphoainaeopphoecha"" (khobkhunkhapakham pinchalongduainaeopdukha)
+
+hwangwabthsnthnanichathukaichnaecha!",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ ครอบครัว บทสนทนาบะควรเกิน 5 turns,"แน่นอน นี่คือบทสนทนาสั้นๆ เป็นภาษาคำเมือง เกี่ยวกับครอบครัว:
+
+**ตัวละคร:**
+
+*   **ป้าดวง:** ป้าใจดี อายุประมาณ 60 ปี
+*   **หลานแก้ว:** หลานสาวของป้าดวง อายุประมาณ 20 ปี
+
+**บทสนทนา:**
+
+1.  **หลานแก้ว:** (ยกมือไหว้) ""ป้าดวงเจ้า วันนี้ป้าสบายดีก่อเจ้า?""
+    *   (แปล: ป้าดวงคะ วันนี้ป้าสบายดีไหมคะ?)
+
+2.  **ป้าดวง:** (ยิ้ม) ""สบายดีอยู่ แก้วเอ๊ย แล้วแก้วละ สบายดีก่อ? ไปยะก๋าน (ทำงาน) ทุกวัน บะเหนื่อยเอาเหรอ?""
+    *   (แปล: สบายดีอยู่ แก้วเอ๊ย แล้วแก้วล่ะ สบายดีไหม? ไปทำงานทุกวัน ไม่เหนื่อยเหรอ?)
+
+3.  **หลานแก้ว:** ""สบายดีเจ้า เหนื่อยอยู่พ่อง แต่บะเป๋นหยังเจ้า ป้าดวงอยู่บ้านคนเดียว เหงาก่อเจ้า? แม่บอกว่าอยากจะมาอยู่เป๋นเพื่อนป้าดวงนะเจ้า""
+    *   (แปล: สบายดีค่ะ เหนื่อยอยู่บ้าง แต่ไม่เป็นไรค่ะ ป้าดวงอยู่บ้านคนเดียว เหงาไหมคะ? แม่บอกว่าอยากจะมาอยู่เป็นเพื่อนป้าดวงนะคะ)
+
+4.  **ป้าดวง:** ""บะเหงาเต้าใด (เท่าไหร่) ดอก แก้วเอ๊ย ป้าอยู่ได้สบายๆ แต่ถ้าแม่แก้วจะมาอยู่ตวย (ด้วย) ก็ดีเหมือนกั๋น จะได้มีคนปอก (พูดคุย) กัน""
+    *   (แปล: ไม่เหงาเท่าไหร่หรอก แก้วเอ๊ย ป้าอยู่ได้สบายๆ แต่ถ้าแม่แก้วจะมาอยู่ด้วยก็ดีเหมือนกัน จะได้มีคนพูดคุยกัน)
+
+5.  **หลานแก้ว:** ""ถ้าอย่างอั้น (นั้น) แก้วจะบอกแม่เน้อเจ้า ป้าดวงจะได้บะเหงาแล้ว""
+    *   (แปล: ถ้าอย่างนั้น แก้วจะบอกแม่นะคะ ป้าดวงจะได้ไม่เหงาแล้ว)
+
+หวังว่าบทสนทนานี้จะเป็นประโยชน์นะคะ ถ้าต้องการให้ปรับแก้ตรงไหน บอกได้เลยค่ะ","aennon nikhueobthsnthnasan- epnphasakhamemueong ekiywkabkhrobkhraw:
+
+**tawlakhr:**
+
+*   **padwng:** paaichdi oayupraman 60 pi
+*   **hlanaekw:** hlansawkhongpadwng oayupraman 20 pi
+
+**bthsnthna:**
+
+1.  **hlanaekw:** (ykmueoaihw) ""padwngecha wannipasbaydikoecha?""
+    *   (aepl: padwngkha wannipasbaydiaihmkha?)
+
+2.  **padwng:** (yim) ""sbaydioyu aekweoy aelwaekwla sbaydiko? aipyakan (thamngan) thukwan baehnueoyeoaehro?""
+    *   (aepl: sbaydioyu aekweoy aelwaekwla sbaydiaihm? aipthamnganthukwan aimehnueoyehro?)
+
+3.  **hlanaekw:** ""sbaydiecha ehnueoyoyuphong aetbaepnhyangecha padwngoyubankhnediyw ehngakoecha? aembokwaoyakchamaoyuepnephueonpadwngnaecha""
+    *   (aepl: sbaydikha ehnueoyoyubang aetaimepnairkha padwngoyubankhnediyw ehngaaihmkha? aembokwaoyakchamaoyuepnephueonpadwngnakha)
+
+4.  **padwng:** ""baehngaetaaid (ethaaihr) dok aekweoy paoyuaidsbay- aetthaaemaekwchamaoyutwy (dwy) kdiehmueonkan chaaidmikhnpok (phudkhuy) kan""
+    *   (aepl: aimehngaethaaihrhrok aekweoy paoyuaidsbay- aetthaaemaekwchamaoyudwykdiehmueonkan chaaidmikhnphudkhuykan)
+
+5.  **hlanaekw:** ""thaoyangoan (nan) aekwchabokaemenoecha padwngchaaidbaehngaaelw""
+    *   (aepl: thaoyangnan aekwchabokaemnakha padwngchaaidaimehngaaelw)
+
+hwangwabthsnthnanichaepnpraoychnnakha thatongkaraihprabaektrngaihn bokaidelykha",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ กลับบ้านช่วงเทศกาล บทสนทนาบะควรเกิน 5 turns,"แน่นอน นี่คือบทสนทนาสั้นๆ เป็นภาษาคำเมือง เกี่ยวกับการกลับบ้านช่วงเทศกาล:
+
+**ตัวละคร:**
+
+*   **ป้าคำ:** ป้าที่อยู่บ้าน
+*   **น้อย:** หลานที่กลับมาเยี่ยม
+
+**บทสนทนา:**
+
+1.  **น้อย:** (ยกมือไหว้) ""สวัสดีเจ้า ป้าคำ สบายดีก่อเจ้า?""
+    *(สวัสดีครับ/ค่ะ ป้าคำ สบายดีไหมครับ/คะ?)*
+
+2.  **ป้าคำ:** ""โอ๊ย น้อย มาแล้วก่ะ! สบายดีๆ แล้วน้อย สบายดีก่อ? กลับมาบ้านเตื่อนี้ จะอยู่เมินเติงใด?""
+    *(โอ๊ย น้อย มาแล้วเหรอ! สบายดีๆ แล้วน้อย สบายดีไหม? กลับมาบ้านครั้งนี้ จะอยู่นานแค่ไหน?)*
+
+3.  **น้อย:** ""สบายดีเจ้า ป้าคำ เตื่อนี้ว่าจะอยู่ซักอาทิตย์พุ่นล่ะเจ้า ป้าคำอยากกินอะหยังบอกได้เลยเน้อ เดี๋ยวจะไปซื้อมาหื้อ""
+    *(สบายดีครับ/ค่ะ ป้าคำ ครั้งนี้ว่าจะอยู่ซักอาทิตย์นึงครับ/ค่ะ ป้าคำอยากกินอะไรบอกได้เลยนะครับ/คะ เดี๋ยวจะไปซื้อมาให้)*
+
+4.  **ป้าคำ:** ""บะต้องซื้อหยังมาหื้อป้าหรอก แค่น้อยมาอยู่เป็นเพื่อนป้าก็ดีใจขนาดแล้ว กินข้าว กินน้ำอะหยังมาแล้วก่ะ?""
+    *(ไม่ต้องซื้ออะไรมาให้ป้าหรอก แค่น้อยมาอยู่เป็นเพื่อนป้าก็ดีใจมากแล้ว กินข้าว กินน้ำอะไรมาแล้วหรือยัง?)*
+
+5.  **น้อย:** ""กินมาแล้วเจ้าป้าคำ เดี๋ยวขอไปเอาของไปเก็บก่อนเน้อเจ้า แล้วจะลงมาจ่วยป้าคำ""
+    *(กินมาแล้วครับ/ค่ะป้าคำ เดี๋ยวขอเอาของไปเก็บก่อนนะครับ/คะ แล้วจะลงมาช่วยป้าคำ)*
+
+หวังว่าบทสนทนานี้จะเป็นประโยชน์นะครับ/คะ!","aennon nikhueobthsnthnasan- epnphasakhamemueong ekiywkabkarklabbanchwngethskal:
+
+**tawlakhr:**
+
+*   **pakham:** pathioyuban
+*   **noy:** hlanthiklabmaeyiym
+
+**bthsnthna:**
+
+1.  **noy:** (ykmueoaihw) ""swasdiecha pakham sbaydikoecha?""
+    *(swasdikhrab/kha pakham sbaydiaihmkhrab/kha?)*
+
+2.  **pakham:** ""ooy noy maaelwka! sbaydi- aelwnoy sbaydiko? klabmabanetueoni chaoyueminetingaid?""
+    *(ooy noy maaelwehro! sbaydi- aelwnoy sbaydiaihm? klabmabankhrangni chaoyunanaekhaihn?)*
+
+3.  **noy:** ""sbaydiecha pakham etueoniwachaoyusakoathityphunlaecha pakhamoyakkinoahyangbokaidelyeno ediywchaaipsueomahueo""
+    *(sbaydikhrab/kha pakham khrangniwachaoyusakoathitynuengkhrab/kha pakhamoyakkinoaairbokaidelynakhrab/kha ediywchaaipsueomaaih)*
+
+4.  **pakham:** ""batongsueohyangmahueopahrok aekhnoymaoyuepnephueonpakdiaichkhnadaelw kinkhaw kinnamoahyangmaaelwka?""
+    *(aimtongsueooaairmaaihpahrok aekhnoymaoyuepnephueonpakdiaichmakaelw kinkhaw kinnamoaairmaaelwhrueoyang?)*
+
+5.  **noy:** ""kinmaaelwechapakham ediywkhoaipeoakhongaipekbkonenoecha aelwchalngmachwypakham""
+    *(kinmaaelwkhrab/khapakham ediywkhoeoakhongaipekbkonnakhrab/kha aelwchalngmachwypakham)*
+
+hwangwabthsnthnanichaepnpraoychnnakhrab/kha!",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ การเมืองท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"แน่นอนครับ นี่คือบทสนทนาสั้นๆ เกี่ยวกับการเมืองท้องถิ่นในภาษาเหนือ:
+
+**ตัวละคร:**
+
+*   **ป้าคำ:** ชาวบ้านอาวุโส สนใจการเมือง
+*   **ลุงจันทร์:** ชาวบ้านรุ่นเดียวกัน เพื่อนของป้าคำ
+
+**บทสนทนา:**
+
+1.  **ป้าคำ:** ""อู้ย...ลุงจันทร์เอ๊ย! เลือกตั้งกำนันเตื่อนี้ จะเลือกไผดีหนา? ป้ากึ๊ดหนักขนาด""
+    *(โอ๊ย...ลุงจันทร์เอ๊ย! เลือกตั้งกำนันครั้งนี้ จะเลือกใครดีหนอ? ป้าคิดหนักมาก)*
+
+2.  **ลุงจันทร์:** ""กำนันคนเก่าเปิ้นก่อดีอยู่เนาะ ป้าคำ เปิ้นใจ๋ดี ช่วยเหลือลูกบ้านตลอด แต่กะมีข่าวว่าลูกเปิ้นไปกิ๋นเหล้าเมาแล้วขับรถชนคนเจ็บอยู่หนา""
+    *(กำนันคนเก่าเขาก็ดีอยู่นะ ป้าคำ เขาใจดี ช่วยเหลือลูกบ้านตลอด แต่ก็มีข่าวว่าลูกเขาไปกินเหล้าเมาแล้วขับรถชนคนเจ็บอยู่นะ)*
+
+3.  **ป้าคำ:** ""เอ้อ...เรื่องนั้นป้ากะได้ยินมาเหมือนกั๋น มันน่ากึ๊ดเติงอยู่เน้อ ถ้าเลือกเปิ้นไปแล้ว เปิ้นจะเอาเงินไปจ่ายค่าเสียหายหื้อลูกเปิ้นหมดก่อ""
+    *(เออ...เรื่องนั้นป้าก็ได้ยินมาเหมือนกัน มันน่าคิดอยู่เนอะ ถ้าเลือกเขาไปแล้ว เขาจะเอาเงินไปจ่ายค่าเสียหายให้ลูกเขาหมดหรือเปล่า)*
+
+4.  **ลุงจันทร์:** ""แหม...ป้าคำกะว่าไปนั่น! แต่กะต้องผ่อดีๆ ก่อนเน้อ บ่ใจ้หื้อเปิ้นมาโกงเฮาได้""
+    *(แหม...ป้าคำก็ว่าไปนั่น! แต่ก็ต้องดูดีๆ ก่อนนะ อย่าให้เขามาโกงเราได้)*
+
+5.  **ป้าคำ:** ""จ้าดนัก! ป้าจะไปถามข่าวจากคนเฒ่าคนแก่ในหมู่บ้านผ่อก่อน จะได้ฮู้ว่าไผดีแต้ดีว่า""
+    *(แน่นอน! ป้าจะไปถามข่าวจากคนแก่คนเฒ่าในหมู่บ้านดูก่อน จะได้รู้ว่าใครดีจริงดีจัง)*
+
+หวังว่าบทสนทนานี้จะเป็นประโยชน์นะครับ!","aennonkhrab nikhueobthsnthnasan- ekiywkabkaremueongthongthinainphasaehnueo:
+
+**tawlakhr:**
+
+*   **pakham:** chawbanoawuos snaichkaremueong
+*   **lungchanthr:** chawbanrunediywkan ephueonkhongpakham
+
+**bthsnthna:**
+
+1.  **pakham:** ""ouy...lungchanthreoy! elueoktangkamnanetueoni chaelueokaiphdihna? pakuedhnakkhnad""
+    *(ooy...lungchanthreoy! elueoktangkamnankhrangni chaelueokaikhrdihno? pakhidhnakmak)*
+
+2.  **lungchanthr:** ""kamnankhnekaepinkodioyuenaa pakham epinaichdi chwyehlueolukbantlod aetkamikhawwalukepinaipkinehlaemaaelwkhabrthchnkhnechboyuhna""
+    *(kamnankhnekaekhakdioyuna pakham ekhaaichdi chwyehlueolukbantlod aetkmikhawwalukekhaaipkinehlaemaaelwkhabrthchnkhnechboyuna)*
+
+3.  **pakham:** ""eoo...erueongnanpakaaidyinmaehmueonkan mannakuedetingoyueno thaelueokepinaipaelw epinchaeoaenginaipchaykhaesiyhayhueolukepinhmdko""
+    *(eoo...erueongnanpakaidyinmaehmueonkan mannakhidoyuenoa thaelueokekhaaipaelw ekhachaeoaenginaipchaykhaesiyhayaihlukekhahmdhrueoepla)*
+
+4.  **lungchanthr:** ""aehm...pakhamkawaaipnan! aetkatongphodi- koneno baichhueoepinmaokngehaaid""
+    *(aehm...pakhamkwaaipnan! aetktongdudi- konna oyaaihekhamaokngeraaid)*
+
+5.  **pakham:** ""chadnak! pachaaipthamkhawchakkhnethakhnaekainhmubanphokon chaaidhuwaaiphdiaetdiwa""
+    *(aennon! pachaaipthamkhawchakkhnaekkhnethaainhmubandukon chaaidruwaaikhrdichringdichang)*
+
+hwangwabthsnthnanichaepnpraoychnnakhrab!",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ สภาพอากาศ บทสนทนาบะควรเกิน 5 turns,"แน่นอน นี่คือบทสนทนาสั้นๆ เกี่ยวกับสภาพอากาศในภาษาเหนือ:
+
+**ตัวละคร:**
+
+*   ป้าคำ: ป้าแก่ๆ ใจดี
+*   หนานอิน: หนุ่มบ้านใกล้เรือนเคียง
+
+**บทสนทนา:**
+
+1.  **หนานอิน:** (เดินเข้ามา) ""ป้าคำ สวัสดีเจ้า วันนี้แดดออกขนาดเลยเน้อ""
+2.  **ป้าคำ:** ""สวัสดีหนานอิน เออ จริงของแก๋น แดดออกแต้ๆ แต่ว่าเมื่อเจ๊า (เช้า) อากาศเย็นๆ อยู่เลย""
+3.  **หนานอิน:** ""แม่นแล้วป้าคำ ผมออกมาใส่เสื้อแขนยาวอยู่เลย บ่าเกย (ไม่เคย) คิดว่าแดดจะออกแฮง (แรง) ขนาดนี้""
+4.  **ป้าคำ:** ""เออ อากาศมันเปลี่ยนแปลงไปมาแต้ๆ เดี๋ยวฮ้อน (ร้อน) เดี๋ยวหนาว ดูแลสุขภาพโตน (ตัวเอง) ดีๆ เน้อ""
+5.  **หนานอิน:** ""ขอบคุณเจ้าป้าคำ ป้าคำก็ดูแลสุขภาพโตนเองเหมือนกั๋นเน้อ ผมขอตัวไปก่อนเน้อเจ้า""
+
+**คำอธิบายศัพท์:**
+
+*   เจ้า: คำลงท้ายแสดงความสุภาพ (ใช้ได้ทั้งชายและหญิง)
+*   เน้อ: คำลงท้ายแสดงความเป็นกันเอง
+*   ขนาด: มาก
+*   แก๋น: จริง
+*   แต้ๆ: จริงๆ
+*   เจ๊า: เช้า
+*   บ่าเกย: ไม่เคย
+*   แฮง: แรง
+*   โตน: ตัวเอง
+*   กั๋น: เหมือนกัน
+
+หวังว่าบทสนทนานี้จะเป็นประโยชน์นะครับ!","aennon nikhueobthsnthnasan- ekiywkabsphaphoakasainphasaehnueo:
+
+**tawlakhr:**
+
+*   pakham: paaek- aichdi
+*   hnanoin: hnumbanaiklerueonekhiyng
+
+**bthsnthna:**
+
+1.  **hnanoin:** (edinekhama) ""pakham swasdiecha wanniaeddookkhnadelyeno""
+2.  **pakham:** ""swasdihnanoin eoo chringkhongaekn aeddookaet- aetwaemueoecha (echa) oakaseyn- oyuely""
+3.  **hnanoin:** ""aemnaelwpakham phmookmaaisesueoaekhnyawoyuely baeky (aimekhy) khidwaaeddchaookaehng (aerng) khnadni""
+4.  **pakham:** ""eoo oakasmanepliynaeplngaipmaaet- ediywhon (ron) ediywhnaw duaelsukhphaphotn (taweong) di- eno""
+5.  **hnanoin:** ""khobkhunechapakham pakhamkduaelsukhphaphotneongehmueonkaneno phmkhotawaipkonenoecha""
+
+**khamothibaysaphth:**
+
+*   echa: khamlngthayaesdngkhwamsuphaph (aichaidthangchayaelahying)
+*   eno: khamlngthayaesdngkhwamepnkaneong
+*   khnad: mak
+*   aekn: chring
+*   aet-: chring-
+*   echa: echa
+*   baeky: aimekhy
+*   aehng: aerng
+*   otn: taweong
+*   kan: ehmueonkan
+
+hwangwabthsnthnanichaepnpraoychnnakhrab!",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ อาหารท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"แน่นอนครับ นี่คือบทสนทนาสั้นๆ เป็นภาษาคำเมือง เกี่ยวกับอาหารท้องถิ่น:
+
+**ตัวละคร:**
+
+*   ป้าคำ: แม่ค้าขายอาหาร
+*   น้องปิ่น: ลูกค้า
+
+**บทสนทนา:**
+
+1.  **น้องปิ่น:** (เดินเข้ามาในร้าน) ""สวัสดีเจ้าป้าคำ วันนี้มีอะหยังลำๆ พ่องก่ะเจ้า?""
+    **(คำแปล: สวัสดีค่ะป้าคำ วันนี้มีอะไรอร่อยๆ บ้างคะ?)**
+
+2.  **ป้าคำ:** ""โอ๊ย น้องปิ่นมาแต่เจ๊าเลยเน้อ วันนี้มีแกงฮังเล หมูทอด น้ำพริกหนุ่ม น้ำพริกอ่อง ลำแต้ๆ เน้อ""
+    **(คำแปล: โอ๊ย น้องปิ่นมาแต่เช้าเลยนะ วันนี้มีแกงฮังเล หมูทอด น้ำพริกหนุ่ม น้ำพริกอ่อง อร่อยมากๆ เลยนะ)**
+
+3.  **น้องปิ่น:** ""อืม... น่ากิ๋นแต้ๆ เจ้า เอาแกงฮังเลจานนึง น้ำพริกหนุ่มชุดนึงเจ้า""
+    **(คำแปล: อืม... น่ากินจริงๆ ค่ะ เอาแกงฮังเลจานนึง น้ำพริกหนุ่มชุดนึงค่ะ)**
+
+4.  **ป้าคำ:** ""ได้เลยจ้า รอแป๊บนึงเน้อ ป้าจะยะหื้อใหม่ๆ ฮ้อนๆ เลย""
+    **(คำแปล: ได้เลยจ้า รอแป๊บนึงนะ ป้าจะทำให้ใหม่ๆ ร้อนๆ เลย)**
+
+5.  **น้องปิ่น:** ""ขอบคุณเจ้าป้าคำ""
+    **(คำแปล: ขอบคุณค่ะป้าคำ)**
+
+หวังว่าบทสนทนานี้จะเป็นประโยชน์นะครับ ถ้าต้องการให้ปรับแก้ตรงไหน บอกได้เลยนะครับ","aennonkhrab nikhueobthsnthnasan- epnphasakhamemueong ekiywkaboaharthongthin:
+
+**tawlakhr:**
+
+*   pakham: aemkhakhayoahar
+*   nongpin: lukkha
+
+**bthsnthna:**
+
+1.  **nongpin:** (edinekhamaainran) ""swasdiechapakham wannimioahyanglam- phongkaecha?""
+    **(khamaepl: swasdikhapakham wannimioaairoroy- bangkha?)**
+
+2.  **pakham:** ""ooy nongpinmaaetechaelyeno wannimiaeknghangel hmuthod namphrikhnum namphrikoong lamaet- eno""
+    **(khamaepl: ooy nongpinmaaetechaelyna wannimiaeknghangel hmuthod namphrikhnum namphrikoong oroymak- elyna)**
+
+3.  **nongpin:** ""ouem... nakinaet- echa eoaaeknghangelchannueng namphrikhnumchudnuengecha""
+    **(khamaepl: ouem... nakinchring- kha eoaaeknghangelchannueng namphrikhnumchudnuengkha)**
+
+4.  **pakham:** ""aidelycha roaepbnuengeno pachayahueoaihm- hon- ely""
+    **(khamaepl: aidelycha roaepbnuengna pachathamaihaihm- ron- ely)**
+
+5.  **nongpin:** ""khobkhunechapakham""
+    **(khamaepl: khobkhunkhapakham)**
+
+hwangwabthsnthnanichaepnpraoychnnakhrab thatongkaraihprabaektrngaihn bokaidelynakhrab",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"แน่นอนครับ นี่คือบทสนทนาสั้นๆ เกี่ยวกับเครื่องแต่งกายท้องถิ่นภาคเหนือ:
+
+**ตัวละคร:**
+
+*   **ป้าคำ:** หญิงสูงวัยที่รักและหวงแหนวัฒนธรรมล้านนา
+*   **น้องแก้ว:** หญิงสาวรุ่นใหม่ที่สนใจเรื่องแฟชั่น
+
+**บทสนทนา:**
+
+1.  **น้องแก้ว:** (เดินเข้าไปหาป้าคำที่กำลังเย็บผ้าอยู่) ""ป้าคำเจ้า, ป้าคำเย็บอะหยังอยู่เจ้า? งามแต้ๆ เน้อ""
+2.  **ป้าคำ:** (เงยหน้าขึ้นยิ้ม) ""อ้อ, ป้ากำลังเย็บผ้าซิ่นตีนจกอยู่หนา. สมัยก่อนเปิ้นใส่กั๋นไปวัด ไปงานบุญ. เดี๋ยวนี้คนรุ่นใหม่บะค่อยใส่กั๋นละ""
+3.  **น้องแก้ว:** ""หนู๋ว่ามันงามดีออกเจ้า. แต่หนู๋บะฮู้จะใส่ไปไหนดี. มันดูบะค่อยเข้ากับชีวิตประจำวันเต้าใด""
+4.  **ป้าคำ:** ""บะแน่เตื้อ, น้องแก้วลองเอาไปประยุกต์ใส่กับเสื้อผ้าสมัยใหม่ผ่อ. อย่างเอาผ้าซิ่นมาตัดเป็นกระโปรงสั้นๆ ก็เก๋ไปแหมแบบ. สำคัญคือเฮาบะลืมฮากเหง้าของตั๋วเก่า""
+5.  **น้องแก้ว:** ""อืม...ป้าคำอู้มาหนูก็เริ่มอยากลองละเจ้า. ขอบคุณป้าคำนักๆ เน้อเจ้าที่แนะนำ""","aennonkhrab nikhueobthsnthnasan- ekiywkabekhrueongaetngkaythongthinphakhehnueo:
+
+**tawlakhr:**
+
+*   **pakham:** hyingsungwaythirakaelahwngaehnwathnthrrmlanna
+*   **nongaekw:** hyingsawrunaihmthisnaicherueongaefchan
+
+**bthsnthna:**
+
+1.  **nongaekw:** (edinekhaaiphapakhamthikamlangeybphaoyu) ""pakhamecha, pakhameyboahyangoyuecha? ngamaet- eno""
+2.  **pakham:** (engyhnakhuenyim) ""oo, pakamlangeybphasintinchkoyuhna. smaykonepinaiskanaipwad aipnganbuy. ediywnikhnrunaihmbakhoyaiskanla""
+3.  **nongaekw:** ""hnuwamanngamdiookecha. aethnubahuchaaisaipaihndi. mandubakhoyekhakabchiwitprachamwanetaaid""
+4.  **pakham:** ""baaenetueo, nongaekwlongeoaaipprayuktaiskabesueophasmayaihmpho. oyangeoaphasinmatadepnkraoprngsan- kekaipaehmaebb. samkhaykhueoehabaluemhakehngakhongtaweka""
+5.  **nongaekw:** ""ouem...pakhamoumahnukerimoyaklonglaecha. khobkhunpakhamnak- enoechathiaenanam""",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ การศึกษาท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"แน่นอน นี่คือบทสนทนาสั้นๆ เกี่ยวกับการศึกษาท้องถิ่นในภาษาเหนือ:
+
+**ตัวละคร:**
+
+*   **ป้าคำ:** ป้าแก่ๆ ที่สนใจเรื่องบ้านเกิด
+*   **หนานอิน:** หนุ่มรุ่นใหม่ที่กลับมาพัฒนาบ้านเกิด
+
+**บทสนทนา:**
+
+1.  **ป้าคำ:** ""หนานอิน, ป้าได้ยินว่าเจ้าไปเรียนไกลถึงกรุงเทพฯ บะใจ้ก๋า? แล้วจะมาอยู่บ้านเฮาเมินเต้าใด?""
+2.  **หนานอิน:** ""ไจ้ครับป้าคำ ผมไปเรียนมาหลายปี๋ แต่ตอนนี้อยากจะกลับมาอยู่บ้านเฮาถาวรแล้วครับ อยากจะเอาความฮู้ที่ได้มา พัฒนาบ้านเฮา""
+3.  **ป้าคำ:** ""ดีแล้วๆ ป้าดีใจ๋ตวยเน้อ บ้านเฮาขาดคนรุ่นใหม่มาเมินละ ป้าว่าเรื่องการศึกษาท้องถิ่นนี่สำคัญขนาด ถ้าเฮาบะสอนลูกหลานฮู้จักฮีตฮอย ประเพณีเก่าๆ มันจะหายไปหมด""
+4.  **หนานอิน:** ""ผมก็คิดจะอู้เรื่องนี้อยู่พอดีเลยครับป้าคำ ผมอยากจะลองเอาความรู้ที่ได้มา ออกแบบหลักสูตรท้องถิ่น ที่สอนเรื่องภาษา วัฒนธรรม และภูมิปัญญาของเฮา ให้เด็กๆ ได้เรียนฮู้ตั้งแต่ยังน้อย""
+5.  **ป้าคำ:** ""อู้ดีขนาด! ป้าจะคอยเป็นกำลังใจ๋หื้อเน้อ ถ้ามีอะหยังที่ป้าพอจะจ่วยได้ บอกป้าได้เลย""
+
+หวังว่าบทสนทนานี้จะเป็นประโยชน์นะครับ!","aennon nikhueobthsnthnasan- ekiywkabkarsueksathongthinainphasaehnueo:
+
+**tawlakhr:**
+
+*   **pakham:** paaek- thisnaicherueongbanekid
+*   **hnanoin:** hnumrunaihmthiklabmaphathnabanekid
+
+**bthsnthna:**
+
+1.  **pakham:** ""hnanoin, paaidyinwaechaaiperiynaiklthuengkrungethph. baaichka? aelwchamaoyubanehaeminetaaid?""
+2.  **hnanoin:** ""aichkhrabpakham phmaiperiynmahlaypi aettonnioyakchaklabmaoyubanehathawraelwkhrab oyakchaeoakhwamhuthiaidma phathnabaneha""
+3.  **pakham:** ""diaelw- padiaichtwyeno banehakhadkhnrunaihmmaeminla pawaerueongkarsueksathongthinnisamkhaykhnad thaehabasonlukhlanhuchakhithoy praephnieka- manchahayaiphmd""
+4.  **hnanoin:** ""phmkkhidchaouerueongnioyuphodielykhrabpakham phmoyakchalongeoakhwamruthiaidma ookaebbhlaksutrthongthin thisonerueongphasa wathnthrrm aelaphumipayyakhongeha aihedk- aideriynhutangaetyangnoy""
+5.  **pakham:** ""oudikhnad! pachakhoyepnkamlangaichhueoeno thamioahyangthipaphochachwyaid bokpaaidely""
+
+hwangwabthsnthnanichaepnpraoychnnakhrab!",.
