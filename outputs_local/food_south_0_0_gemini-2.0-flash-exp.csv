@@ -1,0 +1,815 @@
+Input,Pred,Pred_Latin,Gold
+ให้เขียนวิธีทำ แก๋งพุงปลา เป็นภาษาใต้,"ได้เลยจ้า นี่คือวิธีทำแกงพุงปลาฉบับภาษาใต้แบบละเอียดเลยนะ:
+
+**แก๋งพุงปลา (แกงพุงปลา)**
+
+**เครื่องปรุง (เครื่องแกง):**
+
+*   พุงปลา (ไส้ปลา) ขูดล้างให้สะอาด  (ประมาณ 500 กรัม)
+*   น้ำเคย (น้ำปลาหมัก) หรือน้ำปลาดี (ตามชอบ)
+*   น้ำเปล่า
+*   ผักเหนาะ (ผักสดกินกับแกง) เช่น ถั่วฝักยาว, มะเขือเปราะ, ยอดมะม่วง, ใบมะกรูด, ผักกาดดอง
+*   ลูกเหรียง (ถ้ามี)
+*   หน่อไม้ดอง (ถ้าชอบ)
+
+**เครื่องแกง (เครื่องพริก):**
+
+*   พริกแห้ง (แช่น้ำให้นิ่ม) (ประมาณ 10-15 เม็ด ปรับตามความเผ็ด)
+*   ขมิ้นสด (ประมาณ 1 แง่งเล็ก)
+*   ตะไคร้ (ซอย) (2-3 ต้น)
+*   หอมแดง (4-5 หัว)
+*   กระเทียม (3-4 กลีบ)
+*   ข่า (หั่นแว่น) (2-3 แว่น)
+*   ผิวมะกรูด (ขูดเอาแต่ผิว) (ครึ่งลูก)
+*   กะปิ (1 ช้อนโต๊ะ)
+*   เกลือ (เล็กน้อย)
+
+**วิธีทำ:**
+
+1.  **เตรียมพุงปลา:** ล้างพุงปลาให้สะอาด ขูดเมือกและสิ่งสกปรกออกให้หมด หั่นเป็นชิ้นพอดีคำ พักไว้
+2.  **โขลกเครื่องแกง:** นำพริกแห้ง, ขมิ้น, ตะไคร้, หอมแดง, กระเทียม, ข่า, ผิวมะกรูด, กะปิ, และเกลือ โขลกให้ละเอียดเข้ากัน (ถ้าใช้เครื่องปั่นก็ปั่นได้เลย)
+3.  **ตั้งหม้อแกง:** นำหม้อตั้งไฟ ใส่น้ำเปล่าลงไปเล็กน้อย พอน้ำเดือด ใส่เครื่องแกงที่โขลกไว้ลงไปผัดให้หอม
+4.  **ใส่พุงปลา:** ใส่พุงปลาที่เตรียมไว้ลงไปในหม้อแกง ผัดให้เข้ากับเครื่องแกง
+5.  **ปรุงรส:** เติมน้ำเคย (หรือน้ำปลา) ลงไป ปรุงรสตามชอบ เคี่ยวด้วยไฟอ่อนๆ จนพุงปลาสุก
+6.  **ใส่ผัก:** ใส่หน่อไม้ดอง (ถ้ามี) และลูกเหรียงลงไป เคี่ยวต่ออีกสักพัก
+7.  **ชิมรส:** ชิมรสชาติ ปรุงเพิ่มตามชอบ (อาจเติมน้ำตาลปี๊บเล็กน้อยเพื่อตัดรส)
+8.  **เสิร์ฟ:** ตักแกงพุงปลาใส่ชาม กินกับข้าวสวยร้อนๆ และผักเหนาะ
+
+**เคล็ดลับ:**
+
+*   การล้างพุงปลาให้สะอาดเป็นสิ่งสำคัญมาก จะช่วยลดกลิ่นคาว
+*   การเคี่ยวด้วยไฟอ่อนๆ จะทำให้พุงปลามีรสชาติกลมกล่อม
+*   สามารถปรับเปลี่ยนผักที่ใส่ได้ตามชอบ
+*   บางคนอาจจะใส่ไตปลา (น้ำไตปลา) เพิ่มเติมเพื่อเพิ่มความเข้มข้นและกลิ่นหอม
+
+**หมายเหตุ:** สูตรนี้เป็นสูตรพื้นฐาน สามารถปรับเปลี่ยนส่วนผสมและรสชาติได้ตามความชอบของแต่ละคนนะจ๊ะ ลองทำดู แล้วมาบอกกันมั่งว่าอร่อยหม้าย! (อร่อยไหม!)
+","aidelycha nikhueowithithamaekngphungplachbabphasaaitaebblaeoiydelyna:
+
+**aekngphungpla (aekngphungpla)**
+
+**ekhrueongprung (ekhrueongaekng):**
+
+*   phungpla (aispla) khudlangaihsaoad  (praman 500 kram)
+*   namekhy (namplahmak) hrueonampladi (tamchob)
+*   namepla
+*   phakehnaa (phaksdkinkabaekng) echn thawfakyaw, maekhueoepraa, yodmamwng, aibmakrud, phakkaddong
+*   lukehriyng (thami)
+*   hnoaimdong (thachob)
+
+**ekhrueongaekng (ekhrueongphrik):**
+
+*   phrikaehng (aechnamaihnim) (praman 10-15 emd prabtamkhwamephd)
+*   khminsd (praman 1 aengngelk)
+*   taaikhr (soy) (2-3 tn)
+*   homaedng (4-5 haw)
+*   kraethiym (3-4 klib)
+*   kha (hanaewn) (2-3 aewn)
+*   phiwmakrud (khudeoaaetphiw) (khruengluk)
+*   kapi (1 chonota)
+*   eklueo (elknoy)
+
+**withitham:**
+
+1.  **etriymphungpla:** langphungplaaihsaoad khudemueokaelasingskprkookaihhmd hanepnchinphodikham phakaiw
+2.  **okhlkekhrueongaekng:** namphrikaehng, khmin, taaikhr, homaedng, kraethiym, kha, phiwmakrud, kapi, aelaeklueo okhlkaihlaeoiydekhakan (thaaichekhrueongpankpanaidely)
+3.  **tanghmoaekng:** namhmotangaif aisnameplalngaipelknoy phonamedueod aisekhrueongaekngthiokhlkaiwlngaipphadaihhom
+4.  **aisphungpla:** aisphungplathietriymaiwlngaipainhmoaekng phadaihekhakabekhrueongaekng
+5.  **prungrs:** etimnamekhy (hrueonampla) lngaip prungrstamchob ekhiywdwyaifoon- chnphungplasuk
+6.  **aisphak:** aishnoaimdong (thami) aelalukehriynglngaip ekhiywtooiksakphak
+7.  **chimrs:** chimrschati prungephimtamchob (oachetimnamtalpibelknoyephueotadrs)
+8.  **esirf:** takaekngphungplaaischam kinkabkhawswyron- aelaphakehnaa
+
+**ekhldlab:**
+
+*   karlangphungplaaihsaoadepnsingsamkhaymak chachwyldklinkhaw
+*   karekhiywdwyaifoon- chathamaihphungplamirschatiklmklom
+*   samarthprabepliynphakthiaisaidtamchob
+*   bangkhnoachchaaisaitpla (namaitpla) ephimetimephueoephimkhwamekhmkhnaelaklinhom
+
+**hmayehtu:** sutrniepnsutrphuenthan samarthprabepliynswnphsmaelarschatiaidtamkhwamchobkhongaetlakhnnacha longthamdu aelwmabokkanmangwaoroyhmay! (oroyaihm!)
+",.
+ให้เขียนวิธีทำ แกงส้ม เป็นภาษาใต้,"ได้เลยจ้า นี่คือวิธีทำแกงส้มฉบับภาษาใต้ เข้าใจง่าย ทำตามได้แน่นอน:
+
+**แกงส้มปักษ์ใต้ (ฉบับคนใต้ทำเอง)**
+
+**เครื่องปรุง/วัตถุดิบ:**
+
+*   **ปลา/กุ้ง/หมูสามชั้น:** เลือกเอาตามชอบเลย (ประมาณ 300-500 กรัม)
+*   **ผัก:** แล้วแต่ชอบเหมือนกัน แต่ที่ขาดไม่ได้เลยคือ
+    *   **ผักกาดขาว/ผักกาดเขียว:** สักครึ่งหัว
+    *   **ถั่วฝักยาว:** กำนึง
+    *   **มะละกอ:** ถ้ามีก็ใส่หน่อย อร่อยแรง
+    *   **ยอดมะพร้าว:** (ถ้าหาได้) อันนี้ของเด็ด
+*   **เครื่องแกงส้ม:** (ซื้อสำเร็จรูปก็ได้ หรือตำเองก็หรอย)
+    *   **พริกแห้ง:** (แช่น้ำก่อน) ประมาณ 10-15 เม็ด (เผ็ดมากเผ็ดน้อยตามชอบ)
+    *   **ขมิ้น:** สักแง่งเล็ก
+    *   **กระเทียม:** กลีบใหญ่ 5-6 กลีบ
+    *   **หอมแดง:** 3-4 หัว
+    *   **กะปิ:** สักช้อนโต๊ะนึง
+    *   **เกลือ:** นิดหน่อย
+    *   **น้ำตาลแว่น/น้ำตาลโตนด:** (อันนี้สำคัญ ทำให้รสชาติกลมกล่อม)
+    *   **น้ำส้มจาก:** (ถ้าไม่มี ใช้น้ำมะขามเปียกแทนได้)
+*   **น้ำปลา:** ปรุงรส
+*   **น้ำเปล่า:** สำหรับต้มแกง
+
+**วิธีทำ:**
+
+1.  **เตรียมเครื่องแกง:** ถ้าซื้อเครื่องแกงสำเร็จรูปก็ข้ามขั้นตอนนี้ไปได้เลย แต่ถ้าตำเอง ก็เอาพริกแห้ง ขมิ้น กระเทียม หอมแดง กะปิ เกลือ มาโขลกให้ละเอียดเนียนเป็นเนื้อเดียวกัน
+2.  **เตรียมผัก:** ล้างผักทุกอย่างให้สะอาด แล้วหั่นเป็นชิ้นพอดีคำ ผักกาดก็หั่นเป็นท่อน ถั่วฝักยาวก็หั่นเป็นท่อนสั้นๆ มะละกอก็ปอกเปลือกแล้วหั่นเป็นชิ้น
+3.  **เตรียมเนื้อสัตว์:** ถ้าใช้ปลา ก็หั่นเป็นชิ้น ถ้าใช้กุ้ง ก็ปอกเปลือก ถ้าใช้หมูสามชั้น ก็หั่นเป็นชิ้นพอดีคำ
+4.  **ตั้งหม้อ:** เอาน้ำเปล่าใส่หม้อ ตั้งไฟให้เดือด
+5.  **ละลายเครื่องแกง:** พอน้ำเดือดแล้ว เอาเครื่องแกงที่เราเตรียมไว้ (หรือซื้อมา) ละลายลงไปในหม้อ คนให้เข้ากัน
+6.  **ใส่เนื้อสัตว์:** พอน้ำแกงเดือดอีกครั้ง ก็ใส่เนื้อสัตว์ที่เราเตรียมไว้ลงไป ต้มจนเนื้อสัตว์สุก
+7.  **ใส่ผัก:** พอเนื้อสัตว์สุกแล้ว ก็ใส่ผักที่เราเตรียมไว้ลงไป เริ่มจากผักที่สุกยากก่อน เช่น มะละกอ ยอดมะพร้าว แล้วค่อยใส่ผักกาด ถั่วฝักยาว
+8.  **ปรุงรส:** ปรุงรสด้วยน้ำปลา น้ำตาลแว่น/น้ำตาลโตนด และน้ำส้มจาก/น้ำมะขามเปียก ชิมรสดูให้ได้รสชาติ เปรี้ยว หวาน เค็ม กลมกล่อม
+9.  **เคี่ยว:** เคี่ยวแกงส้มไปเรื่อยๆ จนผักสุกนิ่ม ชิมรสอีกครั้ง ถ้าขาดอะไรก็เติมได้
+10. **ตักเสิร์ฟ:** ตักแกงส้มใส่ชาม กินกับข้าวสวยร้อนๆ อร่อยแรง!
+
+**เคล็ดลับ:**
+
+*   ถ้าชอบรสชาติจัดจ้าน ก็ใส่พริกขี้หนูเพิ่มลงไปได้
+*   บางคนชอบใส่สับปะรดลงไปด้วย ก็อร่อยไปอีกแบบ
+*   ถ้าอยากให้แกงส้มมีรสชาติเข้มข้น ก็เคี่ยวไปนานๆ ให้น้ำแกงงวดลง
+
+**หมายเหตุ:** สูตรนี้เป็นสูตรพื้นฐาน สามารถปรับเปลี่ยนส่วนผสมได้ตามความชอบของแต่ละคน ลองทำดูแล้วปรับรสชาติให้ถูกปากตัวเองนะจ๊ะ! รับรองว่าทำเองอร่อยกว่าซื้อแน่นอน!","aidelycha nikhueowithithamaekngsmchbabphasaait ekhaaichngay thamtamaidaennon:
+
+**aekngsmpaksait (chbabkhnaitthameong)**
+
+**ekhrueongprung/watthudib:**
+
+*   **pla/kung/hmusamchan:** elueokeoatamchobely (praman 300-500 kram)
+*   **phak:** aelwaetchobehmueonkan aetthikhadaimaidelykhueo
+    *   **phakkadkhaw/phakkadekhiyw:** sakkhruenghaw
+    *   **thawfakyaw:** kamnueng
+    *   **malako:** thamikaishnoy oroyaerng
+    *   **yodmaphraw:** (thahaaid) oannikhongedd
+*   **ekhrueongaekngsm:** (sueosamerchrupkaid hrueotameongkhroy)
+    *   **phrikaehng:** (aechnamkon) praman 10-15 emd (ephdmakephdnoytamchob)
+    *   **khmin:** sakaengngelk
+    *   **kraethiym:** klibaihy 5-6 klib
+    *   **homaedng:** 3-4 haw
+    *   **kapi:** sakchonotanueng
+    *   **eklueo:** nidhnoy
+    *   **namtalaewn/namtalotnd:** (oannisamkhay thamaihrschatiklmklom)
+    *   **namsmchak:** (thaaimmi aichnammakhamepiykaethnaid)
+*   **nampla:** prungrs
+*   **namepla:** samhrabtmaekng
+
+**withitham:**
+
+1.  **etriymekhrueongaekng:** thasueoekhrueongaekngsamerchrupkkhamkhantonniaipaidely aetthatameong keoaphrikaehng khmin kraethiym homaedng kapi eklueo maokhlkaihlaeoiydeniynepnenueoediywkan
+2.  **etriymphak:** langphakthukoyangaihsaoad aelwhanepnchinphodikham phakkadkhanepnthon thawfakyawkhanepnthonsan- malakokpokeplueokaelwhanepnchin
+3.  **etriymenueosatw:** thaaichpla khanepnchin thaaichkung kpokeplueok thaaichhmusamchan khanepnchinphodikham
+4.  **tanghmo:** eoanameplaaishmo tangaifaihedueod
+5.  **lalayekhrueongaekng:** phonamedueodaelw eoaekhrueongaekngthieraetriymaiw (hrueosueoma) lalaylngaipainhmo khnaihekhakan
+6.  **aisenueosatw:** phonamaekngedueodoikkhrang kaisenueosatwthieraetriymaiwlngaip tmchnenueosatwsuk
+7.  **aisphak:** phoenueosatwsukaelw kaisphakthieraetriymaiwlngaip erimchakphakthisukyakkon echn malako yodmaphraw aelwkhoyaisphakkad thawfakyaw
+8.  **prungrs:** prungrsdwynampla namtalaewn/namtalotnd aelanamsmchak/nammakhamepiyk chimrsduaihaidrschati epriyw hwan ekhm klmklom
+9.  **ekhiyw:** ekhiywaekngsmaiperueoy- chnphaksuknim chimrsoikkhrang thakhadoaairketimaid
+10. **takesirf:** takaekngsmaischam kinkabkhawswyron- oroyaerng!
+
+**ekhldlab:**
+
+*   thachobrschatichadchan kaisphrikkhihnuephimlngaipaid
+*   bangkhnchobaissabpardlngaipdwy koroyaipoikaebb
+*   thaoyakaihaekngsmmirschatiekhmkhn kekhiywaipnan- aihnamaekngngwdlng
+
+**hmayehtu:** sutrniepnsutrphuenthan samarthprabepliynswnphsmaidtamkhwamchobkhongaetlakhn longthamduaelwprabrschatiaihthukpaktaweongnacha! rabrongwathameongoroykwasueoaennon!",.
+ให้เขียนวิธีทำ ลอกอผัดไข่ เป็นภาษาใต้,"ได้เลยจ้า นี่คือวิธีทำ ""ลอกอผัดไข่"" ในภาษาใต้แบบง่ายๆ นะ:
+
+**วัตถุดิบ:**
+
+*   ลอกอ (มะละกอ) ดิบ สับเป็นเส้นๆ
+*   ไข่ไก่
+*   กระเทียม
+*   น้ำมันพืช
+*   น้ำปลา
+*   น้ำตาลทราย
+*   พริกขี้หนู (ถ้าชอบเผ็ด)
+
+**วิธีทำ:**
+
+1.  **เตรียมเครื่อง:**
+    *   ปอกเปลือกลอกอ แล้วสับให้เป็นเส้นๆ ล้างน้ำให้สะอาด แล้วพักไว้ให้สะเด็ดน้ำ
+    *   ทุบกระเทียมพอแหลก
+    *   ถ้าใส่พริกขี้หนู ก็ซอยไว้
+2.  **ผัดกระเทียม:**
+    *   ตั้งหม้อ/กระทะให้ร้อน ใส่น้ำมันพืชลงไป
+    *   พอน้ำมันร้อน เอากระเทียมลงไปผัดให้หอมเหลือง
+3.  **ใส่ลอกอ:**
+    *   ใส่ลอกอที่เตรียมไว้ลงไปผัด ผัดให้เข้ากัน
+    *   เติมน้ำปลา น้ำตาลทราย ผัดให้เข้ากัน ชิมรสตามชอบ (บางคนชอบออกหวาน บางคนชอบเค็มนำ)
+4.  **ตอกไข่:**
+    *   ตอกไข่ใส่ลงไปในหม้อ/กระทะ ยีๆ ให้ไข่แดงแตก แล้วผัดให้เข้ากับลอกอ
+    *   ผัดจนไข่สุก
+5.  **เสิร์ฟ:**
+    *   ตักใส่จาน กินกับข้าวสวยร้อนๆ อร่อยแรง!
+
+**คำศัพท์เพิ่มเติม:**
+
+*   ลอกอ = มะละกอ
+*   สับ = หั่น
+*   หม้อ/กระทะ = หม้อ/กะทะ (ออกเสียงตามสำเนียงใต้)
+*   แรง = มาก
+
+**เคล็ดลับ:**
+
+*   ถ้าชอบกินแบบมีน้ำขลุกขลิก เติมน้ำเปล่าลงไปนิดหน่อยตอนผัด
+*   บางคนใส่กุ้งแห้ง หรือหมูสับลงไปด้วย เพิ่มความอร่อย
+
+ลองทำดูนะจ๊ะ รับรองว่าหรอยอย่างแรง! (อร่อยมากๆ)","aidelycha nikhueowithitham ""lokophadaikh"" ainphasaaitaebbngay- na:
+
+**watthudib:**
+
+*   loko (malako) dib sabepnesn-
+*   aikhaik
+*   kraethiym
+*   nammanphuech
+*   nampla
+*   namtalthray
+*   phrikkhihnu (thachobephd)
+
+**withitham:**
+
+1.  **etriymekhrueong:**
+    *   pokeplueokloko aelwsabaihepnesn- langnamaihsaoad aelwphakaiwaihsaeddnam
+    *   thubkraethiymphoaehlk
+    *   thaaisphrikkhihnu ksoyaiw
+2.  **phadkraethiym:**
+    *   tanghmo/krathaaihron aisnammanphuechlngaip
+    *   phonammanron eoakraethiymlngaipphadaihhomehlueong
+3.  **aisloko:**
+    *   aislokothietriymaiwlngaipphad phadaihekhakan
+    *   etimnampla namtalthray phadaihekhakan chimrstamchob (bangkhnchobookhwan bangkhnchobekhmnam)
+4.  **tokaikh:**
+    *   tokaikhaislngaipainhmo/kratha yi- aihaikhaedngaetk aelwphadaihekhakabloko
+    *   phadchnaikhsuk
+5.  **esirf:**
+    *   takaischan kinkabkhawswyron- oroyaerng!
+
+**khamsaphthephimetim:**
+
+*   loko = malako
+*   sab = han
+*   hmo/kratha = hmo/katha (ookesiyngtamsameniyngait)
+*   aerng = mak
+
+**ekhldlab:**
+
+*   thachobkinaebbminamkhlukkhlik etimnameplalngaipnidhnoytonphad
+*   bangkhnaiskungaehng hrueohmusablngaipdwy ephimkhwamoroy
+
+longthamdunacha rabrongwahroyoyangaerng! (oroymak-)",.
+ให้เขียนวิธีทำ ข้าวผั๊ดเคย เป็นภาษาใต้,"ได้เลยจ้า นี่คือวิธีทำข้าวผัดเคยฉบับภาษาใต้ เข้าใจง่าย ทำตามได้เลย:
+
+**ข้าวผัดเคย หรอยอย่างแรง!**
+
+**เครื่องปรุง:**
+
+*   ข้าวสวยหุงสุก (ข้าวเย็นจะดีกว่า)
+*   เคย (กะปิ) อย่างดี
+*   หอมแดงซอย
+*   กระเทียมสับ
+*   พริกขี้หนู (แล้วแต่ชอบเผ็ด)
+*   หมูสามชั้นหั่นชิ้น (หรือเนื้อสัตว์อื่น ๆ ตามชอบ)
+*   ไข่ไก่
+*   น้ำตาลทราย
+*   น้ำปลา
+*   น้ำมันพืช
+*   ผักเหนาะ (แตงกวา, ถั่วฝักยาว, มะเขือ)
+
+**วิธีทำ:**
+
+1.  **เตรียมเคย:** เอาเคยมาละลายกับน้ำนิดหน่อย ให้เหลว ๆ จะได้ผัดง่าย
+2.  **เจียวหอมเจียวกระเทียม:** เอาน้ำมันใส่กระทะ ตั้งไฟกลาง พอน้ำมันร้อน เอาหอมแดงกับกระเทียมลงไปเจียวให้เหลืองหอม ตักขึ้นพักไว้ก่อน
+3.  **ผัดหมู:** เอาหมูสามชั้นลงไปผัดในกระทะให้สุกเหลือง
+4.  **ผัดเคย:** ใส่เคยที่ละลายน้ำไว้ลงไปผัดกับหมูให้เข้ากัน ผัดให้หอม ๆ เลย
+5.  **ใส่ข้าว:** เอาข้าวสวยใส่ลงไป ผัดคลุกเคล้าให้เข้ากับเคยและหมู ผัดให้ข้าวร่วน ๆ
+6.  **ปรุงรส:** ใส่น้ำตาลทราย น้ำปลา ชิมรสตามชอบ เติมพริกขี้หนูซอยลงไป (ถ้าชอบเผ็ด)
+7.  **ทำไข่คน:** ตอกไข่ใส่ลงไปข้าง ๆ กระทะ เขี่ย ๆ ให้ไข่เป็นแผ่น ๆ แล้วผัดคลุกเคล้าให้เข้ากับข้าว
+8.  **ใส่หอมเจียวกระเทียม:** ใส่หอมเจียวกระเทียมที่พักไว้ลงไป ผัดให้เข้ากันอีกที
+9.  **ตักเสิร์ฟ:** ตักข้าวผัดเคยใส่จาน กินกับผักเหนาะ (แตงกวา, ถั่วฝักยาว, มะเขือ) อร่อยแรง!
+
+**เคล็ดลับ:**
+
+*   ถ้าไม่มีหมูสามชั้น ใช้กุ้ง หรือปลาหมึกแทนก็ได้
+*   ถ้าชอบหวาน ใส่สับปะรด หรือมะม่วงเบาซอยลงไปด้วยก็ได้
+*   กินกับน้ำพริกก็หรอย
+
+**หมายเหตุ:** คำว่า ""หรอย"" ในภาษาใต้ แปลว่า อร่อย
+
+ลองทำตามดูนะจ๊ะ รับรองว่าข้าวผัดเคยฝีมือเราต้องหรอยอย่างแรงแน่นอน!","aidelycha nikhueowithithamkhawphadekhychbabphasaait ekhaaichngay thamtamaidely:
+
+**khawphadekhy hroyoyangaerng!**
+
+**ekhrueongprung:**
+
+*   khawswyhungsuk (khaweynchadikwa)
+*   ekhy (kapi) oyangdi
+*   homaedngsoy
+*   kraethiymsab
+*   phrikkhihnu (aelwaetchobephd)
+*   hmusamchanhanchin (hrueoenueosatwouen - tamchob)
+*   aikhaik
+*   namtalthray
+*   nampla
+*   nammanphuech
+*   phakehnaa (aetngkwa, thawfakyaw, maekhueo)
+
+**withitham:**
+
+1.  **etriymekhy:** eoaekhymalalaykabnamnidhnoy aihehlw - chaaidphadngay
+2.  **echiywhomechiywkraethiym:** eoanammanaiskratha tangaifklang phonammanron eoahomaedngkabkraethiymlngaipechiywaihehlueonghom takkhuenphakaiwkon
+3.  **phadhmu:** eoahmusamchanlngaipphadainkrathaaihsukehlueong
+4.  **phadekhy:** aisekhythilalaynamaiwlngaipphadkabhmuaihekhakan phadaihhom - ely
+5.  **aiskhaw:** eoakhawswyaislngaip phadkhlukekhlaaihekhakabekhyaelahmu phadaihkhawrwn -
+6.  **prungrs:** aisnamtalthray nampla chimrstamchob etimphrikkhihnusoylngaip (thachobephd)
+7.  **thamaikhkhn:** tokaikhaislngaipkhang - kratha ekhiy - aihaikhepnaephn - aelwphadkhlukekhlaaihekhakabkhaw
+8.  **aishomechiywkraethiym:** aishomechiywkraethiymthiphakaiwlngaip phadaihekhakanoikthi
+9.  **takesirf:** takkhawphadekhyaischan kinkabphakehnaa (aetngkwa, thawfakyaw, maekhueo) oroyaerng!
+
+**ekhldlab:**
+
+*   thaaimmihmusamchan aichkung hrueoplahmuekaethnkaid
+*   thachobhwan aissabpard hrueomamwngebasoylngaipdwykaid
+*   kinkabnamphrikkhroy
+
+**hmayehtu:** khamwa ""hroy"" ainphasaait aeplwa oroy
+
+longthamtamdunacha rabrongwakhawphadekhyfimueoeratonghroyoyangaerngaennon!",.
+ให้เขียนวิธีทำ แกงส้มปล๊าพงยอดพร๊าว เป็นภาษาใต้,"ได้เลยจ้า นี่คือวิธีทำแกงส้มปลาพงยอดพร้าวอ่อน ฉบับภาษาใต้แท้ๆ พร้อมเคล็ดลับความอร่อยเหาะเหินเดินอากาศ:
+
+**แกงส้มปล๊าพงยอดพร๊าว (แกงส้มปลาพงยอดมะพร้าวอ่อน)**
+
+**เครื่องปรุง (เครื่องแกง):**
+
+*   พริกแห้ง (พริกแห้ง) - ปริมาณตามชอบ เผ็ดมากเผ็ดน้อย
+*   หอมแดง (หัวหอมแดง) - สัก 5-7 หัว
+*   กระเทียม (เทียม) - สัก 3-4 กลีบ
+*   ขมิ้น (ขมิ้น) - สักแง่งน้อยๆ
+*   กะปิ (เคย) - สักช้อนโต๊ะพูนๆ
+*   เกลือ (เกลือ) - หยิบมือ
+*   ข่า (ข่า) - หั่นแว่นบางๆ สัก 3-4 แว่น
+*   ตะไคร้ (ไคร) - ซอยละเอียด สัก 2 ต้น
+*   ผิวมะกรูด (ผิวมะกรูด) - ขูดเอาแต่ผิว สักครึ่งลูก
+
+**วัตถุดิบหลัก:**
+
+*   ปลาพง (ปล๊าพง) - หั่นเป็นชิ้นพอดีคำ สัก 300-400 กรัม
+*   ยอดมะพร้าวอ่อน (ยอดพร๊าว) - หั่นเป็นท่อนๆ พอดีคำ สัก 1 ถ้วย
+*   น้ำมะขามเปียก (น้ำส้มขาม) - ปริมาณตามชอบ เปรี้ยวมากเปรี้ยวน้อย
+*   น้ำตาลปี๊บ (น้ำตาลแว่น) - ปริมาณตามชอบ หวานมากหวานน้อย
+*   น้ำปลา (น้ำปลา) - ปริมาณตามชอบ เค็มมากเค็มน้อย
+*   น้ำเปล่า (น้ำ) - พอท่วมเครื่อง
+
+**วิธีทำ:**
+
+1.  **ตำเครื่องแกง (ตำเครื่อง):** เอาพริกแห้ง หอมแดง กระเทียม ขมิ้น ข่า ตะไคร้ ผิวมะกรูด เกลือ มาตำรวมกันให้ละเอียด ใส่กะปิลงไปตำให้เข้ากันอีกที (ถ้าใครมีเครื่องปั่น ก็ใช้เครื่องปั่นได้เลย ง่ายดี)
+2.  **ต้มน้ำแกง (ต้มน้ำ):** เอาน้ำเปล่าใส่หม้อ ตั้งไฟให้เดือด เอาเครื่องแกงที่ตำไว้ลงไปละลายในหม้อ คนให้เข้ากัน
+3.  **ปรุงรส (ปรุงรส):** พอน้ำแกงเดือด ปรุงรสด้วยน้ำมะขามเปียก น้ำตาลปี๊บ และน้ำปลา ชิมรสตามชอบ ให้ได้รสเปรี้ยว หวาน เค็ม กลมกล่อม
+4.  **ใส่ปลา (ใส่ปล๊า):** พอน้ำแกงได้รสชาติที่ต้องการ ใส่ปลาพงลงไป ต้มจนปลาสุก
+5.  **ใส่ยอดพร้าว (ใส่ยอดพร๊าว):** พอปลาสุก ใส่ยอดมะพร้าวอ่อนลงไป ต้มต่ออีกสักพัก ให้ยอดมะพร้าวอ่อนนิ่ม
+6.  **เสร็จแล้ว (เสร็จแล้ว):** ตักแกงส้มใส่ชาม กินกับข้าวสวยร้อนๆ อร่อยแรง!
+
+**เคล็ดลับความอร่อย (เคล็ดลับความหรอย):**
+
+*   **ปลาต้องสด (ปล๊าต้องสด):** เลือกปลาพงที่สด เนื้อแน่น จะทำให้แกงส้มมีรสชาติหวานอร่อย
+*   **ยอดพร้าวอ่อน (ยอดพร๊าวต้องอ่อน):** เลือกยอดมะพร้าวอ่อนจริงๆ จะได้ไม่แข็งกระด้าง
+*   **รสชาติกลมกล่อม (รสชาติต้องกลมกล่อม):** ชิมรสชาติให้ดี ให้ได้รสเปรี้ยว หวาน เค็ม ที่สมดุลกัน
+*   **ใส่ผักอื่นๆ ได้ (ใส่ผักอย่างอื่นได้):** ถ้าชอบกินผักอื่นๆ ก็ใส่เพิ่มได้ เช่น ถั่วฝักยาว ผักกาดขาว หรือมะเขือ
+
+**คำแนะนำเพิ่มเติม:**
+
+*   ถ้าชอบเผ็ดๆ ก็ใส่พริกแห้งเพิ่มได้
+*   ถ้าไม่มีน้ำตาลปี๊บ ใช้น้ำตาลทรายแทนได้ แต่รสชาติอาจจะไม่หอมหวานเท่า
+*   ถ้าไม่มีปลาพง ใช้ปลาอื่นๆ แทนได้ เช่น ปลากะพง หรือปลาอินทรี
+
+หวังว่าสูตรนี้จะถูกใจนะจ๊ะ ลองทำดู แล้วมาบอกกันมั่งว่าหรอยจังฮู้หม้าย! (อร่อยมากไหม!)
+","aidelycha nikhueowithithamaekngsmplaphngyodphrawoon chbabphasaaitaeth- phromekhldlabkhwamoroyehaaehinedinoakas:
+
+**aekngsmplaphngyodphraw (aekngsmplaphngyodmaphrawoon)**
+
+**ekhrueongprung (ekhrueongaekng):**
+
+*   phrikaehng (phrikaehng) - primantamchob ephdmakephdnoy
+*   homaedng (hawhomaedng) - sak 5-7 haw
+*   kraethiym (ethiym) - sak 3-4 klib
+*   khmin (khmin) - sakaengngnoy-
+*   kapi (ekhy) - sakchonotaphun-
+*   eklueo (eklueo) - hyibmueo
+*   kha (kha) - hanaewnbang- sak 3-4 aewn
+*   taaikhr (aikhr) - soylaeoiyd sak 2 tn
+*   phiwmakrud (phiwmakrud) - khudeoaaetphiw sakkhruengluk
+
+**watthudibhlak:**
+
+*   plaphng (plaphng) - hanepnchinphodikham sak 300-400 kram
+*   yodmaphrawoon (yodphraw) - hanepnthon- phodikham sak 1 thwy
+*   nammakhamepiyk (namsmkham) - primantamchob epriywmakepriywnoy
+*   namtalpib (namtalaewn) - primantamchob hwanmakhwannoy
+*   nampla (nampla) - primantamchob ekhmmakekhmnoy
+*   namepla (nam) - phothwmekhrueong
+
+**withitham:**
+
+1.  **tamekhrueongaekng (tamekhrueong):** eoaphrikaehng homaedng kraethiym khmin kha taaikhr phiwmakrud eklueo matamrwmkanaihlaeoiyd aiskapilngaiptamaihekhakanoikthi (thaaikhrmiekhrueongpan kaichekhrueongpanaidely ngaydi)
+2.  **tmnamaekng (tmnam):** eoanameplaaishmo tangaifaihedueod eoaekhrueongaekngthitamaiwlngaiplalayainhmo khnaihekhakan
+3.  **prungrs (prungrs):** phonamaekngedueod prungrsdwynammakhamepiyk namtalpib aelanampla chimrstamchob aihaidrsepriyw hwan ekhm klmklom
+4.  **aispla (aispla):** phonamaekngaidrschatithitongkar aisplaphnglngaip tmchnplasuk
+5.  **aisyodphraw (aisyodphraw):** phoplasuk aisyodmaphrawoonlngaip tmtooiksakphak aihyodmaphrawoonnim
+6.  **esrchaelw (esrchaelw):** takaekngsmaischam kinkabkhawswyron- oroyaerng!
+
+**ekhldlabkhwamoroy (ekhldlabkhwamhroy):**
+
+*   **platongsd (platongsd):** elueokplaphngthisd enueoaenn chathamaihaekngsmmirschatihwanoroy
+*   **yodphrawoon (yodphrawtongoon):** elueokyodmaphrawoonchring- chaaidaimaekhngkradang
+*   **rschatiklmklom (rschatitongklmklom):** chimrschatiaihdi aihaidrsepriyw hwan ekhm thismdulkan
+*   **aisphakouen- aid (aisphakoyangouenaid):** thachobkinphakouen- kaisephimaid echn thawfakyaw phakkadkhaw hrueomaekhueo
+
+**khamaenanamephimetim:**
+
+*   thachobephd- kaisphrikaehngephimaid
+*   thaaimminamtalpib aichnamtalthrayaethnaid aetrschatioachchaaimhomhwanetha
+*   thaaimmiplaphng aichplaouen- aethnaid echn plakaphng hrueoplaointhri
+
+hwangwasutrnichathukaichnacha longthamdu aelwmabokkanmangwahroychanghuhmay! (oroymakaihm!)
+",.
+ให้เขียนวิธีทำ ข้าวผั๊ดเคย เป็นภาษาใต้,"ได้เลยจ้า นี่คือวิธีทำข้าวผัดเคยฉบับภาษาใต้ เข้าใจง่าย ทำตามได้เลย:
+
+**ข้าวผัดเคย หรอยอย่างแรง!**
+
+**เครื่องปรุง:**
+
+*   ข้าวสวยหุงสุก (ข้าวเย็นจะดีกว่า)
+*   เคย (กะปิ) อย่างดี
+*   หอมแดงซอย
+*   กระเทียมสับ
+*   พริกขี้หนู (แล้วแต่ชอบเผ็ด)
+*   หมูสามชั้นหั่นชิ้น (หรือเนื้อสัตว์อื่น ๆ ตามชอบ)
+*   ไข่ไก่
+*   น้ำตาลทราย
+*   น้ำปลา
+*   น้ำมันพืช
+*   ผักเหนาะ (แตงกวา, ถั่วฝักยาว, มะเขือ)
+
+**วิธีทำ:**
+
+1.  **เตรียมเคย:** เอาเคยมาละลายกับน้ำนิดหน่อย ให้เหลว ๆ จะได้ผัดง่าย
+2.  **เจียวหอมเจียวกระเทียม:** เอาน้ำมันใส่กระทะ ตั้งไฟกลาง พอน้ำมันร้อน เอาหอมแดงกับกระเทียมลงไปเจียวให้เหลืองหอม ตักขึ้นพักไว้ก่อน
+3.  **ผัดหมู:** เอาหมูสามชั้นลงไปผัดในกระทะให้สุกเหลือง
+4.  **ผัดเคย:** ใส่เคยที่ละลายน้ำไว้ลงไปผัดกับหมูให้เข้ากัน ผัดให้หอม ๆ เลย
+5.  **ใส่ข้าว:** เอาข้าวสวยใส่ลงไป ผัดคลุกเคล้าให้เข้ากับเคยและหมู ผัดให้ข้าวร่วน ๆ
+6.  **ปรุงรส:** ใส่น้ำตาลทราย น้ำปลา ชิมรสตามชอบ เติมพริกขี้หนูซอยลงไป (ถ้าชอบเผ็ด)
+7.  **ทำไข่คน:** ตอกไข่ใส่ลงไปข้าง ๆ กระทะ เขี่ย ๆ ให้ไข่เป็นแผ่น ๆ แล้วผัดคลุกเคล้าให้เข้ากับข้าว
+8.  **ใส่หอมเจียวกระเทียม:** ใส่หอมเจียวกระเทียมที่พักไว้ลงไป ผัดให้เข้ากันอีกที
+9.  **ตักเสิร์ฟ:** ตักข้าวผัดเคยใส่จาน กินกับผักเหนาะ (แตงกวา, ถั่วฝักยาว, มะเขือ) อร่อยแรง!
+
+**เคล็ดลับ:**
+
+*   ถ้าไม่มีหมูสามชั้น ใช้กุ้ง หรือปลาหมึกแทนก็ได้
+*   ถ้าชอบหวาน ใส่สับปะรด หรือมะม่วงเบาซอยลงไปด้วยก็ได้
+*   กินกับน้ำพริกก็หรอย
+
+**หมายเหตุ:** คำว่า ""หรอย"" ในภาษาใต้ แปลว่า อร่อย
+
+ลองทำตามดูนะจ๊ะ รับรองว่าข้าวผัดเคยฝีมือเราต้องหรอยอย่างแรงแน่นอน!","aidelycha nikhueowithithamkhawphadekhychbabphasaait ekhaaichngay thamtamaidely:
+
+**khawphadekhy hroyoyangaerng!**
+
+**ekhrueongprung:**
+
+*   khawswyhungsuk (khaweynchadikwa)
+*   ekhy (kapi) oyangdi
+*   homaedngsoy
+*   kraethiymsab
+*   phrikkhihnu (aelwaetchobephd)
+*   hmusamchanhanchin (hrueoenueosatwouen - tamchob)
+*   aikhaik
+*   namtalthray
+*   nampla
+*   nammanphuech
+*   phakehnaa (aetngkwa, thawfakyaw, maekhueo)
+
+**withitham:**
+
+1.  **etriymekhy:** eoaekhymalalaykabnamnidhnoy aihehlw - chaaidphadngay
+2.  **echiywhomechiywkraethiym:** eoanammanaiskratha tangaifklang phonammanron eoahomaedngkabkraethiymlngaipechiywaihehlueonghom takkhuenphakaiwkon
+3.  **phadhmu:** eoahmusamchanlngaipphadainkrathaaihsukehlueong
+4.  **phadekhy:** aisekhythilalaynamaiwlngaipphadkabhmuaihekhakan phadaihhom - ely
+5.  **aiskhaw:** eoakhawswyaislngaip phadkhlukekhlaaihekhakabekhyaelahmu phadaihkhawrwn -
+6.  **prungrs:** aisnamtalthray nampla chimrstamchob etimphrikkhihnusoylngaip (thachobephd)
+7.  **thamaikhkhn:** tokaikhaislngaipkhang - kratha ekhiy - aihaikhepnaephn - aelwphadkhlukekhlaaihekhakabkhaw
+8.  **aishomechiywkraethiym:** aishomechiywkraethiymthiphakaiwlngaip phadaihekhakanoikthi
+9.  **takesirf:** takkhawphadekhyaischan kinkabphakehnaa (aetngkwa, thawfakyaw, maekhueo) oroyaerng!
+
+**ekhldlab:**
+
+*   thaaimmihmusamchan aichkung hrueoplahmuekaethnkaid
+*   thachobhwan aissabpard hrueomamwngebasoylngaipdwykaid
+*   kinkabnamphrikkhroy
+
+**hmayehtu:** khamwa ""hroy"" ainphasaait aeplwa oroy
+
+longthamtamdunacha rabrongwakhawphadekhyfimueoeratonghroyoyangaerngaennon!",.
+ให้เขียนวิธีทำ ปล่าซายท๋อดขี้มิ้น เป็นภาษาใต้,"ได้เลยจ้า นี่คือวิธีทำปลาซาบะทอดขมิ้น (ปลาซายท๋อดขี้มิ้น) ฉบับภาษาใต้แบบเข้าใจง่ายๆ เลย:
+
+**วัตถุดิบ:**
+
+*   ปลาซาบะ (ปลาซาย) สดๆ ตัวใหญ่ๆ สัก 2-3 ตัว
+*   ขมิ้น (ขี้มิ้น) สดๆ สักแง่งใหญ่ๆ
+*   กระเทียม (เทียม) กลีบใหญ่ๆ สัก 5-6 กลีบ
+*   พริกไทยเม็ด (พริกไท) สักหยิบมือ
+*   เกลือ (เกลือ) สักหน่อย
+*   น้ำมันพืช (น้ำมัน) สำหรับทอด
+
+**วิธีทำ:**
+
+1.  **เตรียมปลา:** ขอดเกล็ดปลา ควักไส้ออกให้หมด ล้างให้สะอาด แล้วบั้งตัวปลาเป็นรอยๆ สักหน่อย จะได้สุกง่ายๆ และเครื่องปรุงเข้าเนื้อ
+2.  **ทำเครื่อง:** เอาขมิ้น กระเทียม พริกไทยเม็ด เกลือ มาโขลก (ตำ) รวมกันให้ละเอียด ถ้าไม่มีครก จะใช้เครื่องปั่นก็ได้ แต่โขลกเองหอมกว่าเยอะ
+3.  **หมักปลา:** เอาเครื่องที่เราโขลกไว้ มาทาให้ทั่วตัวปลา ทั้งข้างนอกข้างใน พยายามยัดเครื่องเข้าไปในรอยบั้งที่เราบั้งไว้ด้วย หมักทิ้งไว้สัก 30 นาที ถึง 1 ชั่วโมง จะได้เข้าเนื้อ
+4.  **ทอดปลา:** ตั้งกระทะ ใส่น้ำมันให้เยอะหน่อย รอให้น้ำมันร้อนจัดๆ ค่อยเอาปลาลงทอด ทอดทีละด้าน ให้เหลืองกรอบสวยงาม แล้วค่อยพลิกอีกด้าน ทอดจนสุกทั่วทั้งตัว
+5.  **เสิร์ฟ:** ตักปลาขึ้นจากกระทะ พักไว้ให้สะเด็ดน้ำมัน กินกับข้าวสวยร้อนๆ หรือน้ำจิ้มซีฟู้ด (น้ำจิ้มทะเล) ก็อร่อยแรง
+
+**เคล็ดลับ:**
+
+*   ถ้าอยากให้ปลาหอมๆ จะใส่ตะไคร้ (ไคร) ซอยละเอียดลงไปโขลกกับเครื่องด้วยก็ได้
+*   ตอนทอดปลา ถ้ากลัวปลาติดกระทะ ให้โรยเกลือลงในกระทะก่อนใส่น้ำมัน
+*   ถ้าชอบรสจัดจ้าน จะใส่พริกขี้หนู (พริก) ลงไปโขลกกับเครื่องด้วยก็ได้
+
+**คำศัพท์เพิ่มเติม:**
+
+*   ทอด = ท๋อด
+*   ขมิ้น = ขี้มิ้น
+*   กระเทียม = เทียม
+*   พริกไทย = พริกไท
+*   เกลือ = เกลือ
+*   น้ำมัน = น้ำมัน
+*   โขลก = ตำ
+*   อร่อย = หรอย
+
+ลองทำดูนะ รับรองว่าหรอยอย่างแรง! ถ้ามีอะไรสงสัย ถามมาได้เลยจ้า","aidelycha nikhueowithithamplasabathodkhmin (plasaythodkhimin) chbabphasaaitaebbekhaaichngay- ely:
+
+**watthudib:**
+
+*   plasaba (plasay) sd- tawaihy- sak 2-3 taw
+*   khmin (khimin) sd- sakaengngaihy-
+*   kraethiym (ethiym) klibaihy- sak 5-6 klib
+*   phrikaithyemd (phrikaith) sakhyibmueo
+*   eklueo (eklueo) sakhnoy
+*   nammanphuech (namman) samhrabthod
+
+**withitham:**
+
+1.  **etriympla:** khodekldpla khwakaisookaihhmd langaihsaoad aelwbangtawplaepnroy- sakhnoy chaaidsukngay- aelaekhrueongprungekhaenueo
+2.  **thamekhrueong:** eoakhmin kraethiym phrikaithyemd eklueo maokhlk (tam) rwmkanaihlaeoiyd thaaimmikhrk chaaichekhrueongpankaid aetokhlkeonghomkwaeyoa
+3.  **hmakpla:** eoaekhrueongthieraokhlkaiw mathaaihthawtawpla thangkhangnokkhangain phyayamyadekhrueongekhaaipainroybangthierabangaiwdwy hmakthingaiwsak 30 nathi thueng 1 chawomng chaaidekhaenueo
+4.  **thodpla:** tangkratha aisnammanaiheyoahnoy roaihnammanronchad- khoyeoaplalngthod thodthiladan aihehlueongkrobswyngam aelwkhoyphlikoikdan thodchnsukthawthangtaw
+5.  **esirf:** takplakhuenchakkratha phakaiwaihsaeddnamman kinkabkhawswyron- hrueonamchimsifud (namchimthael) koroyaerng
+
+**ekhldlab:**
+
+*   thaoyakaihplahom- chaaistaaikhr (aikhr) soylaeoiydlngaipokhlkkabekhrueongdwykaid
+*   tonthodpla thaklawplatidkratha aihoryeklueolngainkrathakonaisnamman
+*   thachobrschadchan chaaisphrikkhihnu (phrik) lngaipokhlkkabekhrueongdwykaid
+
+**khamsaphthephimetim:**
+
+*   thod = thod
+*   khmin = khimin
+*   kraethiym = ethiym
+*   phrikaithy = phrikaith
+*   eklueo = eklueo
+*   namman = namman
+*   okhlk = tam
+*   oroy = hroy
+
+longthamduna rabrongwahroyoyangaerng! thamioaairsngsay thammaaidelycha",.
+ให้เขียนวิธีทำ ผั๊ดผั๊กเหลี๊ยง เป็นภาษาใต้,"โอเค้ มาๆๆ มาแลวิธีทำผัดผักเหลียงแบบบ้านๆ ปักษ์ใต้บ้านเรากันเห้อ
+
+**วัตถุดิบที่ต้องเตรียม:**
+
+*   **ผักเหลียง:** สักกำใหญ่ๆ เด็ดเอาแต่ใบอ่อนๆ ล้างให้สะอาด
+*   **กระเทียม:** สัก 3-4 กลีบ ทุบพอแหลก
+*   **กุ้งแห้ง:** สักหยิบมือ แช่น้ำพอนิ่มๆ (ถ้าไม่ชอบกุ้งแห้ง ใส่หมูสามชั้นหั่นชิ้นเล็กๆ แทนก็ได้)
+*   **ไข่ไก่:** 1-2 ฟอง (แล้วแต่ชอบ)
+*   **น้ำมันหมู/น้ำมันพืช:** สักหน่อย
+*   **น้ำปลา:** ปรุงรสตามชอบ
+*   **น้ำตาลทราย:** นิดหน่อย (ตัดรส)
+*   **พริกไทยป่น:** (ถ้าชอบเผ็ด)
+
+**วิธีทำ:**
+
+1.  **ตั้งกระทะ:** เอากระทะตั้งไฟกลางๆ ใส่น้ำมันลงไป พอน้ำมันฮ้อน (ร้อน) เอากระเทียมลงไปเจียวให้เหลืองหอม
+2.  **ใส่กุ้งแห้ง:** พอกระเทียมหอมได้ที่ เอากุ้งแห้งที่แช่น้ำไว้ลงไปผัด ผัดๆๆ ให้กุ้งแห้งหอมๆ
+3.  **ตอกไข่:** เขี่ยกุ้งแห้งไปไว้ข้างๆ กระทะ แล้วตอกไข่ใส่ลงไป ยีๆๆ ไข่ให้พอสุก
+4.  **ใส่ผักเหลียง:** เอาผักเหลียงที่เตรียมไว้ใส่ลงไปในกระทะ ผัดๆๆๆ ให้ผักเหลียงสลด
+5.  **ปรุงรส:** ปรุงรสด้วยน้ำปลา น้ำตาลทราย (นิดเดียว) ถ้าใครชอบเผ็ดก็ใส่พริกไทยป่นลงไป ผัดให้เข้ากัน ชิมรสตามชอบ
+6.  **เสร็จ:** พอผักเหลียงสุกได้ที่ ตักใส่จาน กินกับข้าวสวยร้อนๆ อร่อยแรง!
+
+**เคล็ดลับ:**
+
+*   ถ้าชอบผักเหลียงแบบกรอบๆ ผัดแค่พอสลดก็พอ
+*   ถ้าชอบผักเหลียงแบบนิ่มๆ ผัดนานหน่อย
+*   บางคนชอบใส่กะปิลงไปด้วยนิดหน่อย ก็แล้วแต่ชอบเลย
+*   ถ้าไม่มีกุ้งแห้ง ใส่หมูสามชั้นหั่นชิ้นเล็กๆ แทนก็ได้ อร่อยเหมือนกัน
+
+ลองทำแลนะ รับรองว่าหรอยจังฮู้! (อร่อยมากๆ)","ooekh ma-- maaelwithithamphadphakehliyngaebbban- paksaitbanerakaneho
+
+**watthudibthitongetriym:**
+
+*   **phakehliyng:** sakkamaihy- eddeoaaetaiboon- langaihsaoad
+*   **kraethiym:** sak 3-4 klib thubphoaehlk
+*   **kungaehng:** sakhyibmueo aechnamphonim- (thaaimchobkungaehng aishmusamchanhanchinelk- aethnkaid)
+*   **aikhaik:** 1-2 fong (aelwaetchob)
+*   **nammanhmu/nammanphuech:** sakhnoy
+*   **nampla:** prungrstamchob
+*   **namtalthray:** nidhnoy (tadrs)
+*   **phrikaithypn:** (thachobephd)
+
+**withitham:**
+
+1.  **tangkratha:** eoakrathatangaifklang- aisnammanlngaip phonammanhon (ron) eoakraethiymlngaipechiywaihehlueonghom
+2.  **aiskungaehng:** phokraethiymhomaidthi eoakungaehngthiaechnamaiwlngaipphad phad-- aihkungaehnghom-
+3.  **tokaikh:** ekhiykungaehngaipaiwkhang- kratha aelwtokaikhaislngaip yi-- aikhaihphosuk
+4.  **aisphakehliyng:** eoaphakehliyngthietriymaiwaislngaipainkratha phad--- aihphakehliyngsld
+5.  **prungrs:** prungrsdwynampla namtalthray (nidediyw) thaaikhrchobephdkaisphrikaithypnlngaip phadaihekhakan chimrstamchob
+6.  **esrch:** phophakehliyngsukaidthi takaischan kinkabkhawswyron- oroyaerng!
+
+**ekhldlab:**
+
+*   thachobphakehliyngaebbkrob- phadaekhphosldkpho
+*   thachobphakehliyngaebbnim- phadnanhnoy
+*   bangkhnchobaiskapilngaipdwynidhnoy kaelwaetchobely
+*   thaaimmikungaehng aishmusamchanhanchinelk- aethnkaid oroyehmueonkan
+
+longthamaelna rabrongwahroychanghu! (oroymak-)",.
+ให้เขียนวิธีทำ แก๋งเลียง เป็นภาษาใต้,"ได้เลยจ้า นี่คือวิธีทำแกงเลียงฉบับภาษาใต้แบบละเอียดเลยนะ:
+
+**แก๋งเลียง (Gaeng Liang)**
+
+**เครื่องปรุง (Kruang Prung):**
+
+*   **ผัก (Pak):**
+    *   บวบ (Buap) หั่นพอดีคำ
+    *   ฟักทอง (Fak Thong) หั่นพอดีคำ
+    *   ข้าวโพดอ่อน (Khao Phot Orn) หั่นท่อน
+    *   เห็ดฟาง (Het Fang) ผ่าครึ่ง
+    *   ใบตำลึง (Bai Tam Lueng) เด็ดเอาแต่ใบ
+    *   น้ำเต้า (Nam Tao) หั่นพอดีคำ (ถ้ามี)
+    *   ผักอื่นๆ ตามชอบ เช่น บวบเหลี่ยม (Buap Liam), ผักปรัง (Pak Prang)
+*   **เครื่องแกง (Kruang Gaeng):**
+    *   พริกไทยเม็ด (Prik Thai Met)
+    *   หอมแดง (Hom Daeng)
+    *   กระเทียม (Krathiam)
+    *   กะปิ (Kapi)
+    *   กุ้งแห้ง (Kung Haeng) แช่น้ำให้นิ่ม
+    *   ปลาแห้ง (Pla Haeng) ย่างไฟให้หอม (ถ้ามี)
+*   **อื่นๆ (Uen Uen):**
+    *   น้ำปลา (Nam Pla)
+    *   น้ำตาลปี๊บ (Nam Tan Peep)
+    *   น้ำซุป (Nam Soup) หรือน้ำเปล่า (Nam Plao)
+    *   ใบแมงลัก (Bai Maeng Lak)
+
+**วิธีทำ (Witee Tum):**
+
+1.  **เตรียมเครื่องแกง (Triam Kruang Gaeng):** โขลกพริกไทยเม็ด หอมแดง กระเทียม กะปิ กุ้งแห้ง และปลาแห้ง (ถ้ามี) ให้ละเอียดเข้ากันดี ถ้าใครขี้คร้าน (khee kran - ขี้เกียจ) ใช้เครื่องปั่นก็ได้นะ
+2.  **ต้มน้ำซุป (Tom Nam Soup):** เอาน้ำซุป หรือน้ำเปล่า ตั้งไฟให้เดือด
+3.  **ใส่เครื่องแกง (Sai Kruang Gaeng):** พอน้ำเดือดพล่าน (deuad phlaan - เดือดพล่าน) ใส่เครื่องแกงที่โขลกไว้ลงไป คนให้เข้ากัน แล้วรอให้หอม
+4.  **ใส่ผัก (Sai Pak):** ใส่ผักที่สุกยากก่อน เช่น ฟักทอง ข้าวโพดอ่อน ลงไปต้มก่อน พอผักเริ่มสุก ค่อยใส่ผักที่สุกง่าย เช่น บวบ น้ำเต้า เห็ดฟาง ตามลงไป
+5.  **ปรุงรส (Prung Rot):** ปรุงรสด้วยน้ำปลา น้ำตาลปี๊บ ชิมรสตามชอบ ให้มีรสหวานนำ เค็มตาม
+6.  **ใส่ใบตำลึงและใบแมงลัก (Sai Bai Tam Lueng Lae Bai Maeng Lak):** พอผักสุกหมดแล้ว ใส่ใบตำลึงและใบแมงลักลงไป คนให้เข้ากัน แล้วปิดไฟทันที เพราะใบตำลึงและใบแมงลักสุกง่ายมาก
+7.  **ตักเสิร์ฟ (Tak Serve):** ตักแกงเลียงใส่ชาม กินกับข้าวสวยร้อนๆ อร่อยแรง (aroi raeng - อร่อยมาก)
+
+**เคล็ดลับ (Kled Lap):**
+
+*   ถ้าชอบน้ำแกงข้นๆ ใส่แป้งข้าวโพด (Pang Khao Phot) ละลายน้ำเล็กน้อยลงไปได้
+*   บางคนชอบใส่เนื้อไก่ (Nuea Gai) หรือเนื้อปลา (Nuea Pla) ลงไปด้วยก็ได้
+*   ถ้าไม่มีน้ำตาลปี๊บ ใช้น้ำตาลทราย (Nam Tan Sai) แทนได้ แต่รสชาติอาจจะไม่หอมหวานเท่า
+
+**หมายเหตุ (Mai Het):**
+
+*   ""แรง"" ในภาษาใต้ แปลว่า ""มาก""
+*   ""ขี้คร้าน"" แปลว่า ""ขี้เกียจ""
+*   ""อร่อยแรง"" แปลว่า ""อร่อยมาก""
+
+ลองทำดูนะ รับรองว่าอร่อยถูกปากแน่นอน! ถ้ามีอะไรสงสัย ถามมาได้เลยนะจ๊ะ!
+","aidelycha nikhueowithithamaekngeliyngchbabphasaaitaebblaeoiydelyna:
+
+**aekngeliyng (Gaeng Liang)**
+
+**ekhrueongprung (Kruang Prung):**
+
+*   **phak (Pak):**
+    *   bwb (Buap) hanphodikham
+    *   fakthong (Fak Thong) hanphodikham
+    *   khawophdoon (Khao Phot Orn) hanthon
+    *   ehdfang (Het Fang) phakhrueng
+    *   aibtamlueng (Bai Tam Lueng) eddeoaaetaib
+    *   nameta (Nam Tao) hanphodikham (thami)
+    *   phakouen- tamchob echn bwbehliym (Buap Liam), phakprang (Pak Prang)
+*   **ekhrueongaekng (Kruang Gaeng):**
+    *   phrikaithyemd (Prik Thai Met)
+    *   homaedng (Hom Daeng)
+    *   kraethiym (Krathiam)
+    *   kapi (Kapi)
+    *   kungaehng (Kung Haeng) aechnamaihnim
+    *   plaaehng (Pla Haeng) yangaifaihhom (thami)
+*   **ouen- (Uen Uen):**
+    *   nampla (Nam Pla)
+    *   namtalpib (Nam Tan Peep)
+    *   namsup (Nam Soup) hrueonamepla (Nam Plao)
+    *   aibaemnglak (Bai Maeng Lak)
+
+**withitham (Witee Tum):**
+
+1.  **etriymekhrueongaekng (Triam Kruang Gaeng):** okhlkphrikaithyemd homaedng kraethiym kapi kungaehng aelaplaaehng (thami) aihlaeoiydekhakandi thaaikhrkhikhran (khee kran - khiekiych) aichekhrueongpankaidna
+2.  **tmnamsup (Tom Nam Soup):** eoanamsup hrueonamepla tangaifaihedueod
+3.  **aisekhrueongaekng (Sai Kruang Gaeng):** phonamedueodphlan (deuad phlaan - edueodphlan) aisekhrueongaekngthiokhlkaiwlngaip khnaihekhakan aelwroaihhom
+4.  **aisphak (Sai Pak):** aisphakthisukyakkon echn fakthong khawophdoon lngaiptmkon phophakerimsuk khoyaisphakthisukngay echn bwb nameta ehdfang tamlngaip
+5.  **prungrs (Prung Rot):** prungrsdwynampla namtalpib chimrstamchob aihmirshwannam ekhmtam
+6.  **aisaibtamluengaelaaibaemnglak (Sai Bai Tam Lueng Lae Bai Maeng Lak):** phophaksukhmdaelw aisaibtamluengaelaaibaemnglaklngaip khnaihekhakan aelwpidaifthanthi ephraaaibtamluengaelaaibaemnglaksukngaymak
+7.  **takesirf (Tak Serve):** takaekngeliyngaischam kinkabkhawswyron- oroyaerng (aroi raeng - oroymak)
+
+**ekhldlab (Kled Lap):**
+
+*   thachobnamaekngkhn- aisaepngkhawophd (Pang Khao Phot) lalaynamelknoylngaipaid
+*   bangkhnchobaisenueoaik (Nuea Gai) hrueoenueopla (Nuea Pla) lngaipdwykaid
+*   thaaimminamtalpib aichnamtalthray (Nam Tan Sai) aethnaid aetrschatioachchaaimhomhwanetha
+
+**hmayehtu (Mai Het):**
+
+*   ""aerng"" ainphasaait aeplwa ""mak""
+*   ""khikhran"" aeplwa ""khiekiych""
+*   ""oroyaerng"" aeplwa ""oroymak""
+
+longthamduna rabrongwaoroythukpakaennon! thamioaairsngsay thammaaidelynacha!
+",.
+ให้เขียนวิธีทำ ผั๊ดหลูกต๋อ เป็นภาษาใต้,"ได้เลยจ้า นี่คือวิธีทำผัดลูกตอฉบับภาษาใต้ เข้าใจง่าย ทำตามได้เลย:
+
+**ผัดหลูกต๋อ (ผัดลูกตอ)**
+
+**เครื่องปรุง:**
+
+*   หลูกต๋อ (ลูกตอ) แกะเปลือก หั่นพอดีคำ
+*   หมูสามชั้น หั่นชิ้น
+*   กุ้งสด ปอกเปลือกผ่าหลัง
+*   พริกแกงเผ็ดใต้ (ถ้าชอบเผ็ดมาก ใส่เยอะ ถ้าไม่ชอบเผ็ด ลดปริมาณลง)
+*   กะปิ
+*   น้ำตาลปี๊บ (หรือน้ำตาลทราย)
+*   น้ำปลา
+*   น้ำมันพืช
+*   ใบมะกรูดฉีก
+*   พริกขี้หนูแดง (ถ้าชอบ)
+
+**วิธีทำ:**
+
+1.  **เตรียมเครื่อง:** เอาหลูกต๋อไปลวกน้ำฮ้อนๆ สักแป๊บ แล้วตักขึ้นพักไว้ (ลวกเพื่อลดความเหม็นเขียวของหลูกต๋อ)
+2.  **ผัดพริกแกง:** ตั้งหม้อ/กระทะให้ฮ้อน ใส่น้ำมันพืชลงไป พอน้ำมันฮ้อน เอาพริกแกงลงไปผัดให้หอม
+3.  **ใส่หมู:** พอพริกแกงหอมได้ที่ ใส่หมูสามชั้นลงไปผัด ผัดให้หมูสุกเหลืองๆ
+4.  **ปรุงรส:** ใส่กะปิลงไปผัดให้เข้ากัน เติมน้ำตาลปี๊บ น้ำปลา ชิมรสตามชอบ (รสชาติจะออกหวานๆ เค็มๆ เผ็ดๆ)
+5.  **ใส่หลูกต๋อ:** เอาหลูกต๋อที่ลวกไว้ลงไปผัดคลุกเคล้าให้เข้ากันกับเครื่องแกง
+6.  **ใส่กุ้ง:** พอกุ้งสุก ใส่ใบมะกรูดฉีก พริกขี้หนูแดง (ถ้าใส่) ผัดให้เข้ากัน ปิดไฟ
+7.  **ตักเสิร์ฟ:** ตักใส่จาน กินกับข้าวสวยร้อนๆ อร่อยแรง!
+
+**เคล็ดลับ:**
+
+*   ถ้าชอบให้มีน้ำขลุกขลิก เติมน้ำเปล่าลงไปผัดได้นิดหน่อย
+*   บางคนชอบใส่สะตอลงไปด้วยกันก็ได้นะ อร่อยเหมือนกัน
+*   ถ้าไม่มีน้ำตาลปี๊บ ใช้น้ำตาลทรายแทนได้ แต่รสชาติอาจจะไม่เหมือนกัน
+
+**หมายเหตุ:** สูตรนี้ปรับรสชาติได้ตามความชอบของแต่ละคนเลยนะ ลองทำดู แล้วปรับให้ถูกปากตัวเอง รับรองว่าได้กินผัดหลูกต๋ออร่อยๆ แน่นอน!
+","aidelycha nikhueowithithamphadluktochbabphasaait ekhaaichngay thamtamaidely:
+
+**phadhlukto (phadlukto)**
+
+**ekhrueongprung:**
+
+*   hlukto (lukto) aekaeplueok hanphodikham
+*   hmusamchan hanchin
+*   kungsd pokeplueokphahlang
+*   phrikaekngephdait (thachobephdmak aiseyoa thaaimchobephd ldprimanlng)
+*   kapi
+*   namtalpib (hrueonamtalthray)
+*   nampla
+*   nammanphuech
+*   aibmakrudchik
+*   phrikkhihnuaedng (thachob)
+
+**withitham:**
+
+1.  **etriymekhrueong:** eoahluktoaiplwknamhon- sakaepb aelwtakkhuenphakaiw (lwkephueoldkhwamehmnekhiywkhonghlukto)
+2.  **phadphrikaekng:** tanghmo/krathaaihhon aisnammanphuechlngaip phonammanhon eoaphrikaeknglngaipphadaihhom
+3.  **aishmu:** phophrikaeknghomaidthi aishmusamchanlngaipphad phadaihhmusukehlueong-
+4.  **prungrs:** aiskapilngaipphadaihekhakan etimnamtalpib nampla chimrstamchob (rschatichaookhwan- ekhm- ephd-)
+5.  **aishlukto:** eoahluktothilwkaiwlngaipphadkhlukekhlaaihekhakankabekhrueongaekng
+6.  **aiskung:** phokungsuk aisaibmakrudchik phrikkhihnuaedng (thaais) phadaihekhakan pidaif
+7.  **takesirf:** takaischan kinkabkhawswyron- oroyaerng!
+
+**ekhldlab:**
+
+*   thachobaihminamkhlukkhlik etimnameplalngaipphadaidnidhnoy
+*   bangkhnchobaissatolngaipdwykankaidna oroyehmueonkan
+*   thaaimminamtalpib aichnamtalthrayaethnaid aetrschatioachchaaimehmueonkan
+
+**hmayehtu:** sutrniprabrschatiaidtamkhwamchobkhongaetlakhnelyna longthamdu aelwprabaihthukpaktaweong rabrongwaaidkinphadhluktooroy- aennon!
+",.

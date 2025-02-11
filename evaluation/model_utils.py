@@ -474,6 +474,7 @@ def load_model_runner(model_name: str, fast=False):
         "gpt-4-turbo-2024-04-09",
         "claude-3-5-sonnet-20240620",
         "gemini-1.5-flash-001",
+        "gemini-2.0-flash-exp",
         "gemini-1.5-pro-exp-0827",
         "gemini-1.5-pro-001"
     ]:

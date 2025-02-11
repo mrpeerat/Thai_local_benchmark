@@ -1,0 +1,101 @@
+Input,Pred,Pred_Latin,Gold
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: The group of students enjoys going for evening walks with their teacher because the weather is cool. They get some exercise, and the surrounding trees along the path make the air feel very refreshing.
+คำแปล:","หมู่เด็กนักเรียนมักไปย่างเล่นแลงนำครู เพราะว่าอากาศมันเย็นสบายดี พวกเขาได้ออกกำลังกายนำ แล้วต้นไม้แถวทางเดินกะเฮ็ดให้อากาศมันสดชื่นคักหลาย.
+","hmuedknakeriynmakaipyangelnaelngnamkhru ephraawaoakasmaneynsbaydi phwkekhaaidookkamlangkaynam aelwtnaimaethwthangedinkaehdaihoakasmansdchuenkhakhlay.
+",ซุมนักเรียนมักไปย่างเล่นนำอาจารย์ยามมื้อแลง ย้อนอากาศเย็นสบาย ได้ออกกำลังกายและป่าไม้รอบๆ หม่องย่างก็เฮ็ดให้อากาศดีหลายคัก
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I rode my motorcycle to buy coffee at the entrance of the alley, only to find that my favorite shop was closed. So, I went to try a new place instead. It wasn't good at all. I wouldn't go buy it there again.
+คำแปล:","ขี่มอเตอร์ไซค์ไปซื้อกาแฟปากซอย พะฮ่วยร้านมักปิด เลยไปลองร้านใหม่เบิ่ง บ่อแซ่บจักเม็ด สิบ่ไปซื้ออีกแล้ว
+","khimoetoraiskhaipsueokaaefpaksoy phahwyranmakpid elyaiplongranaihmebing boaesbchakemd sibaipsueooikaelw
+",ขับรถเครื่องไปซื้อกาแฟหน้าปากซอย แต่ก็พ้อว่าร้านประจำที่มักกินปิดไปแล้ว ก็เลยขับรถไปรถไปซื้อร้านใหม่ บ่แซบเลย สิบ่ไปซื้ออีกแล้ว
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I wanted to get into Suankularb School because I thought it was a great school. So, I studied really hard to pass the entrance exam. In the end, I didn’t make it, and I was very disappointed.
+คำแปล:","ข้อยอยากเข้าสวนกุหลาบ เพราะว่าข้อยคิดว่ามันเป็นโรงเรียนที่ดีหลาย. ข้อยเลยตั้งใจอ่านหนังสือแฮงๆ เพื่อให้สอบเข้าได้. สุดท้ายแล้ว ข้อยกะสอบบ่ติด, ข้อยเสียใจหลายเติบอยู่.
+","khoyoyakekhaswnkuhlab ephraawakhoykhidwamanepnorngeriynthidihlay. khoyelytangaichoanhnangsueoaehng- ephueoaihsobekhaaid. sudthayaelw khoykasobbtid, khoyesiyaichhlayetiboyu.
+",ข้อยอยากสอบเข้าโรงเรียนสวนกุหลาบย้อนคึดว่าเป็นโรงเรียนที่ดี ข้อยเลยตั้งใจเรียนหลายๆ ให้สอบเข้าหม่องนี้ให้ได้ สุดท้ายสอบบ่ติด เสียใจคัก
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: My friends all love traveling abroad, but I feel it's a waste of money. So, I’d rather go to the beach in Thailand instead. The weather is great, the prices are cheap—it’s so much better! I really don’t understand why people go abroad.
+คำแปล:","หมู่ข่อยมักไปเที่ยวต่างประเทศเบิ่ดสุคน, แต่ข่อยว่ามันเสียเงินซื่อๆดอก. ข่อยเลยสิไปทะเลเมืองไทยดีกว่า. อากาศกะดี, ราคาถืกๆ - มันดีกว่ากันหลาย! ข่อยบ่เข้าใจเลยว่าคนไปต่างประเทศเฮ็ดหยัง.
+","hmukhoymakaipethiywtangpraethsebidsukhn, aetkhoywamanesiyenginsueo-dok. khoyelysiaipthaelemueongaithydikwa. oakaskadi, rakhathuek- - mandikwakanhlay! khoybekhaaichelywakhnaiptangpraethsehdhyang.
+",หมู่รอบโตมักไปเที่ยวเมืองนอก แต่รู้สึกเสียดายเงิน เลยไปเที่ยวทะเลในไทยแทน อากาศก็ดี ราคาก็ถืก ดีก่อนหลาย เป็นหยังต้องไปเมืองนอกนำบ่เข้าใจ
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: They are helping each other clean the house because it’s full of mud after the flooding incident last week. It’s going to take a long time to clean up.
+คำแปล:","เข่ากำลังซ่อยกันเฮ็ดความสะอาดบ้านอยู่ เพราะว่ามันเต็มไปด้วยขี้โคลนหลังน้ำท่วมเมื่ออาทิตย์ที่แล้ว สิใช้เวลานานเติบพุ่นล่ะจั่งสิแล้ว
+","ekhakamlangsoykanehdkhwamsaoadbanoyu ephraawamanetmaipdwykhiokhlnhlangnamthwmemueooathitythiaelw siaichewlananetibphunlachangsiaelw
+",[ซุม]ขะเจ้ากำลังซอยกันเฮ็ดความสะอาดเฮือนย้อนเฮือนมีแต่โคลนเต็มไปเบิด หลังจากเกิดเหตุการณ์น้ำท่วมตอนอาทิตย์ที่ผ่านมา ต้องเฮ็ดความสะอาดอีกดนเลย
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Dad and mom love working in the garden because the atmosphere is nice and peaceful, plus there’s a beautiful mountain view that feels like stepping into another world.
+คำแปล:","พ่อกับแม่มักเฮ็ดสวนคักหลาย ย้อนว่าบรรยากาศมันดี มันสงบ แถมยังมีวิวภูเขางามๆ ที่เฮ็ดให้รู้สึกคือหลุดเข้าไปอยู่อีกโลกหนึ่งเลย.
+","phokabaemmakehdswnkhakhlay yonwabrryakasmandi mansngb aethmyangmiwiwphuekhangam- thiehdaihrusuekkhueohludekhaaipoyuoikolkhnuengely.
+",พ่อกับแม่มักไปเฮ็ดเวียกหม่องสวนหลายย้อนบรรยากาศดีและสงบ รวมไปถึงวิวภูเขาก็งามป่านหลุดไปอีกโลก
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Nam Prik Noom is a famous dish from the northern region, with key ingredients including chili peppers, shallots, and garlic.
+คำแปล:","น้ำพริกหนุ่มเป็นอาหารดังจากทางเหนือ, เครื่องปรุงหลักๆ มีพริกหนุ่ม, หอมแดง, แล้วกะกระเทียม.
+","namphrikhnumepnoahardangchakthangehnueo, ekhrueongprunghlak- miphrikhnum, homaedng, aelwkakraethiym.
+",เมนูน้ำพริกหนุ่มแมนอาหารขึ้นชื่อของภาคเหนือ โดยมีวัตถุดิบหลักๆ คือ พริกชี้ฟ้า หอมแดง กระเทียม 
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Anyone interested in joining us for papaya salad and grilled chicken at Khun Korn’s Kitchen for lunch?
+คำแปล:","มีไผสนใจอยากไปกินตำบักหุ่งกับไก่ย่างนำกันตอนเที่ยงที่ครัวคุณกรบ่?
+","miaiphsnaichoyakaipkintambakhungkabaikyangnamkantonethiyngthikhrawkhunkrb?
+",หมู่เฮาตอนเที่ยงมีไผอยากไปกินตำบักหุ่งร้านครัวคุณกรบ่?
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I woke up very early today to go watch the buffalo race. The weather was so hot that when I got back home, I had to take a rest because I had a headache.
+คำแปล:","มื้อนี้ข่อยตื่นแต่เช้าคักหลายเด้อ ไปเบิ่งแข่งควายมา อากาศฮ้อนแฮงเติบ กลับมาฮอดเฮือนเลยเมื่อย ต้องฟ้าวเซา เพราะว่าปวดหัว.
+","mueonikhoytuenaetechakhakhlayedo aipebingaekhngkhwayma oakashonaehngetib klabmahodehueonelyemueoy tongfawesa ephraawapwdhaw.
+",มื้อนี้ตื่นเช้าหลายย้อนสิไปเบิ่งแข่งวิ่งควาย อากาศร้อนแฮง เมือเฮือนมาเลยนอนพักย้อนปวดหัว
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Why do I have to do this work again? I’ve revised it so many times, but it’s never finished. The person who keeps asking for revisions doesn’t even know what they’re doing. I’m so exhausted.
+คำแปล:","ข่อยต้องเฮ็ดงานอันนี้ใหม่อีกแล้วเบาะ? แก้มาตั้งหลายรอบแล้วกะบ่แล้วจักเทือ คนที่ให้แก้กะคือสิบ่ฮู้จักหยังจักแนว ข่อยเมื่อยหลายเด้!
+","khoytongehdnganoanniaihmoikaelwebaa? aekmatanghlayrobaelwkabaelwchakethueo khnthiaihaekkakhueosibhuchakhyangchakaenw khoyemueoyhlayed!
+",เป็นหยังข้อยต้องเฮ็ดงานนี้อีกแล้ว แก้มาหลายเทือแล้ว บ่แล้วจักเทือ คนสั่งให้แก้ก็บ่ฮู้ว่าเจ้าของเฮ็ดอิหยังอยู่ ข้อยเหมื่อยแฮง
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I bought fried chicken for my friend, but I was too hungry, so I ate it instead. My friend didn’t mind and even reheated it for me. Such a kind friend!
+คำแปล:","ข่อยซื้อไก่ทอดมาให้หมู่ แต่ว่าข่อยหิวหลายโพด เลยกินเองซะเลย หมู่ข่อยกะบ่ว่าหยัง แถมยังเอาไปอุ่นให้ข่อยกินอีก พะนะ หมู่ใจดีคัก!
+","khoysueoaikthodmaaihhmu aetwakhoyhiwhlayophd elykineongsaely hmukhoykabwahyang aethmyangeoaaipounaihkhoykinoik phana hmuaichdikhak!
+",ข่อยซื้อไก่ทอดมาฝากหมู่ แต่หิว เลยเอาของหมู่มากิน หมู่บ่ว่า แถมเอาไก่ไปอุ่นให้อีกนำ หมู่เป็นคนดีอีหลี
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I never knew before that Beer was so good at rock climbing. It’s impressive, and I’ll use him as an example of discipline and consistency in exercise.
+คำแปล:","ข้อยบ่เคยฮู้มาก่อนว่าเบียร์ปีนผาเก่งปานนี้ คักเติบอยู่ เเล้วข้อยสิเอาเขาเป็นโตอย่างเรื่องความมีวินัยเเละความสม่ำเสมอในการออกกำลังกาย
+","khoybekhyhumakonwaebiyrpinphaekngpanni khaketiboyu eelwkhoysieoaekhaepnotoyangerueongkhwammiwinayeelakhwamsmamesmoainkarookkamlangkay
+",ข่อยบ่เคยฮู้มาก่อนเลยว่าอ้ายเบียร์สิเป็นคนที่ปีนผาได้เก่งจังซี่ ประหลาดใจหลาย และจะเอาเขาเป็นแบบอย่างของความมีวินัยและสม่ำเสมอในการออกกำลังกาย
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Some people like to collect luxury watches, while others prefer designer bags. In the end, you can’t take any of it with you when you die.
+คำแปล:","บางคนกะมักสะสมนาฬิกาแพงๆ, บางคนกะมักกระเป๋าแบรนด์เนม. สุดท้ายแล้ว, ตายไปกะเอาไปนำบ่ได้จักอย่าง.
+","bangkhnkamaksasmnalikaaephng-, bangkhnkamakkraepaaebrndenm. sudthayaelw, tayaipkaeoaaipnambaidchakoyang.
+",บางคนมักสะสมนาฬิกาหรู แต่บางคนมักสะสมกระเป๋าแบรนด์เนม สุดท้ายตายไปกะเอาไปบ่ได้
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: On rainy days, you have to take an umbrella, but today, Gam forgot hers. So, she stayed home and relaxed.
+คำแปล:","มื้อฝนตก เจ้าต้องเอาร่มไปนำเด้อ แต่มื้อนี้ ก่ำลืมร่ม เจ้าเลยอยู่บ้านพักผ่อนซะเลย
+","mueofntk echatongeoarmaipnamedo aetmueoni kamluemrm echaelyoyubanphakphonsaely
+",วันที่ฝนตกจะต้องเอา คันจ้อง ออกไปนำ แต่มื้อนี้น้องแก้มลืมเอาคันจ้องมา ดังนั้นน้องแก้มเลยนอนเล่นอยู่บ้าน
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: There are two kinds of stomach aches: one where you need to use the bathroom, and a real one that needs medical attention. After that, you bring a medical certificate to the teacher for a leave of absence.
+คำแปล:","อาการเจ็บท้องมีสองแบบ: แบบนึงคืออยากเข้าห้องน้ำ, กับแบบเจ็บท้องอีหลีที่ต้องไปหาหมอ. หลังจากนั้น, จั่งเอาใบรับรองแพทย์ไปให้ครูเพื่อลาป่วย.
+","oakarechbthongmisongaebb: aebbnuengkhueooyakekhahongnam, kabaebbechbthongoihlithitongaiphahmo. hlangchaknan, changeoaaibrabrongaephthyaipaihkhruephueolapwy.
+",ปวดท้องมีอยู่ 2 อย่างคือ ปวดท้องขี้ กับ กับปวดท้องอีหลี ที่ต้องไปหาหมอ จากนั้นเอาใบฮับฮองแพทย์มาให้ครู เพื่อใช้ในการลาเฮียน
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: People who like to tease others are no-good. If you want to be a good person, don’t tease others. But Korn often gets teased, which makes him shout, ""What the heck is your problem?""
+คำแปล:","คนผู้มักหยอกผู้อื่นน่ะบ่ดีเด้อ ถ้าอยากเป็นคนดีอย่าไปหยอกผู้อื่น แต่ว่ากรณ์มักถืกหยอกประจำ จนว่าเขาฟ้าวว่า ""เป็นหยังของสูวะ?""
+","khnphumakhyokphuouennabdiedo thaoyakepnkhndioyaaiphyokphuouen aetwakrnmakthuekhyokpracham chnwaekhafawwa ""epnhyangkhongsuwa?""
+","คนที่มักแกล้งคนอื่นคือคนไม่มักดี ถ้าอยากเป็นคนดี ต้องไม่แกล้งคนอื่น แต่น้องกร ถืกแกล้งดู๋ เลย เฮ็ดให้น้องกร ตะโกนว่า ""มึงเป็นหยังหลายบ่"""
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Your cow is very spirited, kicking up the dirt non-stop. It shows it’s ready to fight.
+คำแปล:","งัวเจ้าคือคึกแท้ สูนขี้ดินบ่เซา พะยี่ห้อว่ามันพร้อมสู้แล้วเด้นั่น.
+","ngawechakhueokhuekaeth sunkhidinbesa phayihowamanphromsuaelwednan.
+",งัวของเจ้า คึกหลาย ลุยดินบ่หยุดเลย แสดงว่ามันอยากจะสู้กัน
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: How could you not feel hot and cold flashes? You made a mistake, and your wife found out.
+คำแปล:","เป็นจั่งได๋เจ้าคือสิบ่ฮู้สึกฮ้อนๆหนาวๆ? เจ้าเฮ็ดผิดพลาด, เมียเจ้าฮู้แล้วเด้.
+","epnchangaidechakhueosibhusuekhon-hnaw-? echaehdphidphlad, emiyechahuaelwed.
+",เจ้าจะบ่รู้สึกฮ้อนๆหนาวๆ ขึ้นมาได้จังได๋ ย้อนว่า เจ้าเฮ็ดผิดแล้วเมียจับได้
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: That dog crossed the road with grilled pork in its mouth, heading to its puppies. The scene was heartwarming and touching.
+คำแปล:","หมาโตนั่นข้ามถนนคาบหมูย่างไป, ย่างไปหาลูกมันพุ่นแหล่ว. เบิ่งแล้วกะอบอุ่นหัวใจคักเติบ.
+","hmaotnankhamthnnkhabhmuyangaip, yangaiphalukmanphunaehlw. ebingaelwkaobounhawaichkhaketib.
+",หมาตัวนั้นย่างข้ามถนนพร้อมหมูปิ้งในปาก กำลังไปหาลูกๆ ของมัน ภาพที่เห็นเป็นตาสีโตนหลายและน่าจับใจ
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาอีสาน ให้เจ้าแปลโดยตรงโดยบ่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I caught this big fish yesterday, and most of the fish I catch on the line tend to be female fish.
+คำแปล:","มื่อวานนี้ข่อยจับปลาโตใหญ่ได้โตนึง, แล้วปลาส่วนใหญ่ที่ข่อยตกได้ตามสายเบ็ดมักสิเป็นปลาแมะเด้.
+","mueowannikhoychabplaotaihyaidotnueng, aelwplaswnaihythikhoytkaidtamsayebdmaksiepnplaaemaed.
+",ปลาโตใหญ่นี้ ข่อยตกเบ็ดได้มาเมื่อวานและปลาที่ติดเบ็ดลากนี้ส่วนมากมักสิเป็นแม่ปลา

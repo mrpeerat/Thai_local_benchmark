@@ -1,0 +1,211 @@
+Input,Pred,Pred_Latin,Gold
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ ประเพณีท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"ได้เลยครับ นี่คือตัวอย่างบทพูดของคนใต้เกี่ยวกับประเพณีท้องถิ่น:
+
+1. ""หวัดดีพี่น้อง วันนี้ขอแหลงเรื่องประเพณีท้องถิ่นบ้านเราแน่ะ บ้านเรามีประเพณีเยอะนะ อย่างเช่น ประเพณีชักพระ ที่จัดกันทุกปีหลังออกพรรษา""
+2. ""ใช่แล้ว ประเพณีชักพระนี่สำคัญมาก คนใต้เราจะเอาพระพุทธรูปขึ้นเรือแล้วชักไปตามแม่น้ำ มีการทำบุญตักบาตรด้วย""
+3. ""อีกอย่างที่น่าสนใจคือ ประเพณีแห่ผ้าขึ้นธาตุ ที่วัดพระมหาธาตุวรมหาวิหาร นครศรีธรรมราช คนจะเอาผ้าผืนใหญ่ไปห่มพระบรมธาตุเจดีย์""
+4. ""นอกจากนั้นยังมีประเพณีสารทเดือนสิบ ที่เราจะทำขนมลา ขนมพอง ขนมบ้า ไปทำบุญให้บรรพบุรุษที่ล่วงลับไปแล้ว""
+5. ""ใช่เลย ประเพณีเหล่านี้ไม่ใช่แค่ทำให้เรารู้สึกใกล้ชิดกับวัฒนธรรม แต่ยังทำให้เราได้รวมตัวกัน ทำบุญและสนุกสนานไปพร้อมๆ กัน""
+
+หวังว่าบทพูดนี้จะเป็นประโยชน์นะครับ!","aidelykhrab nikhueotawoyangbthphudkhongkhnaitekiywkabpraephnithongthin:
+
+1. ""hwaddiphinong wannikhoaehlngerueongpraephnithongthinbaneraaena baneramipraephnieyoana oyangechn praephnichakphra thichadkanthukpihlangookphrrsa""
+2. ""aichaelw praephnichakphranisamkhaymak khnaiterachaeoaphraphuththrupkhuenerueoaelwchakaiptamaemnam mikarthambuytakbatrdwy""
+3. ""oikoyangthinasnaichkhueo praephniaehphakhuenthatu thiwadphramhathatuwrmhawihar nkhrsrithrrmrach khnchaeoaphaphuenaihyaiphmphrabrmthatuechdiy""
+4. ""nokchaknanyangmipraephnisarthedueonsib thierachathamkhnmla khnmphong khnmba aipthambuyaihbrrphburusthilwnglabaipaelw""
+5. ""aichely praephniehlaniaimaichaekhthamaiherarusuekaiklchidkabwathnthrrm aetyangthamaiheraaidrwmtawkan thambuyaelasnuksnanaipphrom- kan""
+
+hwangwabthphudnichaepnpraoychnnakhrab!",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ อาชีพ บทพูดไม่ควรเกิน 5 ตา,"ได้เลยครับ นี่คือตัวอย่างบทพูดของคนใต้ที่แหลงเกี่ยวกับอาชีพ:
+
+คนที่ 1: ""หวัดดีพี่น้อง วันนี้มาคุยกันเรื่องอาชีพหน่อยนะ""
+คนที่ 2: ""เออๆ ดีเลย พี่ทำสวนยางอยู่ล่ะ ช่วงนี้ราคายางเป็นไงบ้าง?""
+คนที่ 1: ""ก็พอได้อยู่ แต่ต้องขยันหน่อยนะ ช่วงนี้ฝนตกบ่อย""
+คนที่ 2: ""ใช่ๆ พี่ก็ต้องตื่นเช้ากรีดยางทุกวัน ไม่งั้นไม่พอใช้""
+คนที่ 1: ""สู้ๆ นะพี่น้อง อาชีพไหนก็ต้องขยันทั้งนั้นแหละ""
+
+หวังว่าจะถูกใจนะครับ!","aidelykhrab nikhueotawoyangbthphudkhongkhnaitthiaehlngekiywkaboachiph:
+
+khnthi 1: ""hwaddiphinong wannimakhuykanerueongoachiphhnoyna""
+khnthi 2: ""eoo- diely phithamswnyangoyula chwngnirakhayangepnaingbang?""
+khnthi 1: ""kphoaidoyu aettongkhyanhnoyna chwngnifntkboy""
+khnthi 2: ""aich- phiktongtuenechakridyangthukwan aimnganaimphoaich""
+khnthi 1: ""su- naphinong oachiphaihnktongkhyanthangnanaehla""
+
+hwangwachathukaichnakhrab!",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การคมนาคม บทพูดไม่ควรเกิน 5 ตา,"ได้เลยครับ นี่คือตัวอย่างบทพูดของคนใต้เกี่ยวกับการคมนาคม:
+
+1. ""เฮ้ย! พี่น้องเหอ ตอนนี้ถนนบ้านเราดีขึ้นมากแล้วนะ รถวิ่งสะดวกขึ้นเยอะเลย""
+2. ""ใช่แล้วหล่าว เมื่อก่อนนี้ถนนเป็นหลุมเป็นบ่อ ขับรถทีต้องระวังมาก""
+3. ""แล้วรถไฟฟ้าก็มาแล้วด้วยนะ สะดวกมากเลย ไม่ต้องกลัวรถติด""
+4. ""จริงเหรอ? ดีจังเลย แบบนี้ไปไหนมาไหนก็ง่ายขึ้นเยอะ""
+5. ""ใช่ๆ แล้วก็มีรถเมล์ใหม่ๆ ด้วยนะ สะอาดแล้วก็นั่งสบายมาก""
+
+หวังว่าจะถูกใจนะครับ!","aidelykhrab nikhueotawoyangbthphudkhongkhnaitekiywkabkarkhmnakhm:
+
+1. ""ehy! phinongeho tonnithnnbaneradikhuenmakaelwna rthwingsadwkkhueneyoaely""
+2. ""aichaelwhlaw emueokonnithnnepnhlumepnbo khabrththitongrawangmak""
+3. ""aelwrthaiffakmaaelwdwyna sadwkmakely aimtongklawrthtid""
+4. ""chringehro? dichangely aebbniaipaihnmaaihnkngaykhueneyoa""
+5. ""aich- aelwkmirthemlaihm- dwyna saoadaelwknangsbaymak""
+
+hwangwachathukaichnakhrab!",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ ครอบครัว บทพูดไม่ควรเกิน 5 ตา,"ได้เลยครับ นี่คือตัวอย่างบทพูดของคนใต้ที่พูดเกี่ยวกับครอบครัว:
+
+1. ""หวัดดีพี่น้อง วันนี้ขอแหลงเรื่องครอบครัวหน่อยนะ""
+2. ""ครอบครัวบ้านเรานิ มีพ่อแม่ ลูกสามคน พี่น้องรักกันดี""
+3. ""พ่อแม่ทำงานหนักเพื่อให้ลูกได้เรียนดีๆ""
+4. ""พี่น้องก็ช่วยกันทำงานบ้าน ไม่ให้พ่อแม่เหนื่อย""
+5. ""ครอบครัวเรานิ ถึงไม่รวย แต่ก็มีความสุขมากๆ""
+
+หวังว่าจะถูกใจนะครับ!","aidelykhrab nikhueotawoyangbthphudkhongkhnaitthiphudekiywkabkhrobkhraw:
+
+1. ""hwaddiphinong wannikhoaehlngerueongkhrobkhrawhnoyna""
+2. ""khrobkhrawbanerani miphoaem luksamkhn phinongrakkandi""
+3. ""phoaemthamnganhnakephueoaihlukaideriyndi-""
+4. ""phinongkchwykanthamnganban aimaihphoaemehnueoy""
+5. ""khrobkhrawerani thuengaimrwy aetkmikhwamsukhmak-""
+
+hwangwachathukaichnakhrab!",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ กลับบ้านช่วงเทศกาล บทพูดไม่ควรเกิน 5 ตา,"ได้เลยครับ นี่คือตัวอย่างบทพูดของคนใต้เกี่ยวกับการกลับบ้านช่วงเทศกาล:
+
+1. ""หวัดดีพี่น้อง! ปีนี้ได้กลับบ้านกันหม้าย? เทศกาลนี้ต้องกลับไปหาครอบครัวกันหน่อย""
+2. ""ใช่แล้ว! กลับไปกินข้าวกับแม่พ่อ ได้เจอญาติพี่น้อง คิดถึงบ้านเหลือเกิน""
+3. ""บ้านเรามีงานวัดด้วยนะ ปีนี้มีการแสดงหนังตะลุงกับมโนราห์ น่าสนุกมาก""
+4. ""แล้วอย่าลืมไปไหว้พระที่วัดด้วยนะ ขอพรให้ปีหน้ามีแต่สิ่งดีๆ เข้ามา""
+5. ""ใช่ๆ แล้วก็อย่าลืมซื้อของฝากกลับมาด้วยนะ ของดีบ้านเรามีเยอะเลย""
+
+หวังว่าบทพูดนี้จะถูกใจนะครับ!","aidelykhrab nikhueotawoyangbthphudkhongkhnaitekiywkabkarklabbanchwngethskal:
+
+1. ""hwaddiphinong! piniaidklabbankanhmay? ethskalnitongklabaiphakhrobkhrawkanhnoy""
+2. ""aichaelw! klabaipkinkhawkabaempho aidechoyatiphinong khidthuengbanehlueoekin""
+3. ""baneraminganwaddwyna pinimikaraesdnghnangtalungkabmonrah nasnukmak""
+4. ""aelwoyaluemaipaihwphrathiwaddwyna khophraihpihnamiaetsingdi- ekhama""
+5. ""aich- aelwkoyaluemsueokhongfakklabmadwyna khongdibaneramieyoaely""
+
+hwangwabthphudnichathukaichnakhrab!",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การเมืองท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"ได้เลยครับ นี่คือตัวอย่างบทพูดของคนใต้เกี่ยวกับการเมืองท้องถิ่น:
+
+---
+
+**คนที่ 1:** ""เฮ้ย! พวกเราได้ยินข่าวเรื่องเลือกตั้งท้องถิ่นบ้างหม้าย?""
+
+**คนที่ 2:** ""ได้ยินแล้ว! ปีนี้มีผู้สมัครใหม่หลายคนเลยนะ บางคนก็น่าสนใจ""
+
+**คนที่ 3:** ""ใช่ๆ แต่เราต้องดูดีๆ นะ ว่าใครทำงานเพื่อชาวบ้านจริงๆ ไม่ใช่แค่พูดดีตอนหาเสียง""
+
+**คนที่ 4:** ""ถูกต้อง! เราต้องเลือกคนที่มีประสบการณ์และมีความตั้งใจจริงในการพัฒนาท้องถิ่น""
+
+**คนที่ 5:** ""ใช่แล้ว! อย่าลืมไปใช้สิทธิ์กันนะพวกเรา การเมืองท้องถิ่นสำคัญมากๆ""
+
+---
+
+หวังว่าบทพูดนี้จะเป็นประโยชน์นะครับ!","aidelykhrab nikhueotawoyangbthphudkhongkhnaitekiywkabkaremueongthongthin:
+
+---
+
+**khnthi 1:** ""ehy! phwkeraaidyinkhawerueongelueoktangthongthinbanghmay?""
+
+**khnthi 2:** ""aidyinaelw! pinimiphusmakhraihmhlaykhnelyna bangkhnknasnaich""
+
+**khnthi 3:** ""aich- aeteratongdudi- na waaikhrthamnganephueochawbanchring- aimaichaekhphudditonhaesiyng""
+
+**khnthi 4:** ""thuktong! eratongelueokkhnthimiprasbkarnaelamikhwamtangaichchringainkarphathnathongthin""
+
+**khnthi 5:** ""aichaelw! oyaluemaipaichsiththikannaphwkera karemueongthongthinsamkhaymak-""
+
+---
+
+hwangwabthphudnichaepnpraoychnnakhrab!",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ สภาพอากาศ บทพูดไม่ควรเกิน 5 ตา,"ได้เลยครับ นี่คือตัวอย่างบทพูดของคนใต้เกี่ยวกับสภาพอากาศ:
+
+1. ""หวัดดีพี่น้อง วันนี้อากาศร้อนแรงจังเลยนะ""
+2. ""ใช่แล้วพี่ อากาศแบบนี้ต้องหาน้ำเย็นๆ มาดับร้อนหน่อย""
+3. ""เมื่อวานฝนตกหนักมาก น้ำท่วมถนนไปหมด""
+4. ""จริงๆ พี่ ฝนตกทีไร น้ำท่วมทุกที ไม่รู้จะทำยังไงแล้ว""
+5. ""หวังว่าพรุ่งนี้อากาศจะดีขึ้นหน่อยนะ จะได้ออกไปทำงานสะดวกๆ""
+
+หวังว่าจะถูกใจนะครับ!","aidelykhrab nikhueotawoyangbthphudkhongkhnaitekiywkabsphaphoakas:
+
+1. ""hwaddiphinong wannioakasronaerngchangelyna""
+2. ""aichaelwphi oakasaebbnitonghanameyn- madabronhnoy""
+3. ""emueowanfntkhnakmak namthwmthnnaiphmd""
+4. ""chring- phi fntkthiair namthwmthukthi aimruchathamyangaingaelw""
+5. ""hwangwaphrungnioakaschadikhuenhnoyna chaaidookaipthamngansadwk-""
+
+hwangwachathukaichnakhrab!",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ อาหารท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"ได้เลยครับ นี่คือตัวอย่างบทพูดของคนใต้เกี่ยวกับอาหารท้องถิ่น:
+
+1. ""หวัดดีพี่น้อง วันนี้ขอแหลงเรื่องอาหารใต้บ้านเราแน่ะ""
+2. ""อาหารใต้บ้านเรานิ มีหลายอย่างที่เด็ดๆ อย่างแกงไตปลา หรอยจังหู""
+3. ""แล้วก็มีน้ำพริกกะปิ กินกับผักสด ผักลวก หรอยแรง""
+4. ""อีกอย่างที่ต้องลองคือ ขนมจีนแกงไก่ ใส่ผักเยอะๆ หรอยจัง""
+5. ""ถ้าใครมาเที่ยวใต้ อย่าลืมลองอาหารบ้านเรา รับรองติดใจแน่นอน""
+
+หวังว่าบทพูดนี้จะเป็นประโยชน์นะครับ!","aidelykhrab nikhueotawoyangbthphudkhongkhnaitekiywkaboaharthongthin:
+
+1. ""hwaddiphinong wannikhoaehlngerueongoaharaitbaneraaena""
+2. ""oaharaitbanerani mihlayoyangthiedd- oyangaekngaitpla hroychanghu""
+3. ""aelwkminamphrikkapi kinkabphaksd phaklwk hroyaerng""
+4. ""oikoyangthitonglongkhueo khnmchinaekngaik aisphakeyoa- hroychang""
+5. ""thaaikhrmaethiywait oyaluemlongoaharbanera rabrongtidaichaennon""
+
+hwangwabthphudnichaepnpraoychnnakhrab!",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"ได้เลยครับ นี่คือตัวอย่างบทพูดของคนใต้เกี่ยวกับเครื่องแต่งกายท้องถิ่น:
+
+---
+
+""หวัดดีพี่น้อง วันนี้ขอแหลงเรื่องเครื่องแต่งกายท้องถิ่นบ้านเราแน่ะ เครื่องแต่งกายบ้านเรานิ มีเอกลักษณ์เฉพาะตัวนะ อย่างผ้าบาติกที่ใช้กันแพร่หลาย ผ้าสีสันสดใส ลายดอกไม้ ลายทะเล สวยงามมากๆ
+
+ผู้หญิงบ้านเราก็ชอบใส่ผ้าถุง ผ้าซิ่น ลายสวยๆ ใส่กับเสื้อคอกระเช้า หรือเสื้อแขนยาวปักลาย ส่วนผู้ชายก็นิยมใส่เสื้อผ้าฝ้าย สบายๆ ใส่กับกางเกงขาสั้นหรือขาสามส่วน
+
+เครื่องแต่งกายท้องถิ่นบ้านเราไม่ใช่แค่สวยงามนะ แต่ยังสะท้อนถึงวัฒนธรรมและวิถีชีวิตของคนใต้ด้วย ใครมาเที่ยวบ้านเรา อย่าลืมลองใส่ดูนะ จะได้สัมผัสความเป็นใต้แท้ๆ""
+
+---
+
+หวังว่าบทพูดนี้จะเป็นประโยชน์นะครับ!","aidelykhrab nikhueotawoyangbthphudkhongkhnaitekiywkabekhrueongaetngkaythongthin:
+
+---
+
+""hwaddiphinong wannikhoaehlngerueongekhrueongaetngkaythongthinbaneraaena ekhrueongaetngkaybanerani mieoklaksnechphaatawna oyangphabatikthiaichkanaephrhlay phasisansdais laydokaim laythael swyngammak-
+
+phuhyingbanerakchobaisphathung phasin layswy- aiskabesueokhokraecha hrueoesueoaekhnyawpaklay swnphuchaykniymaisesueophafay sbay- aiskabkangekngkhasanhrueokhasamswn
+
+ekhrueongaetngkaythongthinbaneraaimaichaekhswyngamna aetyangsathonthuengwathnthrrmaelawithichiwitkhongkhnaitdwy aikhrmaethiywbanera oyaluemlongaisduna chaaidsamphaskhwamepnaitaeth-""
+
+---
+
+hwangwabthphudnichaepnpraoychnnakhrab!",.
+ให้เขียนบทพูดของคนใต้ โดยแหลงเกี่ยวกับ การศึกษาท้องถิ่น บทพูดไม่ควรเกิน 5 ตา,"ได้เลยครับ นี่คือตัวอย่างบทพูดของคนใต้เกี่ยวกับการศึกษาท้องถิ่น:
+
+---
+
+**คนใต้ 1:** ""เฮ้ย! มึงรู้หม้ายว่า การศึกษาท้องถิ่นบ้านเรานี่สำคัญแค่ไหน?""
+
+**คนใต้ 2:** ""รู้สิ! การศึกษาท้องถิ่นนี่แหละที่ทำให้ลูกหลานเราได้เรียนรู้เรื่องราวของบ้านเกิดตัวเอง""
+
+**คนใต้ 1:** ""ใช่แล้ว! ไม่ใช่แค่เรื่องประวัติศาสตร์นะ แต่ยังมีเรื่องวัฒนธรรม ประเพณี และภาษาท้องถิ่นด้วย""
+
+**คนใต้ 2:** ""จริง! ถ้าเราไม่สอนลูกหลานเราเอง ใครจะมาสอนให้เขารู้จักบ้านเกิดของตัวเองล่ะ?""
+
+**คนใต้ 1:** ""ถูกต้อง! การศึกษาท้องถิ่นนี่แหละที่ทำให้เรารู้จักและรักบ้านเกิดของเราอย่างแท้จริง""
+
+---
+
+หวังว่าบทพูดนี้จะเป็นประโยชน์นะครับ!","aidelykhrab nikhueotawoyangbthphudkhongkhnaitekiywkabkarsueksathongthin:
+
+---
+
+**khnait 1:** ""ehy! muengruhmaywa karsueksathongthinbaneranisamkhayaekhaihn?""
+
+**khnait 2:** ""rusi! karsueksathongthinniaehlathithamaihlukhlaneraaideriynruerueongrawkhongbanekidtaweong""
+
+**khnait 1:** ""aichaelw! aimaichaekherueongprawatisastrna aetyangmierueongwathnthrrm praephni aelaphasathongthindwy""
+
+**khnait 2:** ""chring! thaeraaimsonlukhlaneraeong aikhrchamasonaihekharuchakbanekidkhongtaweongla?""
+
+**khnait 1:** ""thuktong! karsueksathongthinniaehlathithamaiheraruchakaelarakbanekidkhongeraoyangaethchring""
+
+---
+
+hwangwabthphudnichaepnpraoychnnakhrab!",.

@@ -1,0 +1,329 @@
+Input,Pred,Pred_Latin,Gold
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ ประเพณีท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"คนที่ 1: ""อ้ายบ่าว ตี้บ้านเฮามีประเพณีอะหยังตี้น่าสนใจพ่อง?""
+
+คนที่ 2: ""อู้ถึงประเพณีตี้บ้านเฮา ก่อต้องนึกถึงประเพณี 'ยี่เป็ง' เนาะ เป๋นประเพณีลอยกระทงของคนเมืองเหนือ""
+
+คนที่ 1: ""อู้ถึงยี่เป็ง ก่อต้องนึกถึงโคมลอยเนาะ อ้ายบ่าว เคยปล่อยโคมลอยก่?""
+
+คนที่ 2: ""เคยเน่อ ปล่อยโคมลอยแล้วก่อต้องอธิษฐานขอพรตวย เป๋นการปล่อยเคราะห์ปล่อยโศกไป""
+
+คนที่ 1: ""อืม... ฟังแล้วก่อตึงอบอุ่นใจดีเนาะ ประเพณีบ้านเฮานี้มีความหมายแต้ๆ""
+
+คนที่ 2: ""แม่นแล้ว ประเพณีบ้านเฮาเป๋นการสืบสานวัฒนธรรมและความเชื่อของคนเมืองเหนือไปตลอด""","khnthi 1: ""oaybaw tibanehamipraephnioahyangtinasnaichphong?""
+
+khnthi 2: ""outhuengpraephnitibaneha kotongnuekthuengpraephni 'yiepng' enaa epnpraephniloykrathngkhongkhnemueongehnueo""
+
+khnthi 1: ""outhuengyiepng kotongnuekthuengokhmloyenaa oaybaw ekhyployokhmloyk?""
+
+khnthi 2: ""ekhyeno ployokhmloyaelwkotongothisthankhophrtwy epnkarployekhraahployoskaip""
+
+khnthi 1: ""ouem... fangaelwkotuengobounaichdienaa praephnibanehanimikhwamhmayaet-""
+
+khnthi 2: ""aemnaelw praephnibanehaepnkarsuebsanwathnthrrmaelakhwamechueokhongkhnemueongehnueoaiptlod""",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ อาชีพ บทสนทนาบะควรเกิน 5 turns,"ตัวละคร: 
+1. หนานคำ (ชาวนา)
+2. ป้อจาย (ช่างไม้)
+
+---
+
+หนานคำ: สวัสดีป้อจาย วันนี้มาหยังตี้บ้านเฮา?
+
+ป้อจาย: สวัสดีหนานคำ วันนี้ข้ามาหาไม้ไปเฮ็ดงานหน้อยหนา บ่ฮู้ว่ามีไม้เหลือบ่?
+
+หนานคำ: อู้หู! มีอยู่เน้อ แต่บ่หลายเต้าใด ป้อจายจะเอาไปเฮ็ดหยัง?
+
+ป้อจาย: ข้าจะเอาไปเฮ็ดโต๊ะกับเก้าอี้ให้ลูกค้า เขาสั่งมา
+
+หนานคำ: อ้อ เข้าใจละ งานช่างไม้กะบ่เบาเน้อ ต้องละเอียดอ่อน
+
+ป้อจาย: แม่นแล้วหนานคำ แล้วงานชาวนาเป็นจะไดบ้าง?
+
+หนานคำ: กะบ่เลวเน้อ ปีนี้ฝนดี ข้าวงามหลาย แต่กะต้องระวังแมลง
+
+ป้อจาย: อู้หู! ฟังแล้วกะดีใจนำเน้อ ขอให้ได้ผลผลิตดีๆ เน้อหนานคำ
+
+หนานคำ: ขอบคุณหลายๆ ป้อจาย ขอให้เฮ็ดงานได้ดีๆ เหมือนกันเน้อ
+
+---
+
+บทสนทนานี้แสดงถึงความเป็นมิตรและการสนับสนุนกันระหว่างชาวบ้านในชุมชนเหนือ","tawlakhr: 
+1. hnankham (chawna)
+2. pochay (changaim)
+
+---
+
+hnankham: swasdipochay wannimahyangtibaneha?
+
+pochay: swasdihnankham wannikhamahaaimaipehdnganhnoyhna bhuwamiaimehlueob?
+
+hnankham: ouhu! mioyueno aetbhlayetaaid pochaychaeoaaipehdhyang?
+
+pochay: khachaeoaaipehdotakabekaoiaihlukkha ekhasangma
+
+hnankham: oo ekhaaichla nganchangaimkabebaeno tonglaeoiydoon
+
+pochay: aemnaelwhnankham aelwnganchawnaepnchaaidbang?
+
+hnankham: kabelweno pinifndi khawngamhlay aetkatongrawangaemlng
+
+pochay: ouhu! fangaelwkadiaichnameno khoaihaidphlphlitdi- enohnankham
+
+hnankham: khobkhunhlay- pochay khoaihehdnganaiddi- ehmueonkaneno
+
+---
+
+bthsnthnaniaesdngthuengkhwamepnmitraelakarsnabsnunkanrahwangchawbanainchumchnehnueo",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ การคมนาคม บทสนทนาบะควรเกิน 5 turns,"ตัวละคร: หนานคำ (น) และ ป้อจาย (ป)
+
+น: หวัดดีป้อจาย วันนี้ไปไหนมา?
+
+ป: หวัดดีหนานคำ วันนี้ไปตางในเมืองมา ไปซื้อของกั๋บไปหาหมอ
+
+น: อู้ถึงการไปเมือง ตางในเมืองเดี๋ยวนี้รถติดขนาดเลยก่?
+
+ป: อู้บ่ะได้เลยหนานคำ รถติดขนาด บางทีต้องเสียเวลาเป็นชั่วโมง
+
+น: อู้แล้วบ่ะดีเลย แล้วป้อจายใช้วิธีไหนไปเมือง?
+
+ป: ปกติข้าใช้รถเมล์ แต่บางครั้งก็ใช้รถไฟฟ้า มันเร็วกว่า
+
+น: อู้ดีเนาะ รถไฟฟ้าเร็วกว่า แต่ก็บ่ะได้มีทุกที่เนาะ
+
+ป: แม่นแล้วหนานคำ หวังว่าอนาคตจะมีการขยายเส้นทางเพิ่มขึ้นเนาะ
+
+น: หวังว่าอย่างนั้นเนาะ จะได้สะดวกขึ้นกั๋นทุกคน","tawlakhr: hnankham (n) aela pochay (p)
+
+n: hwaddipochay wanniaipaihnma?
+
+p: hwaddihnankham wanniaiptangainemueongma aipsueokhongkabaiphahmo
+
+n: outhuengkaraipemueong tangainemueongediywnirthtidkhnadelyk?
+
+p: oubaaidelyhnankham rthtidkhnad bangthitongesiyewlaepnchawomng
+
+n: ouaelwbadiely aelwpochayaichwithiaihnaipemueong?
+
+p: pktikhaaichrtheml aetbangkhrangkaichrthaiffa manerwkwa
+
+n: oudienaa rthaiffaerwkwa aetkbaaidmithukthienaa
+
+p: aemnaelwhnankham hwangwaonakhtchamikarkhyayesnthangephimkhuenenaa
+
+n: hwangwaoyangnanenaa chaaidsadwkkhuenkanthukkhn",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ ครอบครัว บทสนทนาบะควรเกิน 5 turns,"ตัวละคร: แม่อุ้ย (แม่) และ หนานจาย (ลูกชาย)
+
+แม่อุ้ย: ""หนานจาย วันนี้ไปไหนมาล่ะลูก?""
+หนานจาย: ""ไปเฮียนหนังสือที่ห้องสมุดมาครับแม่อุ้ย แล้วก็แวะไปหาป้อกับแม่ที่บ้าน""
+แม่อุ้ย: ""อ้อ ดีแล้วลูก ป้อกับแม่เป๋นจะไดพ่อง?""
+หนานจาย: ""ป้อกับแม่สบายดีครับ แม่อุ้ยล่ะครับ เป๋นจะไดพ่อง?""
+แม่อุ้ย: ""แม่อุ้ยก็สบายดีลูก แค่คิดถึงหลานๆ บ่ได้เจอกันนานแล้ว""
+หนานจาย: ""งั้นวันหยุดนี้ ผมจะพาหลานๆ มาเยี่ยมแม่อุ้ยเน้อครับ""
+
+แม่อุ้ย: ""ดีใจนักเลยลูก จะได้หันหน้าหันตากันบ้าง""","tawlakhr: aemouy (aem) aela hnanchay (lukchay)
+
+aemouy: ""hnanchay wanniaipaihnmalaluk?""
+hnanchay: ""aipehiynhnangsueothihongsmudmakhrabaemouy aelwkaewaaiphapokabaemthiban""
+aemouy: ""oo diaelwluk pokabaemepnchaaidphong?""
+hnanchay: ""pokabaemsbaydikhrab aemouylakhrab epnchaaidphong?""
+aemouy: ""aemouyksbaydiluk aekhkhidthuenghlan- baidechokannanaelw""
+hnanchay: ""nganwanhyudni phmchaphahlan- maeyiymaemouyenokhrab""
+
+aemouy: ""diaichnakelyluk chaaidhanhnahantakanbang""",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ กลับบ้านช่วงเทศกาล บทสนทนาบะควรเกิน 5 turns,"ตัวละคร: หนานคำ (น) และ ป้อจาย (ป)
+
+น: ป้อจาย ตึงปีนี้จะกลับบ้านช่วงเทศกาลก่อ?
+ป: กลับแน่นอนหนานคำ ปี๋นี้กะอยากไปแอ่วหาครอบครัวเต้าอั้น
+น: ดีแล้ว ๆ ปี๋นี้บ้านเฮามีงานบุญใหญ่ จะได้มาช่วยกั๋นเตรียมงาน
+ป: อู้แล้วกะตื่นเต้นเนาะ บ่ได้กลับบ้านนานแล้ว คิดถึงข้าวซอยฝีมือแม่ขนาด
+น: อู้ถึงข้าวซอยกะหิวละเนาะ ป้อจายเตรียมตัวดี ๆ เน้อ เดินทางปลอดภัย
+
+(บทสนทนาจบ)","tawlakhr: hnankham (n) aela pochay (p)
+
+n: pochay tuengpinichaklabbanchwngethskalko?
+p: klabaennonhnankham pinikaoyakaipaeowhakhrobkhrawetaoan
+n: diaelw - pinibanehaminganbuyaihy chaaidmachwykanetriymngan
+p: ouaelwkatuenetnenaa baidklabbannanaelw khidthuengkhawsoyfimueoaemkhnad
+n: outhuengkhawsoykahiwlaenaa pochayetriymtawdi - eno edinthangplodphay
+
+(bthsnthnachb)",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ การเมืองท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"ตัวละคร: 
+1. พ่อหนานคำ (อายุ 60 ปี)
+2. หนุ่มน้อย (อายุ 25 ปี)
+
+---
+
+พ่อหนานคำ: ""หนุ่มน้อย เอ็งฮู้ก่อว่าอาทิตย์หน้าจะมีการเลือกตั้งท้องถิ่น?""
+
+หนุ่มน้อย: ""ฮู้แล้วครับพ่อหนานคำ ผมกะว่าจะไปเลือกตั้งอยู่ แต่บะฮู้ว่าจะเลือกไผดี""
+
+พ่อหนานคำ: ""อืม... การเลือกตั้งท้องถิ่นนี่สำคัญเน้อ เอ็งต้องเลือกคนที่เฮาสามารถไว้ใจได้ และฮู้จักทำงานเพื่อชุมชน""
+
+หนุ่มน้อย: ""พ่อหนานคำมีคนในใจแล้วก่อครับ?""
+
+พ่อหนานคำ: ""อืม... ข้าคิดว่าพ่อหลวงสมชายก็ดีเน้อ เขาเป็นคนที่ทำงานเพื่อชุมชนมาตลอด และบะเคยมีเรื่องเสียหาย""
+
+หนุ่มน้อย: ""ขอบคุณครับพ่อหนานคำ ผมจะไปศึกษาข้อมูลเพิ่มเติม แล้วจะตัดสินใจเลือกคนที่ดีที่สุดเพื่อบ้านเฮา""
+
+---
+
+บทสนทนานี้แสดงถึงการแลกเปลี่ยนความคิดเห็นและคำแนะนำเกี่ยวกับการเลือกตั้งท้องถิ่นในชุมชนภาคเหนือของประเทศไทย","tawlakhr: 
+1. phohnankham (oayu 60 pi)
+2. hnumnoy (oayu 25 pi)
+
+---
+
+phohnankham: ""hnumnoy eonghukowaoathityhnachamikarelueoktangthongthin?""
+
+hnumnoy: ""huaelwkhrabphohnankham phmkawachaaipelueoktangoyu aetbahuwachaelueokaiphdi""
+
+phohnankham: ""ouem... karelueoktangthongthinnisamkhayeno eongtongelueokkhnthiehasamarthaiwaichaid aelahuchakthamnganephueochumchn""
+
+hnumnoy: ""phohnankhammikhnainaichaelwkokhrab?""
+
+phohnankham: ""ouem... khakhidwaphohlwngsmchaykdieno ekhaepnkhnthithamnganephueochumchnmatlod aelabaekhymierueongesiyhay""
+
+hnumnoy: ""khobkhunkhrabphohnankham phmchaaipsueksakhomulephimetim aelwchatadsinaichelueokkhnthidithisudephueobaneha""
+
+---
+
+bthsnthnaniaesdngthuengkaraelkepliynkhwamkhidehnaelakhamaenanamekiywkabkarelueoktangthongthinainchumchnphakhehnueokhongpraethsaithy",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ สภาพอากาศ บทสนทนาบะควรเกิน 5 turns,"บ่ะใจ้ปัญหาเลยเจ้า นี่เป๋นตัวอย่างบทสนทนากำอู้ของคนเหนือเกี่ยวกับสภาพอากาศ:
+
+**คนที่ 1:** ""วันนี้อากาศเย็นขนาดเลยเนาะ บ่ะฮู้จะใส่เสื้อหนาเต้าใดดี""
+**คนที่ 2:** ""แม่นแล้วเจ้า เมื่อคืนฝนก็ตกหนัก ขนาดนี้คงจะเย็นไปอีกหลายวัน""
+**คนที่ 1:** ""อืม... บ่ะดีลืมเอาร่มไปตวยเน้อ เผื่อฝนตกอีก""
+**คนที่ 2:** ""ใช่เจ้า แล้วก็บ่ะดีลืมใส่เสื้อกันหนาวเน้อ เดี๋ยวจะเป็นหวัด""
+**คนที่ 1:** ""ขอบคุณเน้อเจ้า จะระวังตัวดีๆ""
+
+หวังว่าจะถูกใจเน้อเจ้า!","baaichpayhaelyecha niepntawoyangbthsnthnakamoukhongkhnehnueoekiywkabsphaphoakas:
+
+**khnthi 1:** ""wannioakaseynkhnadelyenaa bahuchaaisesueohnaetaaiddi""
+**khnthi 2:** ""aemnaelwecha emueokhuenfnktkhnak khnadnikhngchaeynaipoikhlaywan""
+**khnthi 1:** ""ouem... badiluemeoarmaiptwyeno ephueofntkoik""
+**khnthi 2:** ""aichecha aelwkbadiluemaisesueokanhnaweno ediywchaepnhwad""
+**khnthi 1:** ""khobkhunenoecha charawangtawdi-""
+
+hwangwachathukaichenoecha!",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ อาหารท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"ตัวละคร: 
+1. แม่อุ้ยคำ (แม่อุ้ย)
+2. หนานแก้ว (หนาน)
+
+---
+
+แม่อุ้ยคำ: หนานแก้ว วันนี้ไปกิ๋นข้าวแลงตี้ไหนมา?
+หนานแก้ว: อู้ย แม่อุ้ย วันนี้ไปกิ๋นข้าวแลงตี้ร้านข้าวซอยป้าจันทร์มาเจ้า อร่อยขนาด
+
+แม่อุ้ยคำ: อู้ย ข้าวซอยป้าจันทร์นี่ลำขนาดเนาะ หนานแก้วชอบกิ๋นข้าวซอยไก่ก่อ?
+หนานแก้ว: แม่นแล้วเจ้า ข้าวซอยไก่นี่ลำแต๊ๆ น้ำแกงเข้มข้น ขนมจีนก่ะนุ่ม
+
+แม่อุ้ยคำ: แม่อุ้ยก่ะชอบข้าวซอยไก่ แต่ถ้าจะลำแต้ๆ ต้องใส่ผักกาดดองกับหอมแดงแห๋มหน้อย
+หนานแก้ว: ใช่เลยเจ้า แม่อุ้ย แล้วแม่อุ้ยล่ะ ชอบกิ๋นอะหยังตี้สุด?
+
+แม่อุ้ยคำ: แม่อุ้ยชอบกิ๋นแกงฮังเลเจ้า รสชาติเข้มข้น หอมเครื่องแกง กิ๋นกับข้าวเหนียวฮ้อนๆ นี่ลำขนาด
+หนานแก้ว: แกงฮังเลก่ะลำเนาะแม่อุ้ย ไว้วันหลังหนานจะไปกิ๋นกับแม่อุ้ยเน้อ
+
+แม่อุ้ยคำ: ได้เลยหนานแก้ว ไว้วันหลังแม่อุ้ยจะเฮ็ดแกงฮังเลหื้อกิ๋นเน้อ
+
+หนานแก้ว: ขอบคุณเจ้าแม่อุ้ย รอคอยบ่ไหวแล้วเจ้า
+
+แม่อุ้ยคำ: ฮ่าๆ ยินดีเจ้า หนานแก้ว
+
+---","tawlakhr: 
+1. aemouykham (aemouy)
+2. hnanaekw (hnan)
+
+---
+
+aemouykham: hnanaekw wanniaipkinkhawaelngtiaihnma?
+hnanaekw: ouy aemouy wanniaipkinkhawaelngtirankhawsoypachanthrmaecha oroykhnad
+
+aemouykham: ouy khawsoypachanthrnilamkhnadenaa hnanaekwchobkinkhawsoyaikko?
+hnanaekw: aemnaelwecha khawsoyaiknilamaet- namaekngekhmkhn khnmchinkanum
+
+aemouykham: aemouykachobkhawsoyaik aetthachalamaet- tongaisphakkaddongkabhomaedngaehmhnoy
+hnanaekw: aichelyecha aemouy aelwaemouyla chobkinoahyangtisud?
+
+aemouykham: aemouychobkinaeknghangelecha rschatiekhmkhn homekhrueongaekng kinkabkhawehniywhon- nilamkhnad
+hnanaekw: aeknghangelkalamenaaaemouy aiwwanhlanghnanchaaipkinkabaemouyeno
+
+aemouykham: aidelyhnanaekw aiwwanhlangaemouychaehdaeknghangelhueokineno
+
+hnanaekw: khobkhunechaaemouy rokhoybaihwaelwecha
+
+aemouykham: ha- yindiecha hnanaekw
+
+---",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"ตัวละคร: แม่อุ้ยคำ (แม่อุ้ย) และ หนานแก้ว (หนาน)
+
+แม่อุ้ยคำ: ""หนานแก้ว วันนี้อุ้ยจะไปงานประเพณีที่วัด จะใส่ชุดพื้นเมืองไปดีบ่?""
+
+หนานแก้ว: ""ดีแล้วแม่อุ้ย ชุดพื้นเมืองเฮามันงามแต้ๆ ใส่ไปงานประเพณีเหมาะขนาด""
+
+แม่อุ้ยคำ: ""อุ้ยว่าจะใส่ผ้าซิ่นลายดอกไม้กับเสื้อปั๊ดสีขาว หนานว่าเหมาะก่อ?""
+
+หนานแก้ว: ""เหมาะแต้ๆ แม่อุ้ย ผ้าซิ่นลายดอกไม้กับเสื้อปั๊ดสีขาวมันเข้ากั๋นดี จะงามขนาด""
+
+แม่อุ้ยคำ: ""ขอบคุณหนานแก้วเน้อ อุ้ยจะไปเตรียมตัวละ จะได้ไปงานประเพณีอย่างมั่นใจ""
+
+หนานแก้ว: ""ยินดีเจ้าแม่อุ้ย ขอหื้อแม่อุ้ยมีความสุขกับงานประเพณีเน้อ""","tawlakhr: aemouykham (aemouy) aela hnanaekw (hnan)
+
+aemouykham: ""hnanaekw wanniouychaaipnganpraephnithiwad chaaischudphuenemueongaipdib?""
+
+hnanaekw: ""diaelwaemouy chudphuenemueongehamanngamaet- aisaipnganpraephniehmaakhnad""
+
+aemouykham: ""ouywachaaisphasinlaydokaimkabesueopadsikhaw hnanwaehmaako?""
+
+hnanaekw: ""ehmaaaet- aemouy phasinlaydokaimkabesueopadsikhawmanekhakandi changamkhnad""
+
+aemouykham: ""khobkhunhnanaekweno ouychaaipetriymtawla chaaidaipnganpraephnioyangmanaich""
+
+hnanaekw: ""yindiechaaemouy khohueoaemouymikhwamsukhkabnganpraephnieno""",.
+จงสร้างบทสนหื้อเขียนกำอู้ของคนเหนือ โดยอู้เกี่ยวกับ การศึกษาท้องถิ่น บทสนทนาบะควรเกิน 5 turns,"ตัวละคร: 
+1. พ่อหนาน (พ่อ)
+2. แม่อุ้ย (แม่)
+
+---
+
+พ่อหนาน: ""แม่อุ้ย ตั๋วนี้เปิ้นฮู้ก่อว่าการศึกษาท้องถิ่นบ้านเฮามันสำคัญจะใด?""
+
+แม่อุ้ย: ""อู้ไปแล้วพ่อหนาน การศึกษาท้องถิ่นมันเป๋นหัวใจ๋ของการฮักษาวัฒนธรรมบ้านเฮาเนาะ""
+
+พ่อหนาน: ""แม่นแล้ว แม่อุ้ย ถ้าบ่มีการศึกษาท้องถิ่น เด็กรุ่นใหม่ก็บ่ฮู้จักประเพณีและภูมิปัญญาของเฮา""
+
+แม่อุ้ย: ""ใช่แล้วพ่อหนาน เฮาต้องสอนลูกหลานหื้อฮู้จักการทอผ้า การทำอาหารพื้นเมือง และการฮักษาภาษาถิ่น""
+
+พ่อหนาน: ""อืม... แล้วเฮาจะเริ่มต้นจะใดดีแม่อุ้ย? จะไปขอความร่วมมือจากโรงเรียนหรือจะจัดกิจกรรมในชุมชน?""
+
+แม่อุ้ย: ""ข้าเจ้าว่าเฮาควรจะทำทั้งสองอย่างเนาะพ่อหนาน โรงเรียนก็ควรจะมีหลักสูตรท้องถิ่น และชุมชนก็ควรจะจัดกิจกรรมหื้อเด็กๆ ได้มาเรียนรู้""
+
+พ่อหนาน: ""แม่นแล้วแม่อุ้ย เฮาจะได้ฮักษาวัฒนธรรมบ้านเฮาไว้หื้อยั่งยืนไปถึงรุ่นลูกหลาน""
+
+แม่อุ้ย: ""ใช่แล้วพ่อหนาน เฮาต้องฮ่วมมือกันหื้อเต็มที่เนาะ""
+
+---
+
+บทสนทนานี้แสดงให้เห็นถึงความสำคัญของการศึกษาท้องถิ่นและการฮักษาวัฒนธรรมของชุมชน โดยการฮ่วมมือกันระหว่างครอบครัว โรงเรียน และชุมชน","tawlakhr: 
+1. phohnan (pho)
+2. aemouy (aem)
+
+---
+
+phohnan: ""aemouy tawniepinhukowakarsueksathongthinbanehamansamkhaychaaid?""
+
+aemouy: ""ouaipaelwphohnan karsueksathongthinmanepnhawaichkhongkarhaksawathnthrrmbanehaenaa""
+
+phohnan: ""aemnaelw aemouy thabmikarsueksathongthin edkrunaihmkbhuchakpraephniaelaphumipayyakhongeha""
+
+aemouy: ""aichaelwphohnan ehatongsonlukhlanhueohuchakkarthopha karthamoaharphuenemueong aelakarhaksaphasathin""
+
+phohnan: ""ouem... aelwehachaerimtnchaaiddiaemouy? chaaipkhokhwamrwmmueochakorngeriynhrueochachadkichkrrmainchumchn?""
+
+aemouy: ""khaechawaehakhwrchathamthangsongoyangenaaphohnan orngeriynkkhwrchamihlaksutrthongthin aelachumchnkkhwrchachadkichkrrmhueoedk- aidmaeriynru""
+
+phohnan: ""aemnaelwaemouy ehachaaidhaksawathnthrrmbanehaaiwhueoyangyuenaipthuengrunlukhlan""
+
+aemouy: ""aichaelwphohnan ehatonghwmmueokanhueoetmthienaa""
+
+---
+
+bthsnthnaniaesdngaihehnthuengkhwamsamkhaykhongkarsueksathongthinaelakarhaksawathnthrrmkhongchumchn odykarhwmmueokanrahwangkhrobkhraw orngeriyn aelachumchn",.

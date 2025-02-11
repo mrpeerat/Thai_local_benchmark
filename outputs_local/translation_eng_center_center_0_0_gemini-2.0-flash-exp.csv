@@ -1,0 +1,101 @@
+Input,Pred,Pred_Latin,Gold
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: The group of students enjoys going for evening walks with their teacher because the weather is cool. They get some exercise, and the surrounding trees along the path make the air feel very refreshing.
+คำแปล:","กลุ่มนักเรียนชอบไปเดินเล่นตอนเย็นกับครู เพราะอากาศเย็นสบาย พวกเขาได้ออกกำลังกาย และต้นไม้รอบๆ ทางเดินทำให้อากาศสดชื่นมาก
+","klumnakeriynchobaipedinelntoneynkabkhru ephraaoakaseynsbay phwkekhaaidookkamlangkay aelatnaimrob- thangedinthamaihoakassdchuenmak
+",กลุ่มนักเรียนชอบไปเดินเล่นกับอาจารย์ในช่วงเย็น เพราะอากาศมันเย็นสบาย ได้ออกกำลังกายและป่าไม้รอบๆทางเดินก็ทำให้อากาศดีมากๆด้วย
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I rode my motorcycle to buy coffee at the entrance of the alley, only to find that my favorite shop was closed. So, I went to try a new place instead. It wasn't good at all. I wouldn't go buy it there again.
+คำแปล:","ฉันขี่มอเตอร์ไซค์ไปซื้อกาแฟที่ปากซอย แต่พบว่าร้านโปรดของฉันปิด ฉันเลยไปลองร้านใหม่แทน มันไม่อร่อยเลย ฉันจะไม่ไปซื้อที่นั่นอีก
+","chankhimoetoraiskhaipsueokaaefthipaksoy aetphbwaranoprdkhongchanpid chanelyaiplongranaihmaethn manaimoroyely chanchaaimaipsueothinanoik
+",ขับรถมอเตอร์ไซไปซื้อกาแฟที่หน้าปากซอย แต่ก็พบว่าร้านประจำที่ชอบกินมันปิดไปแล้ว ก็เลยขับรถไปซื้อร้านใหม่ ไม่อร่อยเลย จะไม่ไปซื้ออีกแล้ว
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I wanted to get into Suankularb School because I thought it was a great school. So, I studied really hard to pass the entrance exam. In the end, I didn’t make it, and I was very disappointed.
+คำแปล:","ฉันอยากเข้าโรงเรียนสวนกุหลาบวิทยาลัยเพราะคิดว่าเป็นโรงเรียนที่ดีมาก ดังนั้นฉันจึงตั้งใจเรียนอย่างหนักเพื่อสอบเข้าให้ได้ สุดท้ายฉันก็สอบไม่ติด และผิดหวังมาก
+","chanoyakekhaorngeriynswnkuhlabwithyalayephraakhidwaepnorngeriynthidimak dangnanchanchuengtangaicheriynoyanghnakephueosobekhaaihaid sudthaychanksobaimtid aelaphidhwangmak
+",ฉันอยากสอบเข้าโรงเรียนสวนกุหลาบเพราะคิดว่าเป็นโรงเรียนที่ดี ฉันเลยตั้งใจเรียนมากๆเพื่อที่จะสอบเข้าที่นี้ให้ได้ สุดท้ายสอบไม่ติด เสียใจมาก
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: My friends all love traveling abroad, but I feel it's a waste of money. So, I’d rather go to the beach in Thailand instead. The weather is great, the prices are cheap—it’s so much better! I really don’t understand why people go abroad.
+คำแปล:","เพื่อนๆ ฉันชอบเที่ยวต่างประเทศกันหมด แต่ฉันรู้สึกว่ามันเป็นการสิ้นเปลืองเงิน ฉันเลยอยากไปเที่ยวทะเลในประเทศไทยมากกว่า อากาศก็ดี ราคาถูกกว่าเยอะ มันดีกว่ามาก! ฉันไม่เข้าใจจริงๆ ว่าทำไมคนถึงไปต่างประเทศกัน
+","ephueon- chanchobethiywtangpraethskanhmd aetchanrusuekwamanepnkarsineplueongengin chanelyoyakaipethiywthaelainpraethsaithymakkwa oakaskdi rakhathukkwaeyoa mandikwamak! chanaimekhaaichchring- wathamaimkhnthuengaiptangpraethskan
+",เพื่อนๆรอบตัวชอบไปเที่ยวเมืองนอก แต่รู้สึกเสียดายเงิน เลยไปเที่ยวทะเลในไทยแทน อากาศก็ดี ราคาก็ถูก ดีกว่าเยอะ ทำไมต้องไปเมืองนอกกันด้วย ไม่เข้าใจ
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: They are helping each other clean the house because it’s full of mud after the flooding incident last week. It’s going to take a long time to clean up.
+คำแปล:","พวกเขากำลังช่วยกันทำความสะอาดบ้าน เพราะเต็มไปด้วยโคลนหลังจากเหตุการณ์น้ำท่วมเมื่อสัปดาห์ที่แล้ว คงต้องใช้เวลานานในการทำความสะอาด
+","phwkekhakamlangchwykanthamkhwamsaoadban ephraaetmaipdwyokhlnhlangchakehtukarnnamthwmemueosapdahthiaelw khngtongaichewlananainkarthamkhwamsaoad
+",พวกเขากำลังช่วยกันทำความสะอาดบ้านเพราะที่บ้านมีแต่โคลนเต็มไปหมด หลังจากเกิดเหตุการณ์น้ำท่วมเมื่ออาทิตย์ที่ผ่านมา  ต้องทำความสะอาดอีกนานเลย
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Dad and mom love working in the garden because the atmosphere is nice and peaceful, plus there’s a beautiful mountain view that feels like stepping into another world.
+คำแปล:","พ่อกับแม่ชอบทำงานในสวนเพราะบรรยากาศดีและเงียบสงบ แถมยังมีวิวภูเขาที่สวยงามที่ให้ความรู้สึกเหมือนได้ก้าวเข้าไปในอีกโลกหนึ่ง
+","phokabaemchobthamnganainswnephraabrryakasdiaelaengiybsngb aethmyangmiwiwphuekhathiswyngamthiaihkhwamrusuekehmueonaidkawekhaaipainoikolkhnueng
+",พ่อกับแม่ชอบไปทำงานที่สวนมากเพราะที่สวนบรรยากาศดีและสงบ รวมไปถึงวิวภูเขาที่ดูสวยงามเหมือนหลุดเข้าไปอีกโลก
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Nam Prik Noom is a famous dish from the northern region, with key ingredients including chili peppers, shallots, and garlic.
+คำแปล:","น้ำพริกหนุ่มเป็นอาหารที่มีชื่อเสียงจากภาคเหนือ โดยมีส่วนผสมหลักคือพริกหนุ่ม หอมแดง และกระเทียม
+","namphrikhnumepnoaharthimichueoesiyngchakphakhehnueo odymiswnphsmhlakkhueophrikhnum homaedng aelakraethiym
+",เมนูน้ำพริกหนุ่มเป็นอาหารขึ้นชื่อของภาคเหนือ โดยมีวัตถุดิบหลักๆ คือ พริกชี้ฟ้า หอมเแดง กระเทียม 
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Anyone interested in joining us for papaya salad and grilled chicken at Khun Korn’s Kitchen for lunch?
+คำแปล:","ใครสนใจไปทานส้มตำและไก่ย่างด้วยกันที่ร้านครัวคุณกรสำหรับมื้อกลางวันบ้างไหม?
+","aikhrsnaichaipthansmtamaelaaikyangdwykanthirankhrawkhunkrsamhrabmueoklangwanbangaihm?
+",พวกเราตอนเที่ยงมีใครสนใจไปกินส้มตำไก่ย่างที่ร้านครัวคุณกรไหม?
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I woke up very early today to go watch the buffalo race. The weather was so hot that when I got back home, I had to take a rest because I had a headache.
+คำแปล:","วันนี้ฉันตื่นเช้ามากเพื่อไปดูการแข่งควาย อากาศร้อนมากจนเมื่อกลับถึงบ้าน ฉันต้องพักผ่อนเพราะปวดหัว
+","wannichantuenechamakephueoaipdukaraekhngkhway oakasronmakchnemueoklabthuengban chantongphakphonephraapwdhaw
+",วันนี้ตื่นเช้ามากเพราะจะไปดูแข่งวิ่งควาย อากาศร้อนมาก กลับบ้านมาเลยนอนพักเพราะปวดหัว 
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Why do I have to do this work again? I’ve revised it so many times, but it’s never finished. The person who keeps asking for revisions doesn’t even know what they’re doing. I’m so exhausted.
+คำแปล:","ทำไมฉันต้องทำงานนี้ใหม่อีกแล้ว? ฉันแก้ไขมันมาหลายครั้งมาก แต่ก็ไม่เคยเสร็จ คนที่คอยให้แก้ก็ไม่รู้ด้วยซ้ำว่าตัวเองกำลังทำอะไร ฉันเหนื่อยมาก
+","thamaimchantongthamnganniaihmoikaelw? chanaekaikhmanmahlaykhrangmak aetkaimekhyesrch khnthikhoyaihaekkaimrudwysamwataweongkamlangthamoaair chanehnueoymak
+",ทำไมฉันต้องทำงานนี้อีกแล้ว แก้มาหลายรอบแล้ว ไม่เสร็จสักที คนสั่งให้แก้ก็ไม่รู้ว่าตัวเองทำอะไรอยู่ ฉันเหนื่อยมากนะ
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I bought fried chicken for my friend, but I was too hungry, so I ate it instead. My friend didn’t mind and even reheated it for me. Such a kind friend!
+คำแปล:","ฉันซื้อไก่ทอดให้เพื่อน แต่ฉันหิวเกินไป เลยกินมันแทน เพื่อนฉันไม่ว่าอะไร แถมยังอุ่นให้ฉันอีกด้วย เพื่อนใจดีอะไรเช่นนี้!
+","chansueoaikthodaihephueon aetchanhiwekinaip elykinmanaethn ephueonchanaimwaoaair aethmyangounaihchanoikdwy ephueonaichdioaairechnni!
+",ฉันซื้อไก่ทอดมาฝากเพื่อน แต่หิวเกินเลยเอาของเพื่อนมากิน เพื่อนไม่ว่าแถมเอาไก่ไปอุ่นให้อีกด้วย เพื่อนเป็นคนดีจริงๆ
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I never knew before that Beer was so good at rock climbing. It’s impressive, and I’ll use him as an example of discipline and consistency in exercise.
+คำแปล:","ฉันไม่เคยรู้มาก่อนว่าเบียร์เก่งปีนผาหินขนาดนี้ มันน่าประทับใจ และฉันจะใช้เขาเป็นตัวอย่างของวินัยและความสม่ำเสมอในการออกกำลังกาย
+","chanaimekhyrumakonwaebiyrekngpinphahinkhnadni mannaprathabaich aelachanchaaichekhaepntawoyangkhongwinayaelakhwamsmamesmoainkarookkamlangkay
+",ฉันไม่เคยรู้มาก่อนเลยว่าพี่เบียร์จะเป็นคนที่ปีนผาได้เก่งขนาดนี้ น่าทึ่งมาก และจะเอาเขาเป็นแบบอย่างของความมีวินัยและสม่ำเสมอในการออกกำลังกาย
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Some people like to collect luxury watches, while others prefer designer bags. In the end, you can’t take any of it with you when you die.
+คำแปล:","บางคนชอบสะสมนาฬิกาหรู ในขณะที่บางคนชอบกระเป๋าแบรนด์เนม ท้ายที่สุดแล้ว คุณไม่สามารถนำสิ่งเหล่านั้นติดตัวไปได้เมื่อคุณตาย
+","bangkhnchobsasmnalikahru ainkhnathibangkhnchobkraepaaebrndenm thaythisudaelw khunaimsamarthnamsingehlanantidtawaipaidemueokhuntay
+",บางคนชอบสะสมนาฬิกาหรู แต่บางคนชอบสะสมกระเป๋าแบรนด์เนม สุดท้ายตายไปก็เอาไปไม่ได้
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: On rainy days, you have to take an umbrella, but today, Gam forgot hers. So, she stayed home and relaxed.
+คำแปล:","ในวันที่ฝนตก คุณต้องพกร่ม แต่ว่าวันนี้ แก้มลืมร่มของเธอ ดังนั้นเธอจึงอยู่บ้านและพักผ่อน
+","ainwanthifntk khuntongphkrm aetwawanni aekmluemrmkhongetho dangnanethochuengoyubanaelaphakphon
+",วันที่ฝนตกจะต้องนำร่มออกไปด้วย แต่วันนี้น้องแก้มลืมเอาร่มมา ดังนั้นน้องแก้มจึงนอนเล่นอยู่บ้าน
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: There are two kinds of stomach aches: one where you need to use the bathroom, and a real one that needs medical attention. After that, you bring a medical certificate to the teacher for a leave of absence.
+คำแปล:","อาการปวดท้องมีสองแบบ: แบบที่ต้องเข้าห้องน้ำ กับแบบที่เป็นจริงจังที่ต้องได้รับการรักษาพยาบาล หลังจากนั้น คุณก็นำใบรับรองแพทย์ไปให้ครูเพื่อลาหยุด
+","oakarpwdthongmisongaebb: aebbthitongekhahongnam kabaebbthiepnchringchangthitongaidrabkarraksaphyabal hlangchaknan khunknamaibrabrongaephthyaipaihkhruephueolahyud
+",ปวดท้องมีอยู่ 2 อย่างคือ ปวดท้องขี้ กับ กับปวดท้องจริงๆ ที่ต้องไปหาหมอ จากนั้นเอาใบรับรองแพทย์มาให้อาจารย์ เพื่อใช้ในการลาเรียน
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: People who like to tease others are no-good. If you want to be a good person, don’t tease others. But Korn often gets teased, which makes him shout, ""What the heck is your problem?""
+คำแปล:","คนที่ชอบแกล้งคนอื่นเป็นคนไม่ดี ถ้าอยากเป็นคนดี อย่าแกล้งคนอื่น แต่กานต์มักจะโดนแกล้ง ทำให้เขาตะโกนว่า ""พวกแกเป็นอะไรกันนักหนา!""
+","khnthichobaeklngkhnouenepnkhnaimdi thaoyakepnkhndi oyaaeklngkhnouen aetkantmakchaodnaeklng thamaihekhataoknwa ""phwkaekepnoaairkannakhna!""
+","คนที่ชอบแกล้งคนอื่นคือคนไม่รักดี ถ้าอยากเป็นคนดี ต้องไม่แกล้งคนอื่น แต่น้องกรโดนแกล้งบ่อยๆ เลย ทำให้น้องกร ตะโกนว่า ""มึงเป็นเหี้ยอะไร"""
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: Your cow is very spirited, kicking up the dirt non-stop. It shows it’s ready to fight.
+คำแปล:","วัวของคุณมีชีวิตชีวามาก เตะดินไม่หยุด มันแสดงให้เห็นว่ามันพร้อมที่จะสู้
+","wawkhongkhunmichiwitchiwamak etadinaimhyud manaesdngaihehnwamanphromthichasu
+",วัวของคุณคึกคะนองมากตะกุยดินไม่หยุดเลย แสดงว่ามันอยากจะต่อสู้กันแล้ว
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: How could you not feel hot and cold flashes? You made a mistake, and your wife found out.
+คำแปล:","คุณจะไม่รู้สึกร้อนๆ หนาวๆ ได้อย่างไร? คุณทำผิดพลาด และภรรยาของคุณจับได้
+","khunchaaimrusuekron- hnaw- aidoyangair? khunthamphidphlad aelaphrryakhongkhunchabaid
+",คุณจะไม่รู้สึกสะบัดร้อนสะบัดหนาวขึ้นมาได้อย่างไรเล่า เพราะคุณทำผิดแล้วเมียจับได้
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: That dog crossed the road with grilled pork in its mouth, heading to its puppies. The scene was heartwarming and touching.
+คำแปล:","สุนัขตัวนั้นคาบหมูย่างข้ามถนน มุ่งหน้าไปหาลูกสุนัขของมัน ภาพนั้นช่างอบอุ่นหัวใจและซาบซึ้ง
+","sunakhtawnankhabhmuyangkhamthnn munghnaaiphaluksunakhkhongman phaphnanchangobounhawaichaelasabsueng
+",สุนัขตัวนั้นเดินข้ามถนนพร้อมหมูปิ้งในปาก มุ่งหน้าไปหาลูกๆ ของมัน ภาพที่เห็นช่างน่าสงสารและจับใจ
+"แปลข้อความต่อไปนี้จาก ภาษาอังกฤษ เป็น ภาษาไทย ให้การแปลของคุณโดยตรงโดยไม่ต้องมีข้อมูลเพิ่มเติมใดๆ
+ข้อความ: I caught this big fish yesterday, and most of the fish I catch on the line tend to be female fish.
+คำแปล:","เมื่อวานฉันจับปลาตัวใหญ่ได้ และปลาส่วนใหญ่ที่ฉันจับได้ด้วยสายเบ็ดมักจะเป็นปลาตัวเมีย
+","emueowanchanchabplatawaihyaid aelaplaswnaihythichanchabaiddwysayebdmakchaepnplatawemiy
+",ปลาตัวโตนี้ผมตกเบ็ดได้มาเมื่อวานและปลาที่ติดเบ็ดลากนี้ส่วนมากมักจะเป็นแม่ปลา

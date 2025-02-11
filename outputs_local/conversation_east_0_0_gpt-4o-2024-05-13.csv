@@ -1,0 +1,187 @@
+Input,Pred,Pred_Latin,Gold
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ ประเพณีท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"บักจ่อย: ""อ้ายคำแพง บ่ฮู้บ่ ปีนี้บ้านเฮาสิฮ่วมงานบุญบั้งไฟอีกแล้วเด้อ!""
+
+อ้ายคำแพง: ""ฮู้แล้วบักจ่อย ปีนี้สิไปจุดบั้งไฟใหญ่กว่าปีก่อนอีก บ่ฮู้สิขึ้นสูงปานใด๋""
+
+บักจ่อย: ""แม่นแล้วอ้าย งานบุญบั้งไฟบ้านเฮานี่ดังไปทั่วเลย คนมาจากหลายบ้านหลายเมือง""
+
+อ้ายคำแพง: ""กะดีแล้วบักจ่อย เฮาสิได้ฮักษาประเพณีบ้านเฮาไว้ให้ลูกหลานเบิ่ง""
+
+บักจ่อย: ""แม่นแล้วอ้าย เฮาสิไปฮ่วมงานกันเด้อ บ่ให้พลาดเลย""","bakchoy: ""oaykhamaephng bhub pinibanehasihwmnganbuybangaifoikaelwedo!""
+
+oaykhamaephng: ""huaelwbakchoy pinisiaipchudbangaifaihykwapikonoik bhusikhuensungpanaid""
+
+bakchoy: ""aemnaelwoay nganbuybangaifbanehanidangaipthawely khnmachakhlaybanhlayemueong""
+
+oaykhamaephng: ""kadiaelwbakchoy ehasiaidhaksapraephnibanehaaiwaihlukhlanebing""
+
+bakchoy: ""aemnaelwoay ehasiaiphwmngankanedo baihphladely""",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ อาชีพ บทสนทนาบ่ควรเกิน 5 turns,"บักจ่อย: ""เฮ้ย บักคำแพง มื้อนี้เจ้าสิไปไส?""
+
+บักคำแพง: ""อ๋อ บักจ่อย ข่อยสิไปเฮ็ดนาเด้อ มื้อนี้ฝนตกดี ข้าวสิขึ้นงาม""
+
+บักจ่อย: ""อืม ดีแล้วล่ะ ข่อยกะสิไปเฮ็ดสวนผักคือกัน มะเขือเทศกำลังงาม""
+
+บักคำแพง: ""เออ ดีๆ เฮ็ดงานหนักๆ แต่กะสุขใจเนาะ""
+
+บักจ่อย: ""แม่นแล้ว บักคำแพง อาชีพเฮาเฮ็ดให้เฮามีอยู่มีกิน""","bakchoy: ""ehy bakkhamaephng mueoniechasiaipais?""
+
+bakkhamaephng: ""oo bakchoy khoysiaipehdnaedo mueonifntkdi khawsikhuenngam""
+
+bakchoy: ""ouem diaelwla khoykasiaipehdswnphakkhueokan maekhueoethskamlangngam""
+
+bakkhamaephng: ""eoo di- ehdnganhnak- aetkasukhaichenaa""
+
+bakchoy: ""aemnaelw bakkhamaephng oachiphehaehdaihehamioyumikin""",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ การคมนาคม บทสนทนาบ่ควรเกิน 5 turns,"บ่าว: ""อ้ายๆ มื่อนี่สิไปตลาดนำกันบ่?""
+
+อ้าย: ""ไปๆ บ่าว แต่ว่ารถเมล์บ้านเฮามันมาน้อยแท้ บ่ฮู้สิได้ขึ้นบ่""
+
+บ่าว: ""แม่นอ้าย รถเมล์บ้านเฮามันมาน้อยแท้ๆ บางเทื่อกะต้องรอนาน""
+
+อ้าย: ""เอาโลดบ่าว ถ้าบ่ได้ขึ้นรถเมล์ กะขี่มอเตอร์ไซค์ไปโลด ตลาดกะบ่ไกลปานนั้น""
+
+บ่าว: ""เอาโลดอ้าย ขี่มอเตอร์ไซค์ไปกะได้ เฮ็ดให้เฮาไปฮอดตลาดไวขึ้นนำ""","baw: ""oay- mueonisiaiptladnamkanb?""
+
+oay: ""aip- baw aetwarthemlbanehamanmanoyaeth bhusiaidkhuenb""
+
+baw: ""aemnoay rthemlbanehamanmanoyaeth- bangethueokatongronan""
+
+oay: ""eoaoldbaw thabaidkhuenrtheml kakhimoetoraiskhaipold tladkabaiklpannan""
+
+baw: ""eoaoldoay khimoetoraiskhaipkaaid ehdaihehaaiphodtladaiwkhuennam""",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ ครอบครัว บทสนทนาบ่ควรเกิน 5 turns,"บ่มีปัญหา! นี่คือบทเว่าของคนภาคอีสานเกี่ยวกับครอบครัว:
+
+**แม่:** ""ลูกเอ้ย วันนี้เจ้าสิไปไสบ่?""
+
+**ลูก:** ""แม่จ๋า วันนี้ข่อยสิไปเฮียนหนังสือที่มหาลัยเด้อ""
+
+**แม่:** ""ดีแล้วลูก ตั้งใจเฮียนหลายๆ เด้อ สิได้มีอนาคตดีๆ""
+
+**ลูก:** ""ขอบคุณหลายๆ แม่ ข่อยสิพยายามเต็มที่""
+
+**แม่:** ""เอาใจสู้เด้อ ลูกเอ้ย แม่สิเป็นกำลังใจให้เสมอ""
+
+หวังว่าบทเว่านี้สิถืกใจเด้อ!","bmipayha! nikhueobthewakhongkhnphakhoisanekiywkabkhrobkhraw:
+
+**aem:** ""lukeoy wanniechasiaipaisb?""
+
+**luk:** ""aemcha wannikhoysiaipehiynhnangsueothimhalayedo""
+
+**aem:** ""diaelwluk tangaichehiynhlay- edo siaidmionakhtdi-""
+
+**luk:** ""khobkhunhlay- aem khoysiphyayametmthi""
+
+**aem:** ""eoaaichsuedo lukeoy aemsiepnkamlangaichaihesmo""
+
+hwangwabthewanisithuekaichedo!",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ กลับบ้านช่วงเทศกาล บทสนทนาบ่ควรเกิน 5 turns,"บักจ่อย: ""เฮ้ย บักแหล่ ปีนี้เจ้าสิกลับบ้านช่วงสงกรานต์บ่?""
+
+บักแหล่: ""กลับอยู่ดอก บ่ได้กลับบ้านโดนแล้ว คิดฮอดแม่กับพ่อหลาย""
+
+บักจ่อย: ""แม่นแล้ว ข่อยกะคิดฮอดบ้านคือกัน ปีนี้สิพาเมียกับลูกไปนำ""
+
+บักแหล่: ""ดีแล้วๆ สิได้พากันไปไหว้พ่อแม่เนาะ""
+
+บักจ่อย: ""แม่นแล้ว บ่มีหยังสุขใจเท่ากับกลับบ้านเฮาเนาะ""","bakchoy: ""ehy bakaehl piniechasiklabbanchwngsngkrantb?""
+
+bakaehl: ""klaboyudok baidklabbanodnaelw khidhodaemkabphohlay""
+
+bakchoy: ""aemnaelw khoykakhidhodbankhueokan pinisiphaemiykablukaipnam""
+
+bakaehl: ""diaelw- siaidphakanaipaihwphoaemenaa""
+
+bakchoy: ""aemnaelw bmihyangsukhaichethakabklabbanehaenaa""",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ การเมืองท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"บักจ่อย: ""เฮ้ย บักคำแพง มื้อนี้เจ้าคึดจั่งใด๋เรื่องการเมืองท้องถิ่นบ้านเฮา?""
+
+บักคำแพง: ""อู้ย บักจ่อย ข้อยกะคึดว่ามันมีหลายเรื่องที่เฮาต้องแก้ไขอยู่เด้ บ่แม่นบ่?""
+
+บักจ่อย: ""แม่นแล้ว บักคำแพง เฮาต้องการผู้นำที่จริงใจและซื่อสัตย์ บ่แม่นแค่เว่าดีแต่บ่ทำ""
+
+บักคำแพง: ""แม่นๆ เฮาต้องการคนที่เห็นแก่ประโยชน์ของชุมชน บ่แม่นเห็นแก่ประโยชน์ส่วนตัว""
+
+บักจ่อย: ""เออ บักคำแพง เฮาต้องเลือกคนที่เฮาเชื่อใจได้ มื้อนี้เฮาต้องเว่ากันให้หลายๆ คนฟังเด้อ""","bakchoy: ""ehy bakkhamaephng mueoniechakhuedchangaiderueongkaremueongthongthinbaneha?""
+
+bakkhamaephng: ""ouy bakchoy khoykakhuedwamanmihlayerueongthiehatongaekaikhoyued baemnb?""
+
+bakchoy: ""aemnaelw bakkhamaephng ehatongkarphunamthichringaichaelasueosaty baemnaekhewadiaetbtham""
+
+bakkhamaephng: ""aemn- ehatongkarkhnthiehnaekpraoychnkhongchumchn baemnehnaekpraoychnswntaw""
+
+bakchoy: ""eoo bakkhamaephng ehatongelueokkhnthiehaechueoaichaid mueoniehatongewakanaihhlay- khnfangedo""",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ สภาพอากาศ บทสนทนาบ่ควรเกิน 5 turns,"บ่มีปัญหา! นี่คือบทเว่าของคนภาคอีสานเกี่ยวกับสภาพอากาศ:
+
+คนที่ 1: ""มื้อนี้อากาศฮ้อนคักแท้ บ่ไหวแล้วเด้อ""
+คนที่ 2: ""แม่นแล้ว บ่มีลมพัดจักหน่อย ฮ้อนจนเหงื่อแตก""
+คนที่ 1: ""บ่ฮู้ว่าเมื่อไหร่ฝนสิลงมาเนาะ""
+คนที่ 2: ""หวังว่าเร็วๆ นี้เด้อ ต้นไม้กะเริ่มเหี่ยวแล้ว""
+คนที่ 1: ""เออ หวังว่าฝนสิลงมาให้เย็นใจแหน่""
+
+หวังว่าบทเว่านี้สิถืกใจเด้อ!","bmipayha! nikhueobthewakhongkhnphakhoisanekiywkabsphaphoakas:
+
+khnthi 1: ""mueonioakashonkhakaeth baihwaelwedo""
+khnthi 2: ""aemnaelw bmilmphadchakhnoy honchnehngueoaetk""
+khnthi 1: ""bhuwaemueoaihrfnsilngmaenaa""
+khnthi 2: ""hwangwaerw- niedo tnaimkaerimehiywaelw""
+khnthi 1: ""eoo hwangwafnsilngmaaiheynaichaehn""
+
+hwangwabthewanisithuekaichedo!",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ อาหารท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"บักจ่อย: ""เฮ้ย บักแหล่ มื้อนี้เจ้าสิไปกินหยัง?""
+
+บักแหล่: ""อู้ย บักจ่อย มื้อนี้ข่อยสิไปกินส้มตำปูปลาร้าเด้อ บ่ได้กินโดนแล้ว คึดฮอดหลาย""
+
+บักจ่อย: ""โอ้ย ส้มตำปูปลาร้านี่แซ่บคักเนาะ ข่อยกะมักคือกัน แต่ข่อยอยากกินลาบเป็ดนำ""
+
+บักแหล่: ""ลาบเป็ดกะแซ่บคือกัน บักจ่อย เฮ็ดเองกะแซ่บเด้อ ถ้าเจ้ามีเวลา""
+
+บักจ่อย: ""เออ บักแหล่ มื้อนี้เฮาสิไปกินนำกันบ่ ไปหาแนวกินแซ่บๆ แถวบ้านเฮา""","bakchoy: ""ehy bakaehl mueoniechasiaipkinhyang?""
+
+bakaehl: ""ouy bakchoy mueonikhoysiaipkinsmtampuplaraedo baidkinodnaelw khuedhodhlay""
+
+bakchoy: ""ooy smtampuplaraniaesbkhakenaa khoykamakkhueokan aetkhoyoyakkinlabepdnam""
+
+bakaehl: ""labepdkaaesbkhueokan bakchoy ehdeongkaaesbedo thaechamiewla""
+
+bakchoy: ""eoo bakaehl mueoniehasiaipkinnamkanb aiphaaenwkinaesb- aethwbaneha""",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ เครื่องแต่งกายท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"บักจ่อย: ""เอื้อยคำแพง เอื้อยฮู้บ่ เครื่องแต่งกายท้องถิ่นบ้านเฮามีอิหยังแหน่?""
+
+เอื้อยคำแพง: ""ฮู้จ้า บักจ่อย เครื่องแต่งกายบ้านเฮากะมี ผ้าซิ่น ผ้าไหม ผ้าขาวม้า แล้วกะเสื้อหม้อห้อมเด้อ""
+
+บักจ่อย: ""อู้ว เอื้อย ผ้าซิ่นนี่งามคักเนาะ ใส่แล้วเบิ่งเป็นตาฮักหลาย""
+
+เอื้อยคำแพง: ""แม่นแล้วจ้า บักจ่อย ผ้าซิ่นบ้านเฮานี่มีลายงามๆ หลายลายเด้อ แต่ละลายกะมีความหมายต่างกันไป""
+
+บักจ่อย: ""ขอบใจหลายเด้อ เอื้อยคำแพง เฮ็ดให้ข่อยฮู้จักเครื่องแต่งกายบ้านเฮาหลายขึ้น""","bakchoy: ""eoueoykhamaephng eoueoyhub ekhrueongaetngkaythongthinbanehamioihyangaehn?""
+
+eoueoykhamaephng: ""hucha bakchoy ekhrueongaetngkaybanehakami phasin phaaihm phakhawma aelwkaesueohmohomedo""
+
+bakchoy: ""ouw eoueoy phasinningamkhakenaa aisaelwebingepntahakhlay""
+
+eoueoykhamaephng: ""aemnaelwcha bakchoy phasinbanehanimilayngam- hlaylayedo aetlalaykamikhwamhmaytangkanaip""
+
+bakchoy: ""khobaichhlayedo eoueoykhamaephng ehdaihkhoyhuchakekhrueongaetngkaybanehahlaykhuen""",.
+จงเขียนบทเว่าของคนภาคอีสาน โดยเว่าเกี่ยวกับ การศึกษาท้องถิ่น บทสนทนาบ่ควรเกิน 5 turns,"บ่มีปัญหา! นี่คือบทเว่าของคนภาคอีสานเกี่ยวกับการศึกษาท้องถิ่น:
+
+**คนที่ 1:** ""อ้ายว่าเฮาควรสิเฮ็ดจั่งใด๋ให้การศึกษาท้องถิ่นเฮาดีขึ้นบ่?""
+
+**คนที่ 2:** ""อ้ายว่าเฮาควรสิเฮ็ดให้เด็กน้อยเฮาได้เรียนรู้เรื่องวัฒนธรรมบ้านเฮาเนาะ เช่น การทอผ้า การทำอาหารพื้นบ้าน""
+
+**คนที่ 1:** ""แม่นแล้ว! แล้วกะควรสิเฮ็ดให้มีการสอนภาษาถิ่นในโรงเรียนเนาะ เด็กน้อยสิได้บ่ลืมภาษาบ้านเฮา""
+
+**คนที่ 2:** ""บ่แม่นแค่นั้นเด้อ ควรสิเฮ็ดให้มีการเรียนรู้เรื่องประวัติศาสตร์ท้องถิ่นเฮาด้วย เด็กน้อยสิได้ฮู้ว่าบ้านเฮามีความสำคัญจั่งใด๋""
+
+**คนที่ 1:** ""อ้ายเห็นด้วยเด้อ ถ้าเฮาทำได้จั่งซี้ การศึกษาท้องถิ่นเฮาสิพัฒนาไปไกลแน่นอน""
+
+หวังว่าบทเว่านี้สิเข้ากับที่เจ้าต้องการเด้อ!","bmipayha! nikhueobthewakhongkhnphakhoisanekiywkabkarsueksathongthin:
+
+**khnthi 1:** ""oaywaehakhwrsiehdchangaidaihkarsueksathongthinehadikhuenb?""
+
+**khnthi 2:** ""oaywaehakhwrsiehdaihedknoyehaaideriynruerueongwathnthrrmbanehaenaa echn karthopha karthamoaharphuenban""
+
+**khnthi 1:** ""aemnaelw! aelwkakhwrsiehdaihmikarsonphasathinainorngeriynenaa edknoysiaidbluemphasabaneha""
+
+**khnthi 2:** ""baemnaekhnanedo khwrsiehdaihmikareriynruerueongprawatisastrthongthinehadwy edknoysiaidhuwabanehamikhwamsamkhaychangaid""
+
+**khnthi 1:** ""oayehndwyedo thaehathamaidchangsi karsueksathongthinehasiphathnaaipaiklaennon""
+
+hwangwabthewanisiekhakabthiechatongkaredo!",.
