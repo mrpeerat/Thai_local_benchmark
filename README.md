@@ -10,7 +10,7 @@ Large language models show promising results in various NLP tasks. Despite these
 
 
 ## Citation
-
+```
 @misc{limkonchotiwat2025assessingthaidialectperformance,
       title={Assessing Thai Dialect Performance in LLMs with Automatic Benchmarks and Human Evaluation}, 
       author={Peerat Limkonchotiwat and Kanruethai Masuk and Surapon Nonesung and Chalermpun Mai-On and Sarana Nutanong and Wuttikorn Ponwitayarat and Potsawee Manakul},
@@ -20,7 +20,7 @@ Large language models show promising results in various NLP tasks. Despite these
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2504.05898}, 
 }
-
+```
 
 ## Run an Eval
 
