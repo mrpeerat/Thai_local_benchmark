@@ -1,5 +1,6 @@
 
 # Assessing Thai Dialect Performance in LLMs with Automatic Benchmarks and Human Evaluation (2025)
+Paper link: https://arxiv.org/pdf/2504.05898
 
 ## Abstract from our paper
 
@@ -8,10 +9,17 @@ Large language models show promising results in various NLP tasks. Despite these
 ## Results: Traditional Metric
 
 
-
 ## Citation
 
-N/A
+@misc{limkonchotiwat2025assessingthaidialectperformance,
+      title={Assessing Thai Dialect Performance in LLMs with Automatic Benchmarks and Human Evaluation}, 
+      author={Peerat Limkonchotiwat and Kanruethai Masuk and Surapon Nonesung and Chalermpun Mai-On and Sarana Nutanong and Wuttikorn Ponwitayarat and Potsawee Manakul},
+      year={2025},
+      eprint={2504.05898},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.05898}, 
+}
 
 
 ## Run an Eval
